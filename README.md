@@ -4,11 +4,11 @@ A repository for the Graph-Based Data Science course at Cornell Tech (Fall 2022)
 
 #Research Links
 
-\href{https://appliednetsci.springeropen.com/articles/10.1007/s41109-020-00286-y}{Characterizing networks of propaganda on twitter: a case study}
-\href{https://journals.sagepub.com/doi/full/10.1177/2056305117691545}{Classifying Twitter Topic-Networks Using Social Network Analysis}
-\href{https://ieeexplore.ieee.org/abstract/document/6830323?casa_token=j8TSDoyoCFwAAAAA:535bDbPMzyCx2KFugukHDK7nkDgbWoBEPHipVlCHlFBlko30J2KK2BBUWwqQYjn83h36fCVvcUc}{Sentiment analysis on Twitter "with signal processing"}
-\href{https://dl.acm.org/doi/abs/10.1145/2666310.2666366?casa_token=SSgPntbRuSkAAAAA:AmL2tJeQeS2HXzxts8cxKs1fXKtW_xMhwRE0KG2r0d3p1clF5ajq-ZBRxPSskgqbywGgqqZ2vBtpSpA}{A search and summary application for traffic events detection based on Twitter data}
-\href{https://link.springer.com/chapter/10.1007/978-981-15-2740-1_17}{Detection of Hate Speech and Offensive Language in Twitter Data Using LSTM Model}
-\href{https://www.sciencedirect.com/science/article/pii/S1877050916309644}{Psychological Warfare Analysis Using Network Science Approach}
-\href{https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00446-2}{Sentiment and structure in word co-occurrence networks on Twitter}
-\href{https://arxiv.org/abs/2005.00635#}{Using Noisy Self-Reports to Predict Twitter User Demographics}
+- https://appliednetsci.springeropen.com/articles/10.1007/s41109-020-00286-y} "Characterizing networks of propaganda on twitter: a case study"
+- https://journals.sagepub.com/doi/full/10.1177/2056305117691545} "Classifying Twitter Topic-Networks Using Social Network Analysis"
+- https://ieeexplore.ieee.org/abstract/document/6830323?casa_token=j8TSDoyoCFwAAAAA:535bDbPMzyCx2KFugukHDK7nkDgbWoBEPHipVlCHlFBlko30J2KK2BBUWwqQYjn83h36fCVvcUc} "Sentiment analysis on Twitter"
+- https://dl.acm.org/doi/abs/10.1145/2666310.2666366?casa_token=SSgPntbRuSkAAAAA:AmL2tJeQeS2HXzxts8cxKs1fXKtW_xMhwRE0KG2r0d3p1clF5ajq-ZBRxPSskgqbywGgqqZ2vBtpSpA} "A search and summary application for traffic events detection based on Twitter data"
+- https://link.springer.com/chapter/10.1007/978-981-15-2740-1_17} "Detection of Hate Speech and Offensive Language in Twitter Data Using LSTM Model"
+-https://www.sciencedirect.com/science/article/pii/S1877050916309644} "Psychological Warfare Analysis Using Network Science Approach"
+-https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00446-2}"Sentiment and structure in word co-occurrence networks on Twitter"
+-https://arxiv.org/abs/2005.00635#}"Using Noisy Self-Reports to Predict Twitter User Demographics"
