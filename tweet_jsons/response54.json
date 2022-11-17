@@ -1,0 +1,1813 @@
+{
+    "data": [
+        {
+            "author_id": "150406341",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325104364202192896",
+            "created_at": "2020-11-07T15:54:34.000Z",
+            "edit_history_tweet_ids": [
+                "1325104364202192896"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "Paul Gosar",
+                        "probability": 0.9342,
+                        "start": 25,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 57,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9412,
+                        "start": 51,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.889,
+                        "start": 131,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1651225333",
+                        "start": 3,
+                        "username": "danielchaitin7"
+                    },
+                    {
+                        "end": 46,
+                        "id": "240760644",
+                        "start": 37,
+                        "username": "RepGosar"
+                    }
+                ]
+            },
+            "id": "1325104364202192896",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 94
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324910777527046144",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @danielchaitin7: Rep. Paul Gosar (@RepGosar) of Arizona says officials should take a closer look at the voting machines used in Maricopa\u2026"
+        },
+        {
+            "author_id": "1229060372105134080",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": " American professor, poet, attorney, and author",
+                        "id": "1138073253434388481",
+                        "name": "Seth Abramson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": " American professor, poet, attorney, and author",
+                        "id": "1138073253434388481",
+                        "name": "Seth Abramson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324478995782651905",
+            "created_at": "2020-11-07T15:54:13.000Z",
+            "edit_history_tweet_ids": [
+                "1325104276859990017"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 87,
+                        "normalized_text": "MI",
+                        "probability": 0.6783,
+                        "start": 86,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Dominion",
+                        "probability": 0.737,
+                        "start": 101,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 116,
+                        "normalized_text": "Biden",
+                        "probability": 0.9246,
+                        "start": 112,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 148,
+                        "normalized_text": "Biden",
+                        "probability": 0.8486,
+                        "start": 144,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 186,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.7193,
+                        "start": 172,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 193,
+                        "normalized_text": "Biden",
+                        "probability": 0.8587,
+                        "start": 189,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 205,
+                        "normalized_text": "AZ",
+                        "probability": 0.6487,
+                        "start": 204,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 244,
+                        "normalized_text": "Maricopa\n\nMaricopa",
+                        "probability": 0.4865,
+                        "start": 227,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 269,
+                        "normalized_text": "AZ",
+                        "probability": 0.8499,
+                        "start": 268,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "3223426134",
+                        "start": 0,
+                        "username": "SethAbramson"
+                    }
+                ]
+            },
+            "id": "1325104276859990017",
+            "in_reply_to_user_id": "3223426134",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325102853086699520",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@SethAbramson The voting machines related to the 6,000 confirmed incorrect ballots in MI are made by Dominion.\n\nBiden is up by 40K votes in AZ\n\nBiden is up by 60K votes in Maricopa County\n\nBiden's entire AZ lead and more is in Maricopa\n\nMaricopa is the ONLY county in AZ that uses Dominion."
+        },
+        {
+            "author_id": "386331159",
+            "conversation_id": "1325103853239459843",
+            "created_at": "2020-11-07T15:52:32.000Z",
+            "edit_history_tweet_ids": [
+                "1325103853239459843"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "Dominion",
+                        "probability": 0.6648,
+                        "start": 16,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.4629,
+                        "start": 52,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 66,
+                        "normalized_text": "AZ",
+                        "probability": 0.8696,
+                        "start": 65,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "775137023979958272",
+                        "start": 3,
+                        "username": "jenvanlaar"
+                    }
+                ]
+            },
+            "id": "1325103853239459843",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 29
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324840751834955776",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @jenvanlaar: Dominion also just rolled out in... Maricopa Co, AZ, where there have been contentions that ballots cast by voters using Sh\u2026"
+        },
+        {
+            "author_id": "401080387",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325103670124376065",
+            "created_at": "2020-11-07T15:51:48.000Z",
+            "edit_history_tweet_ids": [
+                "1325103670124376065"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "Paul Gosar",
+                        "probability": 0.9342,
+                        "start": 25,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 57,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9412,
+                        "start": 51,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.889,
+                        "start": 131,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1651225333",
+                        "start": 3,
+                        "username": "danielchaitin7"
+                    },
+                    {
+                        "end": 46,
+                        "id": "240760644",
+                        "start": 37,
+                        "username": "RepGosar"
+                    }
+                ]
+            },
+            "id": "1325103670124376065",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 94
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324910777527046144",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @danielchaitin7: Rep. Paul Gosar (@RepGosar) of Arizona says officials should take a closer look at the voting machines used in Maricopa\u2026"
+        },
+        {
+            "author_id": "56223783",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325102507383791618",
+            "created_at": "2020-11-07T15:47:11.000Z",
+            "edit_history_tweet_ids": [
+                "1325102507383791618"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "Paul Gosar",
+                        "probability": 0.9342,
+                        "start": 25,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 57,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9412,
+                        "start": 51,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.889,
+                        "start": 131,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1651225333",
+                        "start": 3,
+                        "username": "danielchaitin7"
+                    },
+                    {
+                        "end": 46,
+                        "id": "240760644",
+                        "start": 37,
+                        "username": "RepGosar"
+                    }
+                ]
+            },
+            "id": "1325102507383791618",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 94
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324910777527046144",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @danielchaitin7: Rep. Paul Gosar (@RepGosar) of Arizona says officials should take a closer look at the voting machines used in Maricopa\u2026"
+        },
+        {
+            "author_id": "1306452113963319296",
+            "conversation_id": "1325101685707059200",
+            "created_at": "2020-11-07T15:43:55.000Z",
+            "edit_history_tweet_ids": [
+                "1325101685707059200"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Baris",
+                        "probability": 0.2229,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Michigan",
+                        "probability": 0.4379,
+                        "start": 85,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8638,
+                        "start": 102,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "AZ",
+                        "probability": 0.6452,
+                        "start": 128,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Clark",
+                        "probability": 0.4583,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 31,
+                        "id": "165039823",
+                        "start": 16,
+                        "username": "Peoples_Pundit"
+                    },
+                    {
+                        "end": 43,
+                        "id": "468911503",
+                        "start": 32,
+                        "username": "LauraBaris"
+                    }
+                ]
+            },
+            "id": "1325101685707059200",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325095567580655619",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @Frankz2137: @Peoples_Pundit @LauraBaris Mr. Baris. Its Dominion Voting Services. Michigan Glitch..Georgia glitch...Maricopa AZ...Clark\u2026"
+        },
+        {
+            "author_id": "465788706",
+            "conversation_id": "1325099900657405952",
+            "created_at": "2020-11-07T15:36:50.000Z",
+            "edit_history_tweet_ids": [
+                "1325099900657405952"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Baris",
+                        "probability": 0.2229,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Michigan",
+                        "probability": 0.4379,
+                        "start": 85,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8638,
+                        "start": 102,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "AZ",
+                        "probability": 0.6452,
+                        "start": 128,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Clark",
+                        "probability": 0.4583,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 31,
+                        "id": "165039823",
+                        "start": 16,
+                        "username": "Peoples_Pundit"
+                    },
+                    {
+                        "end": 43,
+                        "id": "468911503",
+                        "start": 32,
+                        "username": "LauraBaris"
+                    }
+                ]
+            },
+            "id": "1325099900657405952",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325095567580655619",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @Frankz2137: @Peoples_Pundit @LauraBaris Mr. Baris. Its Dominion Voting Services. Michigan Glitch..Georgia glitch...Maricopa AZ...Clark\u2026"
+        },
+        {
+            "author_id": "516872875",
+            "conversation_id": "1325099846399889411",
+            "created_at": "2020-11-07T15:36:37.000Z",
+            "edit_history_tweet_ids": [
+                "1325099846399889411"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Baris",
+                        "probability": 0.2229,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Michigan",
+                        "probability": 0.4379,
+                        "start": 85,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8638,
+                        "start": 102,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "AZ",
+                        "probability": 0.6452,
+                        "start": 128,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Clark",
+                        "probability": 0.4583,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 31,
+                        "id": "165039823",
+                        "start": 16,
+                        "username": "Peoples_Pundit"
+                    },
+                    {
+                        "end": 43,
+                        "id": "468911503",
+                        "start": 32,
+                        "username": "LauraBaris"
+                    }
+                ]
+            },
+            "id": "1325099846399889411",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325095567580655619",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @Frankz2137: @Peoples_Pundit @LauraBaris Mr. Baris. Its Dominion Voting Services. Michigan Glitch..Georgia glitch...Maricopa AZ...Clark\u2026"
+        },
+        {
+            "author_id": "56223783",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Former First Lady of the United States Hillary Clinton",
+                        "id": "10037721440",
+                        "name": "Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Former First Lady of the United States Hillary Clinton",
+                        "id": "10037721440",
+                        "name": "Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Former First Lady of the United States Hillary Clinton",
+                        "id": "10037721440",
+                        "name": "Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Georgia's parliamentary speaker resigns following protests",
+                        "id": "1142039239485341696",
+                        "name": "Georgia's parliamentary speaker resigns following protests"
+                    }
+                }
+            ],
+            "conversation_id": "1325099252218028036",
+            "created_at": "2020-11-07T15:34:15.000Z",
+            "edit_history_tweet_ids": [
+                "1325099252218028036"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.4087,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 60,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.9412,
+                        "start": 49,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 69,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9518,
+                        "start": 63,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 80,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.93,
+                        "start": 72,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 88,
+                        "normalized_text": "Nevada",
+                        "probability": 0.9536,
+                        "start": 83,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 99,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.935,
+                        "start": 91,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 122,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9451,
+                        "start": 108,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 131,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9612,
+                        "start": 125,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 142,
+                        "normalized_text": "Dominion",
+                        "probability": 0.4575,
+                        "start": 135,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 189,
+                        "normalized_text": "Democrats",
+                        "probability": 0.5077,
+                        "start": 181,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 227,
+                        "normalized_text": "Nancy Pelosi",
+                        "probability": 0.9102,
+                        "start": 216,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 260,
+                        "normalized_text": "Hillary Clinton",
+                        "probability": 0.8969,
+                        "start": 246,
+                        "type": "Person"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "worldtribune.com/dominion-votin\u2026",
+                        "end": 288,
+                        "expanded_url": "https://www.worldtribune.com/dominion-voting-systems-tied-to-clintons-widely-used-in-battleground-states/",
+                        "start": 265,
+                        "url": "https://t.co/3MapyQSo8Y"
+                    }
+                ]
+            },
+            "id": "1325099252218028036",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County, Arizona.\n\nDominion Voting Systems has ties to prominent Democrats, including House Speaker Nancy Pelosi &amp; Bill &amp; Hillary Clinton.\n\n https://t.co/3MapyQSo8Y"
+        },
+        {
+            "author_id": "217714879",
+            "conversation_id": "1325099221209526272",
+            "created_at": "2020-11-07T15:34:08.000Z",
+            "edit_history_tweet_ids": [
+                "1325099221209526272"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Baris",
+                        "probability": 0.2229,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Michigan",
+                        "probability": 0.4379,
+                        "start": 85,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8638,
+                        "start": 102,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "AZ",
+                        "probability": 0.6452,
+                        "start": 128,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Clark",
+                        "probability": 0.4583,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 31,
+                        "id": "165039823",
+                        "start": 16,
+                        "username": "Peoples_Pundit"
+                    },
+                    {
+                        "end": 43,
+                        "id": "468911503",
+                        "start": 32,
+                        "username": "LauraBaris"
+                    }
+                ]
+            },
+            "id": "1325099221209526272",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325095567580655619",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @Frankz2137: @Peoples_Pundit @LauraBaris Mr. Baris. Its Dominion Voting Services. Michigan Glitch..Georgia glitch...Maricopa AZ...Clark\u2026"
+        },
+        {
+            "author_id": "2188683438",
+            "conversation_id": "1325098918749872129",
+            "created_at": "2020-11-07T15:32:56.000Z",
+            "edit_history_tweet_ids": [
+                "1325098918749872129"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Baris",
+                        "probability": 0.2229,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Michigan",
+                        "probability": 0.4379,
+                        "start": 85,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8638,
+                        "start": 102,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "AZ",
+                        "probability": 0.6452,
+                        "start": 128,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Clark",
+                        "probability": 0.4583,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 31,
+                        "id": "165039823",
+                        "start": 16,
+                        "username": "Peoples_Pundit"
+                    },
+                    {
+                        "end": 43,
+                        "id": "468911503",
+                        "start": 32,
+                        "username": "LauraBaris"
+                    }
+                ]
+            },
+            "id": "1325098918749872129",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325095567580655619",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @Frankz2137: @Peoples_Pundit @LauraBaris Mr. Baris. Its Dominion Voting Services. Michigan Glitch..Georgia glitch...Maricopa AZ...Clark\u2026"
+        },
+        {
+            "author_id": "4144059087",
+            "conversation_id": "1325098903612633094",
+            "created_at": "2020-11-07T15:32:52.000Z",
+            "edit_history_tweet_ids": [
+                "1325098903612633094"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Baris",
+                        "probability": 0.2229,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Michigan",
+                        "probability": 0.4379,
+                        "start": 85,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8638,
+                        "start": 102,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "AZ",
+                        "probability": 0.6452,
+                        "start": 128,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Clark",
+                        "probability": 0.4583,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 31,
+                        "id": "165039823",
+                        "start": 16,
+                        "username": "Peoples_Pundit"
+                    },
+                    {
+                        "end": 43,
+                        "id": "468911503",
+                        "start": 32,
+                        "username": "LauraBaris"
+                    }
+                ]
+            },
+            "id": "1325098903612633094",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325095567580655619",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @Frankz2137: @Peoples_Pundit @LauraBaris Mr. Baris. Its Dominion Voting Services. Michigan Glitch..Georgia glitch...Maricopa AZ...Clark\u2026"
+        },
+        {
+            "author_id": "1299794056097259520",
+            "conversation_id": "1325098733965553665",
+            "created_at": "2020-11-07T15:32:11.000Z",
+            "edit_history_tweet_ids": [
+                "1325098733965553665"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Baris",
+                        "probability": 0.2229,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Michigan",
+                        "probability": 0.4379,
+                        "start": 85,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8638,
+                        "start": 102,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "AZ",
+                        "probability": 0.6452,
+                        "start": 128,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Clark",
+                        "probability": 0.4583,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 31,
+                        "id": "165039823",
+                        "start": 16,
+                        "username": "Peoples_Pundit"
+                    },
+                    {
+                        "end": 43,
+                        "id": "468911503",
+                        "start": 32,
+                        "username": "LauraBaris"
+                    }
+                ]
+            },
+            "id": "1325098733965553665",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325095567580655619",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @Frankz2137: @Peoples_Pundit @LauraBaris Mr. Baris. Its Dominion Voting Services. Michigan Glitch..Georgia glitch...Maricopa AZ...Clark\u2026"
+        },
+        {
+            "author_id": "471586366",
+            "conversation_id": "1325098593657577472",
+            "created_at": "2020-11-07T15:31:38.000Z",
+            "edit_history_tweet_ids": [
+                "1325098593657577472"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Baris",
+                        "probability": 0.2229,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Michigan",
+                        "probability": 0.4379,
+                        "start": 85,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8638,
+                        "start": 102,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "AZ",
+                        "probability": 0.6452,
+                        "start": 128,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Clark",
+                        "probability": 0.4583,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 31,
+                        "id": "165039823",
+                        "start": 16,
+                        "username": "Peoples_Pundit"
+                    },
+                    {
+                        "end": 43,
+                        "id": "468911503",
+                        "start": 32,
+                        "username": "LauraBaris"
+                    }
+                ]
+            },
+            "id": "1325098593657577472",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325095567580655619",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @Frankz2137: @Peoples_Pundit @LauraBaris Mr. Baris. Its Dominion Voting Services. Michigan Glitch..Georgia glitch...Maricopa AZ...Clark\u2026"
+        },
+        {
+            "author_id": "3016736289",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325097283218796544",
+            "created_at": "2020-11-07T15:26:26.000Z",
+            "edit_history_tweet_ids": [
+                "1325097283218796544"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "Paul Gosar",
+                        "probability": 0.9342,
+                        "start": 25,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 57,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9412,
+                        "start": 51,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.889,
+                        "start": 131,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1651225333",
+                        "start": 3,
+                        "username": "danielchaitin7"
+                    },
+                    {
+                        "end": 46,
+                        "id": "240760644",
+                        "start": 37,
+                        "username": "RepGosar"
+                    }
+                ]
+            },
+            "id": "1325097283218796544",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 94
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324910777527046144",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @danielchaitin7: Rep. Paul Gosar (@RepGosar) of Arizona says officials should take a closer look at the voting machines used in Maricopa\u2026"
+        },
+        {
+            "author_id": "1229575720097243138",
+            "conversation_id": "1325096424799936518",
+            "created_at": "2020-11-07T15:23:01.000Z",
+            "edit_history_tweet_ids": [
+                "1325096424799936518"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Baris",
+                        "probability": 0.2229,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Michigan",
+                        "probability": 0.4379,
+                        "start": 85,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8638,
+                        "start": 102,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "AZ",
+                        "probability": 0.6452,
+                        "start": 128,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Clark",
+                        "probability": 0.4583,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 31,
+                        "id": "165039823",
+                        "start": 16,
+                        "username": "Peoples_Pundit"
+                    },
+                    {
+                        "end": 43,
+                        "id": "468911503",
+                        "start": 32,
+                        "username": "LauraBaris"
+                    }
+                ]
+            },
+            "id": "1325096424799936518",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325095567580655619",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @Frankz2137: @Peoples_Pundit @LauraBaris Mr. Baris. Its Dominion Voting Services. Michigan Glitch..Georgia glitch...Maricopa AZ...Clark\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1325104364202192896",
+        "next_token": "b26v89c19zqg8o3fosbu8leym5b1be7h4dohgco1utri5",
+        "oldest_id": "1325096424799936518",
+        "result_count": 16
+    }
+}

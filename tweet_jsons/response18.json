@@ -1,0 +1,3919 @@
+{
+    "data": [
+        {
+            "author_id": "107335343",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1327005135059390466",
+            "created_at": "2020-11-12T21:47:33.000Z",
+            "edit_history_tweet_ids": [
+                "1327005135059390466"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 2,
+                        "normalized_text": "MSM",
+                        "probability": 0.676,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 127,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.3671,
+                        "start": 120,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 277,
+                        "id": "19211550",
+                        "start": 263,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/marico\u2026",
+                        "end": 258,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/maricopa-gop-chairwoman-steps-revealed-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostTopSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 235,
+                        "url": "https://t.co/Sqeiz3b8Ud"
+                    }
+                ]
+            },
+            "id": "1327005135059390466",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "MSM liars need to stop being traitors to this country you make all your money off -does this count as fraud? you frauds\nMaricopa GOP Chairwoman Steps Down After it Was Revealed She Failed to Show Up to Certify Dominion Voting Machines https://t.co/Sqeiz3b8Ud via @gatewaypundit"
+        },
+        {
+            "author_id": "1296124040399052806",
+            "conversation_id": "1327005000325754881",
+            "created_at": "2020-11-12T21:47:01.000Z",
+            "edit_history_tweet_ids": [
+                "1327005000325754881"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.5487,
+                        "start": 18,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1307015094937812992",
+                        "start": 3,
+                        "username": "BenjaminPD23"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "zerohedge.com/political/mari\u2026",
+                        "end": 128,
+                        "expanded_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "start": 105,
+                        "url": "https://t.co/ymRtOmVGmM"
+                    }
+                ]
+            },
+            "id": "1327005000325754881",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 47
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326969773083734016",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BenjaminPD23: Maricopa County AZ GOP Chair Resigns After Failing To Certify Dominion Voting Machines https://t.co/ymRtOmVGmM"
+        },
+        {
+            "author_id": "1194149504297111553",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1327004843513352193",
+            "created_at": "2020-11-12T21:46:23.000Z",
+            "edit_history_tweet_ids": [
+                "1327004843513352193"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 7,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.3558,
+                        "start": 0,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 157,
+                        "id": "19211550",
+                        "start": 143,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/marico\u2026",
+                        "end": 138,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/maricopa-gop-chairwoman-steps-revealed-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostSideSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 115,
+                        "url": "https://t.co/CWysmprjvR"
+                    }
+                ]
+            },
+            "id": "1327004843513352193",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Maricopa GOP Chairwoman Steps Down After it Was Revealed She Failed to Show Up to Certify Dominion Voting Machines https://t.co/CWysmprjvR via @gatewaypundit"
+        },
+        {
+            "author_id": "1225581286686969860",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1327004817252868101",
+            "created_at": "2020-11-12T21:46:17.000Z",
+            "edit_history_tweet_ids": [
+                "1327004817252868101"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.3924,
+                        "start": 16,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "542962969",
+                        "start": 3,
+                        "username": "hrkbenowen"
+                    }
+                ]
+            },
+            "id": "1327004817252868101",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326997661581529089",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @hrkbenowen: Maricopa GOP Chairwoman Steps Down After it Was Revealed She Failed to Show Up to Certify Dominion Voting Machines https://\u2026"
+        },
+        {
+            "author_id": "107335343",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1327004460606865409",
+            "created_at": "2020-11-12T21:44:52.000Z",
+            "edit_history_tweet_ids": [
+                "1327004460606865409"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 7,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.3558,
+                        "start": 0,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 157,
+                        "id": "19211550",
+                        "start": 143,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/marico\u2026",
+                        "end": 138,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/maricopa-gop-chairwoman-steps-revealed-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostTopSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 115,
+                        "url": "https://t.co/Sqeiz3b8Ud"
+                    }
+                ]
+            },
+            "id": "1327004460606865409",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Maricopa GOP Chairwoman Steps Down After it Was Revealed She Failed to Show Up to Certify Dominion Voting Machines https://t.co/Sqeiz3b8Ud via @gatewaypundit"
+        },
+        {
+            "author_id": "4659570037",
+            "conversation_id": "1327004192968327169",
+            "created_at": "2020-11-12T21:43:48.000Z",
+            "edit_history_tweet_ids": [
+                "1327004192968327169"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.5487,
+                        "start": 18,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1307015094937812992",
+                        "start": 3,
+                        "username": "BenjaminPD23"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "zerohedge.com/political/mari\u2026",
+                        "end": 128,
+                        "expanded_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "start": 105,
+                        "url": "https://t.co/ymRtOmVGmM"
+                    }
+                ]
+            },
+            "id": "1327004192968327169",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 47
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326969773083734016",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BenjaminPD23: Maricopa County AZ GOP Chair Resigns After Failing To Certify Dominion Voting Machines https://t.co/ymRtOmVGmM"
+        },
+        {
+            "author_id": "166421491",
+            "conversation_id": "1327004087620079616",
+            "created_at": "2020-11-12T21:43:23.000Z",
+            "edit_history_tweet_ids": [
+                "1327004087620079616"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "24787367",
+                        "start": 3,
+                        "username": "LionelMedia"
+                    }
+                ]
+            },
+            "id": "1327004087620079616",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 46
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326956156904943622",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @LionelMedia: Add this to your arsenal of information that will be ignored completely by the prosecution powers that be. https://t.co/NA\u2026"
+        },
+        {
+            "author_id": "203131060",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1168530588535386112",
+                        "name": "Zerohedge"
+                    }
+                }
+            ],
+            "conversation_id": "1327004048180973568",
+            "created_at": "2020-11-12T21:43:14.000Z",
+            "edit_history_tweet_ids": [
+                "1327004048180973568"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.5487,
+                        "start": 15,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "18856867",
+                        "start": 3,
+                        "username": "zerohedge"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "zerohedge.com/political/mari\u2026",
+                        "end": 125,
+                        "expanded_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "start": 102,
+                        "status": 200,
+                        "unwound_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "url": "https://t.co/O97i97BjHL"
+                    }
+                ]
+            },
+            "id": "1327004048180973568",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 465
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326931523011010560",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @zerohedge: Maricopa County AZ GOP Chair Resigns After Failing To Certify Dominion Voting Machines https://t.co/O97i97BjHL"
+        },
+        {
+            "author_id": "23603940",
+            "conversation_id": "1327004016002297856",
+            "created_at": "2020-11-12T21:43:06.000Z",
+            "edit_history_tweet_ids": [
+                "1327004016002297856"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.5487,
+                        "start": 18,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1307015094937812992",
+                        "start": 3,
+                        "username": "BenjaminPD23"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "zerohedge.com/political/mari\u2026",
+                        "end": 128,
+                        "expanded_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "start": 105,
+                        "url": "https://t.co/ymRtOmVGmM"
+                    }
+                ]
+            },
+            "id": "1327004016002297856",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 47
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326969773083734016",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BenjaminPD23: Maricopa County AZ GOP Chair Resigns After Failing To Certify Dominion Voting Machines https://t.co/ymRtOmVGmM"
+        },
+        {
+            "author_id": "870266793264336896",
+            "conversation_id": "1327003887547654148",
+            "created_at": "2020-11-12T21:42:35.000Z",
+            "edit_history_tweet_ids": [
+                "1327003887547654148"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.5487,
+                        "start": 18,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1307015094937812992",
+                        "start": 3,
+                        "username": "BenjaminPD23"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "zerohedge.com/political/mari\u2026",
+                        "end": 128,
+                        "expanded_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "start": 105,
+                        "url": "https://t.co/ymRtOmVGmM"
+                    }
+                ]
+            },
+            "id": "1327003887547654148",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 47
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326969773083734016",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BenjaminPD23: Maricopa County AZ GOP Chair Resigns After Failing To Certify Dominion Voting Machines https://t.co/ymRtOmVGmM"
+        },
+        {
+            "author_id": "1304267993371860993",
+            "conversation_id": "1327003622719238144",
+            "created_at": "2020-11-12T21:41:32.000Z",
+            "edit_history_tweet_ids": [
+                "1327003622719238144"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.5487,
+                        "start": 18,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1307015094937812992",
+                        "start": 3,
+                        "username": "BenjaminPD23"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "zerohedge.com/political/mari\u2026",
+                        "end": 128,
+                        "expanded_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "start": 105,
+                        "url": "https://t.co/ymRtOmVGmM"
+                    }
+                ]
+            },
+            "id": "1327003622719238144",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 47
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326969773083734016",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @BenjaminPD23: Maricopa County AZ GOP Chair Resigns After Failing To Certify Dominion Voting Machines https://t.co/ymRtOmVGmM"
+        },
+        {
+            "author_id": "1283775646288797696",
+            "conversation_id": "1327003607129083904",
+            "created_at": "2020-11-12T21:41:29.000Z",
+            "edit_history_tweet_ids": [
+                "1327003607129083904"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.5487,
+                        "start": 18,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1307015094937812992",
+                        "start": 3,
+                        "username": "BenjaminPD23"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "zerohedge.com/political/mari\u2026",
+                        "end": 128,
+                        "expanded_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "start": 105,
+                        "url": "https://t.co/ymRtOmVGmM"
+                    }
+                ]
+            },
+            "id": "1327003607129083904",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 47
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326969773083734016",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BenjaminPD23: Maricopa County AZ GOP Chair Resigns After Failing To Certify Dominion Voting Machines https://t.co/ymRtOmVGmM"
+        },
+        {
+            "author_id": "877000639179509760",
+            "conversation_id": "1327003580428025856",
+            "created_at": "2020-11-12T21:41:22.000Z",
+            "edit_history_tweet_ids": [
+                "1327003580428025856"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/marico\u2026",
+                        "end": 23,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/maricopa-gop-chairwoman-steps-revealed-failed-show-certify-dominion-voting-machines/",
+                        "start": 0,
+                        "url": "https://t.co/Hn6lxirJN2"
+                    }
+                ]
+            },
+            "id": "1327003580428025856",
+            "lang": "zxx",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "https://t.co/Hn6lxirJN2"
+        },
+        {
+            "author_id": "339105063",
+            "conversation_id": "1327003560450560000",
+            "created_at": "2020-11-12T21:41:18.000Z",
+            "edit_history_tweet_ids": [
+                "1327003560450560000"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.5487,
+                        "start": 18,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1307015094937812992",
+                        "start": 3,
+                        "username": "BenjaminPD23"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "zerohedge.com/political/mari\u2026",
+                        "end": 128,
+                        "expanded_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "start": 105,
+                        "url": "https://t.co/ymRtOmVGmM"
+                    }
+                ]
+            },
+            "id": "1327003560450560000",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 47
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326969773083734016",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BenjaminPD23: Maricopa County AZ GOP Chair Resigns After Failing To Certify Dominion Voting Machines https://t.co/ymRtOmVGmM"
+        },
+        {
+            "author_id": "920368994321920002",
+            "conversation_id": "1327003554935169024",
+            "created_at": "2020-11-12T21:41:16.000Z",
+            "edit_history_tweet_ids": [
+                "1327003554935169024"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.5487,
+                        "start": 18,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1307015094937812992",
+                        "start": 3,
+                        "username": "BenjaminPD23"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "zerohedge.com/political/mari\u2026",
+                        "end": 128,
+                        "expanded_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "start": 105,
+                        "url": "https://t.co/ymRtOmVGmM"
+                    }
+                ]
+            },
+            "id": "1327003554935169024",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 47
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326969773083734016",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @BenjaminPD23: Maricopa County AZ GOP Chair Resigns After Failing To Certify Dominion Voting Machines https://t.co/ymRtOmVGmM"
+        },
+        {
+            "author_id": "57932738",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1327001725518172171",
+            "created_at": "2020-11-12T21:34:00.000Z",
+            "edit_history_tweet_ids": [
+                "1327001725518172171"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.3924,
+                        "start": 16,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "542962969",
+                        "start": 3,
+                        "username": "hrkbenowen"
+                    }
+                ]
+            },
+            "id": "1327001725518172171",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326997661581529089",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @hrkbenowen: Maricopa GOP Chairwoman Steps Down After it Was Revealed She Failed to Show Up to Certify Dominion Voting Machines https://\u2026"
+        },
+        {
+            "author_id": "787841721870721024",
+            "conversation_id": "1327001696237707264",
+            "created_at": "2020-11-12T21:33:53.000Z",
+            "edit_history_tweet_ids": [
+                "1327001696237707264"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1327001696237707264",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "1325115049715838976",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1327001475353075716",
+            "created_at": "2020-11-12T21:33:00.000Z",
+            "edit_history_tweet_ids": [
+                "1327001475353075716"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 7,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.3558,
+                        "start": 0,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 157,
+                        "id": "19211550",
+                        "start": 143,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/marico\u2026",
+                        "end": 138,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/maricopa-gop-chairwoman-steps-revealed-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostSideSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 115,
+                        "url": "https://t.co/1UeYAGO7Rd"
+                    }
+                ]
+            },
+            "id": "1327001475353075716",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Maricopa GOP Chairwoman Steps Down After it Was Revealed She Failed to Show Up to Certify Dominion Voting Machines https://t.co/1UeYAGO7Rd via @gatewaypundit"
+        },
+        {
+            "author_id": "61015562",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1327001224567279627",
+            "created_at": "2020-11-12T21:32:01.000Z",
+            "edit_history_tweet_ids": [
+                "1327001224567279627"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.3924,
+                        "start": 16,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "542962969",
+                        "start": 3,
+                        "username": "hrkbenowen"
+                    }
+                ]
+            },
+            "id": "1327001224567279627",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326997661581529089",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @hrkbenowen: Maricopa GOP Chairwoman Steps Down After it Was Revealed She Failed to Show Up to Certify Dominion Voting Machines https://\u2026"
+        },
+        {
+            "author_id": "28401740",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1327000979913453568",
+            "created_at": "2020-11-12T21:31:02.000Z",
+            "edit_history_tweet_ids": [
+                "1327000979913453568"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.3924,
+                        "start": 16,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "542962969",
+                        "start": 3,
+                        "username": "hrkbenowen"
+                    }
+                ]
+            },
+            "id": "1327000979913453568",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326997661581529089",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @hrkbenowen: Maricopa GOP Chairwoman Steps Down After it Was Revealed She Failed to Show Up to Certify Dominion Voting Machines https://\u2026"
+        },
+        {
+            "author_id": "20826129",
+            "conversation_id": "1327000786878877696",
+            "created_at": "2020-11-12T21:30:16.000Z",
+            "edit_history_tweet_ids": [
+                "1327000786878877696"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "1035599023481278464",
+                        "start": 3,
+                        "username": "JoeSwis"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/marico\u2026",
+                        "end": 36,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/maricopa-gop-chairwoman-steps-revealed-failed-show-certify-dominion-voting-machines/?utm_source=Email&utm_medium=the-gateway-pundit&utm_campaign=dailypm&utm_content=daily",
+                        "start": 13,
+                        "url": "https://t.co/YPK3oY67to"
+                    }
+                ]
+            },
+            "id": "1327000786878877696",
+            "lang": "zxx",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327000050598350848",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @JoeSwis: https://t.co/YPK3oY67to"
+        },
+        {
+            "author_id": "34633253",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "President, Judicial Watch",
+                        "id": "1138051477761536000",
+                        "name": "Tom Fitton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "President, Judicial Watch",
+                        "id": "1138051477761536000",
+                        "name": "Tom Fitton"
+                    }
+                }
+            ],
+            "conversation_id": "1327000545433968644",
+            "created_at": "2020-11-12T21:29:19.000Z",
+            "edit_history_tweet_ids": [
+                "1327000545433968644"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "765255265503543296",
+                        "start": 0,
+                        "username": "ProfMJCleveland"
+                    },
+                    {
+                        "end": 30,
+                        "id": "770781940341288960",
+                        "start": 17,
+                        "username": "RudyGiuliani"
+                    },
+                    {
+                        "end": 36,
+                        "id": "20791372",
+                        "start": 31,
+                        "username": "ACLJ"
+                    },
+                    {
+                        "end": 47,
+                        "id": "18266688",
+                        "start": 37,
+                        "username": "TomFitton"
+                    },
+                    {
+                        "end": 64,
+                        "id": "850036892",
+                        "start": 48,
+                        "username": "Project_Veritas"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "zerohedge.com/political/mari\u2026",
+                        "end": 89,
+                        "expanded_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "start": 66,
+                        "url": "https://t.co/7E0NLCsfjK"
+                    }
+                ]
+            },
+            "id": "1327000545433968644",
+            "in_reply_to_user_id": "765255265503543296",
+            "lang": "qme",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@ProfMJCleveland @RudyGiuliani @ACLJ @TomFitton @Project_Veritas\n\nhttps://t.co/7E0NLCsfjK"
+        },
+        {
+            "author_id": "23631904",
+            "conversation_id": "1327000432007393286",
+            "created_at": "2020-11-12T21:28:52.000Z",
+            "edit_history_tweet_ids": [
+                "1327000432007393286"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "24787367",
+                        "start": 3,
+                        "username": "LionelMedia"
+                    }
+                ]
+            },
+            "id": "1327000432007393286",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 46
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326956156904943622",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @LionelMedia: Add this to your arsenal of information that will be ignored completely by the prosecution powers that be. https://t.co/NA\u2026"
+        },
+        {
+            "author_id": "43447792",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1327000430090588160",
+            "created_at": "2020-11-12T21:28:51.000Z",
+            "edit_history_tweet_ids": [
+                "1327000430090588160"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.3924,
+                        "start": 16,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "542962969",
+                        "start": 3,
+                        "username": "hrkbenowen"
+                    }
+                ]
+            },
+            "id": "1327000430090588160",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326997661581529089",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @hrkbenowen: Maricopa GOP Chairwoman Steps Down After it Was Revealed She Failed to Show Up to Certify Dominion Voting Machines https://\u2026"
+        },
+        {
+            "author_id": "34633253",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Author",
+                        "id": "1136984326640287744",
+                        "name": "Charlie Kirk"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Author",
+                        "id": "1136984326640287744",
+                        "name": "Charlie Kirk"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Donald Trump Jr.",
+                        "id": "884781076484202496",
+                        "name": "Donald Trump Jr."
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "James Woods",
+                        "id": "899697002988019714",
+                        "name": "James Woods"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "James Woods",
+                        "id": "899697002988019714",
+                        "name": "James Woods"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Donald Trump Jr.",
+                        "id": "884781076484202496",
+                        "name": "Donald Trump Jr."
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "James Woods",
+                        "id": "899697002988019714",
+                        "name": "James Woods"
+                    }
+                }
+            ],
+            "conversation_id": "1327000359747936256",
+            "created_at": "2020-11-12T21:28:34.000Z",
+            "edit_history_tweet_ids": [
+                "1327000359747936256"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "25073877",
+                        "start": 0,
+                        "username": "realDonaldTrump"
+                    },
+                    {
+                        "end": 30,
+                        "id": "924314151614386177",
+                        "start": 17,
+                        "username": "AlexBHouston"
+                    },
+                    {
+                        "end": 40,
+                        "id": "1674315427",
+                        "start": 31,
+                        "username": "bbusa617"
+                    },
+                    {
+                        "end": 52,
+                        "id": "2327923446",
+                        "start": 41,
+                        "username": "danbongino"
+                    },
+                    {
+                        "end": 68,
+                        "id": "39344374",
+                        "start": 53,
+                        "username": "DonaldJTrumpJr"
+                    },
+                    {
+                        "end": 83,
+                        "id": "601535938",
+                        "start": 69,
+                        "username": "RealMattCouch"
+                    },
+                    {
+                        "end": 99,
+                        "id": "78523300",
+                        "start": 84,
+                        "username": "RealJamesWoods"
+                    },
+                    {
+                        "end": 108,
+                        "id": "25360591",
+                        "start": 100,
+                        "username": "reubing"
+                    },
+                    {
+                        "end": 124,
+                        "id": "1238233519341568002",
+                        "start": 109,
+                        "username": "CharminUltra17"
+                    },
+                    {
+                        "end": 139,
+                        "id": "292929271",
+                        "start": 125,
+                        "username": "charliekirk11"
+                    },
+                    {
+                        "end": 156,
+                        "id": "768504623330160640",
+                        "start": 140,
+                        "username": "domenicadelia22"
+                    },
+                    {
+                        "end": 169,
+                        "id": "871198080892358656",
+                        "start": 157,
+                        "username": "jujuvee5150"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "zerohedge.com/political/mari\u2026",
+                        "end": 194,
+                        "expanded_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "start": 171,
+                        "url": "https://t.co/7E0NLCsfjK"
+                    }
+                ]
+            },
+            "id": "1327000359747936256",
+            "in_reply_to_user_id": "25073877",
+            "lang": "qme",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@realDonaldTrump @AlexBHouston @bbusa617 @danbongino @DonaldJTrumpJr @RealMattCouch @RealJamesWoods @reubing @CharminUltra17 @charliekirk11 @domenicadelia22 @jujuvee5150\n\nhttps://t.co/7E0NLCsfjK"
+        },
+        {
+            "author_id": "1072934705656324096",
+            "conversation_id": "1327000157670391809",
+            "created_at": "2020-11-12T21:27:46.000Z",
+            "edit_history_tweet_ids": [
+                "1327000157670391809"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "zerohedge.com/political/mari\u2026",
+                        "end": 23,
+                        "expanded_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "start": 0,
+                        "url": "https://t.co/aCFOU12HgF"
+                    }
+                ]
+            },
+            "id": "1327000157670391809",
+            "lang": "zxx",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "https://t.co/aCFOU12HgF"
+        },
+        {
+            "author_id": "1035599023481278464",
+            "conversation_id": "1327000050598350848",
+            "created_at": "2020-11-12T21:27:21.000Z",
+            "edit_history_tweet_ids": [
+                "1327000050598350848"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/marico\u2026",
+                        "end": 23,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/maricopa-gop-chairwoman-steps-revealed-failed-show-certify-dominion-voting-machines/?utm_source=Email&utm_medium=the-gateway-pundit&utm_campaign=dailypm&utm_content=daily",
+                        "start": 0,
+                        "url": "https://t.co/YPK3oY67to"
+                    }
+                ]
+            },
+            "id": "1327000050598350848",
+            "lang": "zxx",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "https://t.co/YPK3oY67to"
+        },
+        {
+            "author_id": "1206365156214743040",
+            "conversation_id": "1326999440339722241",
+            "created_at": "2020-11-12T21:24:55.000Z",
+            "edit_history_tweet_ids": [
+                "1326999440339722241"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "24787367",
+                        "start": 3,
+                        "username": "LionelMedia"
+                    }
+                ]
+            },
+            "id": "1326999440339722241",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 46
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326956156904943622",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @LionelMedia: Add this to your arsenal of information that will be ignored completely by the prosecution powers that be. https://t.co/NA\u2026"
+        },
+        {
+            "author_id": "821869181280915461",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                }
+            ],
+            "conversation_id": "1326999364154384384",
+            "created_at": "2020-11-12T21:24:37.000Z",
+            "edit_history_tweet_ids": [
+                "1326999364154384384"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.3924,
+                        "start": 16,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "542962969",
+                        "start": 3,
+                        "username": "hrkbenowen"
+                    }
+                ]
+            },
+            "id": "1326999364154384384",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326997661581529089",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @hrkbenowen: Maricopa GOP Chairwoman Steps Down After it Was Revealed She Failed to Show Up to Certify Dominion Voting Machines https://\u2026"
+        },
+        {
+            "author_id": "969668222839554048",
+            "conversation_id": "1326999301785088008",
+            "created_at": "2020-11-12T21:24:22.000Z",
+            "edit_history_tweet_ids": [
+                "1326999301785088008"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 32,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8139,
+                        "start": 18,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 41,
+                        "normalized_text": "Arizona",
+                        "probability": 0.6193,
+                        "start": 35,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 64,
+                        "normalized_text": "Rae Chorenky",
+                        "probability": 0.6276,
+                        "start": 53,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "15079601",
+                        "start": 3,
+                        "username": "The_Real_Fly"
+                    }
+                ]
+            },
+            "id": "1326999301785088008",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 16
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326962976943902720",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @The_Real_Fly: Maricopa County, Arizona GOP Chair Rae Chorenky has been forced to resign after failing to sign the Certificate of Accura\u2026"
+        },
+        {
+            "author_id": "222352057",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326999281572605953",
+            "created_at": "2020-11-12T21:24:17.000Z",
+            "edit_history_tweet_ids": [
+                "1326999281572605953"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 7,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.3701,
+                        "start": 0,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 160,
+                        "id": "19211550",
+                        "start": 146,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/marico\u2026",
+                        "end": 141,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/maricopa-gop-chairwoman-steps-revealed-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostSideSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 118,
+                        "url": "https://t.co/zP4NTRtfhT"
+                    }
+                ]
+            },
+            "id": "1326999281572605953",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Maricopa GOP Chairwoman Steps Down After it Was Revealed She Failed to Show Up to Certify Dominion Voting Machines -  https://t.co/zP4NTRtfhT via @gatewaypundit"
+        },
+        {
+            "author_id": "1016515694773485568",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326999264690507777",
+            "created_at": "2020-11-12T21:24:13.000Z",
+            "edit_history_tweet_ids": [
+                "1326999264690507777"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.3924,
+                        "start": 16,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "542962969",
+                        "start": 3,
+                        "username": "hrkbenowen"
+                    }
+                ]
+            },
+            "id": "1326999264690507777",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326997661581529089",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @hrkbenowen: Maricopa GOP Chairwoman Steps Down After it Was Revealed She Failed to Show Up to Certify Dominion Voting Machines https://\u2026"
+        },
+        {
+            "author_id": "1186651658887016450",
+            "conversation_id": "1326999030132518923",
+            "created_at": "2020-11-12T21:23:17.000Z",
+            "edit_history_tweet_ids": [
+                "1326999030132518923"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/marico\u2026",
+                        "end": 23,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/maricopa-gop-chairwoman-steps-revealed-failed-show-certify-dominion-voting-machines/?utm_source=Email&utm_medium=the-gateway-pundit&utm_campaign=dailypm&utm_content=daily",
+                        "start": 0,
+                        "url": "https://t.co/ADA5Fc9e9x"
+                    }
+                ]
+            },
+            "id": "1326999030132518923",
+            "lang": "zxx",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "https://t.co/ADA5Fc9e9x"
+        },
+        {
+            "author_id": "21531121",
+            "conversation_id": "1326998896334303234",
+            "created_at": "2020-11-12T21:22:45.000Z",
+            "edit_history_tweet_ids": [
+                "1326998896334303234"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 14,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.5683,
+                        "start": 0,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "zerohedge.com/political/mari\u2026",
+                        "end": 123,
+                        "expanded_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "start": 100,
+                        "url": "https://t.co/AEd5ClnKos"
+                    }
+                ]
+            },
+            "id": "1326998896334303234",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Maricopa County AZ GOP Chair Resigns After Failing To Certify Dominion Voting Machines | Zero Hedge https://t.co/AEd5ClnKos"
+        },
+        {
+            "author_id": "950634503000621057",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1168530588535386112",
+                        "name": "Zerohedge"
+                    }
+                }
+            ],
+            "conversation_id": "1326998798523002880",
+            "created_at": "2020-11-12T21:22:22.000Z",
+            "edit_history_tweet_ids": [
+                "1326998798523002880"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.5487,
+                        "start": 15,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "18856867",
+                        "start": 3,
+                        "username": "zerohedge"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "zerohedge.com/political/mari\u2026",
+                        "end": 125,
+                        "expanded_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "start": 102,
+                        "status": 200,
+                        "unwound_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "url": "https://t.co/O97i97BjHL"
+                    }
+                ]
+            },
+            "id": "1326998798523002880",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 465
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326931523011010560",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @zerohedge: Maricopa County AZ GOP Chair Resigns After Failing To Certify Dominion Voting Machines https://t.co/O97i97BjHL"
+        },
+        {
+            "author_id": "1096568381564731392",
+            "conversation_id": "1326998266232320001",
+            "created_at": "2020-11-12T21:20:15.000Z",
+            "edit_history_tweet_ids": [
+                "1326998266232320001"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.5912,
+                        "start": 16,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "231636856",
+                        "start": 3,
+                        "username": "wilsoa2000"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "zerohedge.com/political/mari\u2026",
+                        "end": 139,
+                        "expanded_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "start": 116,
+                        "url": "https://t.co/z8f64zDNOu"
+                    }
+                ]
+            },
+            "id": "1326998266232320001",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326993444133335040",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @wilsoa2000: Maricopa County AZ GOP Chair Resigns After Failing To Certify Dominion Voting Machines | Zero Hedge https://t.co/z8f64zDNOu"
+        },
+        {
+            "author_id": "1239913414027145220",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326998051693551621",
+            "created_at": "2020-11-12T21:19:24.000Z",
+            "edit_history_tweet_ids": [
+                "1326998051693551621"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 7,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.3784,
+                        "start": 0,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/marico\u2026",
+                        "end": 138,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/maricopa-gop-chairwoman-steps-revealed-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostTopSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 115,
+                        "url": "https://t.co/YcTzp2eMkc"
+                    }
+                ]
+            },
+            "id": "1326998051693551621",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "Maricopa GOP Chairwoman Steps Down After it Was Revealed She Failed to Show Up to Certify Dominion Voting Machines https://t.co/YcTzp2eMkc Was she paid off by the Mob, or Cartels?"
+        },
+        {
+            "author_id": "957677123941974016",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326997913755471872",
+            "created_at": "2020-11-12T21:18:51.000Z",
+            "edit_history_tweet_ids": [
+                "1326997913755471872"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 117,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.3236,
+                        "start": 110,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 267,
+                        "id": "19211550",
+                        "start": 253,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/marico\u2026",
+                        "end": 248,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/maricopa-gop-chairwoman-steps-revealed-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostTopSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 225,
+                        "url": "https://t.co/4qcvhLFIQy"
+                    }
+                ]
+            },
+            "id": "1326997913755471872",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "She probably had a reason, but she could have sent someone else. It was imperative that both parties attend.\n\nMaricopa GOP Chairwoman Steps Down After it Was Revealed She Failed to Show Up to Certify Dominion Voting Machines https://t.co/4qcvhLFIQy via @gatewaypundit"
+        },
+        {
+            "author_id": "542962969",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326997661581529089",
+            "created_at": "2020-11-12T21:17:51.000Z",
+            "edit_history_tweet_ids": [
+                "1326997661581529089"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 7,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.3354,
+                        "start": 0,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/marico\u2026",
+                        "end": 138,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/maricopa-gop-chairwoman-steps-revealed-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostTopSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 115,
+                        "url": "https://t.co/X2ULNlWiYW"
+                    }
+                ]
+            },
+            "id": "1326997661581529089",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 20,
+                "quote_count": 2,
+                "reply_count": 2,
+                "retweet_count": 11
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Maricopa GOP Chairwoman Steps Down After it Was Revealed She Failed to Show Up to Certify Dominion Voting Machines https://t.co/X2ULNlWiYW"
+        },
+        {
+            "author_id": "703588035657646080",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326997590865571846",
+            "created_at": "2020-11-12T21:17:34.000Z",
+            "edit_history_tweet_ids": [
+                "1326997590865571846"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 7,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.3558,
+                        "start": 0,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 157,
+                        "id": "19211550",
+                        "start": 143,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/marico\u2026",
+                        "end": 138,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/maricopa-gop-chairwoman-steps-revealed-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostTopSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 115,
+                        "url": "https://t.co/v3pJKA4vEt"
+                    }
+                ]
+            },
+            "id": "1326997590865571846",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Maricopa GOP Chairwoman Steps Down After it Was Revealed She Failed to Show Up to Certify Dominion Voting Machines https://t.co/v3pJKA4vEt via @gatewaypundit"
+        },
+        {
+            "author_id": "1256443835254665216",
+            "conversation_id": "1326913744472068101",
+            "created_at": "2020-11-12T21:16:16.000Z",
+            "edit_history_tweet_ids": [
+                "1326997263856504832"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/marico\u2026",
+                        "end": 43,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/maricopa-gop-chairwoman-steps-revealed-failed-show-certify-dominion-voting-machines/",
+                        "start": 20,
+                        "url": "https://t.co/CJ02wt3IYh"
+                    }
+                ]
+            },
+            "id": "1326997263856504832",
+            "in_reply_to_user_id": "1153305068201885699",
+            "lang": "fr",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326913744472068101",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@KeepAZ_RED Audit!\n\nhttps://t.co/CJ02wt3IYh"
+        },
+        {
+            "author_id": "1266753640477401090",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326996280124592128",
+            "created_at": "2020-11-12T21:12:22.000Z",
+            "edit_history_tweet_ids": [
+                "1326996280124592128"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 7,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.3614,
+                        "start": 0,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 133,
+                        "id": "19211550",
+                        "start": 119,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/marico\u2026",
+                        "end": 157,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/maricopa-gop-chairwoman-steps-revealed-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_campaign=websitesharingbuttons",
+                        "start": 134,
+                        "url": "https://t.co/nEd9XSzY76"
+                    }
+                ]
+            },
+            "id": "1326996280124592128",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Maricopa GOP Chairwoman Steps Down After it Was Revealed She Failed to Show Up to Certify Dominion Voting Machines via @gatewaypundit https://t.co/nEd9XSzY76"
+        },
+        {
+            "author_id": "132642645",
+            "conversation_id": "1326996137832837123",
+            "created_at": "2020-11-12T21:11:48.000Z",
+            "edit_history_tweet_ids": [
+                "1326996137832837123"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326996137832837123",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "1264287675462250496",
+            "conversation_id": "1326996076759379968",
+            "created_at": "2020-11-12T21:11:33.000Z",
+            "edit_history_tweet_ids": [
+                "1326996076759379968"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/marico\u2026",
+                        "end": 23,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/maricopa-gop-chairwoman-steps-revealed-failed-show-certify-dominion-voting-machines/",
+                        "start": 0,
+                        "url": "https://t.co/8bLBE5BDP8"
+                    }
+                ]
+            },
+            "id": "1326996076759379968",
+            "lang": "zxx",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "https://t.co/8bLBE5BDP8"
+        },
+        {
+            "author_id": "948300715784482816",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1318573265820921857",
+                        "name": "2020 US Election Day"
+                    }
+                }
+            ],
+            "conversation_id": "1326996008606298112",
+            "created_at": "2020-11-12T21:11:17.000Z",
+            "edit_history_tweet_ids": [
+                "1326996008606298112"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 25,
+                        "start": 16,
+                        "tag": "JoeChina"
+                    },
+                    {
+                        "end": 35,
+                        "start": 26,
+                        "tag": "JoeHIDEN"
+                    },
+                    {
+                        "end": 47,
+                        "start": 36,
+                        "tag": "TrumpVsNWO"
+                    },
+                    {
+                        "end": 64,
+                        "start": 48,
+                        "tag": "WarRoomPandemic"
+                    },
+                    {
+                        "end": 78,
+                        "start": 65,
+                        "tag": "StopTheSteal"
+                    },
+                    {
+                        "end": 97,
+                        "start": 79,
+                        "tag": "DeepStateDeepShit"
+                    },
+                    {
+                        "end": 113,
+                        "start": 98,
+                        "tag": "ObamaBidenGate"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "2462427811",
+                        "start": 3,
+                        "username": "msElkaBong"
+                    }
+                ]
+            },
+            "id": "1326996008606298112",
+            "lang": "qme",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326991158493519879",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @msElkaBong: #JoeChina\n#JoeHIDEN\n#TrumpVsNWO\n#WarRoomPandemic\n#StopTheSteal\n#DeepStateDeepShit\n#ObamaBidenGate\n#BigTechCCPElectionInterf\u2026"
+        },
+        {
+            "author_id": "754393868443979776",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1168530588535386112",
+                        "name": "Zerohedge"
+                    }
+                }
+            ],
+            "conversation_id": "1326995372095442949",
+            "created_at": "2020-11-12T21:08:45.000Z",
+            "edit_history_tweet_ids": [
+                "1326995372095442949"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.5487,
+                        "start": 15,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "18856867",
+                        "start": 3,
+                        "username": "zerohedge"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "zerohedge.com/political/mari\u2026",
+                        "end": 125,
+                        "expanded_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "start": 102,
+                        "status": 200,
+                        "unwound_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "url": "https://t.co/O97i97BjHL"
+                    }
+                ]
+            },
+            "id": "1326995372095442949",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 465
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326931523011010560",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @zerohedge: Maricopa County AZ GOP Chair Resigns After Failing To Certify Dominion Voting Machines https://t.co/O97i97BjHL"
+        },
+        {
+            "author_id": "1284077399211225090",
+            "conversation_id": "1326994096536252417",
+            "created_at": "2020-11-12T21:03:41.000Z",
+            "edit_history_tweet_ids": [
+                "1326994096536252417"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 32,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8139,
+                        "start": 18,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 41,
+                        "normalized_text": "Arizona",
+                        "probability": 0.6193,
+                        "start": 35,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 64,
+                        "normalized_text": "Rae Chorenky",
+                        "probability": 0.6276,
+                        "start": 53,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "15079601",
+                        "start": 3,
+                        "username": "The_Real_Fly"
+                    }
+                ]
+            },
+            "id": "1326994096536252417",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 16
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326962976943902720",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @The_Real_Fly: Maricopa County, Arizona GOP Chair Rae Chorenky has been forced to resign after failing to sign the Certificate of Accura\u2026"
+        },
+        {
+            "author_id": "2443243128",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1168530588535386112",
+                        "name": "Zerohedge"
+                    }
+                }
+            ],
+            "conversation_id": "1326993719740960769",
+            "created_at": "2020-11-12T21:02:11.000Z",
+            "edit_history_tweet_ids": [
+                "1326993719740960769"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.5487,
+                        "start": 15,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "18856867",
+                        "start": 3,
+                        "username": "zerohedge"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "zerohedge.com/political/mari\u2026",
+                        "end": 125,
+                        "expanded_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "start": 102,
+                        "status": 200,
+                        "unwound_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "url": "https://t.co/O97i97BjHL"
+                    }
+                ]
+            },
+            "id": "1326993719740960769",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 465
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326931523011010560",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @zerohedge: Maricopa County AZ GOP Chair Resigns After Failing To Certify Dominion Voting Machines https://t.co/O97i97BjHL"
+        },
+        {
+            "author_id": "1099102523405811712",
+            "conversation_id": "1326993588115398656",
+            "created_at": "2020-11-12T21:01:40.000Z",
+            "edit_history_tweet_ids": [
+                "1326993588115398656"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 32,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8139,
+                        "start": 18,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 41,
+                        "normalized_text": "Arizona",
+                        "probability": 0.6193,
+                        "start": 35,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 64,
+                        "normalized_text": "Rae Chorenky",
+                        "probability": 0.6276,
+                        "start": 53,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "15079601",
+                        "start": 3,
+                        "username": "The_Real_Fly"
+                    }
+                ]
+            },
+            "id": "1326993588115398656",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 16
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326962976943902720",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @The_Real_Fly: Maricopa County, Arizona GOP Chair Rae Chorenky has been forced to resign after failing to sign the Certificate of Accura\u2026"
+        },
+        {
+            "author_id": "231636856",
+            "conversation_id": "1326993444133335040",
+            "created_at": "2020-11-12T21:01:06.000Z",
+            "edit_history_tweet_ids": [
+                "1326993444133335040"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 14,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.5683,
+                        "start": 0,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "zerohedge.com/political/mari\u2026",
+                        "end": 123,
+                        "expanded_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "start": 100,
+                        "url": "https://t.co/z8f64zDNOu"
+                    }
+                ]
+            },
+            "id": "1326993444133335040",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "Maricopa County AZ GOP Chair Resigns After Failing To Certify Dominion Voting Machines | Zero Hedge https://t.co/z8f64zDNOu"
+        },
+        {
+            "author_id": "1241924859577479169",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1168530588535386112",
+                        "name": "Zerohedge"
+                    }
+                }
+            ],
+            "conversation_id": "1326993418447429633",
+            "created_at": "2020-11-12T21:00:59.000Z",
+            "edit_history_tweet_ids": [
+                "1326993418447429633"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.5487,
+                        "start": 15,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "18856867",
+                        "start": 3,
+                        "username": "zerohedge"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "zerohedge.com/political/mari\u2026",
+                        "end": 125,
+                        "expanded_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "start": 102,
+                        "status": 200,
+                        "unwound_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "url": "https://t.co/O97i97BjHL"
+                    }
+                ]
+            },
+            "id": "1326993418447429633",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 465
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326931523011010560",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @zerohedge: Maricopa County AZ GOP Chair Resigns After Failing To Certify Dominion Voting Machines https://t.co/O97i97BjHL"
+        },
+        {
+            "author_id": "2841377931",
+            "conversation_id": "1326993162531901440",
+            "created_at": "2020-11-12T20:59:58.000Z",
+            "edit_history_tweet_ids": [
+                "1326993162531901440"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 7,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6883,
+                        "start": 0,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "zerohedge.com/political/mari\u2026",
+                        "end": 110,
+                        "expanded_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "start": 87,
+                        "url": "https://t.co/hS2ceiU5Tf"
+                    }
+                ]
+            },
+            "id": "1326993162531901440",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Maricopa County AZ GOP Chair Resigns After Failing To Certify Dominion Voting Machines https://t.co/hS2ceiU5Tf"
+        },
+        {
+            "author_id": "2303398880",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "American whistleblower and former National Security Agency contractor",
+                        "id": "1070724848081559554",
+                        "name": "Edward Snowden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "American whistleblower and former National Security Agency contractor",
+                        "id": "1070724848081559554",
+                        "name": "Edward Snowden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "American whistleblower and former National Security Agency contractor",
+                        "id": "1070724848081559554",
+                        "name": "Edward Snowden"
+                    }
+                }
+            ],
+            "conversation_id": "1326993112288260097",
+            "created_at": "2020-11-12T20:59:46.000Z",
+            "edit_history_tweet_ids": [
+                "1326993112288260097"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "821934096",
+                        "start": 3,
+                        "username": "snarkVol"
+                    },
+                    {
+                        "end": 31,
+                        "id": "2916305152",
+                        "start": 23,
+                        "username": "Snowden"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "zerohedge.com/political/mari\u2026",
+                        "end": 87,
+                        "expanded_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "start": 64,
+                        "url": "https://t.co/a82NzlUpwp"
+                    }
+                ]
+            },
+            "id": "1326993112288260097",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326944959614873602",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @snarkVol: Of note, @Snowden called it back in July of '19.  https://t.co/a82NzlUpwp"
+        },
+        {
+            "author_id": "868633245562183681",
+            "conversation_id": "1326992953361920000",
+            "created_at": "2020-11-12T20:59:09.000Z",
+            "edit_history_tweet_ids": [
+                "1326992953361920000"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 14,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.5683,
+                        "start": 0,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "zerohedge.com/political/mari\u2026",
+                        "end": 123,
+                        "expanded_url": "https://www.zerohedge.com/political/maricopa-county-az-gop-chair-resigns-after-failing-certify-dominion-voting-machines",
+                        "start": 100,
+                        "url": "https://t.co/vyG2NBYsN9"
+                    }
+                ]
+            },
+            "id": "1326992953361920000",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Maricopa County AZ GOP Chair Resigns After Failing To Certify Dominion Voting Machines | Zero Hedge https://t.co/vyG2NBYsN9"
+        }
+    ],
+    "meta": {
+        "newest_id": "1327005135059390466",
+        "next_token": "b26v89c19zqg8o3fosbuoa7fp665oie58kputytydfc71",
+        "oldest_id": "1326992953361920000",
+        "result_count": 54
+    }
+}

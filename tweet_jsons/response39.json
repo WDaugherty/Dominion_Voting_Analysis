@@ -1,0 +1,3158 @@
+{
+    "data": [
+        {
+            "author_id": "1416964124",
+            "conversation_id": "1326281388816003072",
+            "created_at": "2020-11-10T21:51:38.000Z",
+            "edit_history_tweet_ids": [
+                "1326281388816003072"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7747,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6725,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 159,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/",
+                        "start": 136,
+                        "url": "https://t.co/63sQkzmG8x"
+                    }
+                ]
+            },
+            "id": "1326281388816003072",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines https://t.co/63sQkzmG8x"
+        },
+        {
+            "author_id": "893613812745515008",
+            "conversation_id": "1326280436381741057",
+            "created_at": "2020-11-10T21:47:51.000Z",
+            "edit_history_tweet_ids": [
+                "1326280436381741057"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 106,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.806,
+                        "start": 92,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "28272865",
+                        "start": 3,
+                        "username": "GarretLewis"
+                    },
+                    {
+                        "end": 27,
+                        "id": "15937190",
+                        "start": 21,
+                        "username": "AZGOP"
+                    }
+                ]
+            },
+            "id": "1326280436381741057",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 17
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326234019260854272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @GarretLewis: The @AZGOP needs an enema.  The latest incompetent fool is the head of the Maricopa County GOP.  She didn't even show up t\u2026"
+        },
+        {
+            "author_id": "3237851740",
+            "conversation_id": "1326277056397791238",
+            "created_at": "2020-11-10T21:34:25.000Z",
+            "edit_history_tweet_ids": [
+                "1326277056397791238"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326277056397791238",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "1041814437525475328",
+            "conversation_id": "1326275580732403712",
+            "created_at": "2020-11-10T21:28:34.000Z",
+            "edit_history_tweet_ids": [
+                "1326275580732403712"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326275580732403712",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "1015998288653217792",
+            "conversation_id": "1326274639799095296",
+            "created_at": "2020-11-10T21:24:49.000Z",
+            "edit_history_tweet_ids": [
+                "1326274639799095296"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326274639799095296",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "2965246645",
+            "conversation_id": "1326272229697490944",
+            "created_at": "2020-11-10T21:15:15.000Z",
+            "edit_history_tweet_ids": [
+                "1326272229697490944"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8112,
+                        "start": 14,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 49,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6491,
+                        "start": 42,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "177584156",
+                        "start": 3,
+                        "username": "jjauthor"
+                    }
+                ]
+            },
+            "id": "1326272229697490944",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 125
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326027672493805568",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @jjauthor: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Votin\u2026"
+        },
+        {
+            "author_id": "2736365747",
+            "conversation_id": "1326268074551631878",
+            "created_at": "2020-11-10T20:58:44.000Z",
+            "edit_history_tweet_ids": [
+                "1326268074551631878"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7932,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6979,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 178,
+                        "id": "19211550",
+                        "start": 164,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 159,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostTopSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 136,
+                        "url": "https://t.co/BZ7tZLkI08"
+                    }
+                ]
+            },
+            "id": "1326268074551631878",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines https://t.co/BZ7tZLkI08 via @gatewaypundit"
+        },
+        {
+            "author_id": "96425241",
+            "conversation_id": "1326267082170839046",
+            "created_at": "2020-11-10T20:54:47.000Z",
+            "edit_history_tweet_ids": [
+                "1326267082170839046"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326267082170839046",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "400475649",
+            "conversation_id": "1326262256351338496",
+            "created_at": "2020-11-10T20:35:37.000Z",
+            "edit_history_tweet_ids": [
+                "1326262256351338496"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 106,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.806,
+                        "start": 92,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "28272865",
+                        "start": 3,
+                        "username": "GarretLewis"
+                    },
+                    {
+                        "end": 27,
+                        "id": "15937190",
+                        "start": 21,
+                        "username": "AZGOP"
+                    }
+                ]
+            },
+            "id": "1326262256351338496",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 17
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326234019260854272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @GarretLewis: The @AZGOP needs an enema.  The latest incompetent fool is the head of the Maricopa County GOP.  She didn't even show up t\u2026"
+        },
+        {
+            "author_id": "27467088",
+            "conversation_id": "1326262215066808320",
+            "created_at": "2020-11-10T20:35:27.000Z",
+            "edit_history_tweet_ids": [
+                "1326262215066808320"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 106,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.806,
+                        "start": 92,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "28272865",
+                        "start": 3,
+                        "username": "GarretLewis"
+                    },
+                    {
+                        "end": 27,
+                        "id": "15937190",
+                        "start": 21,
+                        "username": "AZGOP"
+                    }
+                ]
+            },
+            "id": "1326262215066808320",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 17
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326234019260854272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @GarretLewis: The @AZGOP needs an enema.  The latest incompetent fool is the head of the Maricopa County GOP.  She didn't even show up t\u2026"
+        },
+        {
+            "author_id": "1179034654294196226",
+            "conversation_id": "1326261856881631232",
+            "created_at": "2020-11-10T20:34:02.000Z",
+            "edit_history_tweet_ids": [
+                "1326261856881631232"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8112,
+                        "start": 14,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 49,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6491,
+                        "start": 42,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "177584156",
+                        "start": 3,
+                        "username": "jjauthor"
+                    }
+                ]
+            },
+            "id": "1326261856881631232",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 125
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326027672493805568",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @jjauthor: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Votin\u2026"
+        },
+        {
+            "author_id": "924438048993136641",
+            "conversation_id": "1326258993581469696",
+            "created_at": "2020-11-10T20:22:39.000Z",
+            "edit_history_tweet_ids": [
+                "1326258993581469696"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326258993581469696",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "1041164464983162880",
+            "conversation_id": "1326257123114758144",
+            "created_at": "2020-11-10T20:15:13.000Z",
+            "edit_history_tweet_ids": [
+                "1326257123114758144"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 30,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8338,
+                        "start": 18,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 60,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.5648,
+                        "start": 53,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1155122854347886595",
+                        "start": 3,
+                        "username": "johnnyk20001"
+                    }
+                ]
+            },
+            "id": "1326257123114758144",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326168160198938625",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @johnnyk20001: Arizona State Rep. Calls on failed Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dom\u2026"
+        },
+        {
+            "author_id": "3150796444",
+            "conversation_id": "1326255153247383552",
+            "created_at": "2020-11-10T20:07:23.000Z",
+            "edit_history_tweet_ids": [
+                "1326255153247383552"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326255153247383552",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "400475649",
+            "conversation_id": "1326254806906806272",
+            "created_at": "2020-11-10T20:06:01.000Z",
+            "edit_history_tweet_ids": [
+                "1326254806906806272"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326254806906806272",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "4874903294",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Debbie Lesko (AZ-8)",
+                        "id": "1016413138437091328",
+                        "name": "Debbie Lesko"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "American politician",
+                        "id": "1070735205277720576",
+                        "name": "Kelli Ward"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Debbie Lesko (AZ-8)",
+                        "id": "1016413138437091328",
+                        "name": "Debbie Lesko"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "American politician",
+                        "id": "1070735205277720576",
+                        "name": "Kelli Ward"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "United States Congress",
+                        "id": "961705302700654593",
+                        "name": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "United States Congress",
+                        "id": "961705302700654593",
+                        "name": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative Debbie Lesko (AZ-8)",
+                        "id": "1016413138437091328",
+                        "name": "Debbie Lesko"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political Body",
+                        "id": "1068583660914266113",
+                        "name": "Government institutions"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "American politician",
+                        "id": "1070735205277720576",
+                        "name": "Kelli Ward"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "United States Senate",
+                        "id": "877326946253684737",
+                        "name": "United States Senate"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "United States Congress",
+                        "id": "961705302700654593",
+                        "name": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "United States Senate",
+                        "id": "877326946253684737",
+                        "name": "United States Senate"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political Body",
+                        "id": "1068583660914266113",
+                        "name": "Government institutions"
+                    }
+                }
+            ],
+            "conversation_id": "1325446780872400903",
+            "created_at": "2020-11-10T20:05:42.000Z",
+            "edit_history_tweet_ids": [
+                "1326254730360709120"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Debbie",
+                        "probability": 0.5529,
+                        "start": 39,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 86,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9589,
+                        "start": 72,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 208,
+                        "normalized_text": "US",
+                        "probability": 0.5351,
+                        "start": 207,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 231,
+                        "normalized_text": "AZ",
+                        "probability": 0.3656,
+                        "start": 230,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "34715823",
+                        "start": 0,
+                        "username": "DebbieLesko"
+                    },
+                    {
+                        "end": 19,
+                        "id": "15937190",
+                        "start": 13,
+                        "username": "AZGOP"
+                    },
+                    {
+                        "end": 32,
+                        "id": "359403242",
+                        "start": 20,
+                        "username": "kelliwardaz"
+                    }
+                ]
+            },
+            "id": "1326254730360709120",
+            "in_reply_to_user_id": "34715823",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325446780872400903",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@DebbieLesko @AZGOP @kelliwardaz Hello Debbie, with the voting fraud in Maricopa County and its use of Dominion election sofware, are you going to ask for legal votes recounts, since the fraud affect the AZ US Senate seat and the AZ propositions on the ballots as well?"
+        },
+        {
+            "author_id": "1103665528231604224",
+            "conversation_id": "1326253177650417667",
+            "created_at": "2020-11-10T19:59:32.000Z",
+            "edit_history_tweet_ids": [
+                "1326253177650417667"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326253177650417667",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "1280924590936477696",
+            "conversation_id": "1326253166883610624",
+            "created_at": "2020-11-10T19:59:30.000Z",
+            "edit_history_tweet_ids": [
+                "1326253166883610624"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "newsbreak.com/arizona/marico\u2026",
+                        "end": 38,
+                        "expanded_url": "https://www.newsbreak.com/arizona/maricopa/news/2099493582235/arizona-state-rep-calls-on-maricopa-gop-chairman-to-step-down-upon-news-that-she-failed-to-show-up-to-certify-dominion-voting-machines",
+                        "start": 15,
+                        "url": "https://t.co/An10JzTAGK"
+                    }
+                ]
+            },
+            "id": "1326253166883610624",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Interesting!!  https://t.co/An10JzTAGK"
+        },
+        {
+            "author_id": "783514897057480709",
+            "conversation_id": "1326252683276115968",
+            "created_at": "2020-11-10T19:57:34.000Z",
+            "edit_history_tweet_ids": [
+                "1326252683276115968"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 106,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.806,
+                        "start": 92,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "28272865",
+                        "start": 3,
+                        "username": "GarretLewis"
+                    },
+                    {
+                        "end": 27,
+                        "id": "15937190",
+                        "start": 21,
+                        "username": "AZGOP"
+                    }
+                ]
+            },
+            "id": "1326252683276115968",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 17
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326234019260854272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @GarretLewis: The @AZGOP needs an enema.  The latest incompetent fool is the head of the Maricopa County GOP.  She didn't even show up t\u2026"
+        },
+        {
+            "author_id": "4858453113",
+            "conversation_id": "1326251954595651585",
+            "created_at": "2020-11-10T19:54:41.000Z",
+            "edit_history_tweet_ids": [
+                "1326251954595651585"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326251954595651585",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "2335458098",
+            "conversation_id": "1326250305596530688",
+            "created_at": "2020-11-10T19:48:08.000Z",
+            "edit_history_tweet_ids": [
+                "1326250305596530688"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 106,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.806,
+                        "start": 92,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "28272865",
+                        "start": 3,
+                        "username": "GarretLewis"
+                    },
+                    {
+                        "end": 27,
+                        "id": "15937190",
+                        "start": 21,
+                        "username": "AZGOP"
+                    }
+                ]
+            },
+            "id": "1326250305596530688",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 17
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326234019260854272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @GarretLewis: The @AZGOP needs an enema.  The latest incompetent fool is the head of the Maricopa County GOP.  She didn't even show up t\u2026"
+        },
+        {
+            "author_id": "329278080",
+            "conversation_id": "1326250199359102976",
+            "created_at": "2020-11-10T19:47:42.000Z",
+            "edit_history_tweet_ids": [
+                "1326250199359102976"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326250199359102976",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "2930040448",
+            "conversation_id": "1326248235275595781",
+            "created_at": "2020-11-10T19:39:54.000Z",
+            "edit_history_tweet_ids": [
+                "1326248235275595781"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326248235275595781",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "73906011",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326245199710998528",
+            "created_at": "2020-11-10T19:27:50.000Z",
+            "edit_history_tweet_ids": [
+                "1326245199710998528"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 37,
+                        "normalized_text": "PA",
+                        "probability": 0.7661,
+                        "start": 36,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 41,
+                        "normalized_text": "WI",
+                        "probability": 0.4702,
+                        "start": 40,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 45,
+                        "normalized_text": "GA",
+                        "probability": 0.7128,
+                        "start": 44,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 49,
+                        "normalized_text": "NV",
+                        "probability": 0.3271,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 53,
+                        "normalized_text": "MN",
+                        "probability": 0.387,
+                        "start": 52,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 73,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.5664,
+                        "start": 59,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 76,
+                        "normalized_text": "AZ",
+                        "probability": 0.6936,
+                        "start": 75,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 90,
+                        "normalized_text": "Nancy Pelosi",
+                        "probability": 0.7774,
+                        "start": 79,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 174,
+                        "normalized_text": "Clinton Foundation",
+                        "probability": 0.7388,
+                        "start": 157,
+                        "type": "Organization"
+                    }
+                ]
+            },
+            "id": "1326245199710998528",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "Dominion Voting systems was used in PA, WI, GA, NV, MN and Maricopa County AZ. Nancy Pelosi\u2019s chief of staff as its chief lobbyists. Also they donate to the Clinton Foundation. Isn\u2019t it ironic...don\u2019t ya think?"
+        },
+        {
+            "author_id": "1121825952173105152",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Trent Kelly (MS-01)",
+                        "id": "981250731628834816",
+                        "name": "Trent Kelly"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Trent Kelly (MS-01)",
+                        "id": "981250731628834816",
+                        "name": "Trent Kelly"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative Trent Kelly (MS-01)",
+                        "id": "981250731628834816",
+                        "name": "Trent Kelly"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326244396593983488",
+            "created_at": "2020-11-10T19:24:39.000Z",
+            "edit_history_tweet_ids": [
+                "1326244396593983488"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9621,
+                        "start": 19,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 53,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7825,
+                        "start": 41,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 72,
+                        "normalized_text": "Kelly Townsend",
+                        "probability": 0.9125,
+                        "start": 59,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6469,
+                        "start": 85,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 26,
+                        "start": 18,
+                        "tag": "Arizona"
+                    },
+                    {
+                        "end": 40,
+                        "start": 27,
+                        "tag": "Election2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "803017539903029248",
+                        "start": 3,
+                        "username": "Megavolts001"
+                    }
+                ]
+            },
+            "id": "1326244396593983488",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 41
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326005101983485952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @Megavolts001: #Arizona\n#Election2020\nArizona State Rep.Kelly Townsend R Calls on Maricopa GOP Chairman to Step Down Upon News That She\u2026"
+        },
+        {
+            "author_id": "935507151547707392",
+            "conversation_id": "1326244140863139840",
+            "created_at": "2020-11-10T19:23:38.000Z",
+            "edit_history_tweet_ids": [
+                "1326244140863139840"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326244140863139840",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "1238250947677020160",
+            "conversation_id": "1326243937590239232",
+            "created_at": "2020-11-10T19:22:49.000Z",
+            "edit_history_tweet_ids": [
+                "1326243937590239232"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326243937590239232",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "446507446",
+            "conversation_id": "1326243882766458881",
+            "created_at": "2020-11-10T19:22:36.000Z",
+            "edit_history_tweet_ids": [
+                "1326243882766458881"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326243882766458881",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "32824532",
+            "conversation_id": "1326243388727816193",
+            "created_at": "2020-11-10T19:20:38.000Z",
+            "edit_history_tweet_ids": [
+                "1326243388727816193"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326243388727816193",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "1207007077396361216",
+            "conversation_id": "1326242274515300359",
+            "created_at": "2020-11-10T19:16:13.000Z",
+            "edit_history_tweet_ids": [
+                "1326242274515300359"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326242274515300359",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "1214295630366957568",
+            "conversation_id": "1326242078645424129",
+            "created_at": "2020-11-10T19:15:26.000Z",
+            "edit_history_tweet_ids": [
+                "1326242078645424129"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326242078645424129",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "709794699083579393",
+            "conversation_id": "1326241317026844672",
+            "created_at": "2020-11-10T19:12:25.000Z",
+            "edit_history_tweet_ids": [
+                "1326241317026844672"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 106,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.806,
+                        "start": 92,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "28272865",
+                        "start": 3,
+                        "username": "GarretLewis"
+                    },
+                    {
+                        "end": 27,
+                        "id": "15937190",
+                        "start": 21,
+                        "username": "AZGOP"
+                    }
+                ]
+            },
+            "id": "1326241317026844672",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 17
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326234019260854272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @GarretLewis: The @AZGOP needs an enema.  The latest incompetent fool is the head of the Maricopa County GOP.  She didn't even show up t\u2026"
+        },
+        {
+            "author_id": "117088859",
+            "conversation_id": "1326240801173753857",
+            "created_at": "2020-11-10T19:10:22.000Z",
+            "edit_history_tweet_ids": [
+                "1326240801173753857"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326240801173753857",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "1277831679097241600",
+            "conversation_id": "1326239540546134016",
+            "created_at": "2020-11-10T19:05:21.000Z",
+            "edit_history_tweet_ids": [
+                "1326239540546134016"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326239540546134016",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "810695664799809536",
+            "conversation_id": "1326238378199707648",
+            "created_at": "2020-11-10T19:00:44.000Z",
+            "edit_history_tweet_ids": [
+                "1326238378199707648"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 106,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.806,
+                        "start": 92,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "28272865",
+                        "start": 3,
+                        "username": "GarretLewis"
+                    },
+                    {
+                        "end": 27,
+                        "id": "15937190",
+                        "start": 21,
+                        "username": "AZGOP"
+                    }
+                ]
+            },
+            "id": "1326238378199707648",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 17
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326234019260854272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @GarretLewis: The @AZGOP needs an enema.  The latest incompetent fool is the head of the Maricopa County GOP.  She didn't even show up t\u2026"
+        },
+        {
+            "author_id": "927921163854073856",
+            "conversation_id": "1326238118605975553",
+            "created_at": "2020-11-10T18:59:42.000Z",
+            "edit_history_tweet_ids": [
+                "1326238118605975553"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326238118605975553",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "1167174850479316996",
+            "conversation_id": "1326237806373449729",
+            "created_at": "2020-11-10T18:58:28.000Z",
+            "edit_history_tweet_ids": [
+                "1326237806373449729"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 106,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.806,
+                        "start": 92,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "28272865",
+                        "start": 3,
+                        "username": "GarretLewis"
+                    },
+                    {
+                        "end": 27,
+                        "id": "15937190",
+                        "start": 21,
+                        "username": "AZGOP"
+                    }
+                ]
+            },
+            "id": "1326237806373449729",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 17
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326234019260854272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @GarretLewis: The @AZGOP needs an enema.  The latest incompetent fool is the head of the Maricopa County GOP.  She didn't even show up t\u2026"
+        },
+        {
+            "author_id": "866098569211674624",
+            "conversation_id": "1326237465242464258",
+            "created_at": "2020-11-10T18:57:06.000Z",
+            "edit_history_tweet_ids": [
+                "1326237465242464258"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326237465242464258",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "2871849856",
+            "conversation_id": "1326236489664098306",
+            "created_at": "2020-11-10T18:53:14.000Z",
+            "edit_history_tweet_ids": [
+                "1326236489664098306"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326236489664098306",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "37297803",
+            "conversation_id": "1326236382390611968",
+            "created_at": "2020-11-10T18:52:48.000Z",
+            "edit_history_tweet_ids": [
+                "1326236382390611968"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326236382390611968",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "501358969",
+            "conversation_id": "1326235859859824640",
+            "created_at": "2020-11-10T18:50:43.000Z",
+            "edit_history_tweet_ids": [
+                "1326235859859824640"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326235859859824640",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "874495994",
+            "conversation_id": "1326235841912561672",
+            "created_at": "2020-11-10T18:50:39.000Z",
+            "edit_history_tweet_ids": [
+                "1326235841912561672"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326235841912561672",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "26658853",
+            "conversation_id": "1326235805577326593",
+            "created_at": "2020-11-10T18:50:30.000Z",
+            "edit_history_tweet_ids": [
+                "1326235805577326593"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 106,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.806,
+                        "start": 92,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "28272865",
+                        "start": 3,
+                        "username": "GarretLewis"
+                    },
+                    {
+                        "end": 27,
+                        "id": "15937190",
+                        "start": 21,
+                        "username": "AZGOP"
+                    }
+                ]
+            },
+            "id": "1326235805577326593",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 17
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326234019260854272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @GarretLewis: The @AZGOP needs an enema.  The latest incompetent fool is the head of the Maricopa County GOP.  She didn't even show up t\u2026"
+        },
+        {
+            "author_id": "254324487",
+            "conversation_id": "1326235753198678016",
+            "created_at": "2020-11-10T18:50:18.000Z",
+            "edit_history_tweet_ids": [
+                "1326235753198678016"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 106,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.806,
+                        "start": 92,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "28272865",
+                        "start": 3,
+                        "username": "GarretLewis"
+                    },
+                    {
+                        "end": 27,
+                        "id": "15937190",
+                        "start": 21,
+                        "username": "AZGOP"
+                    }
+                ]
+            },
+            "id": "1326235753198678016",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 17
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326234019260854272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @GarretLewis: The @AZGOP needs an enema.  The latest incompetent fool is the head of the Maricopa County GOP.  She didn't even show up t\u2026"
+        },
+        {
+            "author_id": "887369199131254784",
+            "conversation_id": "1326235589570605058",
+            "created_at": "2020-11-10T18:49:39.000Z",
+            "edit_history_tweet_ids": [
+                "1326235589570605058"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326235589570605058",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "1288854478934773760",
+            "conversation_id": "1326235578224898048",
+            "created_at": "2020-11-10T18:49:36.000Z",
+            "edit_history_tweet_ids": [
+                "1326235578224898048"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 106,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.806,
+                        "start": 92,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "28272865",
+                        "start": 3,
+                        "username": "GarretLewis"
+                    },
+                    {
+                        "end": 27,
+                        "id": "15937190",
+                        "start": 21,
+                        "username": "AZGOP"
+                    }
+                ]
+            },
+            "id": "1326235578224898048",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 17
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326234019260854272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @GarretLewis: The @AZGOP needs an enema.  The latest incompetent fool is the head of the Maricopa County GOP.  She didn't even show up t\u2026"
+        },
+        {
+            "author_id": "601249300",
+            "conversation_id": "1326235535325736966",
+            "created_at": "2020-11-10T18:49:26.000Z",
+            "edit_history_tweet_ids": [
+                "1326235535325736966"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326235535325736966",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "1103072768663404545",
+            "conversation_id": "1326234939759742978",
+            "created_at": "2020-11-10T18:47:04.000Z",
+            "edit_history_tweet_ids": [
+                "1326234939759742978"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326234939759742978",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "945684293304700929",
+            "conversation_id": "1326233545510182912",
+            "created_at": "2020-11-10T18:41:32.000Z",
+            "edit_history_tweet_ids": [
+                "1326233545510182912"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326233545510182912",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "304734661",
+            "conversation_id": "1326233473720397826",
+            "created_at": "2020-11-10T18:41:15.000Z",
+            "edit_history_tweet_ids": [
+                "1326233473720397826"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "AZ",
+                        "probability": 0.6337,
+                        "start": 25,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 40,
+                        "normalized_text": "Clark County",
+                        "probability": 0.8991,
+                        "start": 29,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "wmal.com/news/rep-paul-\u2026",
+                        "end": 95,
+                        "expanded_url": "https://www.wmal.com/news/rep-paul-gosar-to-newsmax-tv-voting-machines-in-maricopa-county-need-a-closer-look/",
+                        "start": 72,
+                        "url": "https://t.co/TONY21pbGV"
+                    }
+                ]
+            },
+            "id": "1326233473720397826",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324935144642375680",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @Frankz2137: Maricopa AZ, Clark County NV...Dominion Voting Service\n\nhttps://t.co/TONY21pbGV"
+        },
+        {
+            "author_id": "2455478245",
+            "conversation_id": "1326233428266639360",
+            "created_at": "2020-11-10T18:41:04.000Z",
+            "edit_history_tweet_ids": [
+                "1326233428266639360"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326233428266639360",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "4890907354",
+            "conversation_id": "1326232271435788288",
+            "created_at": "2020-11-10T18:36:28.000Z",
+            "edit_history_tweet_ids": [
+                "1326232271435788288"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326232271435788288",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "166776215",
+            "conversation_id": "1326232191626485760",
+            "created_at": "2020-11-10T18:36:09.000Z",
+            "edit_history_tweet_ids": [
+                "1326232191626485760"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326232191626485760",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "822999677448704000",
+            "conversation_id": "1326231640742440961",
+            "created_at": "2020-11-10T18:33:58.000Z",
+            "edit_history_tweet_ids": [
+                "1326231640742440961"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326231640742440961",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "842457138828046337",
+            "conversation_id": "1326231284897734658",
+            "created_at": "2020-11-10T18:32:33.000Z",
+            "edit_history_tweet_ids": [
+                "1326231284897734658"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326231284897734658",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "948322807435481088",
+            "conversation_id": "1326230904851722240",
+            "created_at": "2020-11-10T18:31:02.000Z",
+            "edit_history_tweet_ids": [
+                "1326230904851722240"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326230904851722240",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "2745409707",
+            "conversation_id": "1326230572096688132",
+            "created_at": "2020-11-10T18:29:43.000Z",
+            "edit_history_tweet_ids": [
+                "1326230572096688132"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326230572096688132",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "1403325440",
+            "conversation_id": "1326230349970468868",
+            "created_at": "2020-11-10T18:28:50.000Z",
+            "edit_history_tweet_ids": [
+                "1326230349970468868"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326230349970468868",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "2475989550",
+            "conversation_id": "1326230306245009410",
+            "created_at": "2020-11-10T18:28:39.000Z",
+            "edit_history_tweet_ids": [
+                "1326230306245009410"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326230306245009410",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        }
+    ],
+    "meta": {
+        "newest_id": "1326281388816003072",
+        "next_token": "b26v89c19zqg8o3fosbunv8ju7nz1oh6adgzx1g4y47el",
+        "oldest_id": "1326230306245009410",
+        "result_count": 59
+    }
+}

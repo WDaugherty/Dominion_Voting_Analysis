@@ -1,0 +1,5007 @@
+{
+    "data": [
+        {
+            "author_id": "98279552",
+            "conversation_id": "1325828294655143936",
+            "created_at": "2020-11-09T15:51:12.000Z",
+            "edit_history_tweet_ids": [
+                "1325828294655143936"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 93,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9611,
+                        "start": 79,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "AZ",
+                        "probability": 0.9426,
+                        "start": 117,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1325828294655143936",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 28
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325826108751712258",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BarnettforAZ: ALL Dominion voting machines need to be audited immediately! Maricopa County is the only county in AZ that uses it...#For\u2026"
+        },
+        {
+            "author_id": "3843640245",
+            "conversation_id": "1325827951418552322",
+            "created_at": "2020-11-09T15:49:50.000Z",
+            "edit_history_tweet_ids": [
+                "1325827951418552322"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 93,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9611,
+                        "start": 79,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "AZ",
+                        "probability": 0.9426,
+                        "start": 117,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1325827951418552322",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 28
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325826108751712258",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @BarnettforAZ: ALL Dominion voting machines need to be audited immediately! Maricopa County is the only county in AZ that uses it...#For\u2026"
+        },
+        {
+            "author_id": "98042618",
+            "conversation_id": "1325827755150364679",
+            "created_at": "2020-11-09T15:49:04.000Z",
+            "edit_history_tweet_ids": [
+                "1325827755150364679"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 93,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9611,
+                        "start": 79,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "AZ",
+                        "probability": 0.9426,
+                        "start": 117,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1325827755150364679",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 28
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325826108751712258",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BarnettforAZ: ALL Dominion voting machines need to be audited immediately! Maricopa County is the only county in AZ that uses it...#For\u2026"
+        },
+        {
+            "author_id": "630440447",
+            "conversation_id": "1325827523998076930",
+            "created_at": "2020-11-09T15:48:09.000Z",
+            "edit_history_tweet_ids": [
+                "1325827523998076930"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 93,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9611,
+                        "start": 79,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "AZ",
+                        "probability": 0.9426,
+                        "start": 117,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1325827523998076930",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 28
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325826108751712258",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BarnettforAZ: ALL Dominion voting machines need to be audited immediately! Maricopa County is the only county in AZ that uses it...#For\u2026"
+        },
+        {
+            "author_id": "29068389",
+            "conversation_id": "1325827017078681600",
+            "created_at": "2020-11-09T15:46:08.000Z",
+            "edit_history_tweet_ids": [
+                "1325827017078681600"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 93,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9611,
+                        "start": 79,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "AZ",
+                        "probability": 0.9426,
+                        "start": 117,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1325827017078681600",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 28
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325826108751712258",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BarnettforAZ: ALL Dominion voting machines need to be audited immediately! Maricopa County is the only county in AZ that uses it...#For\u2026"
+        },
+        {
+            "author_id": "1182359438201630722",
+            "conversation_id": "1325826775075725312",
+            "created_at": "2020-11-09T15:45:10.000Z",
+            "edit_history_tweet_ids": [
+                "1325826775075725312"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 93,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9611,
+                        "start": 79,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "AZ",
+                        "probability": 0.9426,
+                        "start": 117,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1325826775075725312",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 28
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325826108751712258",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BarnettforAZ: ALL Dominion voting machines need to be audited immediately! Maricopa County is the only county in AZ that uses it...#For\u2026"
+        },
+        {
+            "author_id": "893613812745515008",
+            "conversation_id": "1325826639788343296",
+            "created_at": "2020-11-09T15:44:38.000Z",
+            "edit_history_tweet_ids": [
+                "1325826639788343296"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 93,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9611,
+                        "start": 79,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "AZ",
+                        "probability": 0.9426,
+                        "start": 117,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1325826639788343296",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 28
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325826108751712258",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BarnettforAZ: ALL Dominion voting machines need to be audited immediately! Maricopa County is the only county in AZ that uses it...#For\u2026"
+        },
+        {
+            "author_id": "1254085662539571204",
+            "conversation_id": "1325826598524710912",
+            "created_at": "2020-11-09T15:44:28.000Z",
+            "edit_history_tweet_ids": [
+                "1325826598524710912"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 93,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9611,
+                        "start": 79,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "AZ",
+                        "probability": 0.9426,
+                        "start": 117,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1325826598524710912",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 28
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325826108751712258",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BarnettforAZ: ALL Dominion voting machines need to be audited immediately! Maricopa County is the only county in AZ that uses it...#For\u2026"
+        },
+        {
+            "author_id": "2740559801",
+            "conversation_id": "1325826518350786560",
+            "created_at": "2020-11-09T15:44:09.000Z",
+            "edit_history_tweet_ids": [
+                "1325826518350786560"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 93,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9611,
+                        "start": 79,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "AZ",
+                        "probability": 0.9426,
+                        "start": 117,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1325826518350786560",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 28
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325826108751712258",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BarnettforAZ: ALL Dominion voting machines need to be audited immediately! Maricopa County is the only county in AZ that uses it...#For\u2026"
+        },
+        {
+            "author_id": "996576181251117056",
+            "conversation_id": "1325826456304414720",
+            "created_at": "2020-11-09T15:43:54.000Z",
+            "edit_history_tweet_ids": [
+                "1325826456304414720"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 93,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9611,
+                        "start": 79,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "AZ",
+                        "probability": 0.9426,
+                        "start": 117,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1325826456304414720",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 28
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325826108751712258",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BarnettforAZ: ALL Dominion voting machines need to be audited immediately! Maricopa County is the only county in AZ that uses it...#For\u2026"
+        },
+        {
+            "author_id": "64126031",
+            "conversation_id": "1325826430937178113",
+            "created_at": "2020-11-09T15:43:48.000Z",
+            "edit_history_tweet_ids": [
+                "1325826430937178113"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 93,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9611,
+                        "start": 79,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "AZ",
+                        "probability": 0.9426,
+                        "start": 117,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1325826430937178113",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 28
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325826108751712258",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BarnettforAZ: ALL Dominion voting machines need to be audited immediately! Maricopa County is the only county in AZ that uses it...#For\u2026"
+        },
+        {
+            "author_id": "1288854478934773760",
+            "conversation_id": "1325826414864551939",
+            "created_at": "2020-11-09T15:43:44.000Z",
+            "edit_history_tweet_ids": [
+                "1325826414864551939"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 93,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9611,
+                        "start": 79,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "AZ",
+                        "probability": 0.9426,
+                        "start": 117,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1325826414864551939",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 28
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325826108751712258",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BarnettforAZ: ALL Dominion voting machines need to be audited immediately! Maricopa County is the only county in AZ that uses it...#For\u2026"
+        },
+        {
+            "author_id": "1117898546055761920",
+            "conversation_id": "1325826108751712258",
+            "created_at": "2020-11-09T15:42:31.000Z",
+            "edit_history_tweet_ids": [
+                "1325826108751712258"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9674,
+                        "start": 61,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 100,
+                        "normalized_text": "AZ",
+                        "probability": 0.9077,
+                        "start": 99,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 134,
+                        "start": 117,
+                        "tag": "ForensicAuditNow"
+                    }
+                ]
+            },
+            "id": "1325826108751712258",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 68,
+                "quote_count": 3,
+                "reply_count": 6,
+                "retweet_count": 28
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "ALL Dominion voting machines need to be audited immediately! Maricopa County is the only county in AZ that uses it...#ForensicAuditNow"
+        },
+        {
+            "author_id": "804468982245822465",
+            "conversation_id": "1325808089732411393",
+            "created_at": "2020-11-09T14:46:30.000Z",
+            "edit_history_tweet_ids": [
+                "1325812010341306369"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 89,
+                        "normalized_text": "MI Glitch",
+                        "probability": 0.3444,
+                        "start": 81,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 131,
+                        "normalized_text": "Texas",
+                        "probability": 0.9677,
+                        "start": 127,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 162,
+                        "normalized_text": "Dominion",
+                        "probability": 0.7715,
+                        "start": 155,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "wtma.com/news/rep-paul-\u2026",
+                        "end": 216,
+                        "expanded_url": "https://www.wtma.com/news/rep-paul-gosar-to-newsmax-tv-voting-machines-in-maricopa-county-need-a-closer-look/",
+                        "start": 193,
+                        "url": "https://t.co/mXKgv2KSiA"
+                    }
+                ]
+            },
+            "id": "1325812010341306369",
+            "in_reply_to_user_id": "1290635110149169152",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325808089732411393",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@Wizard_Predicts Let's hope they add to that suite Dominion Voting Services. The MI Glitch? They used it in 47 counties. Heck, Texas couldn't certify that Dominion was \"safe from manipulation\"\nhttps://t.co/mXKgv2KSiA"
+        },
+        {
+            "author_id": "704865315335892992",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Sean Davis",
+                        "id": "1061016169501454336",
+                        "name": "Sean Davis"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Sean Davis",
+                        "id": "1061016169501454336",
+                        "name": "Sean Davis"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Sean Davis",
+                        "id": "1061016169501454336",
+                        "name": "Sean Davis"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                }
+            ],
+            "conversation_id": "1325811142267199488",
+            "created_at": "2020-11-09T14:43:03.000Z",
+            "edit_history_tweet_ids": [
+                "1325811142267199488"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 25,
+                        "id": "36529101",
+                        "start": 16,
+                        "username": "seanmdav"
+                    }
+                ]
+            },
+            "id": "1325811142267199488",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325810821386166285",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @Frankz2137: @seanmdav @Wizard_Predicts @AaronDFordNV Nobody seems to be able to put the pieces together. It was Dominion Voting Service\u2026"
+        },
+        {
+            "author_id": "804468982245822465",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Sean Davis",
+                        "id": "1061016169501454336",
+                        "name": "Sean Davis"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Sean Davis",
+                        "id": "1061016169501454336",
+                        "name": "Sean Davis"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Sean Davis",
+                        "id": "1061016169501454336",
+                        "name": "Sean Davis"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                }
+            ],
+            "conversation_id": "1325803289955487744",
+            "created_at": "2020-11-09T14:41:46.000Z",
+            "edit_history_tweet_ids": [
+                "1325810821386166285"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 149,
+                        "normalized_text": "Clark County",
+                        "probability": 0.878,
+                        "start": 138,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "36529101",
+                        "start": 0,
+                        "username": "seanmdav"
+                    },
+                    {
+                        "end": 40,
+                        "id": "102179067",
+                        "start": 27,
+                        "username": "AaronDFordNV"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "wtma.com/news/rep-paul-\u2026",
+                        "end": 219,
+                        "expanded_url": "https://www.wtma.com/news/rep-paul-gosar-to-newsmax-tv-voting-machines-in-maricopa-county-need-a-closer-look/",
+                        "start": 196,
+                        "url": "https://t.co/mXKgv2KSiA"
+                    }
+                ]
+            },
+            "id": "1325810821386166285",
+            "in_reply_to_user_id": "36529101",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325803289955487744",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@seanmdav @Wizard_Predicts @AaronDFordNV Nobody seems to be able to put the pieces together. It was Dominion Voting Services' software in Clark County NV. All the states with problems...Dominion.\nhttps://t.co/mXKgv2KSiA"
+        },
+        {
+            "author_id": "895025815716593664",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "All conversation about the United States Federal Bureau of Investigation",
+                        "id": "937710668706299904",
+                        "name": "Federal Bureau of Investigation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "All conversation about the United States Federal Bureau of Investigation",
+                        "id": "937710668706299904",
+                        "name": "Federal Bureau of Investigation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political Body",
+                        "id": "1068583660914266113",
+                        "name": "Government institutions"
+                    }
+                }
+            ],
+            "conversation_id": "1325807757459660801",
+            "created_at": "2020-11-09T14:29:36.000Z",
+            "edit_history_tweet_ids": [
+                "1325807757459660801"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 25,
+                        "id": "17936949",
+                        "start": 16,
+                        "username": "KMCRadio"
+                    }
+                ]
+            },
+            "id": "1325807757459660801",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325806891591675905",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @Frankz2137: @KMCRadio @Wizard_Predicts @jsolomonReports @JustTheNews @RealAmVoice @JrzyJoePiscopo @FBI They better be opening up an inv\u2026"
+        },
+        {
+            "author_id": "804468982245822465",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "All conversation about the United States Federal Bureau of Investigation",
+                        "id": "937710668706299904",
+                        "name": "Federal Bureau of Investigation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "All conversation about the United States Federal Bureau of Investigation",
+                        "id": "937710668706299904",
+                        "name": "Federal Bureau of Investigation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political Body",
+                        "id": "1068583660914266113",
+                        "name": "Government institutions"
+                    }
+                }
+            ],
+            "conversation_id": "1325794621658705921",
+            "created_at": "2020-11-09T14:26:09.000Z",
+            "edit_history_tweet_ids": [
+                "1325806891591675905"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 182,
+                        "normalized_text": "PA",
+                        "probability": 0.8379,
+                        "start": 181,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 200,
+                        "normalized_text": "Michigan",
+                        "probability": 0.8689,
+                        "start": 193,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 210,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.4807,
+                        "start": 203,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 213,
+                        "normalized_text": "AZ",
+                        "probability": 0.704,
+                        "start": 212,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 227,
+                        "normalized_text": "Clark County",
+                        "probability": 0.7905,
+                        "start": 216,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 267,
+                        "normalized_text": "GA",
+                        "probability": 0.686,
+                        "start": 266,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "17936949",
+                        "start": 0,
+                        "username": "KMCRadio"
+                    },
+                    {
+                        "end": 43,
+                        "id": "523248016",
+                        "start": 27,
+                        "username": "jsolomonReports"
+                    },
+                    {
+                        "end": 56,
+                        "id": "1216793092134723586",
+                        "start": 44,
+                        "username": "JustTheNews"
+                    },
+                    {
+                        "end": 69,
+                        "id": "935942321756966912",
+                        "start": 57,
+                        "username": "RealAmVoice"
+                    },
+                    {
+                        "end": 85,
+                        "id": "91379999",
+                        "start": 70,
+                        "username": "JrzyJoePiscopo"
+                    },
+                    {
+                        "end": 90,
+                        "id": "17629860",
+                        "start": 86,
+                        "username": "FBI"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sos.ga.gov/index.php/elec\u2026",
+                        "end": 293,
+                        "expanded_url": "https://sos.ga.gov/index.php/elections/poll_worker_training_aggressive_statewide_program_targets_those_who_make_the_critical_difference_on_election_day",
+                        "start": 270,
+                        "url": "https://t.co/hpddsJO8k3"
+                    }
+                ]
+            },
+            "id": "1325806891591675905",
+            "in_reply_to_user_id": "17936949",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325794621658705921",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@KMCRadio @Wizard_Predicts @jsolomonReports @JustTheNews @RealAmVoice @JrzyJoePiscopo @FBI They better be opening up an investigation into Dominion Voting Services. 7-8 counties in PA used it. Michigan. Maricopa AZ. Clark County NV. Oh yeah..and the entire state of GA!\nhttps://t.co/hpddsJO8k3"
+        },
+        {
+            "author_id": "916308444025638913",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1138081277309882369",
+                        "name": "Paul Joseph Watson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+                        "id": "58",
+                        "name": "Entertainment Personality"
+                    },
+                    "entity": {
+                        "id": "1138081277309882369",
+                        "name": "Paul Joseph Watson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1138081277309882369",
+                        "name": "Paul Joseph Watson"
+                    }
+                }
+            ],
+            "conversation_id": "1325796156815896576",
+            "created_at": "2020-11-09T13:43:30.000Z",
+            "edit_history_tweet_ids": [
+                "1325796156815896576"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9773,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 128,
+                        "normalized_text": "Michigan",
+                        "probability": 0.9455,
+                        "start": 121,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.8568,
+                        "start": 131,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 29,
+                        "id": "18643437",
+                        "start": 16,
+                        "username": "PrisonPlanet"
+                    }
+                ]
+            },
+            "id": "1325796156815896576",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325781754242850819",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @Frankz2137: @PrisonPlanet Georgia is a disaster. They were the only state to use Dominion Voting Services statewide..Michigan, Maricopa\u2026"
+        },
+        {
+            "author_id": "804468982245822465",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1138081277309882369",
+                        "name": "Paul Joseph Watson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+                        "id": "58",
+                        "name": "Entertainment Personality"
+                    },
+                    "entity": {
+                        "id": "1138081277309882369",
+                        "name": "Paul Joseph Watson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1138081277309882369",
+                        "name": "Paul Joseph Watson"
+                    }
+                }
+            ],
+            "conversation_id": "1325779744403681281",
+            "created_at": "2020-11-09T12:46:16.000Z",
+            "edit_history_tweet_ids": [
+                "1325781754242850819"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 20,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9783,
+                        "start": 14,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 112,
+                        "normalized_text": "Michigan",
+                        "probability": 0.8561,
+                        "start": 105,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 122,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.8156,
+                        "start": 115,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 132,
+                        "normalized_text": "AZ",
+                        "probability": 0.879,
+                        "start": 131,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 149,
+                        "normalized_text": "PA",
+                        "probability": 0.9525,
+                        "start": 148,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 188,
+                        "normalized_text": "Dominion",
+                        "probability": 0.764,
+                        "start": 181,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "18643437",
+                        "start": 0,
+                        "username": "PrisonPlanet"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sos.ga.gov/index.php/elec\u2026",
+                        "end": 215,
+                        "expanded_url": "https://sos.ga.gov/index.php/elections/poll_worker_training_aggressive_statewide_program_targets_those_who_make_the_critical_difference_on_election_day",
+                        "start": 192,
+                        "url": "https://t.co/hpddsJO8k3"
+                    }
+                ]
+            },
+            "id": "1325781754242850819",
+            "in_reply_to_user_id": "18643437",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325779744403681281",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@PrisonPlanet Georgia is a disaster. They were the only state to use Dominion Voting Services statewide..Michigan, Maricopa county AZ...Counties in PA...along with others..all used Dominion. \nhttps://t.co/hpddsJO8k3"
+        },
+        {
+            "author_id": "796695426",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325685511378280448",
+            "created_at": "2020-11-09T06:23:50.000Z",
+            "edit_history_tweet_ids": [
+                "1325685511378280448"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "Paul Gosar",
+                        "probability": 0.9342,
+                        "start": 25,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 57,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9412,
+                        "start": 51,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.889,
+                        "start": 131,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1651225333",
+                        "start": 3,
+                        "username": "danielchaitin7"
+                    },
+                    {
+                        "end": 46,
+                        "id": "240760644",
+                        "start": 37,
+                        "username": "RepGosar"
+                    }
+                ]
+            },
+            "id": "1325685511378280448",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 94
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324910777527046144",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @danielchaitin7: Rep. Paul Gosar (@RepGosar) of Arizona says officials should take a closer look at the voting machines used in Maricopa\u2026"
+        },
+        {
+            "author_id": "1229060372105134080",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325641984237826048",
+            "created_at": "2020-11-09T04:20:46.000Z",
+            "edit_history_tweet_ids": [
+                "1325654538838216705"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 106,
+                        "normalized_text": "MI",
+                        "probability": 0.8924,
+                        "start": 105,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Biden",
+                        "probability": 0.6584,
+                        "start": 133,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 166,
+                        "normalized_text": "AZ",
+                        "probability": 0.9379,
+                        "start": 165,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 227,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.8763,
+                        "start": 213,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "716817972195512321",
+                        "start": 0,
+                        "username": "Cyberphobe1"
+                    },
+                    {
+                        "end": 29,
+                        "id": "1232414456589750272",
+                        "start": 13,
+                        "username": "ChinaInFocusNTD"
+                    }
+                ]
+            },
+            "id": "1325654538838216705",
+            "in_reply_to_user_id": "716817972195512321",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325649511994191872",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@Cyberphobe1 @ChinaInFocusNTD Dominion voting systems were the cause of the 6,000 votes in one county in MI that incorrectly went to Biden. Turns out, one county in AZ uses those same machines. And that county is Maricopa county."
+        },
+        {
+            "author_id": "1090430538534535175",
+            "conversation_id": "1325628976635768833",
+            "created_at": "2020-11-09T02:39:11.000Z",
+            "edit_history_tweet_ids": [
+                "1325628976635768833"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.97,
+                        "start": 9,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "408806531",
+                        "start": 0,
+                        "username": "esaagar"
+                    }
+                ]
+            },
+            "id": "1325628976635768833",
+            "in_reply_to_user_id": "408806531",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@esaagar Maricopa County uses Dominion voting software."
+        },
+        {
+            "author_id": "234210005",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325622400193601536",
+            "created_at": "2020-11-09T02:13:03.000Z",
+            "edit_history_tweet_ids": [
+                "1325622400193601536"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "Paul Gosar",
+                        "probability": 0.9342,
+                        "start": 25,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 57,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9412,
+                        "start": 51,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.889,
+                        "start": 131,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1651225333",
+                        "start": 3,
+                        "username": "danielchaitin7"
+                    },
+                    {
+                        "end": 46,
+                        "id": "240760644",
+                        "start": 37,
+                        "username": "RepGosar"
+                    }
+                ]
+            },
+            "id": "1325622400193601536",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 94
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324910777527046144",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @danielchaitin7: Rep. Paul Gosar (@RepGosar) of Arizona says officials should take a closer look at the voting machines used in Maricopa\u2026"
+        },
+        {
+            "author_id": "57705787",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325177121552003073",
+            "created_at": "2020-11-09T01:20:04.000Z",
+            "edit_history_tweet_ids": [
+                "1325609066417172480"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 53,
+                        "normalized_text": "Dominion",
+                        "probability": 0.5229,
+                        "start": 46,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 185,
+                        "normalized_text": "Biden",
+                        "probability": 0.9258,
+                        "start": 181,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 236,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9232,
+                        "start": 230,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 255,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9676,
+                        "start": 241,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "899714467465801728",
+                        "start": 0,
+                        "username": "Koji_Vu"
+                    }
+                ]
+            },
+            "id": "1325609066417172480",
+            "in_reply_to_user_id": "899714467465801728",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325596863764992001",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@Koji_Vu There's some serious issues with the Dominion voting systems that's been in use all over the country. There's been \"glitches\" with the software which have flipped votes to Biden. The same system is allegedly used here in Arizona in Maricopa County. One of the reasons for concern."
+        },
+        {
+            "author_id": "1317225386661564424",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325595976640434178",
+            "created_at": "2020-11-09T00:28:03.000Z",
+            "edit_history_tweet_ids": [
+                "1325595976640434178"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "Paul Gosar",
+                        "probability": 0.9342,
+                        "start": 25,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 57,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9412,
+                        "start": 51,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.889,
+                        "start": 131,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1651225333",
+                        "start": 3,
+                        "username": "danielchaitin7"
+                    },
+                    {
+                        "end": 46,
+                        "id": "240760644",
+                        "start": 37,
+                        "username": "RepGosar"
+                    }
+                ]
+            },
+            "id": "1325595976640434178",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 94
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324910777527046144",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @danielchaitin7: Rep. Paul Gosar (@RepGosar) of Arizona says officials should take a closer look at the voting machines used in Maricopa\u2026"
+        },
+        {
+            "author_id": "1063265077481140224",
+            "conversation_id": "1325574995377008647",
+            "created_at": "2020-11-08T23:04:41.000Z",
+            "edit_history_tweet_ids": [
+                "1325574995377008647"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Baris",
+                        "probability": 0.2229,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Michigan",
+                        "probability": 0.4379,
+                        "start": 85,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8638,
+                        "start": 102,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "AZ",
+                        "probability": 0.6452,
+                        "start": 128,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Clark",
+                        "probability": 0.4583,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 31,
+                        "id": "165039823",
+                        "start": 16,
+                        "username": "Peoples_Pundit"
+                    },
+                    {
+                        "end": 43,
+                        "id": "468911503",
+                        "start": 32,
+                        "username": "LauraBaris"
+                    }
+                ]
+            },
+            "id": "1325574995377008647",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325095567580655619",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @Frankz2137: @Peoples_Pundit @LauraBaris Mr. Baris. Its Dominion Voting Services. Michigan Glitch..Georgia glitch...Maricopa AZ...Clark\u2026"
+        },
+        {
+            "author_id": "1229060372105134080",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325457475592663040",
+            "created_at": "2020-11-08T22:06:58.000Z",
+            "edit_history_tweet_ids": [
+                "1325560468715474945"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 149,
+                        "normalized_text": "MI",
+                        "probability": 0.7182,
+                        "start": 148,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 170,
+                        "normalized_text": "Dominion",
+                        "probability": 0.471,
+                        "start": 163,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 224,
+                        "normalized_text": "Biden",
+                        "probability": 0.9065,
+                        "start": 220,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 236,
+                        "normalized_text": "AZ",
+                        "probability": 0.4996,
+                        "start": 235,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 272,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.6427,
+                        "start": 258,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 282,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.7031,
+                        "start": 275,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 307,
+                        "normalized_text": "AZ",
+                        "probability": 0.8782,
+                        "start": 306,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "2379463694",
+                        "start": 12,
+                        "username": "_alxl_"
+                    },
+                    {
+                        "end": 33,
+                        "id": "1446861841",
+                        "start": 20,
+                        "username": "yeschristoph"
+                    },
+                    {
+                        "end": 57,
+                        "id": "908856245414531072",
+                        "start": 47,
+                        "username": "NuanceBro"
+                    }
+                ]
+            },
+            "id": "1325560468715474945",
+            "in_reply_to_user_id": "1253147239897272320",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325559368436342785",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@OnJah12345 @_alxl_ @yeschristoph @GainsGod420 @NuanceBro OK. Here's one. \n\nThe voting machines related to the 6,000 confirmed incorrect ballots in MI are made by Dominion Systems.\n\n33 Other states use the same systems\n\nBiden's entire AZ lead and more is in Maricopa County\n\nMaricopa is the ONLY county in AZ that uses Dominion."
+        },
+        {
+            "author_id": "804468982245822465",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "James Woods",
+                        "id": "899697002988019714",
+                        "name": "James Woods"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "James Woods",
+                        "id": "899697002988019714",
+                        "name": "James Woods"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "James Woods",
+                        "id": "899697002988019714",
+                        "name": "James Woods"
+                    }
+                }
+            ],
+            "conversation_id": "1325519146847592448",
+            "created_at": "2020-11-08T19:40:44.000Z",
+            "edit_history_tweet_ids": [
+                "1325523669142147073"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 153,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9486,
+                        "start": 147,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 221,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.4627,
+                        "start": 214,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 224,
+                        "normalized_text": "AZ",
+                        "probability": 0.8298,
+                        "start": 223,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 245,
+                        "normalized_text": "Michigan",
+                        "probability": 0.902,
+                        "start": 238,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 270,
+                        "normalized_text": "Clark County",
+                        "probability": 0.8571,
+                        "start": 259,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 284,
+                        "normalized_text": "PA",
+                        "probability": 0.447,
+                        "start": 283,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "78523300",
+                        "start": 0,
+                        "username": "RealJamesWoods"
+                    }
+                ]
+            },
+            "id": "1325523669142147073",
+            "in_reply_to_user_id": "78523300",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325519146847592448",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@RealJamesWoods Dang. People need to wake up. It's right there to see. Everywhere there are voting problems...its Dominion Voting Services. Why is Georgia such a mess? It's the only state using Dominion statewide. Maricopa AZ...Dominion. Michigan...Dominion. Clark County NV....Erie PA..Dominion."
+        },
+        {
+            "author_id": "308835963",
+            "conversation_id": "1325508612073123841",
+            "created_at": "2020-11-08T18:40:54.000Z",
+            "edit_history_tweet_ids": [
+                "1325508612073123841"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 71,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.971,
+                        "start": 57,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 126,
+                        "normalized_text": "Voting",
+                        "probability": 0.4398,
+                        "start": 121,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1316032394558943237",
+                        "start": 3,
+                        "username": "BloodTypeRWB"
+                    }
+                ]
+            },
+            "id": "1325508612073123841",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325503718633115649",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BloodTypeRWB: \"Glitch\" in voting machine software in Maricopa County doesn't appear to be a glitch, does it Dominion Voting Systems? ht\u2026"
+        },
+        {
+            "author_id": "1316032394558943237",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1325503718633115649",
+            "created_at": "2020-11-08T18:21:27.000Z",
+            "edit_history_tweet_ids": [
+                "1325503718633115649"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 53,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9703,
+                        "start": 39,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 172,
+                        "normalized_text": "MaricopaCounty",
+                        "probability": 0.5246,
+                        "start": 159,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 157,
+                        "start": 144,
+                        "tag": "Election2020"
+                    },
+                    {
+                        "end": 173,
+                        "start": 158,
+                        "tag": "MaricopaCounty"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "cutt.ly/Investigating-\u2026",
+                        "end": 142,
+                        "expanded_url": "https://cutt.ly/Investigating-the-Voting-Machine-Glitch",
+                        "start": 119,
+                        "url": "https://t.co/wOSqGD6luU"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/taNbDBa5JY",
+                        "end": 197,
+                        "expanded_url": "https://twitter.com/BloodTypeRWB/status/1325503718633115649/photo/1",
+                        "media_key": "3_1325503716120809472",
+                        "start": 174,
+                        "url": "https://t.co/taNbDBa5JY"
+                    }
+                ]
+            },
+            "id": "1325503718633115649",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "\"Glitch\" in voting machine software in Maricopa County doesn't appear to be a glitch, does it Dominion Voting Systems? https://t.co/wOSqGD6luU\n #Election2020 #MaricopaCounty https://t.co/taNbDBa5JY"
+        },
+        {
+            "author_id": "944677376",
+            "conversation_id": "1325481604320473089",
+            "created_at": "2020-11-08T16:53:35.000Z",
+            "edit_history_tweet_ids": [
+                "1325481604320473089"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "AZ",
+                        "probability": 0.6337,
+                        "start": 25,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 40,
+                        "normalized_text": "Clark County",
+                        "probability": 0.8991,
+                        "start": 29,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "wmal.com/news/rep-paul-\u2026",
+                        "end": 95,
+                        "expanded_url": "https://www.wmal.com/news/rep-paul-gosar-to-newsmax-tv-voting-machines-in-maricopa-county-need-a-closer-look/",
+                        "start": 72,
+                        "url": "https://t.co/TONY21pbGV"
+                    }
+                ]
+            },
+            "id": "1325481604320473089",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324935144642375680",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @Frankz2137: Maricopa AZ, Clark County NV...Dominion Voting Service\n\nhttps://t.co/TONY21pbGV"
+        },
+        {
+            "author_id": "944677376",
+            "conversation_id": "1325481045278527488",
+            "created_at": "2020-11-08T16:51:22.000Z",
+            "edit_history_tweet_ids": [
+                "1325481045278527488"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 45,
+                        "normalized_text": "Gosar",
+                        "probability": 0.329,
+                        "start": 41,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 69,
+                        "normalized_text": "Canada",
+                        "probability": 0.9363,
+                        "start": 64,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 99,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.4328,
+                        "start": 77,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 128,
+                        "normalized_text": "Texas",
+                        "probability": 0.9236,
+                        "start": 124,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "wtma.com/news/rep-paul-\u2026",
+                        "end": 39,
+                        "expanded_url": "https://www.wtma.com/news/rep-paul-gosar-to-newsmax-tv-voting-machines-in-maricopa-county-need-a-closer-look/",
+                        "start": 16,
+                        "url": "https://t.co/mXKgv2KSiA"
+                    }
+                ]
+            },
+            "id": "1325481045278527488",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324860308511453185",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @Frankz2137: https://t.co/mXKgv2KSiA\n\nGosar was referring to Canada-based Dominion Voting Systems, which was rejected by Texas last Nove\u2026"
+        },
+        {
+            "author_id": "944677376",
+            "conversation_id": "1325480631783092224",
+            "created_at": "2020-11-08T16:49:43.000Z",
+            "edit_history_tweet_ids": [
+                "1325480631783092224"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 72,
+                        "normalized_text": "Michigan",
+                        "probability": 0.7531,
+                        "start": 65,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 81,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8388,
+                        "start": 75,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 91,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6046,
+                        "start": 84,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 101,
+                        "normalized_text": "AZ",
+                        "probability": 0.7469,
+                        "start": 100,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 115,
+                        "normalized_text": "Clark County",
+                        "probability": 0.759,
+                        "start": 104,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 122,
+                        "normalized_text": "Nevada",
+                        "probability": 0.9107,
+                        "start": 117,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    }
+                ]
+            },
+            "id": "1325480631783092224",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324859769841192960",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @Frankz2137: Folks...it's all about Dominion Voting Services. Michigan, Georgia, Maricopa County AZ, Clark County Nevada.\"\" \n\nIt's about\u2026"
+        },
+        {
+            "author_id": "944677376",
+            "conversation_id": "1325480512786403329",
+            "created_at": "2020-11-08T16:49:15.000Z",
+            "edit_history_tweet_ids": [
+                "1325480512786403329"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 41,
+                        "normalized_text": "Georgia",
+                        "probability": 0.923,
+                        "start": 35,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 96,
+                        "normalized_text": "Michigan",
+                        "probability": 0.916,
+                        "start": 89,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 134,
+                        "normalized_text": "AZ",
+                        "probability": 0.564,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    }
+                ]
+            },
+            "id": "1325480512786403329",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324867652892958724",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @Frankz2137: Voting glitches in Georgia- Dominion Voting Services \nVoting glitches in Michigan- Dominion Voting Services\nMaricopa AZ-Dom\u2026"
+        },
+        {
+            "author_id": "2961521318",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325137130323120129",
+            "created_at": "2020-11-08T16:24:19.000Z",
+            "edit_history_tweet_ids": [
+                "1325474239416205312"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 32,
+                        "normalized_text": "Detroit Free Press",
+                        "probability": 0.6252,
+                        "start": 15,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 142,
+                        "normalized_text": "Pennyslvania",
+                        "probability": 0.6848,
+                        "start": 131,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 159,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8257,
+                        "start": 145,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 165,
+                        "normalized_text": "AZ",
+                        "probability": 0.9047,
+                        "start": 164,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 231,
+                        "normalized_text": "Clinton Foundation",
+                        "probability": 0.5599,
+                        "start": 214,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "2353605901",
+                        "start": 0,
+                        "username": "GOPChairwoman"
+                    }
+                ]
+            },
+            "id": "1325474239416205312",
+            "in_reply_to_user_id": "2353605901",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325137251836153856",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@GOPChairwoman Detroit Free Press discussed the Dominion Voting Software Error, Politico discussed the Dominion Software Glitch in Pennyslvania, Maricopa County in AZ only uses Dominion Software and of Course, the Clinton Foundation has the rights to it"
+        },
+        {
+            "author_id": "91905685",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Senator Mitch McConnell (KY)",
+                        "id": "888193957263400964",
+                        "name": "Mitch McConnell"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Senator Mitch McConnell (KY)",
+                        "id": "888193957263400964",
+                        "name": "Mitch McConnell"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Senator Mitch McConnell (KY)",
+                        "id": "888193957263400964",
+                        "name": "Mitch McConnell"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325239338133643264",
+            "created_at": "2020-11-08T13:10:00.000Z",
+            "edit_history_tweet_ids": [
+                "1325425339032621057"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 51,
+                        "normalized_text": "Delian",
+                        "probability": 0.3197,
+                        "start": 46,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Clinton Foundation",
+                        "probability": 0.6934,
+                        "start": 75,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 140,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.8674,
+                        "start": 126,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 150,
+                        "normalized_text": "Dominion",
+                        "probability": 0.5517,
+                        "start": 143,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 226,
+                        "normalized_text": "Mitch mcconnell",
+                        "probability": 0.7258,
+                        "start": 212,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 239,
+                        "normalized_text": "Arizona",
+                        "probability": 0.3689,
+                        "start": 233,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "2598411140",
+                        "start": 0,
+                        "username": "CrazyCountry3"
+                    },
+                    {
+                        "end": 25,
+                        "id": "2316081901",
+                        "start": 15,
+                        "username": "suniljoed"
+                    },
+                    {
+                        "end": 40,
+                        "id": "1423764069408935937",
+                        "start": 26,
+                        "username": "AlexisBerdine"
+                    },
+                    {
+                        "end": 45,
+                        "id": "11134252",
+                        "start": 41,
+                        "username": "GOP"
+                    }
+                ]
+            },
+            "id": "1325425339032621057",
+            "in_reply_to_user_id": "2598411140",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 15,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325313644020817920",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@CrazyCountry3 @suniljoed @AlexisBerdine @GOP Delian isn't a company. \nThe Clinton Foundation doesn't own voting machines.\nIn Maricopa county, Dominion supplied the machines.\nDominion donates to Republicans like Mitch mcconnell.\nThe Arizona state government is Republican.\n\nYou really should get out more."
+        },
+        {
+            "author_id": "881485129",
+            "conversation_id": "1325373731208744960",
+            "created_at": "2020-11-08T12:44:51.000Z",
+            "edit_history_tweet_ids": [
+                "1325419008309465089"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 232,
+                        "normalized_text": "PA",
+                        "probability": 0.6808,
+                        "start": 231,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 236,
+                        "normalized_text": "GA",
+                        "probability": 0.8058,
+                        "start": 235,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 240,
+                        "normalized_text": "WI",
+                        "probability": 0.3643,
+                        "start": 239,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 248,
+                        "normalized_text": "MN",
+                        "probability": 0.4659,
+                        "start": 247,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 271,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9258,
+                        "start": 257,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 280,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9115,
+                        "start": 274,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1291465565626826753",
+                        "start": 0,
+                        "username": "TinaAbshire1"
+                    },
+                    {
+                        "end": 27,
+                        "id": "1099557131664027649",
+                        "start": 14,
+                        "username": "moses_archer"
+                    },
+                    {
+                        "end": 36,
+                        "id": "1294174956427907072",
+                        "start": 28,
+                        "username": "re5iGam"
+                    },
+                    {
+                        "end": 48,
+                        "id": "991089617603411968",
+                        "start": 37,
+                        "username": "JuliansRum"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "worldtribune.com/dominion-votin\u2026",
+                        "end": 329,
+                        "expanded_url": "https://www.worldtribune.com/dominion-voting-systems-tied-to-clintons-widely-used-in-battleground-states/",
+                        "start": 306,
+                        "url": "https://t.co/LZh9RAj7K8"
+                    }
+                ]
+            },
+            "id": "1325419008309465089",
+            "in_reply_to_user_id": "1291465565626826753",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325396568044941313",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@TinaAbshire1 @moses_archer @re5iGam @JuliansRum You might want to fully research Dominion Voting Systems. Follow the money trail... so funny how it seems to lead to HILLARY, AGAIN. Dominion Voting Systems software is also used in PA, GA, WI, NV, MN and in Maricopa County, Arizona.... \n\nYOU DON\u2019T SAY.. \n\nhttps://t.co/LZh9RAj7K8"
+        },
+        {
+            "author_id": "814509389847601152",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "American businessman, Donald Trump's son",
+                        "id": "897487393250344961",
+                        "name": "Eric Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "American businessman, Donald Trump's son",
+                        "id": "897487393250344961",
+                        "name": "Eric Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325410570703679489",
+            "created_at": "2020-11-08T12:33:17.000Z",
+            "edit_history_tweet_ids": [
+                "1325416099131887618"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 164,
+                        "normalized_text": "Pelosi",
+                        "probability": 0.5841,
+                        "start": 159,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 178,
+                        "normalized_text": "Feinstein LLC",
+                        "probability": 0.5427,
+                        "start": 166,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 217,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9464,
+                        "start": 203,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 231,
+                        "normalized_text": "Clark County",
+                        "probability": 0.9833,
+                        "start": 220,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "770781940341288960",
+                        "start": 0,
+                        "username": "RudyGiuliani"
+                    },
+                    {
+                        "end": 30,
+                        "id": "25073877",
+                        "start": 14,
+                        "username": "realDonaldTrump"
+                    },
+                    {
+                        "end": 41,
+                        "id": "39349894",
+                        "start": 31,
+                        "username": "EricTrump"
+                    }
+                ]
+            },
+            "id": "1325416099131887618",
+            "in_reply_to_user_id": "770781940341288960",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325410570703679489",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@RudyGiuliani @realDonaldTrump @EricTrump get your lawyers to investigate the Dominion voting machines, some connection with the software they used owned by a Pelosi/Feinstein LLC venture, footprints in Maricopa county, Clark County, etc.. interactive map below shows where, good luck!"
+        },
+        {
+            "author_id": "814509389847601152",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325410570703679489",
+            "created_at": "2020-11-08T12:29:19.000Z",
+            "edit_history_tweet_ids": [
+                "1325415099272749058"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 62,
+                        "normalized_text": "Pelosi",
+                        "probability": 0.7166,
+                        "start": 57,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 95,
+                        "normalized_text": "GA",
+                        "probability": 0.8707,
+                        "start": 94,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 154,
+                        "normalized_text": "Michigan",
+                        "probability": 0.9695,
+                        "start": 147,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 191,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.8155,
+                        "start": 184,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 195,
+                        "normalized_text": "AZ",
+                        "probability": 0.9263,
+                        "start": 194,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 257,
+                        "normalized_text": "Clark County",
+                        "probability": 0.958,
+                        "start": 246,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 261,
+                        "normalized_text": "NV",
+                        "probability": 0.4777,
+                        "start": 260,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "770781940341288960",
+                        "start": 0,
+                        "username": "RudyGiuliani"
+                    },
+                    {
+                        "end": 30,
+                        "id": "25073877",
+                        "start": 14,
+                        "username": "realDonaldTrump"
+                    }
+                ]
+            },
+            "id": "1325415099272749058",
+            "in_reply_to_user_id": "770781940341288960",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325410570703679489",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@RudyGiuliani @realDonaldTrump Software company owned by Pelosi. 41 states Voting glitches in GA?  Dominion voting machines.\n  \nVoting glitches in Michigan? Dominion voting machines.\n\nMaricopa, AZ still counting votes? Dominion voting machines.\n\nClark County, NV still counting votes? Dominion voting machines."
+        },
+        {
+            "author_id": "1213795481060405248",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Former First Lady of the United States Hillary Clinton",
+                        "id": "10037721440",
+                        "name": "Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Former First Lady of the United States Hillary Clinton",
+                        "id": "10037721440",
+                        "name": "Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Former First Lady of the United States Hillary Clinton",
+                        "id": "10037721440",
+                        "name": "Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Georgia's parliamentary speaker resigns following protests",
+                        "id": "1142039239485341696",
+                        "name": "Georgia's parliamentary speaker resigns following protests"
+                    }
+                }
+            ],
+            "conversation_id": "1325412512343285762",
+            "created_at": "2020-11-08T12:19:02.000Z",
+            "edit_history_tweet_ids": [
+                "1325412512343285762"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.4118,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 60,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.939,
+                        "start": 49,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 69,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9521,
+                        "start": 63,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 80,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9311,
+                        "start": 72,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 88,
+                        "normalized_text": "Nevada",
+                        "probability": 0.9539,
+                        "start": 83,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 99,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.9348,
+                        "start": 91,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 122,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9452,
+                        "start": 108,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 131,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9612,
+                        "start": 125,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 141,
+                        "normalized_text": "Dominion",
+                        "probability": 0.5186,
+                        "start": 134,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 188,
+                        "normalized_text": "Democrats",
+                        "probability": 0.5194,
+                        "start": 180,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 226,
+                        "normalized_text": "Nancy Pelosi",
+                        "probability": 0.9225,
+                        "start": 215,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 235,
+                        "normalized_text": "Bill",
+                        "probability": 0.6688,
+                        "start": 232,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 255,
+                        "normalized_text": "Hillary Clinton",
+                        "probability": 0.9371,
+                        "start": 241,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "1325412512343285762",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County, Arizona. Dominion Voting Systems has ties to prominent Democrats, including House Speaker Nancy Pelosi and Bill and Hillary Clinton."
+        },
+        {
+            "author_id": "1281598408793436161",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Former First Lady of the United States Hillary Clinton",
+                        "id": "10037721440",
+                        "name": "Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Former First Lady of the United States Hillary Clinton",
+                        "id": "10037721440",
+                        "name": "Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Former First Lady of the United States Hillary Clinton",
+                        "id": "10037721440",
+                        "name": "Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Georgia's parliamentary speaker resigns following protests",
+                        "id": "1142039239485341696",
+                        "name": "Georgia's parliamentary speaker resigns following protests"
+                    }
+                }
+            ],
+            "conversation_id": "1324888533757255682",
+            "created_at": "2020-11-08T08:11:30.000Z",
+            "edit_history_tweet_ids": [
+                "1325350217449926656"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 97,
+                        "normalized_text": "PA",
+                        "probability": 0.9012,
+                        "start": 96,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 106,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9498,
+                        "start": 100,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 117,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9465,
+                        "start": 109,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 125,
+                        "normalized_text": "Nevada",
+                        "probability": 0.961,
+                        "start": 120,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 136,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.9128,
+                        "start": 128,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 158,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9412,
+                        "start": 144,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 167,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9323,
+                        "start": 161,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 259,
+                        "normalized_text": "Nancy Pelosi",
+                        "probability": 0.8865,
+                        "start": 248,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 287,
+                        "normalized_text": "Hillary Clinton",
+                        "probability": 0.7627,
+                        "start": 273,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "187680645",
+                        "start": 0,
+                        "username": "LLinWood"
+                    },
+                    {
+                        "end": 26,
+                        "id": "1248019741312155649",
+                        "start": 10,
+                        "username": "TX_WalkerRanger"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "worldtribune.com/dominion-votin\u2026",
+                        "end": 314,
+                        "expanded_url": "https://www.worldtribune.com/dominion-voting-systems-tied-to-clintons-widely-used-in-battleground-states/",
+                        "start": 291,
+                        "url": "https://t.co/tvOH090BHd"
+                    }
+                ]
+            },
+            "id": "1325350217449926656",
+            "in_reply_to_user_id": "187680645",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324888533757255682",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@LLinWood @TX_WalkerRanger SOMETHING SMELLS..\nDominion Voting Systems software is also used in \nPA, Georgia, Wisconsin, Nevada, Minnesota &amp; Maricopa County, Arizona.\n\nDominion Voting Systems has ties to prominent Demos, including House Speaker Nancy Pelosi &amp; Bill  Hillary Clinton.\n\nhttps://t.co/tvOH090BHd"
+        },
+        {
+            "author_id": "955640593924927489",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Laura Ingraham",
+                        "id": "1053753085489606656",
+                        "name": "Laura Ingraham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Laura Ingraham",
+                        "id": "1053753085489606656",
+                        "name": "Laura Ingraham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Laura Ingraham",
+                        "id": "1053753085489606656",
+                        "name": "Laura Ingraham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "James Woods",
+                        "id": "899697002988019714",
+                        "name": "James Woods"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "James Woods",
+                        "id": "899697002988019714",
+                        "name": "James Woods"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "James Woods",
+                        "id": "899697002988019714",
+                        "name": "James Woods"
+                    }
+                }
+            ],
+            "conversation_id": "1325326256435507200",
+            "created_at": "2020-11-08T06:36:17.000Z",
+            "edit_history_tweet_ids": [
+                "1325326256435507200"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 55,
+                        "normalized_text": "Woods",
+                        "probability": 0.2301,
+                        "start": 51,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 96,
+                        "normalized_text": "Michigan",
+                        "probability": 0.8546,
+                        "start": 89,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 106,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.5883,
+                        "start": 99,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 109,
+                        "normalized_text": "AZ",
+                        "probability": 0.8736,
+                        "start": 108,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 119,
+                        "normalized_text": "PA",
+                        "probability": 0.4152,
+                        "start": 118,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9342,
+                        "start": 123,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Nevada",
+                        "probability": 0.9522,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 31,
+                        "id": "78523300",
+                        "start": 16,
+                        "username": "RealJamesWoods"
+                    },
+                    {
+                        "end": 46,
+                        "id": "50769180",
+                        "start": 32,
+                        "username": "IngrahamAngle"
+                    }
+                ]
+            },
+            "id": "1325326256435507200",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324914708944707584",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @Frankz2137: @RealJamesWoods @IngrahamAngle Mr. Woods. It's Dominion Voting Services. Michigan, Maricopa AZ...Erie PA...Georgia...Nevada\u2026"
+        },
+        {
+            "author_id": "23556222",
+            "conversation_id": "1325203493855002624",
+            "created_at": "2020-11-08T06:27:16.000Z",
+            "edit_history_tweet_ids": [
+                "1325323985148502018"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 53,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9797,
+                        "start": 47,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 111,
+                        "normalized_text": "Michigan",
+                        "probability": 0.9726,
+                        "start": 104,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 148,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.8343,
+                        "start": 141,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 152,
+                        "normalized_text": "AZ",
+                        "probability": 0.9344,
+                        "start": 151,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 214,
+                        "normalized_text": "Clark County",
+                        "probability": 0.9696,
+                        "start": 203,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 218,
+                        "normalized_text": "NV",
+                        "probability": 0.4588,
+                        "start": 217,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1112706606041653248",
+                        "start": 0,
+                        "username": "TheManWithADawg"
+                    },
+                    {
+                        "end": 27,
+                        "id": "358545917",
+                        "start": 17,
+                        "username": "Cernovich"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "b1bbf8e2ef22573a"
+            },
+            "id": "1325323985148502018",
+            "in_reply_to_user_id": "1112706606041653248",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325204329255608320",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@TheManWithADawg @Cernovich Voting glitches in Georgia? Dominion voting machines.\n  \nVoting glitches in Michigan? Dominion voting machines.\n\nMaricopa, AZ still counting votes? Dominion voting machines.\n\nClark County, NV still counting votes? Dominion voting machines."
+        },
+        {
+            "author_id": "23556222",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Tomi Lahren",
+                        "id": "1055164712357220352",
+                        "name": "Tomi Lahren"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "United States Congress",
+                        "id": "961705302700654593",
+                        "name": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Tomi Lahren",
+                        "id": "1055164712357220352",
+                        "name": "Tomi Lahren"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "United States Congress",
+                        "id": "961705302700654593",
+                        "name": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Tomi Lahren",
+                        "id": "1055164712357220352",
+                        "name": "Tomi Lahren"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political Body",
+                        "id": "1068583660914266113",
+                        "name": "Government institutions"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "United States Senate",
+                        "id": "877326946253684737",
+                        "name": "United States Senate"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "United States Congress",
+                        "id": "961705302700654593",
+                        "name": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "United States Senate",
+                        "id": "877326946253684737",
+                        "name": "United States Senate"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political Body",
+                        "id": "1068583660914266113",
+                        "name": "Government institutions"
+                    }
+                }
+            ],
+            "conversation_id": "1325119674653188097",
+            "created_at": "2020-11-08T06:22:46.000Z",
+            "edit_history_tweet_ids": [
+                "1325322853944684544"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 54,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9793,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 112,
+                        "normalized_text": "Michigan",
+                        "probability": 0.9729,
+                        "start": 105,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 149,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.8253,
+                        "start": 142,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 153,
+                        "normalized_text": "AZ",
+                        "probability": 0.9348,
+                        "start": 152,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 215,
+                        "normalized_text": "Clark County",
+                        "probability": 0.9703,
+                        "start": 204,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 219,
+                        "normalized_text": "NV",
+                        "probability": 0.404,
+                        "start": 218,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 276,
+                        "start": 269,
+                        "tag": "expose"
+                    },
+                    {
+                        "end": 285,
+                        "start": 277,
+                        "tag": "senator"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "468646961",
+                        "start": 0,
+                        "username": "TomiLahren"
+                    },
+                    {
+                        "end": 28,
+                        "id": "25073877",
+                        "start": 12,
+                        "username": "realDonaldTrump"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "b1bbf8e2ef22573a"
+            },
+            "id": "1325322853944684544",
+            "in_reply_to_user_id": "468646961",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325119674653188097",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@TomiLahren @realDonaldTrump Voting glitches in Georgia? Dominion voting machines.\n  \nVoting glitches in Michigan? Dominion voting machines.\n\nMaricopa, AZ still counting votes? Dominion voting machines.\n\nClark County, NV still counting votes? Dominion voting machines. #expose #senator  @diannefienstein"
+        },
+        {
+            "author_id": "589867551",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325318002913456128",
+            "created_at": "2020-11-08T06:03:29.000Z",
+            "edit_history_tweet_ids": [
+                "1325318002913456128"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "Paul Gosar",
+                        "probability": 0.9342,
+                        "start": 25,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 57,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9412,
+                        "start": 51,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.889,
+                        "start": 131,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1651225333",
+                        "start": 3,
+                        "username": "danielchaitin7"
+                    },
+                    {
+                        "end": 46,
+                        "id": "240760644",
+                        "start": 37,
+                        "username": "RepGosar"
+                    }
+                ]
+            },
+            "id": "1325318002913456128",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 94
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324910777527046144",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @danielchaitin7: Rep. Paul Gosar (@RepGosar) of Arizona says officials should take a closer look at the voting machines used in Maricopa\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1325828294655143936",
+        "next_token": "b26v89c19zqg8o3fosbu8poezvr1msgb7xpok9d3fyt19",
+        "oldest_id": "1325318002913456128",
+        "result_count": 46
+    }
+}

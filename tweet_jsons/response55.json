@@ -1,0 +1,616 @@
+{
+    "data": [
+        {
+            "author_id": "804468982245822465",
+            "conversation_id": "1325093684887621634",
+            "created_at": "2020-11-07T15:19:37.000Z",
+            "edit_history_tweet_ids": [
+                "1325095567580655619"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "Baris",
+                        "probability": 0.4701,
+                        "start": 32,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 76,
+                        "normalized_text": "Michigan",
+                        "probability": 0.3601,
+                        "start": 69,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9321,
+                        "start": 86,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 113,
+                        "normalized_text": "AZ",
+                        "probability": 0.83,
+                        "start": 112,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 128,
+                        "normalized_text": "Clark County",
+                        "probability": 0.856,
+                        "start": 117,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 131,
+                        "normalized_text": "NV",
+                        "probability": 0.4397,
+                        "start": 130,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 163,
+                        "normalized_text": "PA",
+                        "probability": 0.5287,
+                        "start": 162,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 212,
+                        "normalized_text": "Texas",
+                        "probability": 0.9356,
+                        "start": 208,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "165039823",
+                        "start": 0,
+                        "username": "Peoples_Pundit"
+                    },
+                    {
+                        "end": 27,
+                        "id": "468911503",
+                        "start": 16,
+                        "username": "LauraBaris"
+                    }
+                ]
+            },
+            "id": "1325095567580655619",
+            "in_reply_to_user_id": "165039823",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 48,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325093684887621634",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@Peoples_Pundit @LauraBaris Mr. Baris. Its Dominion Voting Services. Michigan Glitch..Georgia glitch...Maricopa AZ...Clark County NV....the flip in votes in Erie PA....they all used Dominion Voting Services. Texas got rid of Dominion because they could not certify that it was safe from \"manipulation\""
+        },
+        {
+            "author_id": "1229060372105134080",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324903877360152578",
+            "created_at": "2020-11-07T15:08:06.000Z",
+            "edit_history_tweet_ids": [
+                "1325092671032004609"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 131,
+                        "normalized_text": "MI",
+                        "probability": 0.6922,
+                        "start": 130,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 152,
+                        "normalized_text": "Dominion",
+                        "probability": 0.6546,
+                        "start": 145,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 160,
+                        "normalized_text": "Biden",
+                        "probability": 0.9147,
+                        "start": 156,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 192,
+                        "normalized_text": "Biden",
+                        "probability": 0.8433,
+                        "start": 188,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 230,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.7687,
+                        "start": 216,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 237,
+                        "normalized_text": "Biden",
+                        "probability": 0.7682,
+                        "start": 233,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 249,
+                        "normalized_text": "AZ",
+                        "probability": 0.642,
+                        "start": 248,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 288,
+                        "normalized_text": "Maricopa\n\nMaricopa",
+                        "probability": 0.4518,
+                        "start": 271,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 313,
+                        "normalized_text": "AZ",
+                        "probability": 0.8797,
+                        "start": 312,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 26,
+                        "id": "1301627851029065728",
+                        "start": 15,
+                        "username": "PlagerAlan"
+                    },
+                    {
+                        "end": 41,
+                        "id": "19211550",
+                        "start": 27,
+                        "username": "gatewaypundit"
+                    }
+                ]
+            },
+            "id": "1325092671032004609",
+            "in_reply_to_user_id": "64820964",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325091761950085121",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@mpinthedesert @PlagerAlan @gatewaypundit @RecorderFontes The voting machines related to the 6,000 confirmed incorrect ballots in MI are made by Dominion.\n\nBiden is up by 40K votes in AZ\n\nBiden is up by 60K votes in Maricopa County\n\nBiden's entire AZ lead and more is in Maricopa\n\nMaricopa is the ONLY county in AZ that uses Dominion."
+        },
+        {
+            "author_id": "1229060372105134080",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325092222363054081",
+            "created_at": "2020-11-07T15:07:23.000Z",
+            "edit_history_tweet_ids": [
+                "1325092489234161666"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 83,
+                        "normalized_text": "MI",
+                        "probability": 0.6783,
+                        "start": 82,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 104,
+                        "normalized_text": "Dominion",
+                        "probability": 0.737,
+                        "start": 97,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 112,
+                        "normalized_text": "Biden",
+                        "probability": 0.9246,
+                        "start": 108,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 144,
+                        "normalized_text": "Biden",
+                        "probability": 0.8486,
+                        "start": 140,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 182,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.7193,
+                        "start": 168,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 189,
+                        "normalized_text": "Biden",
+                        "probability": 0.8587,
+                        "start": 185,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 201,
+                        "normalized_text": "AZ",
+                        "probability": 0.6487,
+                        "start": 200,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 240,
+                        "normalized_text": "Maricopa\n\nMaricopa",
+                        "probability": 0.4865,
+                        "start": 223,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 265,
+                        "normalized_text": "AZ",
+                        "probability": 0.8499,
+                        "start": 264,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "41630474",
+                        "start": 0,
+                        "username": "hosesway"
+                    }
+                ]
+            },
+            "id": "1325092489234161666",
+            "in_reply_to_user_id": "41630474",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325092222363054081",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@hosesway The voting machines related to the 6,000 confirmed incorrect ballots in MI are made by Dominion.\n\nBiden is up by 40K votes in AZ\n\nBiden is up by 60K votes in Maricopa County\n\nBiden's entire AZ lead and more is in Maricopa\n\nMaricopa is the ONLY county in AZ that uses Dominion."
+        },
+        {
+            "author_id": "2863725277",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325089642413256704",
+            "created_at": "2020-11-07T14:56:04.000Z",
+            "edit_history_tweet_ids": [
+                "1325089642413256704"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "Paul Gosar",
+                        "probability": 0.9342,
+                        "start": 25,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 57,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9412,
+                        "start": 51,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.889,
+                        "start": 131,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1651225333",
+                        "start": 3,
+                        "username": "danielchaitin7"
+                    },
+                    {
+                        "end": 46,
+                        "id": "240760644",
+                        "start": 37,
+                        "username": "RepGosar"
+                    }
+                ]
+            },
+            "id": "1325089642413256704",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 94
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324910777527046144",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @danielchaitin7: Rep. Paul Gosar (@RepGosar) of Arizona says officials should take a closer look at the voting machines used in Maricopa\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1325095567580655619",
+        "next_token": "b26v89c19zqg8o3fosbu8lenya88b56olong91aoxxzst",
+        "oldest_id": "1325089642413256704",
+        "result_count": 4
+    }
+}

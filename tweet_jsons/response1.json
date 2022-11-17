@@ -1,0 +1,4669 @@
+{
+    "data": [
+        {
+            "author_id": "570524532",
+            "conversation_id": "1327389002228408320",
+            "created_at": "2020-11-13T23:12:54.000Z",
+            "edit_history_tweet_ids": [
+                "1327389002228408320"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327389002228408320",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "1144421822739492864",
+            "conversation_id": "1327388996679446540",
+            "created_at": "2020-11-13T23:12:53.000Z",
+            "edit_history_tweet_ids": [
+                "1327388996679446540"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327388996679446540",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "1193520380998307842",
+            "conversation_id": "1327388842060640257",
+            "created_at": "2020-11-13T23:12:16.000Z",
+            "edit_history_tweet_ids": [
+                "1327388842060640257"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327388842060640257",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "1319299854",
+            "conversation_id": "1327388700704010240",
+            "created_at": "2020-11-13T23:11:42.000Z",
+            "edit_history_tweet_ids": [
+                "1327388700704010240"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327388700704010240",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "372078097",
+            "conversation_id": "1327388620685193219",
+            "created_at": "2020-11-13T23:11:23.000Z",
+            "edit_history_tweet_ids": [
+                "1327388620685193219"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327388620685193219",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "909411446999494656",
+            "conversation_id": "1327388337284423680",
+            "created_at": "2020-11-13T23:10:15.000Z",
+            "edit_history_tweet_ids": [
+                "1327388337284423680"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327388337284423680",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "3804528016",
+            "conversation_id": "1327388290362839042",
+            "created_at": "2020-11-13T23:10:04.000Z",
+            "edit_history_tweet_ids": [
+                "1327388290362839042"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327388290362839042",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "50441120",
+            "conversation_id": "1327388219978158081",
+            "created_at": "2020-11-13T23:09:47.000Z",
+            "edit_history_tweet_ids": [
+                "1327388219978158081"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327388219978158081",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "799646661844799488",
+            "conversation_id": "1327388154639360001",
+            "created_at": "2020-11-13T23:09:32.000Z",
+            "edit_history_tweet_ids": [
+                "1327388154639360001"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327388154639360001",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "843162407224655874",
+            "conversation_id": "1327388061785858056",
+            "created_at": "2020-11-13T23:09:10.000Z",
+            "edit_history_tweet_ids": [
+                "1327388061785858056"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327388061785858056",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "3312339378",
+            "conversation_id": "1327388003896094721",
+            "created_at": "2020-11-13T23:08:56.000Z",
+            "edit_history_tweet_ids": [
+                "1327388003896094721"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327388003896094721",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "880545711892385792",
+            "conversation_id": "1327387858294988800",
+            "created_at": "2020-11-13T23:08:21.000Z",
+            "edit_history_tweet_ids": [
+                "1327387858294988800"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327387858294988800",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "3161308729",
+            "conversation_id": "1327387832688766976",
+            "created_at": "2020-11-13T23:08:15.000Z",
+            "edit_history_tweet_ids": [
+                "1327387832688766976"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327387832688766976",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "2329260715",
+            "conversation_id": "1327387726744784896",
+            "created_at": "2020-11-13T23:07:50.000Z",
+            "edit_history_tweet_ids": [
+                "1327387726744784896"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327387726744784896",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "1305263834123382784",
+            "conversation_id": "1327387706842882049",
+            "created_at": "2020-11-13T23:07:45.000Z",
+            "edit_history_tweet_ids": [
+                "1327387706842882049"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327387706842882049",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "714538042229305344",
+            "conversation_id": "1327387630753951745",
+            "created_at": "2020-11-13T23:07:27.000Z",
+            "edit_history_tweet_ids": [
+                "1327387630753951745"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327387630753951745",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "889176109409087492",
+            "conversation_id": "1327387445705445382",
+            "created_at": "2020-11-13T23:06:43.000Z",
+            "edit_history_tweet_ids": [
+                "1327387445705445382"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327387445705445382",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "1325889869294546944",
+            "conversation_id": "1327387240058806273",
+            "created_at": "2020-11-13T23:05:54.000Z",
+            "edit_history_tweet_ids": [
+                "1327387240058806273"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327387240058806273",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "1125610782451011584",
+            "conversation_id": "1327387215266271232",
+            "created_at": "2020-11-13T23:05:48.000Z",
+            "edit_history_tweet_ids": [
+                "1327387215266271232"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327387215266271232",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "803560250",
+            "conversation_id": "1327387053420638210",
+            "created_at": "2020-11-13T23:05:09.000Z",
+            "edit_history_tweet_ids": [
+                "1327387053420638210"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327387053420638210",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "631656282",
+            "conversation_id": "1327386773488607232",
+            "created_at": "2020-11-13T23:04:03.000Z",
+            "edit_history_tweet_ids": [
+                "1327386773488607232"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327386773488607232",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "50188609",
+            "conversation_id": "1327386768140689408",
+            "created_at": "2020-11-13T23:04:01.000Z",
+            "edit_history_tweet_ids": [
+                "1327386768140689408"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327386768140689408",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "976446646841151488",
+            "conversation_id": "1327386745600700418",
+            "created_at": "2020-11-13T23:03:56.000Z",
+            "edit_history_tweet_ids": [
+                "1327386745600700418"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327386745600700418",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "1293006107422740480",
+            "conversation_id": "1327386608212058113",
+            "created_at": "2020-11-13T23:03:23.000Z",
+            "edit_history_tweet_ids": [
+                "1327386608212058113"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327386608212058113",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "4919080518",
+            "conversation_id": "1327386407556444162",
+            "created_at": "2020-11-13T23:02:35.000Z",
+            "edit_history_tweet_ids": [
+                "1327386407556444162"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327386407556444162",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "20600922",
+            "conversation_id": "1327386291441442816",
+            "created_at": "2020-11-13T23:02:08.000Z",
+            "edit_history_tweet_ids": [
+                "1327386291441442816"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327386291441442816",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "2227350161",
+            "conversation_id": "1327386223711834112",
+            "created_at": "2020-11-13T23:01:52.000Z",
+            "edit_history_tweet_ids": [
+                "1327386223711834112"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327386223711834112",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "884950836",
+            "conversation_id": "1327385993369055237",
+            "created_at": "2020-11-13T23:00:57.000Z",
+            "edit_history_tweet_ids": [
+                "1327385993369055237"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327385993369055237",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "1117827115745972224",
+            "conversation_id": "1327385856605380614",
+            "created_at": "2020-11-13T23:00:24.000Z",
+            "edit_history_tweet_ids": [
+                "1327385856605380614"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327385856605380614",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "1045853877302628352",
+            "conversation_id": "1327385848481009665",
+            "created_at": "2020-11-13T23:00:22.000Z",
+            "edit_history_tweet_ids": [
+                "1327385848481009665"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327385848481009665",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "1057020473006084096",
+            "conversation_id": "1327385638677716992",
+            "created_at": "2020-11-13T22:59:32.000Z",
+            "edit_history_tweet_ids": [
+                "1327385638677716992"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327385638677716992",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "905260576888291329",
+            "conversation_id": "1327385537573863427",
+            "created_at": "2020-11-13T22:59:08.000Z",
+            "edit_history_tweet_ids": [
+                "1327385537573863427"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327385537573863427",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "373938490",
+            "conversation_id": "1327385390098092039",
+            "created_at": "2020-11-13T22:58:33.000Z",
+            "edit_history_tweet_ids": [
+                "1327385390098092039"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327385390098092039",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "2994238670",
+            "conversation_id": "1327385302462210049",
+            "created_at": "2020-11-13T22:58:12.000Z",
+            "edit_history_tweet_ids": [
+                "1327385302462210049"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327385302462210049",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "2705283162",
+            "conversation_id": "1327385277426524160",
+            "created_at": "2020-11-13T22:58:06.000Z",
+            "edit_history_tweet_ids": [
+                "1327385277426524160"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327385277426524160",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "47497573",
+            "conversation_id": "1327385191057412100",
+            "created_at": "2020-11-13T22:57:45.000Z",
+            "edit_history_tweet_ids": [
+                "1327385191057412100"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327385191057412100",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "791851458241171457",
+            "conversation_id": "1327384936412745728",
+            "created_at": "2020-11-13T22:56:45.000Z",
+            "edit_history_tweet_ids": [
+                "1327384936412745728"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327384936412745728",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "876146968413601792",
+            "conversation_id": "1327384873082916865",
+            "created_at": "2020-11-13T22:56:30.000Z",
+            "edit_history_tweet_ids": [
+                "1327384873082916865"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327384873082916865",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "3886653026",
+            "conversation_id": "1327384749804032001",
+            "created_at": "2020-11-13T22:56:00.000Z",
+            "edit_history_tweet_ids": [
+                "1327384749804032001"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327384749804032001",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "584092333",
+            "conversation_id": "1327384554630426624",
+            "created_at": "2020-11-13T22:55:14.000Z",
+            "edit_history_tweet_ids": [
+                "1327384554630426624"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327384554630426624",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "256799206",
+            "conversation_id": "1327384278284578816",
+            "created_at": "2020-11-13T22:54:08.000Z",
+            "edit_history_tweet_ids": [
+                "1327384278284578816"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327384278284578816",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "358909243",
+            "conversation_id": "1327384195312742402",
+            "created_at": "2020-11-13T22:53:48.000Z",
+            "edit_history_tweet_ids": [
+                "1327384195312742402"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327384195312742402",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "822923885108690944",
+            "conversation_id": "1327384176774029313",
+            "created_at": "2020-11-13T22:53:44.000Z",
+            "edit_history_tweet_ids": [
+                "1327384176774029313"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327384176774029313",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "829104120657223681",
+            "conversation_id": "1327384098860576772",
+            "created_at": "2020-11-13T22:53:25.000Z",
+            "edit_history_tweet_ids": [
+                "1327384098860576772"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327384098860576772",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "727523600912130048",
+            "conversation_id": "1327383882644250625",
+            "created_at": "2020-11-13T22:52:33.000Z",
+            "edit_history_tweet_ids": [
+                "1327383882644250625"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327383882644250625",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "38226099",
+            "conversation_id": "1327383878038941700",
+            "created_at": "2020-11-13T22:52:32.000Z",
+            "edit_history_tweet_ids": [
+                "1327383878038941700"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327383878038941700",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "54549682",
+            "conversation_id": "1327383814293733377",
+            "created_at": "2020-11-13T22:52:17.000Z",
+            "edit_history_tweet_ids": [
+                "1327383814293733377"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327383814293733377",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "789151738003456000",
+            "conversation_id": "1327383761638584320",
+            "created_at": "2020-11-13T22:52:05.000Z",
+            "edit_history_tweet_ids": [
+                "1327383761638584320"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327383761638584320",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "2381210730",
+            "conversation_id": "1327383697360883712",
+            "created_at": "2020-11-13T22:51:49.000Z",
+            "edit_history_tweet_ids": [
+                "1327383697360883712"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327383697360883712",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "3948615497",
+            "conversation_id": "1327383696777879556",
+            "created_at": "2020-11-13T22:51:49.000Z",
+            "edit_history_tweet_ids": [
+                "1327383696777879556"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327383696777879556",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "1139321724170842114",
+            "conversation_id": "1327383643791241218",
+            "created_at": "2020-11-13T22:51:36.000Z",
+            "edit_history_tweet_ids": [
+                "1327383643791241218"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327383643791241218",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "755897108",
+            "conversation_id": "1327383539944468480",
+            "created_at": "2020-11-13T22:51:12.000Z",
+            "edit_history_tweet_ids": [
+                "1327383539944468480"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327383539944468480",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "78777205",
+            "conversation_id": "1327383520122171393",
+            "created_at": "2020-11-13T22:51:07.000Z",
+            "edit_history_tweet_ids": [
+                "1327383520122171393"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327383520122171393",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "578505155",
+            "conversation_id": "1327383395584909312",
+            "created_at": "2020-11-13T22:50:37.000Z",
+            "edit_history_tweet_ids": [
+                "1327383395584909312"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327383395584909312",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "839485124068708352",
+            "conversation_id": "1327383372134551552",
+            "created_at": "2020-11-13T22:50:32.000Z",
+            "edit_history_tweet_ids": [
+                "1327383372134551552"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327383372134551552",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "4068254879",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Political Commentator and Analyst ",
+                        "id": "1138070898013982721",
+                        "name": "Ryan Fournier"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1318573265820921857",
+                        "name": "2020 US Election Day"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Political Commentator and Analyst ",
+                        "id": "1138070898013982721",
+                        "name": "Ryan Fournier"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political Commentator and Analyst ",
+                        "id": "1138070898013982721",
+                        "name": "Ryan Fournier"
+                    }
+                }
+            ],
+            "conversation_id": "1327383321836392449",
+            "created_at": "2020-11-13T22:50:20.000Z",
+            "edit_history_tweet_ids": [
+                "1327383321836392449"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 62,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.5097,
+                        "start": 40,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 131,
+                        "normalized_text": "Dominion",
+                        "probability": 0.4077,
+                        "start": 124,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "17602514",
+                        "start": 3,
+                        "username": "RichJaeger"
+                    },
+                    {
+                        "end": 24,
+                        "id": "76543481",
+                        "start": 16,
+                        "username": "BorisEP"
+                    },
+                    {
+                        "end": 39,
+                        "id": "166751745",
+                        "start": 25,
+                        "username": "RyanAFournier"
+                    }
+                ]
+            },
+            "id": "1327383321836392449",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327357196389199872",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @RichJaeger: @BorisEP @RyanAFournier Dominion Voting Systems' is at the heart of the 2020 Election voter fraud scandal.\n\nDominion is loc\u2026"
+        },
+        {
+            "author_id": "1245106127311945729",
+            "conversation_id": "1327383251191795712",
+            "created_at": "2020-11-13T22:50:03.000Z",
+            "edit_history_tweet_ids": [
+                "1327383251191795712"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327383251191795712",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "1259650468839665669",
+            "conversation_id": "1327383226822914048",
+            "created_at": "2020-11-13T22:49:57.000Z",
+            "edit_history_tweet_ids": [
+                "1327383226822914048"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327383226822914048",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "1269069980634497026",
+            "conversation_id": "1327383135516991488",
+            "created_at": "2020-11-13T22:49:35.000Z",
+            "edit_history_tweet_ids": [
+                "1327383135516991488"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327383135516991488",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "1243619923202580481",
+            "conversation_id": "1327383044936839169",
+            "created_at": "2020-11-13T22:49:14.000Z",
+            "edit_history_tweet_ids": [
+                "1327383044936839169"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327383044936839169",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "955887216332599296",
+            "conversation_id": "1327382933343264769",
+            "created_at": "2020-11-13T22:48:47.000Z",
+            "edit_history_tweet_ids": [
+                "1327382933343264769"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327382933343264769",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "480934722",
+            "conversation_id": "1327382928624676870",
+            "created_at": "2020-11-13T22:48:46.000Z",
+            "edit_history_tweet_ids": [
+                "1327382928624676870"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327382928624676870",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "705813242602496001",
+            "conversation_id": "1327382801923121154",
+            "created_at": "2020-11-13T22:48:16.000Z",
+            "edit_history_tweet_ids": [
+                "1327382801923121154"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327382801923121154",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "221337205",
+            "conversation_id": "1327382790896234496",
+            "created_at": "2020-11-13T22:48:13.000Z",
+            "edit_history_tweet_ids": [
+                "1327382790896234496"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327382790896234496",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "789276428722245632",
+            "conversation_id": "1327382744737992710",
+            "created_at": "2020-11-13T22:48:02.000Z",
+            "edit_history_tweet_ids": [
+                "1327382744737992710"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327382744737992710",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "339665240",
+            "conversation_id": "1327382666681847808",
+            "created_at": "2020-11-13T22:47:43.000Z",
+            "edit_history_tweet_ids": [
+                "1327382666681847808"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327382666681847808",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "117573043",
+            "conversation_id": "1327382581197889536",
+            "created_at": "2020-11-13T22:47:23.000Z",
+            "edit_history_tweet_ids": [
+                "1327382581197889536"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327382581197889536",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "1324464639699202053",
+            "conversation_id": "1327382527313649666",
+            "created_at": "2020-11-13T22:47:10.000Z",
+            "edit_history_tweet_ids": [
+                "1327382527313649666"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327382527313649666",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "620380827",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Political Commentator and Analyst ",
+                        "id": "1138070898013982721",
+                        "name": "Ryan Fournier"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1318573265820921857",
+                        "name": "2020 US Election Day"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Political Commentator and Analyst ",
+                        "id": "1138070898013982721",
+                        "name": "Ryan Fournier"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political Commentator and Analyst ",
+                        "id": "1138070898013982721",
+                        "name": "Ryan Fournier"
+                    }
+                }
+            ],
+            "conversation_id": "1327382481201410048",
+            "created_at": "2020-11-13T22:46:59.000Z",
+            "edit_history_tweet_ids": [
+                "1327382481201410048"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 62,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.5097,
+                        "start": 40,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 131,
+                        "normalized_text": "Dominion",
+                        "probability": 0.4077,
+                        "start": 124,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "17602514",
+                        "start": 3,
+                        "username": "RichJaeger"
+                    },
+                    {
+                        "end": 24,
+                        "id": "76543481",
+                        "start": 16,
+                        "username": "BorisEP"
+                    },
+                    {
+                        "end": 39,
+                        "id": "166751745",
+                        "start": 25,
+                        "username": "RyanAFournier"
+                    }
+                ]
+            },
+            "id": "1327382481201410048",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327357196389199872",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @RichJaeger: @BorisEP @RyanAFournier Dominion Voting Systems' is at the heart of the 2020 Election voter fraud scandal.\n\nDominion is loc\u2026"
+        },
+        {
+            "author_id": "516872875",
+            "conversation_id": "1327382391342592000",
+            "created_at": "2020-11-13T22:46:38.000Z",
+            "edit_history_tweet_ids": [
+                "1327382391342592000"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327382391342592000",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "877255319239499776",
+            "conversation_id": "1327382317820760066",
+            "created_at": "2020-11-13T22:46:20.000Z",
+            "edit_history_tweet_ids": [
+                "1327382317820760066"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327382317820760066",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "157556375",
+            "conversation_id": "1327382293711888386",
+            "created_at": "2020-11-13T22:46:15.000Z",
+            "edit_history_tweet_ids": [
+                "1327382293711888386"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327382293711888386",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "38022781",
+            "conversation_id": "1327382248807657484",
+            "created_at": "2020-11-13T22:46:04.000Z",
+            "edit_history_tweet_ids": [
+                "1327382248807657484"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327382248807657484",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "1006782722",
+            "conversation_id": "1327382186610335745",
+            "created_at": "2020-11-13T22:45:49.000Z",
+            "edit_history_tweet_ids": [
+                "1327382186610335745"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327382186610335745",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "735898694222897153",
+            "conversation_id": "1327382155354394624",
+            "created_at": "2020-11-13T22:45:42.000Z",
+            "edit_history_tweet_ids": [
+                "1327382155354394624"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 17,
+                        "normalized_text": "MARICOPA",
+                        "probability": 0.4076,
+                        "start": 10,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 32,
+                        "normalized_text": "ARIZONA",
+                        "probability": 0.252,
+                        "start": 26,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/PHboQTYXIO",
+                        "end": 133,
+                        "expanded_url": "https://twitter.com/linusz88/status/1327382155354394624/photo/1",
+                        "media_key": "3_1327382149633372160",
+                        "start": 110,
+                        "url": "https://t.co/PHboQTYXIO"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/PHboQTYXIO",
+                        "end": 133,
+                        "expanded_url": "https://twitter.com/linusz88/status/1327382155354394624/photo/1",
+                        "media_key": "3_1327382153546567688",
+                        "start": 110,
+                        "url": "https://t.co/PHboQTYXIO"
+                    }
+                ]
+            },
+            "id": "1327382155354394624",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "BREAKING: MARICOPA COUNTY ARIZONA\nDominion voting machines weren't officially certified according to statute. https://t.co/PHboQTYXIO"
+        },
+        {
+            "author_id": "22272027",
+            "conversation_id": "1327382093643517952",
+            "created_at": "2020-11-13T22:45:27.000Z",
+            "edit_history_tweet_ids": [
+                "1327382093643517952"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327382093643517952",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "2223776764",
+            "conversation_id": "1327381992363712513",
+            "created_at": "2020-11-13T22:45:03.000Z",
+            "edit_history_tweet_ids": [
+                "1327381992363712513"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327381992363712513",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "3309130765",
+            "conversation_id": "1327381983840718848",
+            "created_at": "2020-11-13T22:45:01.000Z",
+            "edit_history_tweet_ids": [
+                "1327381983840718848"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327381983840718848",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "443507554",
+            "conversation_id": "1327381742320111616",
+            "created_at": "2020-11-13T22:44:03.000Z",
+            "edit_history_tweet_ids": [
+                "1327381742320111616"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327381742320111616",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "701911021250854912",
+            "conversation_id": "1327381714155532289",
+            "created_at": "2020-11-13T22:43:56.000Z",
+            "edit_history_tweet_ids": [
+                "1327381714155532289"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327381714155532289",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "236541422",
+            "conversation_id": "1327381685491609600",
+            "created_at": "2020-11-13T22:43:50.000Z",
+            "edit_history_tweet_ids": [
+                "1327381685491609600"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327381685491609600",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "620380827",
+            "conversation_id": "1327381682287222785",
+            "created_at": "2020-11-13T22:43:49.000Z",
+            "edit_history_tweet_ids": [
+                "1327381682287222785"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327381682287222785",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "15793556",
+            "conversation_id": "1327381679279923203",
+            "created_at": "2020-11-13T22:43:48.000Z",
+            "edit_history_tweet_ids": [
+                "1327381679279923203"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327381679279923203",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "84592949",
+            "conversation_id": "1327381638435774465",
+            "created_at": "2020-11-13T22:43:38.000Z",
+            "edit_history_tweet_ids": [
+                "1327381638435774465"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327381638435774465",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "1156590095622922241",
+            "conversation_id": "1327381467895386112",
+            "created_at": "2020-11-13T22:42:58.000Z",
+            "edit_history_tweet_ids": [
+                "1327381467895386112"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327381467895386112",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "1037981756",
+            "conversation_id": "1327381463252283400",
+            "created_at": "2020-11-13T22:42:57.000Z",
+            "edit_history_tweet_ids": [
+                "1327381463252283400"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327381463252283400",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        },
+        {
+            "author_id": "1173239803128582144",
+            "conversation_id": "1327381460437798912",
+            "created_at": "2020-11-13T22:42:56.000Z",
+            "edit_history_tweet_ids": [
+                "1327381460437798912"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa county",
+                        "probability": 0.9302,
+                        "start": 45,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9717,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "76543481",
+                        "start": 3,
+                        "username": "BorisEP"
+                    }
+                ]
+            },
+            "id": "1327381460437798912",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2261
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327350939167158278",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BorisEP: Dominion Voting Systems used in Maricopa county, which accounts for... over 70 percent of votes in Arizona.\n\nWe HAVE TO COUNT\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1327389002228408320",
+        "next_token": "b26v89c19zqg8o3fosbv330pw9c8a7iui8a4wmui5cvb1",
+        "oldest_id": "1327381460437798912",
+        "result_count": 87
+    }
+}

@@ -1,0 +1,3418 @@
+{
+    "data": [
+        {
+            "author_id": "346010827",
+            "conversation_id": "1326737241188806656",
+            "created_at": "2020-11-12T04:03:02.000Z",
+            "edit_history_tweet_ids": [
+                "1326737241188806656"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 82,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9714,
+                        "start": 68,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "732716625619648512",
+                        "start": 3,
+                        "username": "Minerva5415427"
+                    },
+                    {
+                        "end": 34,
+                        "id": "16523905",
+                        "start": 20,
+                        "username": "robbystarbuck"
+                    }
+                ]
+            },
+            "id": "1326737241188806656",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326736527074979840",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @Minerva5415427: @robbystarbuck Dominion voting machines used in Maricopa County...hmm"
+        },
+        {
+            "author_id": "732716625619648512",
+            "conversation_id": "1326736224195850241",
+            "created_at": "2020-11-12T04:00:12.000Z",
+            "edit_history_tweet_ids": [
+                "1326736527074979840"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 62,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9757,
+                        "start": 48,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "16523905",
+                        "start": 0,
+                        "username": "robbystarbuck"
+                    }
+                ]
+            },
+            "id": "1326736527074979840",
+            "in_reply_to_user_id": "16523905",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 51,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326736224195850241",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@robbystarbuck Dominion voting machines used in Maricopa County...hmm"
+        },
+        {
+            "author_id": "1258242021900406784",
+            "conversation_id": "1326736164657782784",
+            "created_at": "2020-11-12T03:58:45.000Z",
+            "edit_history_tweet_ids": [
+                "1326736164657782784"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326736164657782784",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "1257712375",
+            "conversation_id": "1326735990938083337",
+            "created_at": "2020-11-12T03:58:04.000Z",
+            "edit_history_tweet_ids": [
+                "1326735990938083337"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326735990938083337",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "59600581",
+            "conversation_id": "1326735143269249025",
+            "created_at": "2020-11-12T03:54:42.000Z",
+            "edit_history_tweet_ids": [
+                "1326735143269249025"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326735143269249025",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "1708553035",
+            "conversation_id": "1326734584587972608",
+            "created_at": "2020-11-12T03:52:29.000Z",
+            "edit_history_tweet_ids": [
+                "1326734584587972608"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326734584587972608",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "1316734884530933760",
+            "conversation_id": "1326734364453998593",
+            "created_at": "2020-11-12T03:51:36.000Z",
+            "edit_history_tweet_ids": [
+                "1326734364453998593"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326734364453998593",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "AndStatus-OpenSource",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "1152654837252857857",
+            "conversation_id": "1326733608141385728",
+            "created_at": "2020-11-12T03:48:36.000Z",
+            "edit_history_tweet_ids": [
+                "1326733608141385728"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326733608141385728",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "1151577398477041665",
+            "conversation_id": "1326733347830321152",
+            "created_at": "2020-11-12T03:47:34.000Z",
+            "edit_history_tweet_ids": [
+                "1326733347830321152"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326733347830321152",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "3303875630",
+            "conversation_id": "1326732158711586817",
+            "created_at": "2020-11-12T03:42:50.000Z",
+            "edit_history_tweet_ids": [
+                "1326732158711586817"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326732158711586817",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "172485255",
+            "conversation_id": "1326731813943980033",
+            "created_at": "2020-11-12T03:41:28.000Z",
+            "edit_history_tweet_ids": [
+                "1326731813943980033"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326731813943980033",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "2536551196",
+            "conversation_id": "1326731813042094081",
+            "created_at": "2020-11-12T03:41:28.000Z",
+            "edit_history_tweet_ids": [
+                "1326731813042094081"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326731813042094081",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "29384303",
+            "conversation_id": "1326731764786671616",
+            "created_at": "2020-11-12T03:41:16.000Z",
+            "edit_history_tweet_ids": [
+                "1326731764786671616"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326731764786671616",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "2600818932",
+            "conversation_id": "1326731748487680000",
+            "created_at": "2020-11-12T03:41:12.000Z",
+            "edit_history_tweet_ids": [
+                "1326731748487680000"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326731748487680000",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "26493904",
+            "conversation_id": "1326731447886090243",
+            "created_at": "2020-11-12T03:40:01.000Z",
+            "edit_history_tweet_ids": [
+                "1326731447886090243"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326731447886090243",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "1884086156",
+            "conversation_id": "1326731326872035335",
+            "created_at": "2020-11-12T03:39:32.000Z",
+            "edit_history_tweet_ids": [
+                "1326731326872035335"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326731326872035335",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "363704109",
+            "conversation_id": "1326730989167497218",
+            "created_at": "2020-11-12T03:38:11.000Z",
+            "edit_history_tweet_ids": [
+                "1326730989167497218"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326730989167497218",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "947688157100871680",
+            "conversation_id": "1326730972205895681",
+            "created_at": "2020-11-12T03:38:07.000Z",
+            "edit_history_tweet_ids": [
+                "1326730972205895681"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326730972205895681",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "560058255",
+            "conversation_id": "1326730915238850560",
+            "created_at": "2020-11-12T03:37:54.000Z",
+            "edit_history_tweet_ids": [
+                "1326730915238850560"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326730915238850560",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "1325816359499018240",
+            "conversation_id": "1326730890429476864",
+            "created_at": "2020-11-12T03:37:48.000Z",
+            "edit_history_tweet_ids": [
+                "1326730890429476864"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326730890429476864",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "373159336",
+            "conversation_id": "1326730627996127233",
+            "created_at": "2020-11-12T03:36:45.000Z",
+            "edit_history_tweet_ids": [
+                "1326730627996127233"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326730627996127233",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "574871356",
+            "conversation_id": "1326730563923939328",
+            "created_at": "2020-11-12T03:36:30.000Z",
+            "edit_history_tweet_ids": [
+                "1326730563923939328"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326730563923939328",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "35318897",
+            "conversation_id": "1326729886275350532",
+            "created_at": "2020-11-12T03:33:48.000Z",
+            "edit_history_tweet_ids": [
+                "1326729886275350532"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326729886275350532",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "997975957985202176",
+            "conversation_id": "1326729645413322752",
+            "created_at": "2020-11-12T03:32:51.000Z",
+            "edit_history_tweet_ids": [
+                "1326729645413322752"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326729645413322752",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "43816649",
+            "conversation_id": "1326729565071413248",
+            "created_at": "2020-11-12T03:32:32.000Z",
+            "edit_history_tweet_ids": [
+                "1326729565071413248"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326729565071413248",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "1260153174",
+            "conversation_id": "1326729480308731905",
+            "created_at": "2020-11-12T03:32:12.000Z",
+            "edit_history_tweet_ids": [
+                "1326729480308731905"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326729480308731905",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "48289070",
+            "conversation_id": "1326729457697255430",
+            "created_at": "2020-11-12T03:32:06.000Z",
+            "edit_history_tweet_ids": [
+                "1326729457697255430"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326729457697255430",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "1668206994",
+            "conversation_id": "1326729407256547328",
+            "created_at": "2020-11-12T03:31:54.000Z",
+            "edit_history_tweet_ids": [
+                "1326729407256547328"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326729407256547328",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "807617724910182401",
+            "conversation_id": "1326729327690485762",
+            "created_at": "2020-11-12T03:31:35.000Z",
+            "edit_history_tweet_ids": [
+                "1326729327690485762"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326729327690485762",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "777679891059716096",
+            "conversation_id": "1326729270908116994",
+            "created_at": "2020-11-12T03:31:22.000Z",
+            "edit_history_tweet_ids": [
+                "1326729270908116994"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326729270908116994",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "163626482",
+            "conversation_id": "1326729123167825922",
+            "created_at": "2020-11-12T03:30:47.000Z",
+            "edit_history_tweet_ids": [
+                "1326729123167825922"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326729123167825922",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "702313144346017792",
+            "conversation_id": "1326728980100247553",
+            "created_at": "2020-11-12T03:30:12.000Z",
+            "edit_history_tweet_ids": [
+                "1326728980100247553"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326728980100247553",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "1275963355052867585",
+            "conversation_id": "1326728889062871041",
+            "created_at": "2020-11-12T03:29:51.000Z",
+            "edit_history_tweet_ids": [
+                "1326728889062871041"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326728889062871041",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "972519758040940544",
+            "conversation_id": "1326728883320729602",
+            "created_at": "2020-11-12T03:29:49.000Z",
+            "edit_history_tweet_ids": [
+                "1326728883320729602"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326728883320729602",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "2670160051",
+            "conversation_id": "1326728878593892352",
+            "created_at": "2020-11-12T03:29:48.000Z",
+            "edit_history_tweet_ids": [
+                "1326728878593892352"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326728878593892352",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "410256885",
+            "conversation_id": "1326728837284048896",
+            "created_at": "2020-11-12T03:29:38.000Z",
+            "edit_history_tweet_ids": [
+                "1326728837284048896"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326728837284048896",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "36830025",
+            "conversation_id": "1326728804967067648",
+            "created_at": "2020-11-12T03:29:31.000Z",
+            "edit_history_tweet_ids": [
+                "1326728804967067648"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326728804967067648",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "1150914516",
+            "conversation_id": "1326728632908337152",
+            "created_at": "2020-11-12T03:28:50.000Z",
+            "edit_history_tweet_ids": [
+                "1326728632908337152"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326728632908337152",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "1094037623646019584",
+            "conversation_id": "1326706825878626304",
+            "created_at": "2020-11-12T02:02:10.000Z",
+            "edit_history_tweet_ids": [
+                "1326706825878626304"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.4977,
+                        "start": 0,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 49,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8518,
+                        "start": 35,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 58,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9288,
+                        "start": 52,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9876,
+                        "start": 86,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 194,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9859,
+                        "start": 188,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "worldtribune.com/dominion-votin\u2026",
+                        "end": 231,
+                        "expanded_url": "https://www.worldtribune.com/dominion-voting-systems-tied-to-clintons-widely-used-in-battleground-states/",
+                        "start": 208,
+                        "url": "https://t.co/UWmPS6pnBp"
+                    }
+                ]
+            },
+            "id": "1326706825878626304",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Dominion Voting Systems is used in Maricopa County, Arizona.  After the hand count in Georgia reveals a massive machine count discrepancy, hand recounts in other counties are inevitable.  Georgia on my mind.\nhttps://t.co/UWmPS6pnBp"
+        },
+        {
+            "author_id": "1054733917729697792",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326703401770471424",
+            "created_at": "2020-11-12T01:48:34.000Z",
+            "edit_history_tweet_ids": [
+                "1326703401770471424"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "Dominion",
+                        "probability": 0.5802,
+                        "start": 15,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 50,
+                        "normalized_text": "maricopa",
+                        "probability": 0.4858,
+                        "start": 43,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 96,
+                        "normalized_text": "China",
+                        "probability": 0.9531,
+                        "start": 92,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 107,
+                        "normalized_text": "Dominion",
+                        "probability": 0.8414,
+                        "start": 100,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Clinton",
+                        "probability": 0.4329,
+                        "start": 132,
+                        "type": "Person"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/azcentral/stat\u2026",
+                        "end": 174,
+                        "expanded_url": "https://twitter.com/azcentral/status/1326692896150597635",
+                        "start": 151,
+                        "url": "https://t.co/720MOV3NQM"
+                    }
+                ]
+            },
+            "id": "1326703401770471424",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326692896150597635",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "Except for the Dominion voting machines in maricopa cty that were made with components from China.. Dominion also gave money to the Clinton foundation https://t.co/720MOV3NQM"
+        },
+        {
+            "author_id": "2861173637",
+            "conversation_id": "1326676445385658369",
+            "created_at": "2020-11-12T00:01:27.000Z",
+            "edit_history_tweet_ids": [
+                "1326676445385658369"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326676445385658369",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "1214724812569903104",
+            "conversation_id": "1326665029295304704",
+            "created_at": "2020-11-11T23:26:34.000Z",
+            "edit_history_tweet_ids": [
+                "1326667665222426624"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 29,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9673,
+                        "start": 15,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "932011810235891712",
+                        "start": 0,
+                        "username": "alexsalvinews"
+                    }
+                ]
+            },
+            "id": "1326667665222426624",
+            "in_reply_to_user_id": "932011810235891712",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326665029295304704",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@alexsalvinews Maricopa County used Dominion voting systems, there should be a full audit."
+        },
+        {
+            "author_id": "564648532",
+            "conversation_id": "1326666796875788289",
+            "created_at": "2020-11-11T23:23:07.000Z",
+            "edit_history_tweet_ids": [
+                "1326666796875788289"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326666796875788289",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "816609107943845888",
+            "conversation_id": "1326665940835168261",
+            "created_at": "2020-11-11T23:19:43.000Z",
+            "edit_history_tweet_ids": [
+                "1326665940835168261"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326665940835168261",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "465278219",
+            "conversation_id": "1326646411635666944",
+            "created_at": "2020-11-11T23:12:42.000Z",
+            "edit_history_tweet_ids": [
+                "1326664176496910338"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 51,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.7595,
+                        "start": 44,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1384181465617887233",
+                        "start": 0,
+                        "username": "cottogottfried"
+                    }
+                ]
+            },
+            "id": "1326664176496910338",
+            "in_reply_to_user_id": "1270489357208649728",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326647044619038720",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@CottoGottfried Dominion voting software in Maricopa... perhaps?  Doesn't take more than a few k votes."
+        },
+        {
+            "author_id": "729689945288355840",
+            "conversation_id": "1326628212248633344",
+            "created_at": "2020-11-11T20:49:48.000Z",
+            "edit_history_tweet_ids": [
+                "1326628212248633344"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326628212248633344",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "846905659945832448",
+            "conversation_id": "1326628053913542656",
+            "created_at": "2020-11-11T20:49:10.000Z",
+            "edit_history_tweet_ids": [
+                "1326628053913542656"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326628053913542656",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "1151261114384171008",
+            "conversation_id": "1326626956566147073",
+            "created_at": "2020-11-11T20:44:48.000Z",
+            "edit_history_tweet_ids": [
+                "1326626956566147073"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8265,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion V",
+                        "probability": 0.393,
+                        "start": 129,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "765909323545513984",
+                        "start": 3,
+                        "username": "JackHadders"
+                    }
+                ]
+            },
+            "id": "1326626956566147073",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326626329509449728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @JackHadders: The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion V\u2026"
+        },
+        {
+            "author_id": "765909323545513984",
+            "conversation_id": "1326626329509449728",
+            "created_at": "2020-11-11T20:42:19.000Z",
+            "edit_history_tweet_ids": [
+                "1326626329509449728"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 27,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8461,
+                        "start": 13,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 165,
+                        "id": "1151261114384171008",
+                        "start": 152,
+                        "username": "NationalFile"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "nationalfile.com/arizona-marico\u2026",
+                        "end": 191,
+                        "expanded_url": "https://nationalfile.com/arizona-maricopa-county-gop-chair-resigns-following-failure-to-check-voting-machines/",
+                        "start": 168,
+                        "status": 200,
+                        "unwound_url": "https://nationalfile.com/arizona-maricopa-county-gop-chair-resigns-following-failure-to-check-voting-machines/",
+                        "url": "https://t.co/XazFQVvjdN"
+                    }
+                ]
+            },
+            "id": "1326626329509449728",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 492,
+                "quote_count": 98,
+                "reply_count": 36,
+                "retweet_count": 228
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "The chair of Maricopa County GOP has RESIGNED following her failure to sign the Certificate of Accuracy for the Dominion Voting machines in her county\n\n@NationalFile \n\nhttps://t.co/XazFQVvjdN"
+        },
+        {
+            "author_id": "1094933576334872576",
+            "conversation_id": "1326622407327707138",
+            "created_at": "2020-11-11T20:26:44.000Z",
+            "edit_history_tweet_ids": [
+                "1326622407327707138"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.4724,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "Texas",
+                        "probability": 0.972,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "826098849471143937",
+                        "start": 3,
+                        "username": "UrUnpaidPundit"
+                    }
+                ]
+            },
+            "id": "1326622407327707138",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 36
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326301566509309952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @UrUnpaidPundit: Dominion Voting Systems was refused in Texas because it didn't meet even the *basic* security standards. \nSome but not\u2026"
+        },
+        {
+            "author_id": "16937082",
+            "conversation_id": "1326609462501675008",
+            "created_at": "2020-11-11T19:35:17.000Z",
+            "edit_history_tweet_ids": [
+                "1326609462501675008"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7932,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6979,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 178,
+                        "id": "19211550",
+                        "start": 164,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 159,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostTopSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 136,
+                        "url": "https://t.co/dpmvFVyDtU"
+                    }
+                ]
+            },
+            "id": "1326609462501675008",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines https://t.co/dpmvFVyDtU via @gatewaypundit"
+        },
+        {
+            "author_id": "4544010444",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326578294305796097",
+            "created_at": "2020-11-11T17:31:26.000Z",
+            "edit_history_tweet_ids": [
+                "1326578294305796097"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 93,
+                        "normalized_text": "Dominion",
+                        "probability": 0.382,
+                        "start": 86,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "199462863",
+                        "start": 3,
+                        "username": "MidAmericanGuy"
+                    },
+                    {
+                        "end": 34,
+                        "id": "38284349",
+                        "start": 20,
+                        "username": "RealWayneRoot"
+                    },
+                    {
+                        "end": 42,
+                        "id": "838489174319726594",
+                        "start": 35,
+                        "username": "RSigus"
+                    },
+                    {
+                        "end": 56,
+                        "id": "770781940341288960",
+                        "start": 43,
+                        "username": "RudyGiuliani"
+                    },
+                    {
+                        "end": 73,
+                        "id": "25073877",
+                        "start": 57,
+                        "username": "realDonaldTrump"
+                    }
+                ]
+            },
+            "id": "1326578294305796097",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326574222336995328",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @MidAmericanGuy: @RealWayneRoot @RSigus @RudyGiuliani @realDonaldTrump To clarify, Dominion is a manufacturer of vote tabulation product\u2026"
+        },
+        {
+            "author_id": "199462863",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326555434405097477",
+            "created_at": "2020-11-11T17:15:15.000Z",
+            "edit_history_tweet_ids": [
+                "1326574222336995328"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 73,
+                        "normalized_text": "Dominion",
+                        "probability": 0.7113,
+                        "start": 66,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 147,
+                        "normalized_text": "Michigan",
+                        "probability": 0.9622,
+                        "start": 140,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 176,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.8487,
+                        "start": 165,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 185,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8973,
+                        "start": 179,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 196,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.8632,
+                        "start": 188,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 204,
+                        "normalized_text": "Nevada",
+                        "probability": 0.8839,
+                        "start": 199,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 215,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.8831,
+                        "start": 207,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 238,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8715,
+                        "start": 224,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 247,
+                        "normalized_text": "Arizona",
+                        "probability": 0.8942,
+                        "start": 241,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "38284349",
+                        "start": 0,
+                        "username": "RealWayneRoot"
+                    },
+                    {
+                        "end": 22,
+                        "id": "838489174319726594",
+                        "start": 15,
+                        "username": "RSigus"
+                    },
+                    {
+                        "end": 36,
+                        "id": "770781940341288960",
+                        "start": 23,
+                        "username": "RudyGiuliani"
+                    },
+                    {
+                        "end": 53,
+                        "id": "25073877",
+                        "start": 37,
+                        "username": "realDonaldTrump"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "worldtribune.com/dominion-votin\u2026",
+                        "end": 275,
+                        "expanded_url": "https://www.worldtribune.com/dominion-voting-systems-tied-to-clintons-widely-used-in-battleground-states/?utm_source=wnd&utm_medium=wnd&utm_campaign=syndicated",
+                        "start": 252,
+                        "url": "https://t.co/gOpGlM9Tea"
+                    }
+                ]
+            },
+            "id": "1326574222336995328",
+            "in_reply_to_user_id": "38284349",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326555434405097477",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@RealWayneRoot @RSigus @RudyGiuliani @realDonaldTrump To clarify, Dominion is a manufacturer of vote tabulation products that \"glitched\" in Michigan is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County, Arizona. \n\nhttps://t.co/gOpGlM9Tea"
+        },
+        {
+            "author_id": "3018963571",
+            "conversation_id": "1326572897406758912",
+            "created_at": "2020-11-11T17:09:59.000Z",
+            "edit_history_tweet_ids": [
+                "1326572897406758912"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.4724,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "Texas",
+                        "probability": 0.972,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "826098849471143937",
+                        "start": 3,
+                        "username": "UrUnpaidPundit"
+                    }
+                ]
+            },
+            "id": "1326572897406758912",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 36
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326301566509309952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @UrUnpaidPundit: Dominion Voting Systems was refused in Texas because it didn't meet even the *basic* security standards. \nSome but not\u2026"
+        },
+        {
+            "author_id": "26520167",
+            "conversation_id": "1326555134357241858",
+            "created_at": "2020-11-11T15:59:24.000Z",
+            "edit_history_tweet_ids": [
+                "1326555134357241858"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.4724,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "Texas",
+                        "probability": 0.972,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "826098849471143937",
+                        "start": 3,
+                        "username": "UrUnpaidPundit"
+                    }
+                ]
+            },
+            "id": "1326555134357241858",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 36
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326301566509309952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @UrUnpaidPundit: Dominion Voting Systems was refused in Texas because it didn't meet even the *basic* security standards. \nSome but not\u2026"
+        },
+        {
+            "author_id": "516065185",
+            "conversation_id": "1326515251072753664",
+            "created_at": "2020-11-11T13:20:55.000Z",
+            "edit_history_tweet_ids": [
+                "1326515251072753664"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 106,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.806,
+                        "start": 92,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "28272865",
+                        "start": 3,
+                        "username": "GarretLewis"
+                    },
+                    {
+                        "end": 27,
+                        "id": "15937190",
+                        "start": 21,
+                        "username": "AZGOP"
+                    }
+                ]
+            },
+            "id": "1326515251072753664",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 17
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326234019260854272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @GarretLewis: The @AZGOP needs an enema.  The latest incompetent fool is the head of the Maricopa County GOP.  She didn't even show up t\u2026"
+        },
+        {
+            "author_id": "1241823323975307269",
+            "conversation_id": "1326397027551498247",
+            "created_at": "2020-11-11T05:31:09.000Z",
+            "edit_history_tweet_ids": [
+                "1326397027551498247"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.4724,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "Texas",
+                        "probability": 0.972,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "826098849471143937",
+                        "start": 3,
+                        "username": "UrUnpaidPundit"
+                    }
+                ]
+            },
+            "id": "1326397027551498247",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 36
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326301566509309952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @UrUnpaidPundit: Dominion Voting Systems was refused in Texas because it didn't meet even the *basic* security standards. \nSome but not\u2026"
+        },
+        {
+            "author_id": "874743020",
+            "conversation_id": "1326386625010659328",
+            "created_at": "2020-11-11T04:49:49.000Z",
+            "edit_history_tweet_ids": [
+                "1326386625010659328"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 38,
+                        "normalized_text": "Voting Systems",
+                        "probability": 0.4717,
+                        "start": 25,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 76,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.8604,
+                        "start": 65,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 85,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9385,
+                        "start": 79,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 96,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9061,
+                        "start": 88,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 104,
+                        "normalized_text": "Nevada",
+                        "probability": 0.9328,
+                        "start": 99,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 115,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.9317,
+                        "start": 107,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9444,
+                        "start": 124,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "894361338",
+                        "start": 3,
+                        "username": "MarkDeclue"
+                    }
+                ]
+            },
+            "id": "1326386625010659328",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325249759083438083",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @MarkDeclue: Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County\u2026"
+        },
+        {
+            "author_id": "818451103",
+            "conversation_id": "1326382011762814977",
+            "created_at": "2020-11-11T04:31:29.000Z",
+            "edit_history_tweet_ids": [
+                "1326382011762814977"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 66,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8811,
+                        "start": 54,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 89,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.7548,
+                        "start": 82,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "49150104",
+                        "start": 3,
+                        "username": "ReallyReene"
+                    }
+                ]
+            },
+            "id": "1326382011762814977",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 46
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326006556450811904",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @ReallyReene: It gets more interesting each day. \n\nArizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Fai\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1326737241188806656",
+        "next_token": "b26v89c19zqg8o3fosbunxdvv15w5vb1i7d1dbrbik871",
+        "oldest_id": "1326382011762814977",
+        "result_count": 59
+    }
+}

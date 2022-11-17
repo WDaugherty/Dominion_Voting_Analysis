@@ -1,0 +1,2606 @@
+{
+    "data": [
+        {
+            "author_id": "376843909",
+            "conversation_id": "1325271790516645889",
+            "created_at": "2020-11-08T03:33:02.000Z",
+            "edit_history_tweet_ids": [
+                "1325280138863337472"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "Dominion",
+                        "probability": 0.5626,
+                        "start": 29,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "AZ",
+                        "probability": 0.599,
+                        "start": 61,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9728,
+                        "start": 104,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "1320375491279376384",
+                        "start": 0,
+                        "username": "1900Willow"
+                    }
+                ]
+            },
+            "id": "1325280138863337472",
+            "in_reply_to_user_id": "1320375491279376384",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277311160168448",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@1900Willow @Wizard_Predicts Dominion is used in only one of AZ\u2019s counties. \n\nThe most populous county, Maricopa County, uses the Dominion voting system"
+        },
+        {
+            "author_id": "16482012",
+            "conversation_id": "1325279993937715200",
+            "created_at": "2020-11-08T03:32:27.000Z",
+            "edit_history_tweet_ids": [
+                "1325279993937715200"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 61,
+                        "normalized_text": "PA",
+                        "probability": 0.6098,
+                        "start": 60,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 64,
+                        "normalized_text": "GA",
+                        "probability": 0.8065,
+                        "start": 63,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 67,
+                        "normalized_text": "WI",
+                        "probability": 0.4505,
+                        "start": 66,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 70,
+                        "normalized_text": "NV",
+                        "probability": 0.4899,
+                        "start": 69,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 73,
+                        "normalized_text": "MN",
+                        "probability": 0.4873,
+                        "start": 72,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 103,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.482,
+                        "start": 96,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 109,
+                        "normalized_text": "AZ",
+                        "probability": 0.8296,
+                        "start": 108,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 136,
+                        "normalized_text": "Pelosi",
+                        "probability": 0.4213,
+                        "start": 131,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "1325279993937715200",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325275302310801411",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @sdgato64: Dominion Voting Systems provided equipment to PA,GA,WI,NV,MN,69 MI counties &amp; Maricopa co AZ,   also has ties to Pelosi &amp; Cli\u2026"
+        },
+        {
+            "author_id": "1267242133250949121",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political issues",
+                        "id": "900740740468191232",
+                        "name": "Political issues"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Information Privacy",
+                        "id": "1088443224425807872",
+                        "name": "Information Privacy Worldwide"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1260821905491152896",
+                        "name": "Misinformation, debunk entity"
+                    }
+                }
+            ],
+            "conversation_id": "1325275302310801411",
+            "created_at": "2020-11-08T03:13:49.000Z",
+            "edit_history_tweet_ids": [
+                "1325275302310801411"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 47,
+                        "normalized_text": "PA",
+                        "probability": 0.742,
+                        "start": 46,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 50,
+                        "normalized_text": "GA",
+                        "probability": 0.853,
+                        "start": 49,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 53,
+                        "normalized_text": "WI",
+                        "probability": 0.4057,
+                        "start": 52,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 56,
+                        "normalized_text": "NV",
+                        "probability": 0.4145,
+                        "start": 55,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 59,
+                        "normalized_text": "MN",
+                        "probability": 0.409,
+                        "start": 58,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 89,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.51,
+                        "start": 82,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 95,
+                        "normalized_text": "AZ",
+                        "probability": 0.9076,
+                        "start": 94,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 122,
+                        "normalized_text": "Pelosi",
+                        "probability": 0.4983,
+                        "start": 117,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 287,
+                        "start": 274,
+                        "tag": "StopTheSteal"
+                    }
+                ]
+            },
+            "id": "1325275302310801411",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 11,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 6
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Dominion Voting Systems provided equipment to PA,GA,WI,NV,MN,69 MI counties &amp; Maricopa co AZ,   also has ties to Pelosi &amp; Clintons. \nCounts can be manipulated by programmers or hackers to change results. Hand counts of ballots vs the computed data needs to be done.\n#StopTheSteal"
+        },
+        {
+            "author_id": "1289337333242892294",
+            "conversation_id": "1325269959791026177",
+            "created_at": "2020-11-08T02:52:35.000Z",
+            "edit_history_tweet_ids": [
+                "1325269959791026177"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 38,
+                        "normalized_text": "Voting Systems",
+                        "probability": 0.4717,
+                        "start": 25,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 76,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.8604,
+                        "start": 65,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 85,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9385,
+                        "start": 79,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 96,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9061,
+                        "start": 88,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 104,
+                        "normalized_text": "Nevada",
+                        "probability": 0.9328,
+                        "start": 99,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 115,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.9317,
+                        "start": 107,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9444,
+                        "start": 124,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "894361338",
+                        "start": 3,
+                        "username": "MarkDeclue"
+                    }
+                ]
+            },
+            "id": "1325269959791026177",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325249759083438083",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @MarkDeclue: Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County\u2026"
+        },
+        {
+            "author_id": "179976580",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325261403918270465",
+            "created_at": "2020-11-08T02:18:35.000Z",
+            "edit_history_tweet_ids": [
+                "1325261403918270465"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 6,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9341,
+                        "start": 0,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 24,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9495,
+                        "start": 10,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 181,
+                        "normalized_text": "Trump",
+                        "probability": 0.7499,
+                        "start": 177,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 145,
+                        "start": 129,
+                        "tag": "ITISNOTFINISHED"
+                    },
+                    {
+                        "end": 166,
+                        "start": 146,
+                        "tag": "CountEveryLegalVote"
+                    },
+                    {
+                        "end": 175,
+                        "start": 167,
+                        "tag": "FightOn"
+                    },
+                    {
+                        "end": 182,
+                        "start": 176,
+                        "tag": "Trump"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "azsos.gov/sites/default/\u2026",
+                        "end": 128,
+                        "expanded_url": "https://azsos.gov/sites/default/files/2020_0709_Election_Cycle_Voting_Equipment.pdf",
+                        "start": 105,
+                        "url": "https://t.co/qFgQPtxzFE"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/ePLrsFRKi2",
+                        "end": 206,
+                        "expanded_url": "https://twitter.com/GatheredDirt/status/1325261403918270465/photo/1",
+                        "media_key": "3_1325261053031182336",
+                        "start": 183,
+                        "url": "https://t.co/ePLrsFRKi2"
+                    },
+                    {
+                        "display_url": "twitter.com/kylenabecker/s\u2026",
+                        "end": 230,
+                        "expanded_url": "https://twitter.com/kylenabecker/status/1324934259199664129",
+                        "start": 207,
+                        "url": "https://t.co/QMTEi4dcOK"
+                    }
+                ]
+            },
+            "id": "1325261403918270465",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Arizona's Maricopa County has the tainted Dominion \nVoting Equipment. It show they installed it in 2019.\nhttps://t.co/qFgQPtxzFE\n#ITISNOTFINISHED\n#CountEveryLegalVote\n#FightOn\n#Trump https://t.co/ePLrsFRKi2 https://t.co/QMTEi4dcOK"
+        },
+        {
+            "author_id": "1200709897341603840",
+            "conversation_id": "1325252715803529216",
+            "created_at": "2020-11-08T01:44:04.000Z",
+            "edit_history_tweet_ids": [
+                "1325252715803529216"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 107,
+                        "normalized_text": "Dominion Democracy Suite 5.5",
+                        "probability": 0.7801,
+                        "start": 80,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "556291837",
+                        "start": 3,
+                        "username": "SexyAutumn1980"
+                    },
+                    {
+                        "end": 36,
+                        "id": "757078971590651904",
+                        "start": 20,
+                        "username": "RubyRockstar333"
+                    }
+                ]
+            },
+            "id": "1325252715803529216",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325162050503409664",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @SexyAutumn1980: @RubyRockstar333 Look at which states the article says uses Dominion Democracy Suite 5.5 software https://t.co/lZhYapxd\u2026"
+        },
+        {
+            "author_id": "894361338",
+            "conversation_id": "1325249759083438083",
+            "created_at": "2020-11-08T01:32:19.000Z",
+            "edit_history_tweet_ids": [
+                "1325249759083438083"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.5184,
+                        "start": 0,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 60,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.9009,
+                        "start": 49,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 69,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9431,
+                        "start": 63,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 80,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.8921,
+                        "start": 72,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 88,
+                        "normalized_text": "Nevada",
+                        "probability": 0.9309,
+                        "start": 83,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 99,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.9169,
+                        "start": 91,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 122,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.936,
+                        "start": 108,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 131,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9614,
+                        "start": 125,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 270,
+                        "start": 257,
+                        "tag": "BackDateGate"
+                    }
+                ]
+            },
+            "id": "1325249759083438083",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 2,
+                "reply_count": 2,
+                "retweet_count": 3
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County, Arizona.\n\nOfficials later said that the glitch was due to an update made to the machine systems ***that was made on Monday evening.\n#BackDateGate"
+        },
+        {
+            "author_id": "1403325440",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "The latest:\n\n- Democrats capture the House as Republicans maintain grip on the Senate\n- House Democratic leader Nancy Pelosi said \"We have all had enough of division\"\n- Women, Muslims and other first-time candidates secured historic wins on Election Day",
+                        "id": "1058468742118572032",
+                        "name": "Women lead House gains for Democrats as Republicans hold the Senate"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1318573265820921857",
+                        "name": "2020 US Election Day"
+                    }
+                }
+            ],
+            "conversation_id": "1325227406676914176",
+            "created_at": "2020-11-08T00:08:37.000Z",
+            "edit_history_tweet_ids": [
+                "1325228698123988994"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 99,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.3594,
+                        "start": 92,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 120,
+                        "normalized_text": "Trump",
+                        "probability": 0.9502,
+                        "start": 116,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 207,
+                        "normalized_text": "Trump",
+                        "probability": 0.9266,
+                        "start": 203,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "1155878787160166400",
+                        "start": 0,
+                        "username": "LESalazar2502"
+                    }
+                ]
+            },
+            "id": "1325228698123988994",
+            "in_reply_to_user_id": "1155878787160166400",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325227406676914176",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@LESalazar2502 Just over 21k separation. Approx. 116k remaining. Counting is crawling. Last Maricopa drop split how Trump needed and then media \u201ccalled\u201d the election. We have a very combative SofS here. Trump team has filed lawsuit due to the Dominion Voting Machines, as well as Election Day..."
+        },
+        {
+            "author_id": "1484987880",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Former First Lady of the United States Hillary Clinton",
+                        "id": "10037721440",
+                        "name": "Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Senator Ted Cruz (TX)\n",
+                        "id": "10037721448",
+                        "name": "Ted Cruz"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Former First Lady of the United States Hillary Clinton",
+                        "id": "10037721440",
+                        "name": "Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Senator Ted Cruz (TX)\n",
+                        "id": "10037721448",
+                        "name": "Ted Cruz"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Former First Lady of the United States Hillary Clinton",
+                        "id": "10037721440",
+                        "name": "Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Senator Ted Cruz (TX)\n",
+                        "id": "10037721448",
+                        "name": "Ted Cruz"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325224909233119233",
+            "created_at": "2020-11-07T23:53:34.000Z",
+            "edit_history_tweet_ids": [
+                "1325224909233119233"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "Voting Systems",
+                        "probability": 0.4439,
+                        "start": 9,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 50,
+                        "normalized_text": "PA",
+                        "probability": 0.8076,
+                        "start": 49,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 54,
+                        "normalized_text": "GA",
+                        "probability": 0.8397,
+                        "start": 53,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 58,
+                        "normalized_text": "WI",
+                        "probability": 0.3805,
+                        "start": 57,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "NV",
+                        "probability": 0.3464,
+                        "start": 61,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 66,
+                        "normalized_text": "MN",
+                        "probability": 0.527,
+                        "start": 65,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 90,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9282,
+                        "start": 76,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 99,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9557,
+                        "start": 93,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 174,
+                        "normalized_text": "Pelosi",
+                        "probability": 0.8355,
+                        "start": 169,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 183,
+                        "normalized_text": "Bill",
+                        "probability": 0.5337,
+                        "start": 180,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 203,
+                        "normalized_text": "Hillary Clinton",
+                        "probability": 0.9239,
+                        "start": 189,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 222,
+                        "id": "25073877",
+                        "start": 206,
+                        "username": "realDonaldTrump"
+                    },
+                    {
+                        "end": 236,
+                        "id": "770781940341288960",
+                        "start": 223,
+                        "username": "RudyGiuliani"
+                    },
+                    {
+                        "end": 246,
+                        "id": "23022687",
+                        "start": 238,
+                        "username": "tedcruz"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "worldtribune.com/dominion-votin\u2026",
+                        "end": 271,
+                        "expanded_url": "https://www.worldtribune.com/dominion-voting-systems-tied-to-clintons-widely-used-in-battleground-states/?utm_source=wnd&utm_medium=wnd&utm_campaign=syndicated",
+                        "start": 248,
+                        "url": "https://t.co/FdMKawfQSp"
+                    }
+                ]
+            },
+            "id": "1325224909233119233",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 2,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Dominion Voting Systems software is also used in PA, GA, WI, NV, MN, and in Maricopa County, Arizona.\nDominion Voting Systems has ties to prominent Democrats, including Pelosi and Bill and Hillary Clinton.\n@realDonaldTrump @RudyGiuliani  @tedcruz \nhttps://t.co/FdMKawfQSp"
+        },
+        {
+            "author_id": "993003944711507968",
+            "conversation_id": "1325224230930305025",
+            "created_at": "2020-11-07T23:50:52.000Z",
+            "edit_history_tweet_ids": [
+                "1325224230930305025"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "Clinton",
+                        "probability": 0.3167,
+                        "start": 34,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 88,
+                        "normalized_text": "Michigan",
+                        "probability": 0.8815,
+                        "start": 81,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 102,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.8905,
+                        "start": 91,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 111,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9322,
+                        "start": 105,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 122,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9358,
+                        "start": 114,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 130,
+                        "normalized_text": "Nevada",
+                        "probability": 0.9671,
+                        "start": 125,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Minnes",
+                        "probability": 0.8337,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 30,
+                        "start": 17,
+                        "tag": "StopTheSteal"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "146456142",
+                        "start": 3,
+                        "username": "DocRock1007"
+                    }
+                ]
+            },
+            "id": "1325224230930305025",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325206506040680448",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @DocRock1007: #StopTheSteal! \n\nClinton donors Dominion Voting Systems used in Michigan, Pennsylvania, Georgia, Wisconsin, Nevada, Minnes\u2026"
+        },
+        {
+            "author_id": "934630370582044678",
+            "conversation_id": "1325212336731254786",
+            "created_at": "2020-11-07T23:03:36.000Z",
+            "edit_history_tweet_ids": [
+                "1325212336731254786"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "Clinton",
+                        "probability": 0.3167,
+                        "start": 34,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 88,
+                        "normalized_text": "Michigan",
+                        "probability": 0.8815,
+                        "start": 81,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 102,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.8905,
+                        "start": 91,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 111,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9322,
+                        "start": 105,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 122,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9358,
+                        "start": 114,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 130,
+                        "normalized_text": "Nevada",
+                        "probability": 0.9671,
+                        "start": 125,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Minnes",
+                        "probability": 0.8337,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 30,
+                        "start": 17,
+                        "tag": "StopTheSteal"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "146456142",
+                        "start": 3,
+                        "username": "DocRock1007"
+                    }
+                ]
+            },
+            "id": "1325212336731254786",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325206506040680448",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @DocRock1007: #StopTheSteal! \n\nClinton donors Dominion Voting Systems used in Michigan, Pennsylvania, Georgia, Wisconsin, Nevada, Minnes\u2026"
+        },
+        {
+            "author_id": "435449437",
+            "conversation_id": "1325210276296208384",
+            "created_at": "2020-11-07T22:55:25.000Z",
+            "edit_history_tweet_ids": [
+                "1325210276296208384"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "Clinton",
+                        "probability": 0.3167,
+                        "start": 34,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 88,
+                        "normalized_text": "Michigan",
+                        "probability": 0.8815,
+                        "start": 81,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 102,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.8905,
+                        "start": 91,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 111,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9322,
+                        "start": 105,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 122,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9358,
+                        "start": 114,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 130,
+                        "normalized_text": "Nevada",
+                        "probability": 0.9671,
+                        "start": 125,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Minnes",
+                        "probability": 0.8337,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 30,
+                        "start": 17,
+                        "tag": "StopTheSteal"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "146456142",
+                        "start": 3,
+                        "username": "DocRock1007"
+                    }
+                ]
+            },
+            "id": "1325210276296208384",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325206506040680448",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @DocRock1007: #StopTheSteal! \n\nClinton donors Dominion Voting Systems used in Michigan, Pennsylvania, Georgia, Wisconsin, Nevada, Minnes\u2026"
+        },
+        {
+            "author_id": "119474441",
+            "conversation_id": "1325208880947879937",
+            "created_at": "2020-11-07T22:49:53.000Z",
+            "edit_history_tweet_ids": [
+                "1325208880947879937"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "Clinton",
+                        "probability": 0.3167,
+                        "start": 34,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 88,
+                        "normalized_text": "Michigan",
+                        "probability": 0.8815,
+                        "start": 81,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 102,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.8905,
+                        "start": 91,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 111,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9322,
+                        "start": 105,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 122,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9358,
+                        "start": 114,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 130,
+                        "normalized_text": "Nevada",
+                        "probability": 0.9671,
+                        "start": 125,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Minnes",
+                        "probability": 0.8337,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 30,
+                        "start": 17,
+                        "tag": "StopTheSteal"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "146456142",
+                        "start": 3,
+                        "username": "DocRock1007"
+                    }
+                ]
+            },
+            "id": "1325208880947879937",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325206506040680448",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @DocRock1007: #StopTheSteal! \n\nClinton donors Dominion Voting Systems used in Michigan, Pennsylvania, Georgia, Wisconsin, Nevada, Minnes\u2026"
+        },
+        {
+            "author_id": "1419894884",
+            "conversation_id": "1325208221045305345",
+            "created_at": "2020-11-07T22:47:15.000Z",
+            "edit_history_tweet_ids": [
+                "1325208221045305345"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "Clinton",
+                        "probability": 0.3167,
+                        "start": 34,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 88,
+                        "normalized_text": "Michigan",
+                        "probability": 0.8815,
+                        "start": 81,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 102,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.8905,
+                        "start": 91,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 111,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9322,
+                        "start": 105,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 122,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9358,
+                        "start": 114,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 130,
+                        "normalized_text": "Nevada",
+                        "probability": 0.9671,
+                        "start": 125,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Minnes",
+                        "probability": 0.8337,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 30,
+                        "start": 17,
+                        "tag": "StopTheSteal"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "146456142",
+                        "start": 3,
+                        "username": "DocRock1007"
+                    }
+                ]
+            },
+            "id": "1325208221045305345",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325206506040680448",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @DocRock1007: #StopTheSteal! \n\nClinton donors Dominion Voting Systems used in Michigan, Pennsylvania, Georgia, Wisconsin, Nevada, Minnes\u2026"
+        },
+        {
+            "author_id": "39950213",
+            "conversation_id": "1325206736043606019",
+            "created_at": "2020-11-07T22:41:21.000Z",
+            "edit_history_tweet_ids": [
+                "1325206736043606019"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "Clinton",
+                        "probability": 0.3167,
+                        "start": 34,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 88,
+                        "normalized_text": "Michigan",
+                        "probability": 0.8815,
+                        "start": 81,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 102,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.8905,
+                        "start": 91,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 111,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9322,
+                        "start": 105,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 122,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9358,
+                        "start": 114,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 130,
+                        "normalized_text": "Nevada",
+                        "probability": 0.9671,
+                        "start": 125,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Minnes",
+                        "probability": 0.8337,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 30,
+                        "start": 17,
+                        "tag": "StopTheSteal"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "146456142",
+                        "start": 3,
+                        "username": "DocRock1007"
+                    }
+                ]
+            },
+            "id": "1325206736043606019",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325206506040680448",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @DocRock1007: #StopTheSteal! \n\nClinton donors Dominion Voting Systems used in Michigan, Pennsylvania, Georgia, Wisconsin, Nevada, Minnes\u2026"
+        },
+        {
+            "author_id": "146456142",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325206506040680448",
+            "created_at": "2020-11-07T22:40:26.000Z",
+            "edit_history_tweet_ids": [
+                "1325206506040680448"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "Clinton",
+                        "probability": 0.5049,
+                        "start": 17,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 39,
+                        "normalized_text": "Dominion",
+                        "probability": 0.4118,
+                        "start": 32,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 71,
+                        "normalized_text": "Michigan",
+                        "probability": 0.9088,
+                        "start": 64,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 85,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.9251,
+                        "start": 74,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 94,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9486,
+                        "start": 88,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 105,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9238,
+                        "start": 97,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 113,
+                        "normalized_text": "Nevada",
+                        "probability": 0.955,
+                        "start": 108,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 124,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.9456,
+                        "start": 116,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 147,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9387,
+                        "start": 133,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 156,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9761,
+                        "start": 150,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 190,
+                        "normalized_text": "Trump",
+                        "probability": 0.7913,
+                        "start": 186,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 0,
+                        "tag": "StopTheSteal"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "worldtribune.com/dominion-votin\u2026",
+                        "end": 224,
+                        "expanded_url": "https://www.worldtribune.com/dominion-voting-systems-tied-to-clintons-widely-used-in-battleground-states/?fbclid=IwAR3IRrvjhauO5OC1fpp7LvtdP4k3IJXKNWuOo44lLGTath9fny3U9nriDKE",
+                        "start": 201,
+                        "status": 200,
+                        "unwound_url": "https://www.worldtribune.com/dominion-voting-systems-tied-to-clintons-widely-used-in-battleground-states/?fbclid=IwAR3IRrvjhauO5OC1fpp7LvtdP4k3IJXKNWuOo44lLGTath9fny3U9nriDKE",
+                        "url": "https://t.co/pUz2tiWL8d"
+                    }
+                ]
+            },
+            "id": "1325206506040680448",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 13,
+                "quote_count": 3,
+                "reply_count": 1,
+                "retweet_count": 6
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "#StopTheSteal! \n\nClinton donors Dominion Voting Systems used in Michigan, Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County, Arizona caught switching votes from Trump to [D].\n\nhttps://t.co/pUz2tiWL8d"
+        },
+        {
+            "author_id": "556291837",
+            "conversation_id": "1325169378803937280",
+            "created_at": "2020-11-07T22:24:19.000Z",
+            "edit_history_tweet_ids": [
+                "1325202448558985219"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 88,
+                        "normalized_text": "Dominion Democracy Suite 5",
+                        "probability": 0.7348,
+                        "start": 63,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 155,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.6354,
+                        "start": 133,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 193,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.8725,
+                        "start": 182,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 202,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9015,
+                        "start": 196,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 213,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.8688,
+                        "start": 205,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 221,
+                        "normalized_text": "Nevada",
+                        "probability": 0.8931,
+                        "start": 216,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 232,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.8821,
+                        "start": 224,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 255,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8795,
+                        "start": 241,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 264,
+                        "normalized_text": "Arizona",
+                        "probability": 0.8961,
+                        "start": 258,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "334921581",
+                        "start": 0,
+                        "username": "CHSommers"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "freerepublic.com/focus/f-news/3\u2026",
+                        "end": 130,
+                        "expanded_url": "https://www.freerepublic.com/focus/f-news/3903096/posts",
+                        "start": 107,
+                        "url": "https://t.co/ozwrBJ9P8j"
+                    }
+                ]
+            },
+            "id": "1325202448558985219",
+            "in_reply_to_user_id": "334921581",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325169378803937280",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@CHSommers ... and\n\nLook at which states the article says uses Dominion Democracy Suite 5.5 software --- \n\nhttps://t.co/ozwrBJ9P8j\n\n\"Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County, Arizona.\""
+        },
+        {
+            "author_id": "189159732",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325198768065622017",
+            "created_at": "2020-11-07T22:09:41.000Z",
+            "edit_history_tweet_ids": [
+                "1325198768065622017"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "Paul Gosar",
+                        "probability": 0.9342,
+                        "start": 25,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 57,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9412,
+                        "start": 51,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.889,
+                        "start": 131,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1651225333",
+                        "start": 3,
+                        "username": "danielchaitin7"
+                    },
+                    {
+                        "end": 46,
+                        "id": "240760644",
+                        "start": 37,
+                        "username": "RepGosar"
+                    }
+                ]
+            },
+            "id": "1325198768065622017",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 94
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324910777527046144",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @danielchaitin7: Rep. Paul Gosar (@RepGosar) of Arizona says officials should take a closer look at the voting machines used in Maricopa\u2026"
+        },
+        {
+            "author_id": "53973522",
+            "conversation_id": "1325197968719294464",
+            "created_at": "2020-11-07T22:06:31.000Z",
+            "edit_history_tweet_ids": [
+                "1325197968719294464"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Baris",
+                        "probability": 0.2229,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Michigan",
+                        "probability": 0.4379,
+                        "start": 85,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8638,
+                        "start": 102,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "AZ",
+                        "probability": 0.6452,
+                        "start": 128,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Clark",
+                        "probability": 0.4583,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 31,
+                        "id": "165039823",
+                        "start": 16,
+                        "username": "Peoples_Pundit"
+                    },
+                    {
+                        "end": 43,
+                        "id": "468911503",
+                        "start": 32,
+                        "username": "LauraBaris"
+                    }
+                ]
+            },
+            "id": "1325197968719294464",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325095567580655619",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @Frankz2137: @Peoples_Pundit @LauraBaris Mr. Baris. Its Dominion Voting Services. Michigan Glitch..Georgia glitch...Maricopa AZ...Clark\u2026"
+        },
+        {
+            "author_id": "556291837",
+            "conversation_id": "1325140260855062531",
+            "created_at": "2020-11-07T21:55:18.000Z",
+            "edit_history_tweet_ids": [
+                "1325195145428361216"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 90,
+                        "normalized_text": "Dominion Democracy Suite 5",
+                        "probability": 0.7348,
+                        "start": 65,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 157,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.6354,
+                        "start": 135,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 195,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.8725,
+                        "start": 184,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 204,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9015,
+                        "start": 198,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 215,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.8688,
+                        "start": 207,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 223,
+                        "normalized_text": "Nevada",
+                        "probability": 0.8931,
+                        "start": 218,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 234,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.8821,
+                        "start": 226,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 257,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8795,
+                        "start": 243,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 266,
+                        "normalized_text": "Arizona",
+                        "probability": 0.8961,
+                        "start": 260,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "freerepublic.com/focus/f-news/3\u2026",
+                        "end": 132,
+                        "expanded_url": "https://www.freerepublic.com/focus/f-news/3903096/posts",
+                        "start": 109,
+                        "url": "https://t.co/ozwrBISdJJ"
+                    }
+                ]
+            },
+            "id": "1325195145428361216",
+            "in_reply_to_user_id": "2596413645",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325140260855062531",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@carrieksada ... and\n\nLook at which states the article says uses Dominion Democracy Suite 5.5 software --- \n\nhttps://t.co/ozwrBISdJJ\n\n\"Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County, Arizona.\""
+        },
+        {
+            "author_id": "556291837",
+            "conversation_id": "1325169176227405826",
+            "created_at": "2020-11-07T21:51:51.000Z",
+            "edit_history_tweet_ids": [
+                "1325194279749345285"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 99,
+                        "normalized_text": "Dominion Democracy Suite",
+                        "probability": 0.8102,
+                        "start": 76,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 168,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.5796,
+                        "start": 146,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 206,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.859,
+                        "start": 195,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 215,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9089,
+                        "start": 209,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 226,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.8821,
+                        "start": 218,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 234,
+                        "normalized_text": "Nevada",
+                        "probability": 0.9015,
+                        "start": 229,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 245,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.905,
+                        "start": 237,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 268,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8778,
+                        "start": 254,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 277,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9198,
+                        "start": 271,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 32,
+                        "id": "1158546355",
+                        "start": 16,
+                        "username": "NewRightNetwork"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "freerepublic.com/focus/f-news/3\u2026",
+                        "end": 143,
+                        "expanded_url": "https://www.freerepublic.com/focus/f-news/3903096/posts",
+                        "start": 120,
+                        "url": "https://t.co/ozwrBJ9P8j"
+                    }
+                ]
+            },
+            "id": "1325194279749345285",
+            "in_reply_to_user_id": "556291837",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325194171016122368",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@MAGARoseTaylor @NewRightNetwork Look at which states the article says uses Dominion Democracy Suite 5.5 software --- \n\nhttps://t.co/ozwrBJ9P8j\n\n\"Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County, Arizona.\""
+        },
+        {
+            "author_id": "556291837",
+            "conversation_id": "1325160637907890176",
+            "created_at": "2020-11-07T21:49:35.000Z",
+            "edit_history_tweet_ids": [
+                "1325193705716912130"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Dominion Democracy Suite",
+                        "probability": 0.8102,
+                        "start": 73,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 165,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.5796,
+                        "start": 143,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 203,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.859,
+                        "start": 192,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 212,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9089,
+                        "start": 206,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 223,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.8821,
+                        "start": 215,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 231,
+                        "normalized_text": "Nevada",
+                        "probability": 0.9015,
+                        "start": 226,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 242,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.905,
+                        "start": 234,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 265,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8778,
+                        "start": 251,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 274,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9198,
+                        "start": 268,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "28628850",
+                        "start": 0,
+                        "username": "greggutfeld"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "freerepublic.com/focus/f-news/3\u2026",
+                        "end": 140,
+                        "expanded_url": "https://www.freerepublic.com/focus/f-news/3903096/posts",
+                        "start": 117,
+                        "url": "https://t.co/ozwrBJ9P8j"
+                    }
+                ]
+            },
+            "id": "1325193705716912130",
+            "in_reply_to_user_id": "556291837",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325164949136695296",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@greggutfeld @EeezeePeezee143 Look at which states the article says uses Dominion Democracy Suite 5.5 software --- \n\nhttps://t.co/ozwrBJ9P8j\n\n\"Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County, Arizona.\""
+        }
+    ],
+    "meta": {
+        "newest_id": "1325280138863337472",
+        "next_token": "b26v89c19zqg8o3fosbu8njojwkzqlhalui93rf8az9fh",
+        "oldest_id": "1325193705716912130",
+        "result_count": 22
+    }
+}

@@ -1,0 +1,3878 @@
+{
+    "data": [
+        {
+            "author_id": "36201675",
+            "conversation_id": "1326029270959976448",
+            "created_at": "2020-11-10T05:09:49.000Z",
+            "edit_history_tweet_ids": [
+                "1326029270959976448"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 29,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8123,
+                        "start": 17,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 52,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.636,
+                        "start": 45,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "55976150",
+                        "start": 3,
+                        "username": "dhrxsol1234"
+                    }
+                ]
+            },
+            "id": "1326029270959976448",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326000324495110144",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @dhrxsol1234: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Vo\u2026"
+        },
+        {
+            "author_id": "2917954106",
+            "conversation_id": "1326028695115423745",
+            "created_at": "2020-11-10T05:07:31.000Z",
+            "edit_history_tweet_ids": [
+                "1326028695115423745"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7747,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6725,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 159,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/",
+                        "start": 136,
+                        "url": "https://t.co/W1znREFAbm"
+                    }
+                ]
+            },
+            "id": "1326028695115423745",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines https://t.co/W1znREFAbm"
+        },
+        {
+            "author_id": "257973635",
+            "conversation_id": "1326028626869940224",
+            "created_at": "2020-11-10T05:07:15.000Z",
+            "edit_history_tweet_ids": [
+                "1326028626869940224"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7932,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6979,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 178,
+                        "id": "19211550",
+                        "start": 164,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 159,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostTopSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 136,
+                        "url": "https://t.co/a0UG85ErlW"
+                    }
+                ]
+            },
+            "id": "1326028626869940224",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines https://t.co/a0UG85ErlW via @gatewaypundit"
+        },
+        {
+            "author_id": "2373573492",
+            "conversation_id": "1326028613997584385",
+            "created_at": "2020-11-10T05:07:12.000Z",
+            "edit_history_tweet_ids": [
+                "1326028613997584385"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8112,
+                        "start": 14,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 49,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6491,
+                        "start": 42,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "177584156",
+                        "start": 3,
+                        "username": "jjauthor"
+                    }
+                ]
+            },
+            "id": "1326028613997584385",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 125
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326027672493805568",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @jjauthor: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Votin\u2026"
+        },
+        {
+            "author_id": "755887588544811008",
+            "conversation_id": "1326028379737427969",
+            "created_at": "2020-11-10T05:06:16.000Z",
+            "edit_history_tweet_ids": [
+                "1326028379737427969"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8112,
+                        "start": 14,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 49,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6491,
+                        "start": 42,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "177584156",
+                        "start": 3,
+                        "username": "jjauthor"
+                    }
+                ]
+            },
+            "id": "1326028379737427969",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 125
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326027672493805568",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @jjauthor: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Votin\u2026"
+        },
+        {
+            "author_id": "1190416829384019968",
+            "conversation_id": "1326028331981053953",
+            "created_at": "2020-11-10T05:06:05.000Z",
+            "edit_history_tweet_ids": [
+                "1326028331981053953"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8112,
+                        "start": 14,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 49,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6491,
+                        "start": 42,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "177584156",
+                        "start": 3,
+                        "username": "jjauthor"
+                    }
+                ]
+            },
+            "id": "1326028331981053953",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 125
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326027672493805568",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @jjauthor: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Votin\u2026"
+        },
+        {
+            "author_id": "2705030808",
+            "conversation_id": "1326028251840516096",
+            "created_at": "2020-11-10T05:05:46.000Z",
+            "edit_history_tweet_ids": [
+                "1326028251840516096"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8112,
+                        "start": 14,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 49,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6491,
+                        "start": 42,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "177584156",
+                        "start": 3,
+                        "username": "jjauthor"
+                    }
+                ]
+            },
+            "id": "1326028251840516096",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 125
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326027672493805568",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @jjauthor: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Votin\u2026"
+        },
+        {
+            "author_id": "741062786449448962",
+            "conversation_id": "1326028182479392769",
+            "created_at": "2020-11-10T05:05:29.000Z",
+            "edit_history_tweet_ids": [
+                "1326028182479392769"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7747,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6725,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 159,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/",
+                        "start": 136,
+                        "url": "https://t.co/QEVZ558lJN"
+                    }
+                ]
+            },
+            "id": "1326028182479392769",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines https://t.co/QEVZ558lJN"
+        },
+        {
+            "author_id": "60501089",
+            "conversation_id": "1326027959795212290",
+            "created_at": "2020-11-10T05:04:36.000Z",
+            "edit_history_tweet_ids": [
+                "1326027959795212290"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8112,
+                        "start": 14,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 49,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6491,
+                        "start": 42,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "177584156",
+                        "start": 3,
+                        "username": "jjauthor"
+                    }
+                ]
+            },
+            "id": "1326027959795212290",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 125
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326027672493805568",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @jjauthor: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Votin\u2026"
+        },
+        {
+            "author_id": "874740812",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Trent Kelly (MS-01)",
+                        "id": "981250731628834816",
+                        "name": "Trent Kelly"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Trent Kelly (MS-01)",
+                        "id": "981250731628834816",
+                        "name": "Trent Kelly"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative Trent Kelly (MS-01)",
+                        "id": "981250731628834816",
+                        "name": "Trent Kelly"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326027848717660162",
+            "created_at": "2020-11-10T05:04:10.000Z",
+            "edit_history_tweet_ids": [
+                "1326027848717660162"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9621,
+                        "start": 19,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 53,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7825,
+                        "start": 41,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 72,
+                        "normalized_text": "Kelly Townsend",
+                        "probability": 0.9125,
+                        "start": 59,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6469,
+                        "start": 85,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 26,
+                        "start": 18,
+                        "tag": "Arizona"
+                    },
+                    {
+                        "end": 40,
+                        "start": 27,
+                        "tag": "Election2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "803017539903029248",
+                        "start": 3,
+                        "username": "Megavolts001"
+                    }
+                ]
+            },
+            "id": "1326027848717660162",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 41
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326005101983485952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @Megavolts001: #Arizona\n#Election2020\nArizona State Rep.Kelly Townsend R Calls on Maricopa GOP Chairman to Step Down Upon News That She\u2026"
+        },
+        {
+            "author_id": "177584156",
+            "conversation_id": "1326027672493805568",
+            "created_at": "2020-11-10T05:03:28.000Z",
+            "edit_history_tweet_ids": [
+                "1326027672493805568"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7932,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6979,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 178,
+                        "id": "19211550",
+                        "start": 164,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 159,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostTopSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 136,
+                        "status": 200,
+                        "unwound_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostTopSharingButtons&utm_campaign=websitesharingbuttons",
+                        "url": "https://t.co/jz8i0cYK2C"
+                    }
+                ]
+            },
+            "id": "1326027672493805568",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 435,
+                "quote_count": 10,
+                "reply_count": 16,
+                "retweet_count": 125
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines https://t.co/jz8i0cYK2C via @gatewaypundit"
+        },
+        {
+            "author_id": "785314787366502400",
+            "conversation_id": "1326027080857948160",
+            "created_at": "2020-11-10T05:01:07.000Z",
+            "edit_history_tweet_ids": [
+                "1326027080857948160"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7832,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6868,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 154,
+                        "id": "19211550",
+                        "start": 140,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 178,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_campaign=websitesharingbuttons",
+                        "start": 155,
+                        "url": "https://t.co/s9UkQ5wItd"
+                    }
+                ]
+            },
+            "id": "1326027080857948160",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines via @gatewaypundit https://t.co/s9UkQ5wItd \nREAD AND RT"
+        },
+        {
+            "author_id": "1279137966213005312",
+            "conversation_id": "1326026698949849089",
+            "created_at": "2020-11-10T04:59:36.000Z",
+            "edit_history_tweet_ids": [
+                "1326026698949849089"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 48,
+                        "normalized_text": "Arizona",
+                        "probability": 0.6294,
+                        "start": 42,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 79,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.5876,
+                        "start": 72,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "886949509347106816",
+                        "start": 3,
+                        "username": "CotrimNey"
+                    }
+                ]
+            },
+            "id": "1326026698949849089",
+            "lang": "pt",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326018219942027264",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @CotrimNey: Representante do Estado do Arizona pede ao presidente da Maricopa GOP que renuncie ap\u00f3s a not\u00edcia de que ela n\u00e3o apareceu pa\u2026"
+        },
+        {
+            "author_id": "199892296",
+            "conversation_id": "1326026424713687048",
+            "created_at": "2020-11-10T04:58:30.000Z",
+            "edit_history_tweet_ids": [
+                "1326026424713687048"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 33,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8526,
+                        "start": 21,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 56,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6529,
+                        "start": 49,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1213935303020269569",
+                        "start": 3,
+                        "username": "TrappedInNorCal"
+                    }
+                ]
+            },
+            "id": "1326026424713687048",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326016986824892417",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @TrappedInNorCal: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominio\u2026"
+        },
+        {
+            "author_id": "462595972",
+            "conversation_id": "1326026420997545984",
+            "created_at": "2020-11-10T04:58:29.000Z",
+            "edit_history_tweet_ids": [
+                "1326026420997545984"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 27,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8156,
+                        "start": 15,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 50,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6505,
+                        "start": 43,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "3308560736",
+                        "start": 3,
+                        "username": "vivelafra"
+                    }
+                ]
+            },
+            "id": "1326026420997545984",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326021039957143552",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @vivelafra: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voti\u2026"
+        },
+        {
+            "author_id": "390226226",
+            "conversation_id": "1326026249404346369",
+            "created_at": "2020-11-10T04:57:48.000Z",
+            "edit_history_tweet_ids": [
+                "1326026249404346369"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 66,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8811,
+                        "start": 54,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 89,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.7548,
+                        "start": 82,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "49150104",
+                        "start": 3,
+                        "username": "ReallyReene"
+                    }
+                ]
+            },
+            "id": "1326026249404346369",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 46
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326006556450811904",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @ReallyReene: It gets more interesting each day. \n\nArizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Fai\u2026"
+        },
+        {
+            "author_id": "822668876785782789",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Trent Kelly (MS-01)",
+                        "id": "981250731628834816",
+                        "name": "Trent Kelly"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Trent Kelly (MS-01)",
+                        "id": "981250731628834816",
+                        "name": "Trent Kelly"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1326026249039454213",
+            "created_at": "2020-11-10T04:57:48.000Z",
+            "edit_history_tweet_ids": [
+                "1326026249039454213"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9621,
+                        "start": 19,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 53,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7825,
+                        "start": 41,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 72,
+                        "normalized_text": "Kelly Townsend",
+                        "probability": 0.9125,
+                        "start": 59,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6469,
+                        "start": 85,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 26,
+                        "start": 18,
+                        "tag": "Arizona"
+                    },
+                    {
+                        "end": 40,
+                        "start": 27,
+                        "tag": "Election2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "803017539903029248",
+                        "start": 3,
+                        "username": "Megavolts001"
+                    }
+                ]
+            },
+            "id": "1326026249039454213",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 41
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326005101983485952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @Megavolts001: #Arizona\n#Election2020\nArizona State Rep.Kelly Townsend R Calls on Maricopa GOP Chairman to Step Down Upon News That She\u2026"
+        },
+        {
+            "author_id": "126327405",
+            "conversation_id": "1326026192307286017",
+            "created_at": "2020-11-10T04:57:35.000Z",
+            "edit_history_tweet_ids": [
+                "1326026192307286017"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7848,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.692,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 162,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/",
+                        "start": 139,
+                        "url": "https://t.co/KwDF3HmEba"
+                    }
+                ]
+            },
+            "id": "1326026192307286017",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines... https://t.co/KwDF3HmEba"
+        },
+        {
+            "author_id": "4491996682",
+            "conversation_id": "1326026176394039296",
+            "created_at": "2020-11-10T04:57:31.000Z",
+            "edit_history_tweet_ids": [
+                "1326026176394039296"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 27,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8156,
+                        "start": 15,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 50,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6505,
+                        "start": 43,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "3308560736",
+                        "start": 3,
+                        "username": "vivelafra"
+                    }
+                ]
+            },
+            "id": "1326026176394039296",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326021039957143552",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @vivelafra: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voti\u2026"
+        },
+        {
+            "author_id": "867042174",
+            "conversation_id": "1326024011495608321",
+            "created_at": "2020-11-10T04:48:55.000Z",
+            "edit_history_tweet_ids": [
+                "1326024011495608321"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7932,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6979,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 178,
+                        "id": "19211550",
+                        "start": 164,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 159,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostBottomSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 136,
+                        "url": "https://t.co/Q6MCbVGUkh"
+                    }
+                ]
+            },
+            "id": "1326024011495608321",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines https://t.co/Q6MCbVGUkh via @gatewaypundit"
+        },
+        {
+            "author_id": "3260501408",
+            "conversation_id": "1326024006609367040",
+            "created_at": "2020-11-10T04:48:54.000Z",
+            "edit_history_tweet_ids": [
+                "1326024006609367040"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7951,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6981,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 154,
+                        "id": "19211550",
+                        "start": 140,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 178,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_campaign=websitesharingbuttons",
+                        "start": 155,
+                        "url": "https://t.co/fpoKOwPsnh"
+                    }
+                ]
+            },
+            "id": "1326024006609367040",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines via @gatewaypundit https://t.co/fpoKOwPsnh"
+        },
+        {
+            "author_id": "739190190699319297",
+            "conversation_id": "1326023069245329408",
+            "created_at": "2020-11-10T04:45:10.000Z",
+            "edit_history_tweet_ids": [
+                "1326023069245329408"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 66,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8811,
+                        "start": 54,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 89,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.7548,
+                        "start": 82,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "49150104",
+                        "start": 3,
+                        "username": "ReallyReene"
+                    }
+                ]
+            },
+            "id": "1326023069245329408",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 46
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326006556450811904",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @ReallyReene: It gets more interesting each day. \n\nArizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Fai\u2026"
+        },
+        {
+            "author_id": "1197621270797525002",
+            "conversation_id": "1326022923518414848",
+            "created_at": "2020-11-10T04:44:35.000Z",
+            "edit_history_tweet_ids": [
+                "1326022923518414848"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7574,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6598,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 147,
+                        "start": 136,
+                        "tag": "VoterFraud"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 172,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/",
+                        "start": 149,
+                        "url": "https://t.co/1fRoIxyoeg"
+                    }
+                ]
+            },
+            "id": "1326022923518414848",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines\n#VoterFraud  https://t.co/1fRoIxyoeg"
+        },
+        {
+            "author_id": "481254586",
+            "conversation_id": "1326022844174663680",
+            "created_at": "2020-11-10T04:44:17.000Z",
+            "edit_history_tweet_ids": [
+                "1326022844174663680"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7951,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6981,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 154,
+                        "id": "19211550",
+                        "start": 140,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 178,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_campaign=websitesharingbuttons",
+                        "start": 155,
+                        "url": "https://t.co/vNv2hsw9d8"
+                    }
+                ]
+            },
+            "id": "1326022844174663680",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines via @gatewaypundit https://t.co/vNv2hsw9d8"
+        },
+        {
+            "author_id": "149527508",
+            "conversation_id": "1326022816219754498",
+            "created_at": "2020-11-10T04:44:10.000Z",
+            "edit_history_tweet_ids": [
+                "1326022816219754498"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 33,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8526,
+                        "start": 21,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 56,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6529,
+                        "start": 49,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1213935303020269569",
+                        "start": 3,
+                        "username": "TrappedInNorCal"
+                    }
+                ]
+            },
+            "id": "1326022816219754498",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326016986824892417",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @TrappedInNorCal: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominio\u2026"
+        },
+        {
+            "author_id": "1294375853409931265",
+            "conversation_id": "1326022720396652544",
+            "created_at": "2020-11-10T04:43:47.000Z",
+            "edit_history_tweet_ids": [
+                "1326022720396652544"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 66,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8811,
+                        "start": 54,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 89,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.7548,
+                        "start": 82,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "49150104",
+                        "start": 3,
+                        "username": "ReallyReene"
+                    }
+                ]
+            },
+            "id": "1326022720396652544",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 46
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326006556450811904",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @ReallyReene: It gets more interesting each day. \n\nArizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Fai\u2026"
+        },
+        {
+            "author_id": "4872840237",
+            "conversation_id": "1326022382419668993",
+            "created_at": "2020-11-10T04:42:26.000Z",
+            "edit_history_tweet_ids": [
+                "1326022382419668993"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 27,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8156,
+                        "start": 15,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 50,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6505,
+                        "start": 43,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "3308560736",
+                        "start": 3,
+                        "username": "vivelafra"
+                    }
+                ]
+            },
+            "id": "1326022382419668993",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326021039957143552",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @vivelafra: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voti\u2026"
+        },
+        {
+            "author_id": "368525958",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Trent Kelly (MS-01)",
+                        "id": "981250731628834816",
+                        "name": "Trent Kelly"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Trent Kelly (MS-01)",
+                        "id": "981250731628834816",
+                        "name": "Trent Kelly"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative Trent Kelly (MS-01)",
+                        "id": "981250731628834816",
+                        "name": "Trent Kelly"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326022152491995137",
+            "created_at": "2020-11-10T04:41:32.000Z",
+            "edit_history_tweet_ids": [
+                "1326022152491995137"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9621,
+                        "start": 19,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 53,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7825,
+                        "start": 41,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 72,
+                        "normalized_text": "Kelly Townsend",
+                        "probability": 0.9125,
+                        "start": 59,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6469,
+                        "start": 85,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 26,
+                        "start": 18,
+                        "tag": "Arizona"
+                    },
+                    {
+                        "end": 40,
+                        "start": 27,
+                        "tag": "Election2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "803017539903029248",
+                        "start": 3,
+                        "username": "Megavolts001"
+                    }
+                ]
+            },
+            "id": "1326022152491995137",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 41
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326005101983485952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @Megavolts001: #Arizona\n#Election2020\nArizona State Rep.Kelly Townsend R Calls on Maricopa GOP Chairman to Step Down Upon News That She\u2026"
+        },
+        {
+            "author_id": "590548511",
+            "conversation_id": "1326022007088062464",
+            "created_at": "2020-11-10T04:40:57.000Z",
+            "edit_history_tweet_ids": [
+                "1326022007088062464"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 27,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8156,
+                        "start": 15,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 50,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6505,
+                        "start": 43,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "3308560736",
+                        "start": 3,
+                        "username": "vivelafra"
+                    }
+                ]
+            },
+            "id": "1326022007088062464",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326021039957143552",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @vivelafra: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voti\u2026"
+        },
+        {
+            "author_id": "1296157951",
+            "conversation_id": "1326021833783586816",
+            "created_at": "2020-11-10T04:40:16.000Z",
+            "edit_history_tweet_ids": [
+                "1326021833783586816"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 29,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8123,
+                        "start": 17,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 52,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.636,
+                        "start": 45,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "55976150",
+                        "start": 3,
+                        "username": "dhrxsol1234"
+                    }
+                ]
+            },
+            "id": "1326021833783586816",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326000324495110144",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @dhrxsol1234: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Vo\u2026"
+        },
+        {
+            "author_id": "1654412989",
+            "conversation_id": "1326021501376606208",
+            "created_at": "2020-11-10T04:38:56.000Z",
+            "edit_history_tweet_ids": [
+                "1326021501376606208"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 27,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8156,
+                        "start": 15,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 50,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6505,
+                        "start": 43,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "3308560736",
+                        "start": 3,
+                        "username": "vivelafra"
+                    }
+                ]
+            },
+            "id": "1326021501376606208",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326021039957143552",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @vivelafra: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voti\u2026"
+        },
+        {
+            "author_id": "1212492798806482945",
+            "conversation_id": "1326021326247759872",
+            "created_at": "2020-11-10T04:38:15.000Z",
+            "edit_history_tweet_ids": [
+                "1326021326247759872"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 66,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8811,
+                        "start": 54,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 89,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.7548,
+                        "start": 82,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "49150104",
+                        "start": 3,
+                        "username": "ReallyReene"
+                    }
+                ]
+            },
+            "id": "1326021326247759872",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 46
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326006556450811904",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @ReallyReene: It gets more interesting each day. \n\nArizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Fai\u2026"
+        },
+        {
+            "author_id": "3308560736",
+            "conversation_id": "1326021039957143552",
+            "created_at": "2020-11-10T04:37:06.000Z",
+            "edit_history_tweet_ids": [
+                "1326021039957143552"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7932,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6979,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 178,
+                        "id": "19211550",
+                        "start": 164,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 159,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostTopSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 136,
+                        "url": "https://t.co/XDuOAeKFOi"
+                    }
+                ]
+            },
+            "id": "1326021039957143552",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 10,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines https://t.co/XDuOAeKFOi via @gatewaypundit"
+        },
+        {
+            "author_id": "25320407",
+            "conversation_id": "1326020923401641991",
+            "created_at": "2020-11-10T04:36:39.000Z",
+            "edit_history_tweet_ids": [
+                "1326020923401641991"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8103,
+                        "start": 16,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 51,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6465,
+                        "start": 44,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "231636856",
+                        "start": 3,
+                        "username": "wilsoa2000"
+                    }
+                ]
+            },
+            "id": "1326020923401641991",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326007168353579009",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @wilsoa2000: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Vot\u2026"
+        },
+        {
+            "author_id": "1248661381127327747",
+            "conversation_id": "1326020603334242304",
+            "created_at": "2020-11-10T04:35:22.000Z",
+            "edit_history_tweet_ids": [
+                "1326020603334242304"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7747,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6725,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 160,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/",
+                        "start": 137,
+                        "url": "https://t.co/DrpLnimoOO"
+                    }
+                ]
+            },
+            "id": "1326020603334242304",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines\n\nhttps://t.co/DrpLnimoOO"
+        },
+        {
+            "author_id": "760658746305548288",
+            "conversation_id": "1326020546610536448",
+            "created_at": "2020-11-10T04:35:09.000Z",
+            "edit_history_tweet_ids": [
+                "1326020546610536448"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7932,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6979,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 178,
+                        "id": "19211550",
+                        "start": 164,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 159,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostSideSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 136,
+                        "url": "https://t.co/RBnxkXgWo4"
+                    }
+                ]
+            },
+            "id": "1326020546610536448",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines https://t.co/RBnxkXgWo4 via @gatewaypundit"
+        },
+        {
+            "author_id": "785297795334803459",
+            "conversation_id": "1326019431923769344",
+            "created_at": "2020-11-10T04:30:43.000Z",
+            "edit_history_tweet_ids": [
+                "1326019431923769344"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7951,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6981,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 154,
+                        "id": "19211550",
+                        "start": 140,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 178,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_campaign=websitesharingbuttons",
+                        "start": 155,
+                        "url": "https://t.co/HeT0IG2WHO"
+                    }
+                ]
+            },
+            "id": "1326019431923769344",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines via @gatewaypundit https://t.co/HeT0IG2WHO"
+        },
+        {
+            "author_id": "702033150176841729",
+            "conversation_id": "1326019215195770880",
+            "created_at": "2020-11-10T04:29:51.000Z",
+            "edit_history_tweet_ids": [
+                "1326019215195770880"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7932,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6979,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 178,
+                        "id": "19211550",
+                        "start": 164,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 159,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostTopSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 136,
+                        "url": "https://t.co/buj9NqMCY6"
+                    }
+                ]
+            },
+            "id": "1326019215195770880",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines https://t.co/buj9NqMCY6 via @gatewaypundit"
+        },
+        {
+            "author_id": "1316555616169664519",
+            "conversation_id": "1326019213073526784",
+            "created_at": "2020-11-10T04:29:51.000Z",
+            "edit_history_tweet_ids": [
+                "1326019213073526784"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 30,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8291,
+                        "start": 18,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 53,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6469,
+                        "start": 46,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "373033271",
+                        "start": 3,
+                        "username": "Wil_Johnson1"
+                    }
+                ]
+            },
+            "id": "1326019213073526784",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325994692186570752",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @Wil_Johnson1: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion V\u2026"
+        },
+        {
+            "author_id": "886949509347106816",
+            "conversation_id": "1326018219942027264",
+            "created_at": "2020-11-10T04:25:54.000Z",
+            "edit_history_tweet_ids": [
+                "1326018219942027264"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 33,
+                        "normalized_text": "Arizona",
+                        "probability": 0.5472,
+                        "start": 27,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 64,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6839,
+                        "start": 57,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 171,
+                        "normalized_text": "Dominion",
+                        "probability": 0.7172,
+                        "start": 164,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 215,
+                        "id": "19211550",
+                        "start": 201,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 196,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostSideSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 173,
+                        "url": "https://t.co/QMCvQ51l7z"
+                    }
+                ]
+            },
+            "id": "1326018219942027264",
+            "lang": "pt",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Representante do Estado do Arizona pede ao presidente da Maricopa GOP que renuncie ap\u00f3s a not\u00edcia de que ela n\u00e3o apareceu para certificar as m\u00e1quinas de vota\u00e7\u00e3o do Dominion\nhttps://t.co/QMCvQ51l7z via @gatewaypundit"
+        },
+        {
+            "author_id": "140570358",
+            "conversation_id": "1326017748166606849",
+            "created_at": "2020-11-10T04:24:02.000Z",
+            "edit_history_tweet_ids": [
+                "1326017748166606849"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7932,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6979,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 178,
+                        "id": "19211550",
+                        "start": 164,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 159,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostTopSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 136,
+                        "url": "https://t.co/emvkPp4KlI"
+                    }
+                ]
+            },
+            "id": "1326017748166606849",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines https://t.co/emvkPp4KlI via @gatewaypundit"
+        },
+        {
+            "author_id": "286479483",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Trent Kelly (MS-01)",
+                        "id": "981250731628834816",
+                        "name": "Trent Kelly"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Trent Kelly (MS-01)",
+                        "id": "981250731628834816",
+                        "name": "Trent Kelly"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative Trent Kelly (MS-01)",
+                        "id": "981250731628834816",
+                        "name": "Trent Kelly"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326017380858867714",
+            "created_at": "2020-11-10T04:22:34.000Z",
+            "edit_history_tweet_ids": [
+                "1326017380858867714"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9621,
+                        "start": 19,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 53,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7825,
+                        "start": 41,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 72,
+                        "normalized_text": "Kelly Townsend",
+                        "probability": 0.9125,
+                        "start": 59,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6469,
+                        "start": 85,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 26,
+                        "start": 18,
+                        "tag": "Arizona"
+                    },
+                    {
+                        "end": 40,
+                        "start": 27,
+                        "tag": "Election2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "803017539903029248",
+                        "start": 3,
+                        "username": "Megavolts001"
+                    }
+                ]
+            },
+            "id": "1326017380858867714",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 41
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326005101983485952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @Megavolts001: #Arizona\n#Election2020\nArizona State Rep.Kelly Townsend R Calls on Maricopa GOP Chairman to Step Down Upon News That She\u2026"
+        },
+        {
+            "author_id": "1213935303020269569",
+            "conversation_id": "1326016986824892417",
+            "created_at": "2020-11-10T04:21:00.000Z",
+            "edit_history_tweet_ids": [
+                "1326016986824892417"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7951,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6981,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 154,
+                        "id": "19211550",
+                        "start": 140,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 178,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_campaign=websitesharingbuttons",
+                        "start": 155,
+                        "url": "https://t.co/E271QoXTr2"
+                    }
+                ]
+            },
+            "id": "1326016986824892417",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines via @gatewaypundit https://t.co/E271QoXTr2"
+        },
+        {
+            "author_id": "715930119626301440",
+            "conversation_id": "1326016601238482946",
+            "created_at": "2020-11-10T04:19:28.000Z",
+            "edit_history_tweet_ids": [
+                "1326016601238482946"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 23,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/",
+                        "start": 0,
+                        "url": "https://t.co/opOTIwyasA"
+                    }
+                ]
+            },
+            "id": "1326016601238482946",
+            "lang": "zxx",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "https://t.co/opOTIwyasA"
+        },
+        {
+            "author_id": "883853167",
+            "conversation_id": "1326016599141175296",
+            "created_at": "2020-11-10T04:19:28.000Z",
+            "edit_history_tweet_ids": [
+                "1326016599141175296"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 42,
+                        "id": "527042011",
+                        "start": 31,
+                        "username": "wiseguy702"
+                    },
+                    {
+                        "end": 55,
+                        "id": "168729846",
+                        "start": 43,
+                        "username": "GodFatha702"
+                    },
+                    {
+                        "end": 68,
+                        "id": "28391425",
+                        "start": 56,
+                        "username": "TheAnaBraga"
+                    },
+                    {
+                        "end": 85,
+                        "id": "821047729975504896",
+                        "start": 69,
+                        "username": "Prayerful57Girl"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 127,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/",
+                        "start": 104,
+                        "url": "https://t.co/X8e72v57gp"
+                    }
+                ]
+            },
+            "id": "1326016599141175296",
+            "in_reply_to_user_id": "773312477048233984",
+            "lang": "qme",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@CoughingHillary @JackGarcia66 @wiseguy702 @GodFatha702 @TheAnaBraga @Prayerful57Girl @CarmeIoRandazzo \nhttps://t.co/X8e72v57gp"
+        },
+        {
+            "author_id": "705635281546817537",
+            "conversation_id": "1326015699584774146",
+            "created_at": "2020-11-10T04:15:53.000Z",
+            "edit_history_tweet_ids": [
+                "1326015699584774146"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 27,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8156,
+                        "start": 15,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 50,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6505,
+                        "start": 43,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "3260501809",
+                        "start": 3,
+                        "username": "USA4TRUMP"
+                    }
+                ]
+            },
+            "id": "1326015699584774146",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326010060330344449",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @USA4TRUMP: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voti\u2026"
+        },
+        {
+            "author_id": "991738895510528004",
+            "conversation_id": "1326015210835087361",
+            "created_at": "2020-11-10T04:13:57.000Z",
+            "edit_history_tweet_ids": [
+                "1326015210835087361"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7932,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6979,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 178,
+                        "id": "19211550",
+                        "start": 164,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 159,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostTopSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 136,
+                        "url": "https://t.co/QizkM6y1BS"
+                    }
+                ]
+            },
+            "id": "1326015210835087361",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines https://t.co/QizkM6y1BS via @gatewaypundit"
+        },
+        {
+            "author_id": "726190182324523008",
+            "conversation_id": "1326015193369948160",
+            "created_at": "2020-11-10T04:13:52.000Z",
+            "edit_history_tweet_ids": [
+                "1326015193369948160"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 29,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8123,
+                        "start": 17,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 52,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.636,
+                        "start": 45,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1009560837734846464",
+                        "start": 3,
+                        "username": "LivePDDave1"
+                    }
+                ]
+            },
+            "id": "1326015193369948160",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 13
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325997803915505670",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @LivePDDave1: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Vo\u2026"
+        },
+        {
+            "author_id": "1270184080240304133",
+            "conversation_id": "1326015132502122497",
+            "created_at": "2020-11-10T04:13:38.000Z",
+            "edit_history_tweet_ids": [
+                "1326015132502122497"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 30,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8291,
+                        "start": 18,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 53,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6469,
+                        "start": 46,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1270184080240304133",
+                        "start": 3,
+                        "username": "BillCatcher1"
+                    }
+                ]
+            },
+            "id": "1326015132502122497",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326000758756528128",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BillCatcher1: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion V\u2026"
+        },
+        {
+            "author_id": "818451103",
+            "conversation_id": "1326014194702053396",
+            "created_at": "2020-11-10T04:09:54.000Z",
+            "edit_history_tweet_ids": [
+                "1326014194702053396"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8103,
+                        "start": 16,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 51,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6465,
+                        "start": 44,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "838912583897841666",
+                        "start": 3,
+                        "username": "Tinman1295"
+                    }
+                ]
+            },
+            "id": "1326014194702053396",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326008781872918531",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @Tinman1295: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Vot\u2026"
+        },
+        {
+            "author_id": "264376821",
+            "conversation_id": "1326014161940312064",
+            "created_at": "2020-11-10T04:09:47.000Z",
+            "edit_history_tweet_ids": [
+                "1326014161940312064"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "740018228693327873",
+                        "start": 3,
+                        "username": "AumoneMaison"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 41,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/",
+                        "start": 18,
+                        "url": "https://t.co/nm7IRPBiTb"
+                    }
+                ]
+            },
+            "id": "1326014161940312064",
+            "lang": "zxx",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326010527278010369",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @AumoneMaison: https://t.co/nm7IRPBiTb"
+        },
+        {
+            "author_id": "774099067349573632",
+            "conversation_id": "1326013149280022529",
+            "created_at": "2020-11-10T04:05:45.000Z",
+            "edit_history_tweet_ids": [
+                "1326013149280022529"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7932,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6979,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 178,
+                        "id": "19211550",
+                        "start": 164,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 159,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostTopSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 136,
+                        "url": "https://t.co/kVh5aMHYeY"
+                    }
+                ]
+            },
+            "id": "1326013149280022529",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines https://t.co/kVh5aMHYeY via @gatewaypundit"
+        },
+        {
+            "author_id": "1179034654294196226",
+            "conversation_id": "1326013134952255494",
+            "created_at": "2020-11-10T04:05:42.000Z",
+            "edit_history_tweet_ids": [
+                "1326013134952255494"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 29,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8123,
+                        "start": 17,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 52,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.636,
+                        "start": 45,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "55976150",
+                        "start": 3,
+                        "username": "dhrxsol1234"
+                    }
+                ]
+            },
+            "id": "1326013134952255494",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326000324495110144",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @dhrxsol1234: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Vo\u2026"
+        },
+        {
+            "author_id": "2271098004",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Trent Kelly (MS-01)",
+                        "id": "981250731628834816",
+                        "name": "Trent Kelly"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Trent Kelly (MS-01)",
+                        "id": "981250731628834816",
+                        "name": "Trent Kelly"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative Trent Kelly (MS-01)",
+                        "id": "981250731628834816",
+                        "name": "Trent Kelly"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326013035681558528",
+            "created_at": "2020-11-10T04:05:18.000Z",
+            "edit_history_tweet_ids": [
+                "1326013035681558528"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9621,
+                        "start": 19,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 53,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7825,
+                        "start": 41,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 72,
+                        "normalized_text": "Kelly Townsend",
+                        "probability": 0.9125,
+                        "start": 59,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6469,
+                        "start": 85,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 26,
+                        "start": 18,
+                        "tag": "Arizona"
+                    },
+                    {
+                        "end": 40,
+                        "start": 27,
+                        "tag": "Election2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "803017539903029248",
+                        "start": 3,
+                        "username": "Megavolts001"
+                    }
+                ]
+            },
+            "id": "1326013035681558528",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 41
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326005101983485952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @Megavolts001: #Arizona\n#Election2020\nArizona State Rep.Kelly Townsend R Calls on Maricopa GOP Chairman to Step Down Upon News That She\u2026"
+        },
+        {
+            "author_id": "2845955115",
+            "conversation_id": "1326012195910676480",
+            "created_at": "2020-11-10T04:01:58.000Z",
+            "edit_history_tweet_ids": [
+                "1326012195910676480"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 63,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8742,
+                        "start": 51,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 86,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.7409,
+                        "start": 79,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "713774847835262976",
+                        "start": 3,
+                        "username": "TrentFuller7"
+                    }
+                ]
+            },
+            "id": "1326012195910676480",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326011566429384704",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @TrentFuller7: They\u2019re shaking in their boots. ~Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed\u2026"
+        },
+        {
+            "author_id": "2823444001",
+            "conversation_id": "1326011934592933890",
+            "created_at": "2020-11-10T04:00:55.000Z",
+            "edit_history_tweet_ids": [
+                "1326011934592933890"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7951,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6981,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 154,
+                        "id": "19211550",
+                        "start": 140,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 178,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_campaign=websitesharingbuttons",
+                        "start": 155,
+                        "url": "https://t.co/kyB5ZU7uln"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "cae48909a1a015a5"
+            },
+            "id": "1326011934592933890",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines via @gatewaypundit https://t.co/kyB5ZU7uln"
+        },
+        {
+            "author_id": "1255656308641894400",
+            "conversation_id": "1326011898081513472",
+            "created_at": "2020-11-10T04:00:47.000Z",
+            "edit_history_tweet_ids": [
+                "1326011898081513472"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8103,
+                        "start": 16,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 51,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6465,
+                        "start": 44,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "231636856",
+                        "start": 3,
+                        "username": "wilsoa2000"
+                    }
+                ]
+            },
+            "id": "1326011898081513472",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326007168353579009",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @wilsoa2000: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Vot\u2026"
+        },
+        {
+            "author_id": "713774847835262976",
+            "conversation_id": "1326011566429384704",
+            "created_at": "2020-11-10T03:59:28.000Z",
+            "edit_history_tweet_ids": [
+                "1326011566429384704"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 45,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8409,
+                        "start": 33,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 68,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6896,
+                        "start": 61,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 187,
+                        "id": "19211550",
+                        "start": 173,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 211,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_campaign=websitesharingbuttons",
+                        "start": 188,
+                        "url": "https://t.co/YK0Cn3j1CR"
+                    }
+                ]
+            },
+            "id": "1326011566429384704",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "They\u2019re shaking in their boots. ~Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines via @gatewaypundit https://t.co/YK0Cn3j1CR"
+        },
+        {
+            "author_id": "458015801",
+            "conversation_id": "1326011523542683648",
+            "created_at": "2020-11-10T03:59:17.000Z",
+            "edit_history_tweet_ids": [
+                "1326011523542683648"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7932,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6979,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 178,
+                        "id": "19211550",
+                        "start": 164,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 159,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostTopSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 136,
+                        "url": "https://t.co/G1OPDmQ3hS"
+                    }
+                ]
+            },
+            "id": "1326011523542683648",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines https://t.co/G1OPDmQ3hS via @gatewaypundit"
+        },
+        {
+            "author_id": "4778460802",
+            "conversation_id": "1326011350016020481",
+            "created_at": "2020-11-10T03:58:36.000Z",
+            "edit_history_tweet_ids": [
+                "1326011350016020481"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8299,
+                        "start": 19,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 54,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6548,
+                        "start": 47,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "18557659",
+                        "start": 3,
+                        "username": "GhostedHippie"
+                    }
+                ]
+            },
+            "id": "1326011350016020481",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325998782241189888",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @GhostedHippie: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion\u2026"
+        },
+        {
+            "author_id": "821114954334031877",
+            "conversation_id": "1326011045081731072",
+            "created_at": "2020-11-10T03:57:23.000Z",
+            "edit_history_tweet_ids": [
+                "1326011045081731072"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 30,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8291,
+                        "start": 18,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 53,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6469,
+                        "start": 46,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "373033271",
+                        "start": 3,
+                        "username": "Wil_Johnson1"
+                    }
+                ]
+            },
+            "id": "1326011045081731072",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325994692186570752",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @Wil_Johnson1: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion V\u2026"
+        },
+        {
+            "author_id": "634961117",
+            "conversation_id": "1326010682597208064",
+            "created_at": "2020-11-10T03:55:57.000Z",
+            "edit_history_tweet_ids": [
+                "1326010682597208064"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.7932,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 35,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6979,
+                        "start": 28,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 178,
+                        "id": "19211550",
+                        "start": 164,
+                        "username": "gatewaypundit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thegatewaypundit.com/2020/11/arizon\u2026",
+                        "end": 159,
+                        "expanded_url": "https://www.thegatewaypundit.com/2020/11/arizona-state-rep-calls-maricopa-gop-chairman-step-upon-news-failed-show-certify-dominion-voting-machines/?utm_source=Twitter&utm_medium=PostTopSharingButtons&utm_campaign=websitesharingbuttons",
+                        "start": 136,
+                        "url": "https://t.co/C6OkIUqUuE"
+                    }
+                ]
+            },
+            "id": "1326010682597208064",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voting Machines https://t.co/C6OkIUqUuE via @gatewaypundit"
+        },
+        {
+            "author_id": "827214126",
+            "conversation_id": "1326010644479488001",
+            "created_at": "2020-11-10T03:55:48.000Z",
+            "edit_history_tweet_ids": [
+                "1326010644479488001"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 27,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8156,
+                        "start": 15,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 50,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6505,
+                        "start": 43,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "3260501809",
+                        "start": 3,
+                        "username": "USA4TRUMP"
+                    }
+                ]
+            },
+            "id": "1326010644479488001",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326010060330344449",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @USA4TRUMP: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voti\u2026"
+        },
+        {
+            "author_id": "585270808",
+            "conversation_id": "1326010563785347072",
+            "created_at": "2020-11-10T03:55:29.000Z",
+            "edit_history_tweet_ids": [
+                "1326010563785347072"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 66,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8811,
+                        "start": 54,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 89,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.7548,
+                        "start": 82,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "49150104",
+                        "start": 3,
+                        "username": "ReallyReene"
+                    }
+                ]
+            },
+            "id": "1326010563785347072",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 46
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326006556450811904",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @ReallyReene: It gets more interesting each day. \n\nArizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Fai\u2026"
+        },
+        {
+            "author_id": "4847877405",
+            "conversation_id": "1326010543308759040",
+            "created_at": "2020-11-10T03:55:24.000Z",
+            "edit_history_tweet_ids": [
+                "1326010543308759040"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 27,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8156,
+                        "start": 15,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 50,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6505,
+                        "start": 43,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "3260501809",
+                        "start": 3,
+                        "username": "USA4TRUMP"
+                    }
+                ]
+            },
+            "id": "1326010543308759040",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326010060330344449",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @USA4TRUMP: Arizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dominion Voti\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1326029270959976448",
+        "next_token": "b26v89c19zqg8o3fosbunqyhypfa263e54zm5v1xkkl8d",
+        "oldest_id": "1326010543308759040",
+        "result_count": 65
+    }
+}

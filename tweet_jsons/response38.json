@@ -1,0 +1,111 @@
+{
+    "data": [
+        {
+            "author_id": "68091766",
+            "conversation_id": "1326292289937838081",
+            "created_at": "2020-11-10T22:34:57.000Z",
+            "edit_history_tweet_ids": [
+                "1326292289937838081"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 66,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8811,
+                        "start": 54,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 89,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.7548,
+                        "start": 82,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "49150104",
+                        "start": 3,
+                        "username": "ReallyReene"
+                    }
+                ]
+            },
+            "id": "1326292289937838081",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 46
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326006556450811904",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @ReallyReene: It gets more interesting each day. \n\nArizona State Rep. Calls on Maricopa GOP Chairman to Step Down Upon News That She Fai\u2026"
+        },
+        {
+            "author_id": "35179764",
+            "conversation_id": "1326284994306662406",
+            "created_at": "2020-11-10T22:05:58.000Z",
+            "edit_history_tweet_ids": [
+                "1326284994306662406"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 106,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.806,
+                        "start": 92,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "28272865",
+                        "start": 3,
+                        "username": "GarretLewis"
+                    },
+                    {
+                        "end": 27,
+                        "id": "15937190",
+                        "start": 21,
+                        "username": "AZGOP"
+                    }
+                ]
+            },
+            "id": "1326284994306662406",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 17
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326234019260854272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @GarretLewis: The @AZGOP needs an enema.  The latest incompetent fool is the head of the Maricopa County GOP.  She didn't even show up t\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1326292289937838081",
+        "next_token": "b26v89c19zqg8o3fosbunva1tw0m317dd84mxnegxyirh",
+        "oldest_id": "1326284994306662406",
+        "result_count": 2
+    }
+}

@@ -1,0 +1,1656 @@
+{
+    "data": [
+        {
+            "author_id": "159644446",
+            "conversation_id": "1326353253144072192",
+            "created_at": "2020-11-11T02:37:12.000Z",
+            "edit_history_tweet_ids": [
+                "1326353253144072192"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 106,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.806,
+                        "start": 92,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "28272865",
+                        "start": 3,
+                        "username": "GarretLewis"
+                    },
+                    {
+                        "end": 27,
+                        "id": "15937190",
+                        "start": 21,
+                        "username": "AZGOP"
+                    }
+                ]
+            },
+            "id": "1326353253144072192",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 17
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326234019260854272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @GarretLewis: The @AZGOP needs an enema.  The latest incompetent fool is the head of the Maricopa County GOP.  She didn't even show up t\u2026"
+        },
+        {
+            "author_id": "1108709168880517120",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Candace Owens",
+                        "id": "988359847568490496",
+                        "name": "Candace Owens"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Candace Owens",
+                        "id": "988359847568490496",
+                        "name": "Candace Owens"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Candace Owens",
+                        "id": "988359847568490496",
+                        "name": "Candace Owens"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                }
+            ],
+            "conversation_id": "1326347213195370496",
+            "created_at": "2020-11-11T02:32:59.000Z",
+            "edit_history_tweet_ids": [
+                "1326352190307446785"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 93,
+                        "normalized_text": "Maricopa Cty",
+                        "probability": 0.3351,
+                        "start": 82,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 106,
+                        "normalized_text": "Detroit",
+                        "probability": 0.9503,
+                        "start": 100,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 130,
+                        "normalized_text": "Dominion",
+                        "probability": 0.4329,
+                        "start": 123,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "878247600096509952",
+                        "start": 0,
+                        "username": "RealCandaceO"
+                    }
+                ]
+            },
+            "id": "1326352190307446785",
+            "in_reply_to_user_id": "878247600096509952",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326347213195370496",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@RealCandaceO interesting that the 2 counties with huge voting irregularities in (Maricopa Cty, and Detroit) both used the Dominion voting system? But the other counties in those states did not and have NO irregularities?? Planned cheating!!!"
+        },
+        {
+            "author_id": "938019073",
+            "conversation_id": "1326349449526874113",
+            "created_at": "2020-11-11T02:22:05.000Z",
+            "edit_history_tweet_ids": [
+                "1326349449526874113"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.4724,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "Texas",
+                        "probability": 0.972,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "826098849471143937",
+                        "start": 3,
+                        "username": "UrUnpaidPundit"
+                    }
+                ]
+            },
+            "id": "1326349449526874113",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 36
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326301566509309952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @UrUnpaidPundit: Dominion Voting Systems was refused in Texas because it didn't meet even the *basic* security standards. \nSome but not\u2026"
+        },
+        {
+            "author_id": "1096275867884498944",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "description": "Four icons compete to find and transform America's inspiring voices into music's next phenomenon. \n\n",
+                        "id": "10002412870",
+                        "name": "The Voice"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Television show episodes",
+                        "id": "4",
+                        "name": "TV Episodes"
+                    },
+                    "entity": {
+                        "description": "Four icons compete to find and transform America's inspiring voices into music's next phenomenon. \n\nPhoto via @NBCTheVoice",
+                        "id": "1321778817640222720",
+                        "name": "The Battles Part 2"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Trent Kelly (MS-01)",
+                        "id": "981250731628834816",
+                        "name": "Trent Kelly"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Four icons compete to find and transform America's inspiring voices into music's next phenomenon. \n\nPhoto via @NBCTheVoice",
+                        "id": "1321778817640222720",
+                        "name": "The Battles Part 2"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Trent Kelly (MS-01)",
+                        "id": "981250731628834816",
+                        "name": "Trent Kelly"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative Trent Kelly (MS-01)",
+                        "id": "981250731628834816",
+                        "name": "Trent Kelly"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326341262904004608",
+            "created_at": "2020-11-11T01:49:33.000Z",
+            "edit_history_tweet_ids": [
+                "1326341262904004608"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.6159,
+                        "start": 11,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 43,
+                        "normalized_text": "Kelly Townsend",
+                        "probability": 0.722,
+                        "start": 30,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 73,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.5248,
+                        "start": 59,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 100,
+                        "normalized_text": "Rae Chornenky",
+                        "probability": 0.6389,
+                        "start": 88,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/gatewaypundit/\u2026",
+                        "end": 236,
+                        "expanded_url": "https://twitter.com/gatewaypundit/status/1326040472758915073",
+                        "start": 213,
+                        "url": "https://t.co/fG3jJakwRA"
+                    }
+                ]
+            },
+            "id": "1326341262904004608",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "Republican Arizona State Rep. Kelly Townsend is calling on Maricopa County GOP Chairman Rae Chornenky to step down, along with her first Vice Chair, for failing to show up to certify the Dominion Voting Machines. https://t.co/fG3jJakwRA"
+        },
+        {
+            "author_id": "45479337",
+            "conversation_id": "1326336231039356929",
+            "created_at": "2020-11-11T01:29:34.000Z",
+            "edit_history_tweet_ids": [
+                "1326336231039356929"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 70,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8896,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1117898546055761920",
+                        "start": 3,
+                        "username": "BarnettforAZ"
+                    }
+                ]
+            },
+            "id": "1326336231039356929",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326229438623670272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @BarnettforAZ: Dominion voting machines were used in Maricopa County \n\nAudit the votes! Forensic audit on every machine"
+        },
+        {
+            "author_id": "18534989",
+            "conversation_id": "1326330355851403264",
+            "created_at": "2020-11-11T01:06:13.000Z",
+            "edit_history_tweet_ids": [
+                "1326330355851403264"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.4724,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "Texas",
+                        "probability": 0.972,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "826098849471143937",
+                        "start": 3,
+                        "username": "UrUnpaidPundit"
+                    }
+                ]
+            },
+            "id": "1326330355851403264",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 36
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326301566509309952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @UrUnpaidPundit: Dominion Voting Systems was refused in Texas because it didn't meet even the *basic* security standards. \nSome but not\u2026"
+        },
+        {
+            "author_id": "15378447",
+            "conversation_id": "1326295895734808577",
+            "created_at": "2020-11-11T00:50:52.000Z",
+            "edit_history_tweet_ids": [
+                "1326326491425218567"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 56,
+                        "normalized_text": "Dominion",
+                        "probability": 0.4373,
+                        "start": 49,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 89,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.591,
+                        "start": 82,
+                        "type": "Place"
+                    }
+                ]
+            },
+            "id": "1326326491425218567",
+            "in_reply_to_user_id": "1081067542045544448",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326295895734808577",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@MiloForSenate Which district? One county uses F Dominion Voting system - I think Maricopa.... coincidence ?"
+        },
+        {
+            "author_id": "809065116448616448",
+            "conversation_id": "1326320555008675841",
+            "created_at": "2020-11-11T00:27:16.000Z",
+            "edit_history_tweet_ids": [
+                "1326320555008675841"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.4724,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "Texas",
+                        "probability": 0.972,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "826098849471143937",
+                        "start": 3,
+                        "username": "UrUnpaidPundit"
+                    }
+                ]
+            },
+            "id": "1326320555008675841",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 36
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326301566509309952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @UrUnpaidPundit: Dominion Voting Systems was refused in Texas because it didn't meet even the *basic* security standards. \nSome but not\u2026"
+        },
+        {
+            "author_id": "1305255353370771458",
+            "conversation_id": "1326317313897992193",
+            "created_at": "2020-11-11T00:14:24.000Z",
+            "edit_history_tweet_ids": [
+                "1326317313897992193"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.4724,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "Texas",
+                        "probability": 0.972,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "826098849471143937",
+                        "start": 3,
+                        "username": "UrUnpaidPundit"
+                    }
+                ]
+            },
+            "id": "1326317313897992193",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 36
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326301566509309952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @UrUnpaidPundit: Dominion Voting Systems was refused in Texas because it didn't meet even the *basic* security standards. \nSome but not\u2026"
+        },
+        {
+            "author_id": "2191322197",
+            "conversation_id": "1326317179696865280",
+            "created_at": "2020-11-11T00:13:52.000Z",
+            "edit_history_tweet_ids": [
+                "1326317179696865280"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 106,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.806,
+                        "start": 92,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "28272865",
+                        "start": 3,
+                        "username": "GarretLewis"
+                    },
+                    {
+                        "end": 27,
+                        "id": "15937190",
+                        "start": 21,
+                        "username": "AZGOP"
+                    }
+                ]
+            },
+            "id": "1326317179696865280",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 17
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326234019260854272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @GarretLewis: The @AZGOP needs an enema.  The latest incompetent fool is the head of the Maricopa County GOP.  She didn't even show up t\u2026"
+        },
+        {
+            "author_id": "26922455",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "American politician",
+                        "id": "1070735205277720576",
+                        "name": "Kelli Ward"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "American politician",
+                        "id": "1070735205277720576",
+                        "name": "Kelli Ward"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "American politician",
+                        "id": "1070735205277720576",
+                        "name": "Kelli Ward"
+                    }
+                }
+            ],
+            "conversation_id": "1326200554528276480",
+            "created_at": "2020-11-11T00:13:28.000Z",
+            "edit_history_tweet_ids": [
+                "1326317082611392512"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 123,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9318,
+                        "start": 109,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 153,
+                        "normalized_text": "Voting Systems",
+                        "probability": 0.4503,
+                        "start": 140,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "359403242",
+                        "start": 0,
+                        "username": "kelliwardaz"
+                    }
+                ]
+            },
+            "id": "1326317082611392512",
+            "in_reply_to_user_id": "359403242",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326200554528276480",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@kelliwardaz We must have an audit of any anomalies. We have ZERO confidence in the integrity of the vote in Maricopa County where Dominion Voting Systems was used. These concerns are in addition to the green button and marker concerns at polling locations."
+        },
+        {
+            "author_id": "21973177",
+            "conversation_id": "1326317016060456960",
+            "created_at": "2020-11-11T00:13:13.000Z",
+            "edit_history_tweet_ids": [
+                "1326317016060456960"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.4724,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "Texas",
+                        "probability": 0.972,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "826098849471143937",
+                        "start": 3,
+                        "username": "UrUnpaidPundit"
+                    }
+                ]
+            },
+            "id": "1326317016060456960",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 36
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326301566509309952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @UrUnpaidPundit: Dominion Voting Systems was refused in Texas because it didn't meet even the *basic* security standards. \nSome but not\u2026"
+        },
+        {
+            "author_id": "528589192",
+            "conversation_id": "1326316506783866882",
+            "created_at": "2020-11-11T00:11:11.000Z",
+            "edit_history_tweet_ids": [
+                "1326316506783866882"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.4724,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "Texas",
+                        "probability": 0.972,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "826098849471143937",
+                        "start": 3,
+                        "username": "UrUnpaidPundit"
+                    }
+                ]
+            },
+            "id": "1326316506783866882",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 36
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326301566509309952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @UrUnpaidPundit: Dominion Voting Systems was refused in Texas because it didn't meet even the *basic* security standards. \nSome but not\u2026"
+        },
+        {
+            "author_id": "1250997211384541184",
+            "conversation_id": "1326316442560602112",
+            "created_at": "2020-11-11T00:10:56.000Z",
+            "edit_history_tweet_ids": [
+                "1326316442560602112"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 106,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.806,
+                        "start": 92,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "28272865",
+                        "start": 3,
+                        "username": "GarretLewis"
+                    },
+                    {
+                        "end": 27,
+                        "id": "15937190",
+                        "start": 21,
+                        "username": "AZGOP"
+                    }
+                ]
+            },
+            "id": "1326316442560602112",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 17
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326234019260854272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @GarretLewis: The @AZGOP needs an enema.  The latest incompetent fool is the head of the Maricopa County GOP.  She didn't even show up t\u2026"
+        },
+        {
+            "author_id": "1245366915238952963",
+            "conversation_id": "1326316086472667137",
+            "created_at": "2020-11-11T00:09:31.000Z",
+            "edit_history_tweet_ids": [
+                "1326316086472667137"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.4724,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "Texas",
+                        "probability": 0.972,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "826098849471143937",
+                        "start": 3,
+                        "username": "UrUnpaidPundit"
+                    }
+                ]
+            },
+            "id": "1326316086472667137",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 36
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326301566509309952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @UrUnpaidPundit: Dominion Voting Systems was refused in Texas because it didn't meet even the *basic* security standards. \nSome but not\u2026"
+        },
+        {
+            "author_id": "1325129629439586304",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "id": "10000491577",
+                        "name": "Hannity"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Sean Hannity",
+                        "id": "950395459817766914",
+                        "name": "Sean Hannity"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Fox News",
+                        "id": "1065657279150665728",
+                        "name": "Fox News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Sean Hannity",
+                        "id": "950395459817766914",
+                        "name": "Sean Hannity"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Sean Hannity",
+                        "id": "950395459817766914",
+                        "name": "Sean Hannity"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Fox News",
+                        "id": "1065657279150665728",
+                        "name": "Fox News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196447117297905665",
+                        "name": "News outlets"
+                    }
+                }
+            ],
+            "conversation_id": "1326304091035881472",
+            "created_at": "2020-11-11T00:09:19.000Z",
+            "edit_history_tweet_ids": [
+                "1326316038166896641"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 129,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.8927,
+                        "start": 118,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9332,
+                        "start": 132,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 149,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.8969,
+                        "start": 141,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 157,
+                        "normalized_text": "Nevada",
+                        "probability": 0.9364,
+                        "start": 152,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 168,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.9366,
+                        "start": 160,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 191,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9237,
+                        "start": 177,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 200,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9414,
+                        "start": 194,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 29,
+                        "id": "1325929155788148737",
+                        "start": 16,
+                        "username": "farahmilanya"
+                    },
+                    {
+                        "end": 46,
+                        "id": "25073877",
+                        "start": 30,
+                        "username": "realDonaldTrump"
+                    },
+                    {
+                        "end": 59,
+                        "id": "41634520",
+                        "start": 47,
+                        "username": "seanhannity"
+                    },
+                    {
+                        "end": 68,
+                        "id": "1367531",
+                        "start": 60,
+                        "username": "FoxNews"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "worldtribune.com/dominion-votin\u2026",
+                        "end": 283,
+                        "expanded_url": "https://www.worldtribune.com/dominion-voting-systems-tied-to-clintons-widely-used-in-battleground-states/",
+                        "start": 260,
+                        "url": "https://t.co/3gRAzdXtN0"
+                    }
+                ]
+            },
+            "id": "1326316038166896641",
+            "in_reply_to_user_id": "2780513416",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326304684353744903",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@thekopendmagic @farahmilanya @realDonaldTrump @seanhannity @FoxNews Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County, Arizona.\n\nDominion Voting Systems has ties to prominent Democrats\nhttps://t.co/3gRAzdXtN0"
+        },
+        {
+            "author_id": "809775760219090945",
+            "conversation_id": "1326312832384839682",
+            "created_at": "2020-11-10T23:56:35.000Z",
+            "edit_history_tweet_ids": [
+                "1326312832384839682"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.4724,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "Texas",
+                        "probability": 0.972,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "826098849471143937",
+                        "start": 3,
+                        "username": "UrUnpaidPundit"
+                    }
+                ]
+            },
+            "id": "1326312832384839682",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 36
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326301566509309952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @UrUnpaidPundit: Dominion Voting Systems was refused in Texas because it didn't meet even the *basic* security standards. \nSome but not\u2026"
+        },
+        {
+            "author_id": "243479173",
+            "conversation_id": "1326312676411236357",
+            "created_at": "2020-11-10T23:55:58.000Z",
+            "edit_history_tweet_ids": [
+                "1326312676411236357"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.4724,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "Texas",
+                        "probability": 0.972,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "826098849471143937",
+                        "start": 3,
+                        "username": "UrUnpaidPundit"
+                    }
+                ]
+            },
+            "id": "1326312676411236357",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 36
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326301566509309952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @UrUnpaidPundit: Dominion Voting Systems was refused in Texas because it didn't meet even the *basic* security standards. \nSome but not\u2026"
+        },
+        {
+            "author_id": "48208076",
+            "conversation_id": "1326312431308607488",
+            "created_at": "2020-11-10T23:54:59.000Z",
+            "edit_history_tweet_ids": [
+                "1326312431308607488"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.4724,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "Texas",
+                        "probability": 0.972,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "826098849471143937",
+                        "start": 3,
+                        "username": "UrUnpaidPundit"
+                    }
+                ]
+            },
+            "id": "1326312431308607488",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 36
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326301566509309952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @UrUnpaidPundit: Dominion Voting Systems was refused in Texas because it didn't meet even the *basic* security standards. \nSome but not\u2026"
+        },
+        {
+            "author_id": "826279598",
+            "conversation_id": "1326311048933232644",
+            "created_at": "2020-11-10T23:49:30.000Z",
+            "edit_history_tweet_ids": [
+                "1326311048933232644"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 30,
+                        "normalized_text": "Arizona State",
+                        "probability": 0.8338,
+                        "start": 18,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 60,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.5648,
+                        "start": 53,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1155122854347886595",
+                        "start": 3,
+                        "username": "johnnyk20001"
+                    }
+                ]
+            },
+            "id": "1326311048933232644",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326168160198938625",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @johnnyk20001: Arizona State Rep. Calls on failed Maricopa GOP Chairman to Step Down Upon News That She Failed to Show Up to Certify Dom\u2026"
+        },
+        {
+            "author_id": "788133722390401025",
+            "conversation_id": "1326310985766989825",
+            "created_at": "2020-11-10T23:49:15.000Z",
+            "edit_history_tweet_ids": [
+                "1326310985766989825"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.4724,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "Texas",
+                        "probability": 0.972,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "826098849471143937",
+                        "start": 3,
+                        "username": "UrUnpaidPundit"
+                    }
+                ]
+            },
+            "id": "1326310985766989825",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 36
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326301566509309952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @UrUnpaidPundit: Dominion Voting Systems was refused in Texas because it didn't meet even the *basic* security standards. \nSome but not\u2026"
+        },
+        {
+            "author_id": "830395948715147264",
+            "conversation_id": "1326310643532750848",
+            "created_at": "2020-11-10T23:47:53.000Z",
+            "edit_history_tweet_ids": [
+                "1326310643532750848"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.4724,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "Texas",
+                        "probability": 0.972,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "826098849471143937",
+                        "start": 3,
+                        "username": "UrUnpaidPundit"
+                    }
+                ]
+            },
+            "id": "1326310643532750848",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 36
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326301566509309952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @UrUnpaidPundit: Dominion Voting Systems was refused in Texas because it didn't meet even the *basic* security standards. \nSome but not\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1326353253144072192",
+        "next_token": "b26v89c19zqg8o3fosbunxcoepiqp9yns3w6n46m5aoot",
+        "oldest_id": "1326310643532750848",
+        "result_count": 22
+    }
+}

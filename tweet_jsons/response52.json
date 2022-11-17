@@ -1,0 +1,498 @@
+{
+    "data": [
+        {
+            "author_id": "1314017763476664320",
+            "conversation_id": "1325125906629750785",
+            "created_at": "2020-11-07T17:20:10.000Z",
+            "edit_history_tweet_ids": [
+                "1325125906629750785"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Baris",
+                        "probability": 0.2229,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Michigan",
+                        "probability": 0.4379,
+                        "start": 85,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8638,
+                        "start": 102,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "AZ",
+                        "probability": 0.6452,
+                        "start": 128,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Clark",
+                        "probability": 0.4583,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 31,
+                        "id": "165039823",
+                        "start": 16,
+                        "username": "Peoples_Pundit"
+                    },
+                    {
+                        "end": 43,
+                        "id": "468911503",
+                        "start": 32,
+                        "username": "LauraBaris"
+                    }
+                ]
+            },
+            "id": "1325125906629750785",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325095567580655619",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @Frankz2137: @Peoples_Pundit @LauraBaris Mr. Baris. Its Dominion Voting Services. Michigan Glitch..Georgia glitch...Maricopa AZ...Clark\u2026"
+        },
+        {
+            "author_id": "179976580",
+            "conversation_id": "1325114855985012737",
+            "created_at": "2020-11-07T17:17:43.000Z",
+            "edit_history_tweet_ids": [
+                "1325125288469016587"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "Arizona",
+                        "probability": 0.872,
+                        "start": 17,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 41,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9497,
+                        "start": 27,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 149,
+                        "start": 137,
+                        "tag": "ItIsNotOver"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1363980502269652995",
+                        "start": 0,
+                        "username": "KellyTownsend11"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "azsos.gov/sites/default/\u2026",
+                        "end": 173,
+                        "expanded_url": "https://azsos.gov/sites/default/files/2020_0709_Election_Cycle_Voting_Equipment.pdf",
+                        "start": 150,
+                        "url": "https://t.co/qFgQPtxzFE"
+                    }
+                ]
+            },
+            "id": "1325125288469016587",
+            "in_reply_to_user_id": "54887383",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325114855985012737",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@KellyTownsend11 Arizona's Maricopa County has been using the tainted Dominion Voting Equipment that is being contested in other States.\n#ItIsNotOver\nhttps://t.co/qFgQPtxzFE"
+        },
+        {
+            "author_id": "933565985533050880",
+            "conversation_id": "1325123315388739589",
+            "created_at": "2020-11-07T17:09:52.000Z",
+            "edit_history_tweet_ids": [
+                "1325123315388739589"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 117,
+                        "normalized_text": "MI",
+                        "probability": 0.7186,
+                        "start": 116,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion",
+                        "probability": 0.6974,
+                        "start": 131,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1229060372105134080",
+                        "start": 3,
+                        "username": "sicilianslice12"
+                    },
+                    {
+                        "end": 37,
+                        "id": "1283976087576301568",
+                        "start": 21,
+                        "username": "JordanBPeterman"
+                    },
+                    {
+                        "end": 53,
+                        "id": "165039823",
+                        "start": 38,
+                        "username": "Peoples_Pundit"
+                    }
+                ]
+            },
+            "id": "1325123315388739589",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325108700730822656",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @sicilianslice12: @JordanBPeterman @Peoples_Pundit The voting machines related to the 6,000 incorrect ballots in MI are made by Dominion\u2026"
+        },
+        {
+            "author_id": "748309946039558145",
+            "conversation_id": "1325123150682664960",
+            "created_at": "2020-11-07T17:09:13.000Z",
+            "edit_history_tweet_ids": [
+                "1325123150682664960"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 117,
+                        "normalized_text": "MI",
+                        "probability": 0.7186,
+                        "start": 116,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Dominion",
+                        "probability": 0.6974,
+                        "start": 131,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1229060372105134080",
+                        "start": 3,
+                        "username": "sicilianslice12"
+                    },
+                    {
+                        "end": 37,
+                        "id": "1283976087576301568",
+                        "start": 21,
+                        "username": "JordanBPeterman"
+                    },
+                    {
+                        "end": 53,
+                        "id": "165039823",
+                        "start": 38,
+                        "username": "Peoples_Pundit"
+                    }
+                ]
+            },
+            "id": "1325123150682664960",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325108700730822656",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @sicilianslice12: @JordanBPeterman @Peoples_Pundit The voting machines related to the 6,000 incorrect ballots in MI are made by Dominion\u2026"
+        },
+        {
+            "author_id": "822982329123700736",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325117274039091205",
+            "created_at": "2020-11-07T16:45:52.000Z",
+            "edit_history_tweet_ids": [
+                "1325117274039091205"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "Paul Gosar",
+                        "probability": 0.9342,
+                        "start": 25,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 57,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9412,
+                        "start": 51,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.889,
+                        "start": 131,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1651225333",
+                        "start": 3,
+                        "username": "danielchaitin7"
+                    },
+                    {
+                        "end": 46,
+                        "id": "240760644",
+                        "start": 37,
+                        "username": "RepGosar"
+                    }
+                ]
+            },
+            "id": "1325117274039091205",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 94
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324910777527046144",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @danielchaitin7: Rep. Paul Gosar (@RepGosar) of Arizona says officials should take a closer look at the voting machines used in Maricopa\u2026"
+        },
+        {
+            "author_id": "93679605",
+            "conversation_id": "1325116501049880589",
+            "created_at": "2020-11-07T16:42:47.000Z",
+            "edit_history_tweet_ids": [
+                "1325116501049880589"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Baris",
+                        "probability": 0.2229,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Michigan",
+                        "probability": 0.4379,
+                        "start": 85,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8638,
+                        "start": 102,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "AZ",
+                        "probability": 0.6452,
+                        "start": 128,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Clark",
+                        "probability": 0.4583,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 31,
+                        "id": "165039823",
+                        "start": 16,
+                        "username": "Peoples_Pundit"
+                    },
+                    {
+                        "end": 43,
+                        "id": "468911503",
+                        "start": 32,
+                        "username": "LauraBaris"
+                    }
+                ]
+            },
+            "id": "1325116501049880589",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325095567580655619",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @Frankz2137: @Peoples_Pundit @LauraBaris Mr. Baris. Its Dominion Voting Services. Michigan Glitch..Georgia glitch...Maricopa AZ...Clark\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1325125906629750785",
+        "next_token": "b26v89c19zqg8o3fosbu8nhaeka8umlb5p98u7f99flod",
+        "oldest_id": "1325116501049880589",
+        "result_count": 6
+    }
+}

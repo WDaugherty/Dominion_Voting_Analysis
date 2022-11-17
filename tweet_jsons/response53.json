@@ -1,0 +1,3044 @@
+{
+    "data": [
+        {
+            "author_id": "2453578782",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "American lawyer and politician",
+                        "id": "1070735169709961216",
+                        "name": "Pam Bondi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "American lawyer and politician",
+                        "id": "1070735169709961216",
+                        "name": "Pam Bondi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "American lawyer and politician",
+                        "id": "1070735169709961216",
+                        "name": "Pam Bondi"
+                    }
+                }
+            ],
+            "conversation_id": "1325112073047642113",
+            "created_at": "2020-11-07T16:25:12.000Z",
+            "edit_history_tweet_ids": [
+                "1325112073047642113"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 14,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9358,
+                        "start": 0,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 23,
+                        "normalized_text": "Phoenix",
+                        "probability": 0.7168,
+                        "start": 17,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 28,
+                        "normalized_text": "AZ",
+                        "probability": 0.8765,
+                        "start": 27,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 135,
+                        "id": "93755660",
+                        "start": 126,
+                        "username": "PamBondi"
+                    },
+                    {
+                        "end": 152,
+                        "id": "25073877",
+                        "start": 136,
+                        "username": "realDonaldTrump"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "azsos.gov/sites/default/\u2026",
+                        "end": 125,
+                        "expanded_url": "https://azsos.gov/sites/default/files/2020_0709_Election_Cycle_Voting_Equipment.pdf",
+                        "start": 102,
+                        "url": "https://t.co/Fzz8LPzhgR"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/eEZgbnXiEz",
+                        "end": 176,
+                        "expanded_url": "https://twitter.com/trackingtrades/status/1325112073047642113/photo/1",
+                        "media_key": "3_1325110363642335237",
+                        "start": 153,
+                        "url": "https://t.co/eEZgbnXiEz"
+                    },
+                    {
+                        "display_url": "twitter.com/trackingtrades\u2026",
+                        "end": 200,
+                        "expanded_url": "https://twitter.com/trackingtrades/status/1325084012478685186",
+                        "start": 177,
+                        "url": "https://t.co/Y0IPJoANUs"
+                    }
+                ]
+            },
+            "id": "1325112073047642113",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325084012478685186",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "Maricopa County (Phoenix), AZ currently Blue using Dominion Voting Systems, software Democracy Suite.\nhttps://t.co/Fzz8LPzhgR\n@PamBondi @realDonaldTrump https://t.co/eEZgbnXiEz https://t.co/Y0IPJoANUs"
+        },
+        {
+            "author_id": "22949852",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Political Commentator and Analyst ",
+                        "id": "1138070898013982721",
+                        "name": "Ryan Fournier"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Political Commentator and Analyst ",
+                        "id": "1138070898013982721",
+                        "name": "Ryan Fournier"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political Commentator and Analyst ",
+                        "id": "1138070898013982721",
+                        "name": "Ryan Fournier"
+                    }
+                }
+            ],
+            "conversation_id": "1325111811801280514",
+            "created_at": "2020-11-07T16:24:09.000Z",
+            "edit_history_tweet_ids": [
+                "1325111811801280514"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 47,
+                        "normalized_text": "Voting",
+                        "probability": 0.5202,
+                        "start": 42,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 130,
+                        "normalized_text": "Clark",
+                        "probability": 0.6708,
+                        "start": 126,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Mar",
+                        "probability": 0.5211,
+                        "start": 136,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "81845639",
+                        "start": 3,
+                        "username": "paultaylor47"
+                    },
+                    {
+                        "end": 32,
+                        "id": "166751745",
+                        "start": 18,
+                        "username": "RyanAFournier"
+                    }
+                ]
+            },
+            "id": "1325111811801280514",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324861174337429508",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @paultaylor47: @RyanAFournier Dominion Voting Machines r having issues according to reports and that brand is also used in Clark and Mar\u2026"
+        },
+        {
+            "author_id": "916308444025638913",
+            "conversation_id": "1325111013885300736",
+            "created_at": "2020-11-07T16:20:59.000Z",
+            "edit_history_tweet_ids": [
+                "1325111013885300736"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Baris",
+                        "probability": 0.2229,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Michigan",
+                        "probability": 0.4379,
+                        "start": 85,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8638,
+                        "start": 102,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "AZ",
+                        "probability": 0.6452,
+                        "start": 128,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Clark",
+                        "probability": 0.4583,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 31,
+                        "id": "165039823",
+                        "start": 16,
+                        "username": "Peoples_Pundit"
+                    },
+                    {
+                        "end": 43,
+                        "id": "468911503",
+                        "start": 32,
+                        "username": "LauraBaris"
+                    }
+                ]
+            },
+            "id": "1325111013885300736",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325095567580655619",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @Frankz2137: @Peoples_Pundit @LauraBaris Mr. Baris. Its Dominion Voting Services. Michigan Glitch..Georgia glitch...Maricopa AZ...Clark\u2026"
+        },
+        {
+            "author_id": "56223783",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Matt Gaetz (FL-01)",
+                        "id": "966043884340985856",
+                        "name": "Matt Gaetz"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Candace Owens",
+                        "id": "988359847568490496",
+                        "name": "Candace Owens"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Jim Jordan (OH-04)",
+                        "id": "989579035599515648",
+                        "name": "Jim Jordan"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Corey Lewandowski",
+                        "id": "1055917881391644672",
+                        "name": "Corey Lewandowski"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Dan Bongino",
+                        "id": "1060278893905534977",
+                        "name": "Dan Bongino"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "American lawyer and politician",
+                        "id": "1070735169709961216",
+                        "name": "Pam Bondi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "American politician",
+                        "id": "1070735220461068291",
+                        "name": "Sebastian Gorka"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Author",
+                        "id": "1136984326640287744",
+                        "name": "Charlie Kirk"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Author",
+                        "id": "1138095161924153344",
+                        "name": "Mark R. Levin"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1155921139824132096",
+                        "name": "Kurt Schlichter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Matt Gaetz (FL-01)",
+                        "id": "966043884340985856",
+                        "name": "Matt Gaetz"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Jim Jordan (OH-04)",
+                        "id": "989579035599515648",
+                        "name": "Jim Jordan"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "American lawyer and politician",
+                        "id": "1070735169709961216",
+                        "name": "Pam Bondi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "American politician",
+                        "id": "1070735220461068291",
+                        "name": "Sebastian Gorka"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Candace Owens",
+                        "id": "988359847568490496",
+                        "name": "Candace Owens"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Corey Lewandowski",
+                        "id": "1055917881391644672",
+                        "name": "Corey Lewandowski"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Dan Bongino",
+                        "id": "1060278893905534977",
+                        "name": "Dan Bongino"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "id": "1155921139824132096",
+                        "name": "Kurt Schlichter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative Matt Gaetz (FL-01)",
+                        "id": "966043884340985856",
+                        "name": "Matt Gaetz"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Candace Owens",
+                        "id": "988359847568490496",
+                        "name": "Candace Owens"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative Jim Jordan (OH-04)",
+                        "id": "989579035599515648",
+                        "name": "Jim Jordan"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Corey Lewandowski",
+                        "id": "1055917881391644672",
+                        "name": "Corey Lewandowski"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Dan Bongino",
+                        "id": "1060278893905534977",
+                        "name": "Dan Bongino"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "American lawyer and politician",
+                        "id": "1070735169709961216",
+                        "name": "Pam Bondi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "American politician",
+                        "id": "1070735220461068291",
+                        "name": "Sebastian Gorka"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Author",
+                        "id": "1136984326640287744",
+                        "name": "Charlie Kirk"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Author",
+                        "id": "1138095161924153344",
+                        "name": "Mark R. Levin"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1155921139824132096",
+                        "name": "Kurt Schlichter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Former First Lady of the United States Hillary Clinton",
+                        "id": "10037721440",
+                        "name": "Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Former First Lady of the United States Hillary Clinton",
+                        "id": "10037721440",
+                        "name": "Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Former First Lady of the United States Hillary Clinton",
+                        "id": "10037721440",
+                        "name": "Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Georgia's parliamentary speaker resigns following protests",
+                        "id": "1142039239485341696",
+                        "name": "Georgia's parliamentary speaker resigns following protests"
+                    }
+                }
+            ],
+            "conversation_id": "1325097568280436740",
+            "created_at": "2020-11-07T16:20:26.000Z",
+            "edit_history_tweet_ids": [
+                "1325110874345000961"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 291,
+                        "normalized_text": "Penn",
+                        "probability": 0.7969,
+                        "start": 288,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 300,
+                        "normalized_text": "Georgia",
+                        "probability": 0.954,
+                        "start": 294,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 311,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9557,
+                        "start": 303,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 319,
+                        "normalized_text": "Nevada",
+                        "probability": 0.9662,
+                        "start": 314,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 330,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.9521,
+                        "start": 322,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 351,
+                        "normalized_text": "Maricopa Co",
+                        "probability": 0.8388,
+                        "start": 341,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 360,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9423,
+                        "start": 354,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 455,
+                        "normalized_text": "Nancy Pelosi",
+                        "probability": 0.9116,
+                        "start": 444,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 483,
+                        "normalized_text": "Hillary Clinton",
+                        "probability": 0.8632,
+                        "start": 469,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "2417586104",
+                        "start": 0,
+                        "username": "SebGorka"
+                    },
+                    {
+                        "end": 23,
+                        "id": "20713061",
+                        "start": 10,
+                        "username": "newtgingrich"
+                    },
+                    {
+                        "end": 37,
+                        "id": "770781940341288960",
+                        "start": 24,
+                        "username": "RudyGiuliani"
+                    },
+                    {
+                        "end": 54,
+                        "id": "25073877",
+                        "start": 38,
+                        "username": "realDonaldTrump"
+                    },
+                    {
+                        "end": 69,
+                        "id": "38495835",
+                        "start": 55,
+                        "username": "marklevinshow"
+                    },
+                    {
+                        "end": 84,
+                        "id": "586707638",
+                        "start": 70,
+                        "username": "SidneyPowell1"
+                    },
+                    {
+                        "end": 100,
+                        "id": "90480218",
+                        "start": 85,
+                        "username": "RichardGrenell"
+                    },
+                    {
+                        "end": 114,
+                        "id": "818948638890217473",
+                        "start": 101,
+                        "username": "RepMattGaetz"
+                    },
+                    {
+                        "end": 124,
+                        "id": "232901331",
+                        "start": 115,
+                        "username": "dbongino"
+                    },
+                    {
+                        "end": 134,
+                        "id": "93755660",
+                        "start": 125,
+                        "username": "PamBondi"
+                    },
+                    {
+                        "end": 149,
+                        "id": "4121225056",
+                        "start": 135,
+                        "username": "CLewandowski_"
+                    },
+                    {
+                        "end": 163,
+                        "id": "333663029",
+                        "start": 150,
+                        "username": "David_Bossie"
+                    },
+                    {
+                        "end": 178,
+                        "id": "292929271",
+                        "start": 164,
+                        "username": "charliekirk11"
+                    },
+                    {
+                        "end": 192,
+                        "id": "878247600096509952",
+                        "start": 179,
+                        "username": "RealCandaceO"
+                    },
+                    {
+                        "end": 208,
+                        "id": "18089606",
+                        "start": 193,
+                        "username": "KurtSchlichter"
+                    },
+                    {
+                        "end": 220,
+                        "id": "18166778",
+                        "start": 209,
+                        "username": "Jim_Jordan"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "worldtribune.com/dominion-votin\u2026",
+                        "end": 509,
+                        "expanded_url": "https://www.worldtribune.com/dominion-voting-systems-tied-to-clintons-widely-used-in-battleground-states/",
+                        "start": 486,
+                        "url": "https://t.co/3MapyQSo8Y"
+                    }
+                ]
+            },
+            "id": "1325110874345000961",
+            "in_reply_to_user_id": "2417586104",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325097568280436740",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@SebGorka @newtgingrich @RudyGiuliani @realDonaldTrump @marklevinshow @SidneyPowell1 @RichardGrenell @RepMattGaetz @dbongino @PamBondi @CLewandowski_ @David_Bossie @charliekirk11 @RealCandaceO @KurtSchlichter @Jim_Jordan SOMETHING SMELLS.\nDominion Voting Systems software is also used in Penn, Georgia, Wisconsin, Nevada, Minnesota &amp; in Maricopa Co, Arizona.\n\nDominion Voting Systems has ties 2 prominent Democrats, including House Speaker Nancy Pelosi ,Bill &amp; Hillary Clinton.\nhttps://t.co/3MapyQSo8Y"
+        },
+        {
+            "author_id": "22797433",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative Paul Gosar (AZ-4)",
+                        "id": "940651552456433665",
+                        "name": "Paul Gosar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325109262289408002",
+            "created_at": "2020-11-07T16:14:02.000Z",
+            "edit_history_tweet_ids": [
+                "1325109262289408002"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "Paul Gosar",
+                        "probability": 0.9342,
+                        "start": 25,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 57,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9412,
+                        "start": 51,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.889,
+                        "start": 131,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1651225333",
+                        "start": 3,
+                        "username": "danielchaitin7"
+                    },
+                    {
+                        "end": 46,
+                        "id": "240760644",
+                        "start": 37,
+                        "username": "RepGosar"
+                    }
+                ]
+            },
+            "id": "1325109262289408002",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 94
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324910777527046144",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @danielchaitin7: Rep. Paul Gosar (@RepGosar) of Arizona says officials should take a closer look at the voting machines used in Maricopa\u2026"
+        },
+        {
+            "author_id": "56223783",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Former First Lady of the United States Hillary Clinton",
+                        "id": "10037721440",
+                        "name": "Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Former First Lady of the United States Hillary Clinton",
+                        "id": "10037721440",
+                        "name": "Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Former First Lady of the United States Hillary Clinton",
+                        "id": "10037721440",
+                        "name": "Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Georgia's parliamentary speaker resigns following protests",
+                        "id": "1142039239485341696",
+                        "name": "Georgia's parliamentary speaker resigns following protests"
+                    }
+                }
+            ],
+            "conversation_id": "1325087798475583489",
+            "created_at": "2020-11-07T16:13:03.000Z",
+            "edit_history_tweet_ids": [
+                "1325109015064481792"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 104,
+                        "normalized_text": "Penn",
+                        "probability": 0.835,
+                        "start": 101,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 113,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9411,
+                        "start": 107,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 124,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9333,
+                        "start": 116,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 132,
+                        "normalized_text": "Nevada",
+                        "probability": 0.9551,
+                        "start": 127,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 143,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.9163,
+                        "start": 135,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 168,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9345,
+                        "start": 154,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 177,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9434,
+                        "start": 171,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 266,
+                        "normalized_text": "Nancy Pelosi",
+                        "probability": 0.8808,
+                        "start": 255,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 277,
+                        "normalized_text": "Bill",
+                        "probability": 0.5136,
+                        "start": 274,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 294,
+                        "normalized_text": "Hillary Clinton",
+                        "probability": 0.889,
+                        "start": 280,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 32,
+                        "id": "25073877",
+                        "start": 16,
+                        "username": "realDonaldTrump"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "worldtribune.com/dominion-votin\u2026",
+                        "end": 320,
+                        "expanded_url": "https://www.worldtribune.com/dominion-voting-systems-tied-to-clintons-widely-used-in-battleground-states/",
+                        "start": 297,
+                        "url": "https://t.co/3MapyQSo8Y"
+                    }
+                ]
+            },
+            "id": "1325109015064481792",
+            "in_reply_to_user_id": "900021957424447488",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325087798475583489",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@RepVernonJones @realDonaldTrump SOMETHING SMELLS..\nDominion Voting Systems software is also used in Penn, Georgia, Wisconsin, Nevada, Minnesota &amp; in Maricopa County, Arizona.\n\nDominion Voting System has ties 2 prominent Dems, including House Speaker Nancy Pelosi &amp; Bill, Hillary Clinton.\nhttps://t.co/3MapyQSo8Y"
+        },
+        {
+            "author_id": "1229060372105134080",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325107305466245122",
+            "created_at": "2020-11-07T16:11:48.000Z",
+            "edit_history_tweet_ids": [
+                "1325108700730822656"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "MI",
+                        "probability": 0.7902,
+                        "start": 95,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 117,
+                        "normalized_text": "Dominion",
+                        "probability": 0.8323,
+                        "start": 110,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 140,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.5463,
+                        "start": 133,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 167,
+                        "normalized_text": "Trump",
+                        "probability": 0.9755,
+                        "start": 163,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 188,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.6246,
+                        "start": 181,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 213,
+                        "normalized_text": "AZ",
+                        "probability": 0.8782,
+                        "start": 212,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 232,
+                        "normalized_text": "Dominion",
+                        "probability": 0.4525,
+                        "start": 225,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1283976087576301568",
+                        "start": 0,
+                        "username": "JordanBPeterman"
+                    },
+                    {
+                        "end": 32,
+                        "id": "165039823",
+                        "start": 17,
+                        "username": "Peoples_Pundit"
+                    }
+                ]
+            },
+            "id": "1325108700730822656",
+            "in_reply_to_user_id": "1283976087576301568",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 22,
+                "quote_count": 2,
+                "reply_count": 5,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325108270940348416",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@JordanBPeterman @Peoples_Pundit The voting machines related to the 6,000 incorrect ballots in MI are made by Dominion.\n\nIf you take Maricopa out of the equation, Trump is winning\n\nMaricopa is the ONLY county in AZ that uses Dominion"
+        },
+        {
+            "author_id": "1309440393604485120",
+            "conversation_id": "1325108065247571969",
+            "created_at": "2020-11-07T16:09:16.000Z",
+            "edit_history_tweet_ids": [
+                "1325108065247571969"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "Voting Systems",
+                        "probability": 0.4757,
+                        "start": 23,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 74,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.8724,
+                        "start": 63,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 83,
+                        "normalized_text": "Georgia",
+                        "probability": 0.941,
+                        "start": 77,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 94,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9104,
+                        "start": 86,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 102,
+                        "normalized_text": "Nevada",
+                        "probability": 0.9315,
+                        "start": 97,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 113,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.9283,
+                        "start": 105,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 136,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9457,
+                        "start": 122,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "69256645",
+                        "start": 3,
+                        "username": "NCHornet"
+                    }
+                ]
+            },
+            "id": "1325108065247571969",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325044182847795201",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @NCHornet: Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County,\u2026"
+        },
+        {
+            "author_id": "1229060372105134080",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": " American professor, poet, attorney, and author",
+                        "id": "1138073253434388481",
+                        "name": "Seth Abramson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": " American professor, poet, attorney, and author",
+                        "id": "1138073253434388481",
+                        "name": "Seth Abramson"
+                    }
+                }
+            ],
+            "conversation_id": "1324478995782651905",
+            "created_at": "2020-11-07T16:08:16.000Z",
+            "edit_history_tweet_ids": [
+                "1325107813752901632"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 77,
+                        "normalized_text": "MI",
+                        "probability": 0.7729,
+                        "start": 76,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 98,
+                        "normalized_text": "Dominion",
+                        "probability": 0.8891,
+                        "start": 91,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 121,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.4953,
+                        "start": 114,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 148,
+                        "normalized_text": "Trump",
+                        "probability": 0.9749,
+                        "start": 144,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 175,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.5879,
+                        "start": 168,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 200,
+                        "normalized_text": "AZ",
+                        "probability": 0.8796,
+                        "start": 199,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 229,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.4966,
+                        "start": 222,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 244,
+                        "normalized_text": "Trump",
+                        "probability": 0.9536,
+                        "start": 240,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "3223426134",
+                        "start": 0,
+                        "username": "SethAbramson"
+                    }
+                ]
+            },
+            "id": "1325107813752901632",
+            "in_reply_to_user_id": "3223426134",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325107320628666369",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@SethAbramson The voting machines related to the 6,000 incorrect ballots in MI are made by Dominion.\n\nIf you take Maricopa out of the equation, Trump is winning in AZ\n\nMaricopa is the ONLY county in AZ that uses Dominion\n\nMaricopa went for Trump in 2016\n\nIt is possible the same glitch occurred"
+        },
+        {
+            "author_id": "513776157",
+            "conversation_id": "1325107781616230400",
+            "created_at": "2020-11-07T16:08:09.000Z",
+            "edit_history_tweet_ids": [
+                "1325107781616230400"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Baris",
+                        "probability": 0.2229,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Michigan",
+                        "probability": 0.4379,
+                        "start": 85,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8638,
+                        "start": 102,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "AZ",
+                        "probability": 0.6452,
+                        "start": 128,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Clark",
+                        "probability": 0.4583,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 31,
+                        "id": "165039823",
+                        "start": 16,
+                        "username": "Peoples_Pundit"
+                    },
+                    {
+                        "end": 43,
+                        "id": "468911503",
+                        "start": 32,
+                        "username": "LauraBaris"
+                    }
+                ]
+            },
+            "id": "1325107781616230400",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325095567580655619",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @Frankz2137: @Peoples_Pundit @LauraBaris Mr. Baris. Its Dominion Voting Services. Michigan Glitch..Georgia glitch...Maricopa AZ...Clark\u2026"
+        },
+        {
+            "author_id": "479211236",
+            "conversation_id": "1325107659775860737",
+            "created_at": "2020-11-07T16:07:40.000Z",
+            "edit_history_tweet_ids": [
+                "1325107659775860737"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Baris",
+                        "probability": 0.2229,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Michigan",
+                        "probability": 0.4379,
+                        "start": 85,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8638,
+                        "start": 102,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "AZ",
+                        "probability": 0.6452,
+                        "start": 128,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Clark",
+                        "probability": 0.4583,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 31,
+                        "id": "165039823",
+                        "start": 16,
+                        "username": "Peoples_Pundit"
+                    },
+                    {
+                        "end": 43,
+                        "id": "468911503",
+                        "start": 32,
+                        "username": "LauraBaris"
+                    }
+                ]
+            },
+            "id": "1325107659775860737",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325095567580655619",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @Frankz2137: @Peoples_Pundit @LauraBaris Mr. Baris. Its Dominion Voting Services. Michigan Glitch..Georgia glitch...Maricopa AZ...Clark\u2026"
+        },
+        {
+            "author_id": "1229060372105134080",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": " American professor, poet, attorney, and author",
+                        "id": "1138073253434388481",
+                        "name": "Seth Abramson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": " American professor, poet, attorney, and author",
+                        "id": "1138073253434388481",
+                        "name": "Seth Abramson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325099431369330691",
+            "created_at": "2020-11-07T15:58:01.000Z",
+            "edit_history_tweet_ids": [
+                "1325105234633502722"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 87,
+                        "normalized_text": "MI",
+                        "probability": 0.6783,
+                        "start": 86,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Dominion",
+                        "probability": 0.737,
+                        "start": 101,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 116,
+                        "normalized_text": "Biden",
+                        "probability": 0.9246,
+                        "start": 112,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 148,
+                        "normalized_text": "Biden",
+                        "probability": 0.8486,
+                        "start": 144,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 186,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.7193,
+                        "start": 172,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 193,
+                        "normalized_text": "Biden",
+                        "probability": 0.8587,
+                        "start": 189,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 205,
+                        "normalized_text": "AZ",
+                        "probability": 0.6487,
+                        "start": 204,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 244,
+                        "normalized_text": "Maricopa\n\nMaricopa",
+                        "probability": 0.4865,
+                        "start": 227,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 269,
+                        "normalized_text": "AZ",
+                        "probability": 0.8499,
+                        "start": 268,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "3223426134",
+                        "start": 0,
+                        "username": "SethAbramson"
+                    }
+                ]
+            },
+            "id": "1325105234633502722",
+            "in_reply_to_user_id": "3223426134",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325101673950404610",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@SethAbramson The voting machines related to the 6,000 confirmed incorrect ballots in MI are made by Dominion.\n\nBiden is up by 40K votes in AZ\n\nBiden is up by 60K votes in Maricopa County\n\nBiden's entire AZ lead and more is in Maricopa\n\nMaricopa is the ONLY county in AZ that uses Dominion."
+        },
+        {
+            "author_id": "944942729238212608",
+            "conversation_id": "1325105220695650304",
+            "created_at": "2020-11-07T15:57:58.000Z",
+            "edit_history_tweet_ids": [
+                "1325105220695650304"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Baris",
+                        "probability": 0.2229,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Michigan",
+                        "probability": 0.4379,
+                        "start": 85,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8638,
+                        "start": 102,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "AZ",
+                        "probability": 0.6452,
+                        "start": 128,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Clark",
+                        "probability": 0.4583,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 31,
+                        "id": "165039823",
+                        "start": 16,
+                        "username": "Peoples_Pundit"
+                    },
+                    {
+                        "end": 43,
+                        "id": "468911503",
+                        "start": 32,
+                        "username": "LauraBaris"
+                    }
+                ]
+            },
+            "id": "1325105220695650304",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325095567580655619",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @Frankz2137: @Peoples_Pundit @LauraBaris Mr. Baris. Its Dominion Voting Services. Michigan Glitch..Georgia glitch...Maricopa AZ...Clark\u2026"
+        },
+        {
+            "author_id": "1229060372105134080",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": " American professor, poet, attorney, and author",
+                        "id": "1138073253434388481",
+                        "name": "Seth Abramson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": " American professor, poet, attorney, and author",
+                        "id": "1138073253434388481",
+                        "name": "Seth Abramson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325099431369330691",
+            "created_at": "2020-11-07T15:57:56.000Z",
+            "edit_history_tweet_ids": [
+                "1325105210948136960"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 87,
+                        "normalized_text": "MI",
+                        "probability": 0.6783,
+                        "start": 86,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Dominion",
+                        "probability": 0.737,
+                        "start": 101,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 116,
+                        "normalized_text": "Biden",
+                        "probability": 0.9246,
+                        "start": 112,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 148,
+                        "normalized_text": "Biden",
+                        "probability": 0.8486,
+                        "start": 144,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 186,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.7193,
+                        "start": 172,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 193,
+                        "normalized_text": "Biden",
+                        "probability": 0.8587,
+                        "start": 189,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 205,
+                        "normalized_text": "AZ",
+                        "probability": 0.6487,
+                        "start": 204,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 244,
+                        "normalized_text": "Maricopa\n\nMaricopa",
+                        "probability": 0.4865,
+                        "start": 227,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 269,
+                        "normalized_text": "AZ",
+                        "probability": 0.8499,
+                        "start": 268,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "3223426134",
+                        "start": 0,
+                        "username": "SethAbramson"
+                    }
+                ]
+            },
+            "id": "1325105210948136960",
+            "in_reply_to_user_id": "3223426134",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325099962280128516",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@SethAbramson The voting machines related to the 6,000 confirmed incorrect ballots in MI are made by Dominion.\n\nBiden is up by 40K votes in AZ\n\nBiden is up by 60K votes in Maricopa County\n\nBiden's entire AZ lead and more is in Maricopa\n\nMaricopa is the ONLY county in AZ that uses Dominion."
+        },
+        {
+            "author_id": "1229060372105134080",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": " American professor, poet, attorney, and author",
+                        "id": "1138073253434388481",
+                        "name": "Seth Abramson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": " American professor, poet, attorney, and author",
+                        "id": "1138073253434388481",
+                        "name": "Seth Abramson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325099431369330691",
+            "created_at": "2020-11-07T15:57:48.000Z",
+            "edit_history_tweet_ids": [
+                "1325105179268689920"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 87,
+                        "normalized_text": "MI",
+                        "probability": 0.6783,
+                        "start": 86,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Dominion",
+                        "probability": 0.737,
+                        "start": 101,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 116,
+                        "normalized_text": "Biden",
+                        "probability": 0.9246,
+                        "start": 112,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 148,
+                        "normalized_text": "Biden",
+                        "probability": 0.8486,
+                        "start": 144,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 186,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.7193,
+                        "start": 172,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 193,
+                        "normalized_text": "Biden",
+                        "probability": 0.8587,
+                        "start": 189,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 205,
+                        "normalized_text": "AZ",
+                        "probability": 0.6487,
+                        "start": 204,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 244,
+                        "normalized_text": "Maricopa\n\nMaricopa",
+                        "probability": 0.4865,
+                        "start": 227,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 269,
+                        "normalized_text": "AZ",
+                        "probability": 0.8499,
+                        "start": 268,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "3223426134",
+                        "start": 0,
+                        "username": "SethAbramson"
+                    }
+                ]
+            },
+            "id": "1325105179268689920",
+            "in_reply_to_user_id": "3223426134",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325099431369330691",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@SethAbramson The voting machines related to the 6,000 confirmed incorrect ballots in MI are made by Dominion.\n\nBiden is up by 40K votes in AZ\n\nBiden is up by 60K votes in Maricopa County\n\nBiden's entire AZ lead and more is in Maricopa\n\nMaricopa is the ONLY county in AZ that uses Dominion."
+        }
+    ],
+    "meta": {
+        "newest_id": "1325112073047642113",
+        "next_token": "b26v89c19zqg8o3fosbu8ngzm4233o62u90cvw9gcb0xp",
+        "oldest_id": "1325105179268689920",
+        "result_count": 15
+    }
+}

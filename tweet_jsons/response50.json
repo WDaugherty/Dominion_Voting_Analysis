@@ -1,0 +1,2908 @@
+{
+    "data": [
+        {
+            "author_id": "1061308099",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325171663810392064",
+            "created_at": "2020-11-07T20:21:59.000Z",
+            "edit_history_tweet_ids": [
+                "1325171663810392064"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 74,
+                        "normalized_text": "Voting Systems",
+                        "probability": 0.4219,
+                        "start": 61,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 102,
+                        "normalized_text": "Trump",
+                        "probability": 0.9787,
+                        "start": 98,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 110,
+                        "normalized_text": "Biden",
+                        "probability": 0.9665,
+                        "start": 106,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 133,
+                        "normalized_text": "Michigan",
+                        "probability": 0.9261,
+                        "start": 126,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1123001234",
+                        "start": 3,
+                        "username": "vilpetrus"
+                    }
+                ]
+            },
+            "id": "1325171663810392064",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325166627701227520",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @vilpetrus: \u00a1Qu\u00e9 casualidad hombre!\ud83e\udd14\nEl software Dominion Voting Systems que traspas\u00f3 votos de Trump a Biden -utilizado en Michigan, Pen\u2026"
+        },
+        {
+            "author_id": "3715534392",
+            "conversation_id": "1325171603773157378",
+            "created_at": "2020-11-07T20:21:45.000Z",
+            "edit_history_tweet_ids": [
+                "1325171603773157378"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 116,
+                        "normalized_text": "Dominion Democracy Suite 5.5",
+                        "probability": 0.7867,
+                        "start": 89,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "556291837",
+                        "start": 3,
+                        "username": "SexyAutumn1980"
+                    },
+                    {
+                        "end": 32,
+                        "id": "65644824",
+                        "start": 20,
+                        "username": "JoeDanMedia"
+                    }
+                ]
+            },
+            "id": "1325171603773157378",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325169731545030656",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @SexyAutumn1980: @JoeDanMedia @carrieksada Look at which states the article says uses Dominion Democracy Suite 5.5 software https://t.co\u2026"
+        },
+        {
+            "author_id": "556291837",
+            "conversation_id": "1325111070793601024",
+            "created_at": "2020-11-07T20:14:19.000Z",
+            "edit_history_tweet_ids": [
+                "1325169731545030656"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 92,
+                        "normalized_text": "Dominion Democracy Suite",
+                        "probability": 0.8137,
+                        "start": 69,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 95,
+                        "normalized_text": ".",
+                        "probability": 0.4891,
+                        "start": 95,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 159,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.5753,
+                        "start": 137,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 197,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.8559,
+                        "start": 186,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 206,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9074,
+                        "start": 200,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 217,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.8788,
+                        "start": 209,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 225,
+                        "normalized_text": "Nevada",
+                        "probability": 0.8993,
+                        "start": 220,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 236,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.9027,
+                        "start": 228,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 259,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.876,
+                        "start": 245,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 268,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9184,
+                        "start": 262,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "65644824",
+                        "start": 0,
+                        "username": "JoeDanMedia"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "freep.com/story/news/pol\u2026",
+                        "end": 130,
+                        "expanded_url": "https://www.freep.com/story/news/politics/elections/2020/11/06/antrim-county-vote-glitch-software-update/6194745002/",
+                        "start": 107,
+                        "url": "https://t.co/lZhYapOOx8"
+                    }
+                ]
+            },
+            "id": "1325169731545030656",
+            "in_reply_to_user_id": "65644824",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325111070793601024",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@JoeDanMedia @carrieksada Look at which states the article says uses Dominion Democracy Suite 5.5 software https://t.co/lZhYapOOx8  --- \"Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County, Arizona.\""
+        },
+        {
+            "author_id": "325147426",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325168011297382400",
+            "created_at": "2020-11-07T20:07:28.000Z",
+            "edit_history_tweet_ids": [
+                "1325168011297382400"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 74,
+                        "normalized_text": "Voting Systems",
+                        "probability": 0.4219,
+                        "start": 61,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 102,
+                        "normalized_text": "Trump",
+                        "probability": 0.9787,
+                        "start": 98,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 110,
+                        "normalized_text": "Biden",
+                        "probability": 0.9665,
+                        "start": 106,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 133,
+                        "normalized_text": "Michigan",
+                        "probability": 0.9261,
+                        "start": 126,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1123001234",
+                        "start": 3,
+                        "username": "vilpetrus"
+                    }
+                ]
+            },
+            "id": "1325168011297382400",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325166627701227520",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @vilpetrus: \u00a1Qu\u00e9 casualidad hombre!\ud83e\udd14\nEl software Dominion Voting Systems que traspas\u00f3 votos de Trump a Biden -utilizado en Michigan, Pen\u2026"
+        },
+        {
+            "author_id": "709560893",
+            "conversation_id": "1325166979213242369",
+            "created_at": "2020-11-07T20:03:22.000Z",
+            "edit_history_tweet_ids": [
+                "1325166979213242369"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 116,
+                        "normalized_text": "Dominion Democracy Suite 5.5",
+                        "probability": 0.7867,
+                        "start": 89,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "556291837",
+                        "start": 3,
+                        "username": "SexyAutumn1980"
+                    },
+                    {
+                        "end": 32,
+                        "id": "3540252020",
+                        "start": 20,
+                        "username": "RedRising11"
+                    }
+                ]
+            },
+            "id": "1325166979213242369",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325161295893602305",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @SexyAutumn1980: @RedRising11 @carrieksada Look at which states the article says uses Dominion Democracy Suite 5.5 software https://t.co\u2026"
+        },
+        {
+            "author_id": "1123001234",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US House of Representatives Minority Leader Nancy Pelosi (CA-12)",
+                        "id": "940705992290975744",
+                        "name": "Nancy Pelosi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325166627701227520",
+            "created_at": "2020-11-07T20:01:59.000Z",
+            "edit_history_tweet_ids": [
+                "1325166627701227520"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Voting Systems",
+                        "probability": 0.4127,
+                        "start": 46,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 87,
+                        "normalized_text": "Trump",
+                        "probability": 0.9806,
+                        "start": 83,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 95,
+                        "normalized_text": "Biden",
+                        "probability": 0.9756,
+                        "start": 91,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Michigan",
+                        "probability": 0.9694,
+                        "start": 111,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 131,
+                        "normalized_text": "Pensilvania",
+                        "probability": 0.8092,
+                        "start": 121,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 140,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9671,
+                        "start": 134,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 151,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9567,
+                        "start": 143,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 159,
+                        "normalized_text": "Nevada",
+                        "probability": 0.9567,
+                        "start": 154,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 170,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.9367,
+                        "start": 162,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 181,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.725,
+                        "start": 174,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 189,
+                        "normalized_text": "Arizona",
+                        "probability": 0.8384,
+                        "start": 183,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 238,
+                        "normalized_text": "Nancy Pelosi",
+                        "probability": 0.9416,
+                        "start": 227,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 252,
+                        "normalized_text": "Clinton",
+                        "probability": 0.7491,
+                        "start": 246,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 225,
+                        "id": "14377605",
+                        "start": 212,
+                        "username": "TheDemocrats"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "worldtribune.com/dominion-votin\u2026",
+                        "end": 279,
+                        "expanded_url": "https://www.worldtribune.com/dominion-voting-systems-tied-to-clintons-widely-used-in-battleground-states/",
+                        "start": 256,
+                        "url": "https://t.co/ObQBqfdZIJ"
+                    }
+                ]
+            },
+            "id": "1325166627701227520",
+            "lang": "es",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "\u00a1Qu\u00e9 casualidad hombre!\ud83e\udd14\nEl software Dominion Voting Systems que traspas\u00f3 votos de Trump a Biden -utilizado en Michigan, Pensilvania, Georgia, Wisconsin, Nevada, Minnesota y Maricopa(Arizona)- tiene v\u00ednculos con @TheDemocrats: Nancy Pelosi y los Clinton.\n https://t.co/ObQBqfdZIJ"
+        },
+        {
+            "author_id": "863912208",
+            "conversation_id": "1324862005531078656",
+            "created_at": "2020-11-07T19:51:36.000Z",
+            "edit_history_tweet_ids": [
+                "1325164015342018560"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9536,
+                        "start": 30,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "397526755",
+                        "start": 0,
+                        "username": "aaronjcarpenter"
+                    },
+                    {
+                        "end": 29,
+                        "id": "741977462028926976",
+                        "start": 17,
+                        "username": "almostjingo"
+                    }
+                ]
+            },
+            "id": "1325164015342018560",
+            "in_reply_to_user_id": "397526755",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325110238924726280",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@aaronjcarpenter @almostjingo Maricopa County uses Dominion Voting System\ud83e\udd14"
+        },
+        {
+            "author_id": "556291837",
+            "conversation_id": "1325110879768236038",
+            "created_at": "2020-11-07T19:49:51.000Z",
+            "edit_history_tweet_ids": [
+                "1325163576038846464"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 127,
+                        "normalized_text": "Dominion Democracy Suite 5.",
+                        "probability": 0.6975,
+                        "start": 101,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 191,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.6171,
+                        "start": 169,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 229,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.8472,
+                        "start": 218,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 238,
+                        "normalized_text": "Georgia",
+                        "probability": 0.917,
+                        "start": 232,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 249,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.8888,
+                        "start": 241,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 257,
+                        "normalized_text": "Nevada",
+                        "probability": 0.9134,
+                        "start": 252,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 268,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.9272,
+                        "start": 260,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 291,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9233,
+                        "start": 277,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 300,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9273,
+                        "start": 294,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 7,
+                        "id": "3995778614",
+                        "start": 0,
+                        "username": "KamVTV"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "freep.com/story/news/pol\u2026",
+                        "end": 162,
+                        "expanded_url": "https://www.freep.com/story/news/politics/elections/2020/11/06/antrim-county-vote-glitch-software-update/6194745002/",
+                        "start": 139,
+                        "url": "https://t.co/lZhYapxd8y"
+                    }
+                ]
+            },
+            "id": "1325163576038846464",
+            "in_reply_to_user_id": "3995778614",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325110879768236038",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@KamVTV @MAGARoseTaylor Did they say anything about this? Look at which states the article says uses Dominion Democracy Suite 5.5 software https://t.co/lZhYapxd8y  --- \"Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County, Arizona.\""
+        },
+        {
+            "author_id": "3540252020",
+            "conversation_id": "1325162148641853441",
+            "created_at": "2020-11-07T19:44:11.000Z",
+            "edit_history_tweet_ids": [
+                "1325162148641853441"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 116,
+                        "normalized_text": "Dominion Democracy Suite 5.5",
+                        "probability": 0.7867,
+                        "start": 89,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "556291837",
+                        "start": 3,
+                        "username": "SexyAutumn1980"
+                    },
+                    {
+                        "end": 32,
+                        "id": "3540252020",
+                        "start": 20,
+                        "username": "RedRising11"
+                    }
+                ]
+            },
+            "id": "1325162148641853441",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325161295893602305",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @SexyAutumn1980: @RedRising11 @carrieksada Look at which states the article says uses Dominion Democracy Suite 5.5 software https://t.co\u2026"
+        },
+        {
+            "author_id": "556291837",
+            "conversation_id": "1325128932283228161",
+            "created_at": "2020-11-07T19:43:47.000Z",
+            "edit_history_tweet_ids": [
+                "1325162050503409664"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 83,
+                        "normalized_text": "Dominion Democracy Suite",
+                        "probability": 0.8396,
+                        "start": 60,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 150,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.589,
+                        "start": 128,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 188,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.84,
+                        "start": 177,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 197,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9016,
+                        "start": 191,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 208,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.8672,
+                        "start": 200,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 216,
+                        "normalized_text": "Nevada",
+                        "probability": 0.897,
+                        "start": 211,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 227,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.8857,
+                        "start": 219,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 250,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8683,
+                        "start": 236,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 259,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9179,
+                        "start": 253,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "757078971590651904",
+                        "start": 0,
+                        "username": "RubyRockstar333"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "freep.com/story/news/pol\u2026",
+                        "end": 121,
+                        "expanded_url": "https://www.freep.com/story/news/politics/elections/2020/11/06/antrim-county-vote-glitch-software-update/6194745002/",
+                        "start": 98,
+                        "url": "https://t.co/lZhYapxd8y"
+                    }
+                ]
+            },
+            "id": "1325162050503409664",
+            "in_reply_to_user_id": "556291837",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 1,
+                "reply_count": 1,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325161924045266949",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@RubyRockstar333 Look at which states the article says uses Dominion Democracy Suite 5.5 software https://t.co/lZhYapxd8y  --- \"Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County, Arizona.\""
+        },
+        {
+            "author_id": "556291837",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "American actress",
+                        "id": "1070715918609596418",
+                        "name": "Mindy Robinson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "American actress",
+                        "id": "1070715918609596418",
+                        "name": "Mindy Robinson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "American actress",
+                        "id": "1070715918609596418",
+                        "name": "Mindy Robinson"
+                    }
+                }
+            ],
+            "conversation_id": "1325159539713306625",
+            "created_at": "2020-11-07T19:42:42.000Z",
+            "edit_history_tweet_ids": [
+                "1325161775663177728"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 79,
+                        "normalized_text": "Dominion Democracy Suite",
+                        "probability": 0.8396,
+                        "start": 56,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 146,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.589,
+                        "start": 124,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 184,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.84,
+                        "start": 173,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 193,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9016,
+                        "start": 187,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 204,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.8672,
+                        "start": 196,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 212,
+                        "normalized_text": "Nevada",
+                        "probability": 0.897,
+                        "start": 207,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 223,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.8857,
+                        "start": 215,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 246,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8683,
+                        "start": 232,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 255,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9179,
+                        "start": 249,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "317385247",
+                        "start": 0,
+                        "username": "iheartmindy"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "freep.com/story/news/pol\u2026",
+                        "end": 117,
+                        "expanded_url": "https://www.freep.com/story/news/politics/elections/2020/11/06/antrim-county-vote-glitch-software-update/6194745002/",
+                        "start": 94,
+                        "url": "https://t.co/lZhYapxd8y"
+                    }
+                ]
+            },
+            "id": "1325161775663177728",
+            "in_reply_to_user_id": "317385247",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325159539713306625",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@iheartmindy Look at which states the article says uses Dominion Democracy Suite 5.5 software https://t.co/lZhYapxd8y  --- \"Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County, Arizona.\""
+        },
+        {
+            "author_id": "556291837",
+            "conversation_id": "1325159022950014977",
+            "created_at": "2020-11-07T19:40:47.000Z",
+            "edit_history_tweet_ids": [
+                "1325161295893602305"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 92,
+                        "normalized_text": "Dominion Democracy Suite",
+                        "probability": 0.8137,
+                        "start": 69,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 95,
+                        "normalized_text": ".",
+                        "probability": 0.4891,
+                        "start": 95,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 159,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.5753,
+                        "start": 137,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 197,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.8559,
+                        "start": 186,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 206,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9074,
+                        "start": 200,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 217,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.8788,
+                        "start": 209,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 225,
+                        "normalized_text": "Nevada",
+                        "probability": 0.8993,
+                        "start": 220,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 236,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.9027,
+                        "start": 228,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 259,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.876,
+                        "start": 245,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 268,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9184,
+                        "start": 262,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "3540252020",
+                        "start": 0,
+                        "username": "RedRising11"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "freep.com/story/news/pol\u2026",
+                        "end": 130,
+                        "expanded_url": "https://www.freep.com/story/news/politics/elections/2020/11/06/antrim-county-vote-glitch-software-update/6194745002/",
+                        "start": 107,
+                        "url": "https://t.co/lZhYapxd8y"
+                    }
+                ]
+            },
+            "id": "1325161295893602305",
+            "in_reply_to_user_id": "3540252020",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 1,
+                "reply_count": 2,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325159022950014977",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@RedRising11 @carrieksada Look at which states the article says uses Dominion Democracy Suite 5.5 software https://t.co/lZhYapxd8y  --- \"Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County, Arizona.\""
+        },
+        {
+            "author_id": "556291837",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Dan Bongino",
+                        "id": "1060278893905534977",
+                        "name": "Dan Bongino"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Dan Bongino",
+                        "id": "1060278893905534977",
+                        "name": "Dan Bongino"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Dan Bongino",
+                        "id": "1060278893905534977",
+                        "name": "Dan Bongino"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                }
+            ],
+            "conversation_id": "1325159714427035649",
+            "created_at": "2020-11-07T19:39:56.000Z",
+            "edit_history_tweet_ids": [
+                "1325161080876748801"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 89,
+                        "normalized_text": "Dominion Democracy Suite",
+                        "probability": 0.8137,
+                        "start": 66,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": ".",
+                        "probability": 0.4891,
+                        "start": 92,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 156,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.5753,
+                        "start": 134,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 194,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.8559,
+                        "start": 183,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 203,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9074,
+                        "start": 197,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 214,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.8788,
+                        "start": 206,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 222,
+                        "normalized_text": "Nevada",
+                        "probability": 0.8993,
+                        "start": 217,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 233,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.9027,
+                        "start": 225,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 256,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.876,
+                        "start": 242,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 265,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9184,
+                        "start": 259,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "232901331",
+                        "start": 0,
+                        "username": "dbongino"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "freep.com/story/news/pol\u2026",
+                        "end": 127,
+                        "expanded_url": "https://www.freep.com/story/news/politics/elections/2020/11/06/antrim-county-vote-glitch-software-update/6194745002/",
+                        "start": 104,
+                        "url": "https://t.co/lZhYapxd8y"
+                    }
+                ]
+            },
+            "id": "1325161080876748801",
+            "in_reply_to_user_id": "232901331",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325159714427035649",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@dbongino @carrieksada Look at which states the article says uses Dominion Democracy Suite 5.5 software https://t.co/lZhYapxd8y  --- \"Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County, Arizona.\""
+        },
+        {
+            "author_id": "556291837",
+            "conversation_id": "1325158892863594498",
+            "created_at": "2020-11-07T19:37:27.000Z",
+            "edit_history_tweet_ids": [
+                "1325160457200570368"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 93,
+                        "normalized_text": "Dominion Democracy Suite",
+                        "probability": 0.8137,
+                        "start": 70,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 96,
+                        "normalized_text": ".",
+                        "probability": 0.4891,
+                        "start": 96,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 160,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.5753,
+                        "start": 138,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 198,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.8559,
+                        "start": 187,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 207,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9074,
+                        "start": 201,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 218,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.8788,
+                        "start": 210,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 226,
+                        "normalized_text": "Nevada",
+                        "probability": 0.8993,
+                        "start": 221,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 237,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.9027,
+                        "start": 229,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 260,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.876,
+                        "start": 246,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 269,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9184,
+                        "start": 263,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "3932768472",
+                        "start": 0,
+                        "username": "EmeraldRobinson"
+                    },
+                    {
+                        "end": 26,
+                        "id": "2922345639",
+                        "start": 17,
+                        "username": "DonnaWR8"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "freep.com/story/news/pol\u2026",
+                        "end": 131,
+                        "expanded_url": "https://www.freep.com/story/news/politics/elections/2020/11/06/antrim-county-vote-glitch-software-update/6194745002/",
+                        "start": 108,
+                        "url": "https://t.co/lZhYapxd8y"
+                    }
+                ]
+            },
+            "id": "1325160457200570368",
+            "in_reply_to_user_id": "3932768472",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325158892863594498",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@EmeraldRobinson @DonnaWR8 Look at which states the article says uses Dominion Democracy Suite 5.5 software https://t.co/lZhYapxd8y  --- \"Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County, Arizona.\""
+        },
+        {
+            "author_id": "942226854",
+            "conversation_id": "1325160074185158657",
+            "created_at": "2020-11-07T19:35:56.000Z",
+            "edit_history_tweet_ids": [
+                "1325160074185158657"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Baris",
+                        "probability": 0.2229,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Michigan",
+                        "probability": 0.4379,
+                        "start": 85,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8638,
+                        "start": 102,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "AZ",
+                        "probability": 0.6452,
+                        "start": 128,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Clark",
+                        "probability": 0.4583,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 31,
+                        "id": "165039823",
+                        "start": 16,
+                        "username": "Peoples_Pundit"
+                    },
+                    {
+                        "end": 43,
+                        "id": "468911503",
+                        "start": 32,
+                        "username": "LauraBaris"
+                    }
+                ]
+            },
+            "id": "1325160074185158657",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325095567580655619",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @Frankz2137: @Peoples_Pundit @LauraBaris Mr. Baris. Its Dominion Voting Services. Michigan Glitch..Georgia glitch...Maricopa AZ...Clark\u2026"
+        },
+        {
+            "author_id": "556291837",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Candace Owens",
+                        "id": "988359847568490496",
+                        "name": "Candace Owens"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Candace Owens",
+                        "id": "988359847568490496",
+                        "name": "Candace Owens"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Candace Owens",
+                        "id": "988359847568490496",
+                        "name": "Candace Owens"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                }
+            ],
+            "conversation_id": "1325153841566773250",
+            "created_at": "2020-11-07T19:31:36.000Z",
+            "edit_history_tweet_ids": [
+                "1325158981304803331"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 93,
+                        "normalized_text": "Dominion Democracy Suite",
+                        "probability": 0.8137,
+                        "start": 70,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 96,
+                        "normalized_text": ".",
+                        "probability": 0.4891,
+                        "start": 96,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 160,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.5753,
+                        "start": 138,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 198,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.8559,
+                        "start": 187,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 207,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9074,
+                        "start": 201,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 218,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.8788,
+                        "start": 210,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 226,
+                        "normalized_text": "Nevada",
+                        "probability": 0.8993,
+                        "start": 221,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 237,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.9027,
+                        "start": 229,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 260,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.876,
+                        "start": 246,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 269,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9184,
+                        "start": 263,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "878247600096509952",
+                        "start": 0,
+                        "username": "RealCandaceO"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "freep.com/story/news/pol\u2026",
+                        "end": 131,
+                        "expanded_url": "https://www.freep.com/story/news/politics/elections/2020/11/06/antrim-county-vote-glitch-software-update/6194745002/",
+                        "start": 108,
+                        "url": "https://t.co/lZhYapOOx8"
+                    }
+                ]
+            },
+            "id": "1325158981304803331",
+            "in_reply_to_user_id": "878247600096509952",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325153841566773250",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@RealCandaceO @carrieksada Look at which states the article says uses Dominion Democracy Suite 5.5 software https://t.co/lZhYapOOx8  --- \"Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County, Arizona.\""
+        },
+        {
+            "author_id": "556291837",
+            "conversation_id": "1325057600250056712",
+            "created_at": "2020-11-07T19:28:30.000Z",
+            "edit_history_tweet_ids": [
+                "1325158204095885316"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 124,
+                        "normalized_text": "Dominion Democracy Suite",
+                        "probability": 0.7805,
+                        "start": 101,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 191,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.5624,
+                        "start": 169,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 229,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.8538,
+                        "start": 218,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 238,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9263,
+                        "start": 232,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 249,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9153,
+                        "start": 241,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 257,
+                        "normalized_text": "Nevada",
+                        "probability": 0.9397,
+                        "start": 252,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 268,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.9345,
+                        "start": 260,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 291,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.9463,
+                        "start": 277,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 300,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9425,
+                        "start": 294,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 20,
+                        "id": "2922345639",
+                        "start": 11,
+                        "username": "DonnaWR8"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "freep.com/story/news/pol\u2026",
+                        "end": 162,
+                        "expanded_url": "https://www.freep.com/story/news/politics/elections/2020/11/06/antrim-county-vote-glitch-software-update/6194745002/",
+                        "start": 139,
+                        "url": "https://t.co/lZhYapxd8y"
+                    }
+                ]
+            },
+            "id": "1325158204095885316",
+            "in_reply_to_user_id": "3380282686",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325057600250056712",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@talkRADIO @DonnaWR8 Fly one that calls out this instead: Look at which states the article says uses Dominion Democracy Suite 5.5 software https://t.co/lZhYapxd8y  --- \"Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County, Arizona"
+        },
+        {
+            "author_id": "556291837",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Fox News",
+                        "id": "1065657279150665728",
+                        "name": "Fox News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "FOX Business",
+                        "id": "1100021728594411520",
+                        "name": "FOX Business"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Fox News",
+                        "id": "1065657279150665728",
+                        "name": "Fox News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196447117297905665",
+                        "name": "News outlets"
+                    }
+                }
+            ],
+            "conversation_id": "1325143336580100096",
+            "created_at": "2020-11-07T19:26:37.000Z",
+            "edit_history_tweet_ids": [
+                "1325157730320003073"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 88,
+                        "normalized_text": "Dominion Democracy Suite",
+                        "probability": 0.8137,
+                        "start": 65,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 91,
+                        "normalized_text": ".",
+                        "probability": 0.4891,
+                        "start": 91,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 155,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.5753,
+                        "start": 133,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 193,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.8559,
+                        "start": 182,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 202,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9074,
+                        "start": 196,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 213,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.8788,
+                        "start": 205,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 221,
+                        "normalized_text": "Nevada",
+                        "probability": 0.8993,
+                        "start": 216,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 232,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.9027,
+                        "start": 224,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 255,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.876,
+                        "start": 241,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 264,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9184,
+                        "start": 258,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "56413858",
+                        "start": 0,
+                        "username": "FoxBusiness"
+                    },
+                    {
+                        "end": 21,
+                        "id": "1367531",
+                        "start": 13,
+                        "username": "FoxNews"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "freep.com/story/news/pol\u2026",
+                        "end": 126,
+                        "expanded_url": "https://www.freep.com/story/news/politics/elections/2020/11/06/antrim-county-vote-glitch-software-update/6194745002/",
+                        "start": 103,
+                        "url": "https://t.co/lZhYapOOx8"
+                    }
+                ]
+            },
+            "id": "1325157730320003073",
+            "in_reply_to_user_id": "56413858",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325143336580100096",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@FoxBusiness @FoxNews Look at which states the article says uses Dominion Democracy Suite 5.5 software https://t.co/lZhYapOOx8  --- \"Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County, Arizona.\""
+        },
+        {
+            "author_id": "556291837",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325118992785223682",
+            "created_at": "2020-11-07T19:26:07.000Z",
+            "edit_history_tweet_ids": [
+                "1325157603039711232"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 120,
+                        "normalized_text": "Dominion Democracy Suite 5.",
+                        "probability": 0.7007,
+                        "start": 94,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 184,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.6283,
+                        "start": 162,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 222,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.8486,
+                        "start": 211,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 231,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9007,
+                        "start": 225,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 242,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.8871,
+                        "start": 234,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 250,
+                        "normalized_text": "Nevada",
+                        "probability": 0.892,
+                        "start": 245,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 261,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.8902,
+                        "start": 253,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 284,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.895,
+                        "start": 270,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 293,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9273,
+                        "start": 287,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "381809023",
+                        "start": 0,
+                        "username": "MedBennett"
+                    },
+                    {
+                        "end": 27,
+                        "id": "822462665910063105",
+                        "start": 12,
+                        "username": "AMErikaNGIRLLL"
+                    },
+                    {
+                        "end": 37,
+                        "id": "939091",
+                        "start": 28,
+                        "username": "JoeBiden"
+                    },
+                    {
+                        "end": 50,
+                        "id": "933440778394841088",
+                        "start": 38,
+                        "username": "TheDisproof"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "freep.com/story/news/pol\u2026",
+                        "end": 155,
+                        "expanded_url": "https://www.freep.com/story/news/politics/elections/2020/11/06/antrim-county-vote-glitch-software-update/6194745002/",
+                        "start": 132,
+                        "url": "https://t.co/lZhYapOOx8"
+                    }
+                ]
+            },
+            "id": "1325157603039711232",
+            "in_reply_to_user_id": "381809023",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325133330556231682",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@MedBennett @AMErikaNGIRLLL @JoeBiden @TheDisproof Look at which states the article says uses Dominion Democracy Suite 5.5 software https://t.co/lZhYapOOx8  --- \"Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County, Arizona.\""
+        },
+        {
+            "author_id": "556291837",
+            "conversation_id": "1325156010818895877",
+            "created_at": "2020-11-07T19:25:23.000Z",
+            "edit_history_tweet_ids": [
+                "1325157420453285888"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Dominion Democracy Suite",
+                        "probability": 0.8396,
+                        "start": 52,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 142,
+                        "normalized_text": "Dominion Voting Systems",
+                        "probability": 0.589,
+                        "start": 120,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 180,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.84,
+                        "start": 169,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 189,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9016,
+                        "start": 183,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 200,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.8672,
+                        "start": 192,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 208,
+                        "normalized_text": "Nevada",
+                        "probability": 0.897,
+                        "start": 203,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 219,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.8857,
+                        "start": 211,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 242,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8683,
+                        "start": 228,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 251,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9179,
+                        "start": 245,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "866069141576441857",
+                        "start": 0,
+                        "username": "RRR0BYN"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "freep.com/story/news/pol\u2026",
+                        "end": 113,
+                        "expanded_url": "https://www.freep.com/story/news/politics/elections/2020/11/06/antrim-county-vote-glitch-software-update/6194745002/",
+                        "start": 90,
+                        "url": "https://t.co/lZhYapOOx8"
+                    }
+                ]
+            },
+            "id": "1325157420453285888",
+            "in_reply_to_user_id": "866069141576441857",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325156010818895877",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@RRR0BYN Look at which states the article says uses Dominion Democracy Suite 5.5 software https://t.co/lZhYapOOx8  --- \"Dominion Voting Systems software is also used in Pennsylvania, Georgia, Wisconsin, Nevada, Minnesota and in Maricopa County, Arizona.\""
+        },
+        {
+            "author_id": "784820109038673920",
+            "conversation_id": "1325157321316577280",
+            "created_at": "2020-11-07T19:25:00.000Z",
+            "edit_history_tweet_ids": [
+                "1325157321316577280"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 93,
+                        "normalized_text": "Pelosi",
+                        "probability": 0.8938,
+                        "start": 88,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 105,
+                        "normalized_text": "Clinton",
+                        "probability": 0.8716,
+                        "start": 99,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "784820109038673920",
+                        "start": 3,
+                        "username": "takenoteofthat1"
+                    },
+                    {
+                        "end": 29,
+                        "id": "466183294",
+                        "start": 21,
+                        "username": "chiIIum"
+                    }
+                ]
+            },
+            "id": "1325157321316577280",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325156994378969090",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @takenoteofthat1: @chiIIum Dominion voting system has ties to Prominent politicians, Pelosi and Clinton. Dominion Voting Systems softwar\u2026"
+        },
+        {
+            "author_id": "784820109038673920",
+            "conversation_id": "1325007178156138497",
+            "created_at": "2020-11-07T19:23:42.000Z",
+            "edit_history_tweet_ids": [
+                "1325156994378969090"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 72,
+                        "normalized_text": "Pelosi",
+                        "probability": 0.8336,
+                        "start": 67,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 84,
+                        "normalized_text": "Clinton",
+                        "probability": 0.798,
+                        "start": 78,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 133,
+                        "normalized_text": "PA",
+                        "probability": 0.7852,
+                        "start": 132,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "GA",
+                        "probability": 0.8651,
+                        "start": 136,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 141,
+                        "normalized_text": "WI",
+                        "probability": 0.4187,
+                        "start": 140,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 174,
+                        "normalized_text": "Maricopa County",
+                        "probability": 0.8694,
+                        "start": 160,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 178,
+                        "normalized_text": "AZ",
+                        "probability": 0.9253,
+                        "start": 177,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 196,
+                        "normalized_text": "Dominion",
+                        "probability": 0.4437,
+                        "start": 189,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 254,
+                        "normalized_text": "Clinton Foundation",
+                        "probability": 0.5428,
+                        "start": 237,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "466183294",
+                        "start": 0,
+                        "username": "chiIIum"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "worldtribune.com/dominion-votin\u2026",
+                        "end": 293,
+                        "expanded_url": "https://www.worldtribune.com/dominion-voting-systems-tied-to-clintons-widely-used-in-battleground-states/",
+                        "start": 270,
+                        "url": "https://t.co/9jqbw9BLWT"
+                    }
+                ]
+            },
+            "id": "1325156994378969090",
+            "in_reply_to_user_id": "466183294",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325011464533528576",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "@chiIIum Dominion voting system has ties to Prominent politicians, Pelosi and Clinton. Dominion Voting Systems software was used in PA, GA, WI, NV, MN &amp; in Maricopa County, AZ. In 2014 Dominion donated between $25,001-$50,000 to the Clinton Foundation. Coincidence?\nhttps://t.co/9jqbw9BLWT"
+        }
+    ],
+    "meta": {
+        "newest_id": "1325171663810392064",
+        "next_token": "b26v89c19zqg8o3fosbu8nihlt1ohec7zxc1mq4272hdp",
+        "oldest_id": "1325156994378969090",
+        "result_count": 22
+    }
+}

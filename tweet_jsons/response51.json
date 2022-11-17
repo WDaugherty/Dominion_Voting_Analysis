@@ -1,0 +1,1162 @@
+{
+    "data": [
+        {
+            "author_id": "290156022",
+            "conversation_id": "1325153636305887232",
+            "created_at": "2020-11-07T19:10:21.000Z",
+            "edit_history_tweet_ids": [
+                "1325153636305887232"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Baris",
+                        "probability": 0.2229,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Michigan",
+                        "probability": 0.4379,
+                        "start": 85,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8638,
+                        "start": 102,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "AZ",
+                        "probability": 0.6452,
+                        "start": 128,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Clark",
+                        "probability": 0.4583,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 31,
+                        "id": "165039823",
+                        "start": 16,
+                        "username": "Peoples_Pundit"
+                    },
+                    {
+                        "end": 43,
+                        "id": "468911503",
+                        "start": 32,
+                        "username": "LauraBaris"
+                    }
+                ]
+            },
+            "id": "1325153636305887232",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325095567580655619",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @Frankz2137: @Peoples_Pundit @LauraBaris Mr. Baris. Its Dominion Voting Services. Michigan Glitch..Georgia glitch...Maricopa AZ...Clark\u2026"
+        },
+        {
+            "author_id": "2806348967",
+            "conversation_id": "1325145772573093890",
+            "created_at": "2020-11-07T18:39:06.000Z",
+            "edit_history_tweet_ids": [
+                "1325145772573093890"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "Dominion",
+                        "probability": 0.6648,
+                        "start": 16,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 59,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.4629,
+                        "start": 52,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 66,
+                        "normalized_text": "AZ",
+                        "probability": 0.8696,
+                        "start": 65,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "775137023979958272",
+                        "start": 3,
+                        "username": "jenvanlaar"
+                    }
+                ]
+            },
+            "id": "1325145772573093890",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 29
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324840751834955776",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "text": "RT @jenvanlaar: Dominion also just rolled out in... Maricopa Co, AZ, where there have been contentions that ballots cast by voters using Sh\u2026"
+        },
+        {
+            "author_id": "814509389847601152",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325087011464749056",
+            "created_at": "2020-11-07T18:34:37.000Z",
+            "edit_history_tweet_ids": [
+                "1325144642929762305"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9794,
+                        "start": 36,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 100,
+                        "normalized_text": "Michigan",
+                        "probability": 0.9717,
+                        "start": 93,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.8237,
+                        "start": 130,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 141,
+                        "normalized_text": "AZ",
+                        "probability": 0.936,
+                        "start": 140,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 203,
+                        "normalized_text": "Clark County",
+                        "probability": 0.966,
+                        "start": 192,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 207,
+                        "normalized_text": "NV",
+                        "probability": 0.5059,
+                        "start": 206,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "25073877",
+                        "start": 0,
+                        "username": "realDonaldTrump"
+                    }
+                ]
+            },
+            "id": "1325144642929762305",
+            "in_reply_to_user_id": "25073877",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325087011464749056",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@realDonaldTrump Voting glitches in Georgia? Dominion voting machines.\n  \nVoting glitches in Michigan? Dominion voting machines.\n\nMaricopa, AZ still counting votes? Dominion voting machines.\n\nClark County, NV still counting votes? Dominion voting machines."
+        },
+        {
+            "author_id": "814509389847601152",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Dan Bongino",
+                        "id": "1060278893905534977",
+                        "name": "Dan Bongino"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Dan Bongino",
+                        "id": "1060278893905534977",
+                        "name": "Dan Bongino"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Dan Bongino",
+                        "id": "1060278893905534977",
+                        "name": "Dan Bongino"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                }
+            ],
+            "conversation_id": "1325078760379576320",
+            "created_at": "2020-11-07T18:34:21.000Z",
+            "edit_history_tweet_ids": [
+                "1325144575489372161"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 35,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9794,
+                        "start": 29,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 93,
+                        "normalized_text": "Michigan",
+                        "probability": 0.9717,
+                        "start": 86,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 130,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.8237,
+                        "start": 123,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 134,
+                        "normalized_text": "AZ",
+                        "probability": 0.936,
+                        "start": 133,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 196,
+                        "normalized_text": "Clark County",
+                        "probability": 0.966,
+                        "start": 185,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 200,
+                        "normalized_text": "NV",
+                        "probability": 0.5059,
+                        "start": 199,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "232901331",
+                        "start": 0,
+                        "username": "dbongino"
+                    }
+                ]
+            },
+            "id": "1325144575489372161",
+            "in_reply_to_user_id": "232901331",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325078760379576320",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@dbongino Voting glitches in Georgia? Dominion voting machines.\n  \nVoting glitches in Michigan? Dominion voting machines.\n\nMaricopa, AZ still counting votes? Dominion voting machines.\n\nClark County, NV still counting votes? Dominion voting machines."
+        },
+        {
+            "author_id": "814509389847601152",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "American businessman, Donald Trump's son",
+                        "id": "897487393250344961",
+                        "name": "Eric Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "American businessman, Donald Trump's son",
+                        "id": "897487393250344961",
+                        "name": "Eric Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325080288041558016",
+            "created_at": "2020-11-07T18:33:21.000Z",
+            "edit_history_tweet_ids": [
+                "1325144322673696768"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9794,
+                        "start": 30,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 94,
+                        "normalized_text": "Michigan",
+                        "probability": 0.9717,
+                        "start": 87,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 131,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.8237,
+                        "start": 124,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 135,
+                        "normalized_text": "AZ",
+                        "probability": 0.936,
+                        "start": 134,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 197,
+                        "normalized_text": "Clark County",
+                        "probability": 0.966,
+                        "start": 186,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 201,
+                        "normalized_text": "NV",
+                        "probability": 0.5059,
+                        "start": 200,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "39349894",
+                        "start": 0,
+                        "username": "EricTrump"
+                    }
+                ]
+            },
+            "id": "1325144322673696768",
+            "in_reply_to_user_id": "39349894",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325080288041558016",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@EricTrump Voting glitches in Georgia? Dominion voting machines.\n  \nVoting glitches in Michigan? Dominion voting machines.\n\nMaricopa, AZ still counting votes? Dominion voting machines.\n\nClark County, NV still counting votes? Dominion voting machines."
+        },
+        {
+            "author_id": "814509389847601152",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325135274817413120",
+            "created_at": "2020-11-07T18:33:05.000Z",
+            "edit_history_tweet_ids": [
+                "1325144258433540099"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 57,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9797,
+                        "start": 51,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 115,
+                        "normalized_text": "Michigan",
+                        "probability": 0.9726,
+                        "start": 108,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 152,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.8343,
+                        "start": 145,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 156,
+                        "normalized_text": "AZ",
+                        "probability": 0.9344,
+                        "start": 155,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 218,
+                        "normalized_text": "Clark County",
+                        "probability": 0.9696,
+                        "start": 207,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 222,
+                        "normalized_text": "NV",
+                        "probability": 0.4588,
+                        "start": 221,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "1212806053907185664",
+                        "start": 0,
+                        "username": "TheLeoTerrell"
+                    },
+                    {
+                        "end": 31,
+                        "id": "25073877",
+                        "start": 15,
+                        "username": "realDonaldTrump"
+                    }
+                ]
+            },
+            "id": "1325144258433540099",
+            "in_reply_to_user_id": "1212806053907185664",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325135274817413120",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@TheLeoTerrell @realDonaldTrump Voting glitches in Georgia? Dominion voting machines.\n  \nVoting glitches in Michigan? Dominion voting machines.\n\nMaricopa, AZ still counting votes? Dominion voting machines.\n\nClark County, NV still counting votes? Dominion voting machines."
+        },
+        {
+            "author_id": "814509389847601152",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Sean Hannity",
+                        "id": "950395459817766914",
+                        "name": "Sean Hannity"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Sean Hannity",
+                        "id": "950395459817766914",
+                        "name": "Sean Hannity"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Sean Hannity",
+                        "id": "950395459817766914",
+                        "name": "Sean Hannity"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                }
+            ],
+            "conversation_id": "1325143091439837184",
+            "created_at": "2020-11-07T18:32:20.000Z",
+            "edit_history_tweet_ids": [
+                "1325144066867294208"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 38,
+                        "normalized_text": "Georgia",
+                        "probability": 0.9794,
+                        "start": 32,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 96,
+                        "normalized_text": "Michigan",
+                        "probability": 0.9717,
+                        "start": 89,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 133,
+                        "normalized_text": "Maricopa",
+                        "probability": 0.8237,
+                        "start": 126,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "AZ",
+                        "probability": 0.936,
+                        "start": 136,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 199,
+                        "normalized_text": "Clark County",
+                        "probability": 0.966,
+                        "start": 188,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 203,
+                        "normalized_text": "NV",
+                        "probability": 0.5059,
+                        "start": 202,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "41634520",
+                        "start": 0,
+                        "username": "seanhannity"
+                    }
+                ]
+            },
+            "id": "1325144066867294208",
+            "in_reply_to_user_id": "41634520",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325143091439837184",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@seanhannity Voting glitches in Georgia? Dominion voting machines.\n  \nVoting glitches in Michigan? Dominion voting machines.\n\nMaricopa, AZ still counting votes? Dominion voting machines.\n\nClark County, NV still counting votes? Dominion voting machines."
+        },
+        {
+            "author_id": "1196100031",
+            "conversation_id": "1325135651864506371",
+            "created_at": "2020-11-07T17:58:53.000Z",
+            "edit_history_tweet_ids": [
+                "1325135651864506371"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Baris",
+                        "probability": 0.2229,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Michigan",
+                        "probability": 0.4379,
+                        "start": 85,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8638,
+                        "start": 102,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "AZ",
+                        "probability": 0.6452,
+                        "start": 128,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Clark",
+                        "probability": 0.4583,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 31,
+                        "id": "165039823",
+                        "start": 16,
+                        "username": "Peoples_Pundit"
+                    },
+                    {
+                        "end": 43,
+                        "id": "468911503",
+                        "start": 32,
+                        "username": "LauraBaris"
+                    }
+                ]
+            },
+            "id": "1325135651864506371",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325095567580655619",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @Frankz2137: @Peoples_Pundit @LauraBaris Mr. Baris. Its Dominion Voting Services. Michigan Glitch..Georgia glitch...Maricopa AZ...Clark\u2026"
+        },
+        {
+            "author_id": "838411663170678785",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1325128624794595328",
+            "created_at": "2020-11-07T17:41:51.000Z",
+            "edit_history_tweet_ids": [
+                "1325131365571043329"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 179,
+                        "normalized_text": "maricopa county",
+                        "probability": 0.9176,
+                        "start": 165,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 216,
+                        "normalized_text": "Dominion",
+                        "probability": 0.6847,
+                        "start": 209,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1241342301739331587",
+                        "start": 0,
+                        "username": "LanceKn68463682"
+                    },
+                    {
+                        "end": 25,
+                        "id": "20545835",
+                        "start": 17,
+                        "username": "NEWSMAX"
+                    },
+                    {
+                        "end": 39,
+                        "id": "770781940341288960",
+                        "start": 26,
+                        "username": "RudyGiuliani"
+                    }
+                ]
+            },
+            "id": "1325131365571043329",
+            "in_reply_to_user_id": "1241342301739331587",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325129949712244737",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@LanceKn68463682 @newsmax @RudyGiuliani The problem is the computer program called \u201cHAMMER\u201d changed republican votes to democrat on purpose. The program was used in maricopa county, and most the swing states. Dominion is the voting software used in all those states as well that is corrupt."
+        },
+        {
+            "author_id": "785285498046550017",
+            "conversation_id": "1325130298644951040",
+            "created_at": "2020-11-07T17:37:37.000Z",
+            "edit_history_tweet_ids": [
+                "1325130298644951040"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "Baris",
+                        "probability": 0.2229,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Michigan",
+                        "probability": 0.4379,
+                        "start": 85,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Georgia",
+                        "probability": 0.8638,
+                        "start": 102,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "AZ",
+                        "probability": 0.6452,
+                        "start": 128,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Clark",
+                        "probability": 0.4583,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "804468982245822465",
+                        "start": 3,
+                        "username": "Frankz2137"
+                    },
+                    {
+                        "end": 31,
+                        "id": "165039823",
+                        "start": 16,
+                        "username": "Peoples_Pundit"
+                    },
+                    {
+                        "end": 43,
+                        "id": "468911503",
+                        "start": 32,
+                        "username": "LauraBaris"
+                    }
+                ]
+            },
+            "id": "1325130298644951040",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325095567580655619",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @Frankz2137: @Peoples_Pundit @LauraBaris Mr. Baris. Its Dominion Voting Services. Michigan Glitch..Georgia glitch...Maricopa AZ...Clark\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1325153636305887232",
+        "next_token": "b26v89c19zqg8o3fosbu8nhla0oz1sfp1rdicdtz0118d",
+        "oldest_id": "1325130298644951040",
+        "result_count": 10
+    }
+}
