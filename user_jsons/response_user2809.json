@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2013-12-01T17:50:59.000Z",
+            "description": "#XRPcommunity #XRP #MAGA enjoy the show \ud83c\udf7f\ud83e\udd64",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 13,
+                            "start": 0,
+                            "tag": "XRPcommunity"
+                        },
+                        {
+                            "end": 18,
+                            "start": 14,
+                            "tag": "XRP"
+                        },
+                        {
+                            "end": 24,
+                            "start": 19,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "2203455899",
+            "location": "NC",
+            "name": "XRPhoenix rising",
+            "public_metrics": {
+                "followers_count": 1059,
+                "following_count": 1225,
+                "listed_count": 44,
+                "tweet_count": 78661
+            },
+            "username": "dmc21217"
+        }
+    ]
+}

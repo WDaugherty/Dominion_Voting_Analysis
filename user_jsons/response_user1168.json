@@ -1,0 +1,57 @@
+{
+    "data": [
+        {
+            "created_at": "2011-03-19T13:28:50.000Z",
+            "description": "conservative, freedom fighter, #SocialismKills, physicist, scientist, #ClimateChangeHoax, Parler: @pplenkie, #trump2020landslide\ud83c\udde8\ud83c\udde6\ud83c\uddfa\ud83c\uddf8\ud83c\uddf5\ud83c\uddf1",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 46,
+                            "start": 31,
+                            "tag": "SocialismKills"
+                        },
+                        {
+                            "end": 88,
+                            "start": 70,
+                            "tag": "ClimateChangeHoax"
+                        },
+                        {
+                            "end": 128,
+                            "start": 109,
+                            "tag": "trump2020landslide"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 107,
+                            "start": 98,
+                            "username": "pplenkie"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "FamilyFinancialFreedom.ca",
+                            "end": 23,
+                            "expanded_url": "http://www.FamilyFinancialFreedom.ca",
+                            "start": 0,
+                            "url": "https://t.co/kRzbw1rwJv"
+                        }
+                    ]
+                }
+            },
+            "id": "268788672",
+            "location": "Toronto ",
+            "name": "Marxism Is Evil",
+            "public_metrics": {
+                "followers_count": 2454,
+                "following_count": 3160,
+                "listed_count": 80,
+                "tweet_count": 168569
+            },
+            "username": "pplenkie"
+        }
+    ]
+}

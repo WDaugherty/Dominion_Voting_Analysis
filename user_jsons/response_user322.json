@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "created_at": "2017-01-22T01:40:52.000Z",
+            "description": "#Christian, #pro-life.  \u2764\ufe0f God, country, my flag, wife and family. Proud to be an American! Tears still fall when singing #National Anthem. @MAGAMichigan",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 10,
+                            "start": 0,
+                            "tag": "Christian"
+                        },
+                        {
+                            "end": 16,
+                            "start": 12,
+                            "tag": "pro"
+                        },
+                        {
+                            "end": 131,
+                            "start": 122,
+                            "tag": "National"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 153,
+                            "start": 140,
+                            "username": "MAGAMichigan"
+                        }
+                    ]
+                }
+            },
+            "id": "822982329123700736",
+            "location": "Fruitport, MI",
+            "name": "Neil Hunter\u271d\ufe0f\ud83d\uded0\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8\ud83c\uddec\ud83c\udde7",
+            "public_metrics": {
+                "followers_count": 2595,
+                "following_count": 4121,
+                "listed_count": 2,
+                "tweet_count": 110487
+            },
+            "username": "NeilHun96678598"
+        }
+    ]
+}

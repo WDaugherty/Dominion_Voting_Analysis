@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "created_at": "2015-05-08T18:45:48.000Z",
+            "description": "Perseverance through adversity is greatly rewarded!\nfollow my other account @t_win4",
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "end": 83,
+                            "start": 76,
+                            "username": "t_win4"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "twitterhatesus.com",
+                            "end": 23,
+                            "expanded_url": "http://twitterhatesus.com",
+                            "start": 0,
+                            "url": "https://t.co/zXRXsI7i71"
+                        }
+                    ]
+                }
+            },
+            "id": "3189093031",
+            "location": "TX ",
+            "name": "Marcy",
+            "public_metrics": {
+                "followers_count": 4113,
+                "following_count": 4936,
+                "listed_count": 28,
+                "tweet_count": 214487
+            },
+            "username": "MarcyWin4D"
+        }
+    ]
+}

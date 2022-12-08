@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2014-07-04T02:22:17.000Z",
+            "description": "#Conservative #AntiCommunism #GoTrump #MakeTheSpechFreeAgain \ud83c\udde7\ud83c\uddf7 \ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddf1 \ud83c\uddf9\ud83c\uddfc \ud83c\uddf1\ud83c\uddf9",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 13,
+                            "start": 0,
+                            "tag": "Conservative"
+                        },
+                        {
+                            "end": 28,
+                            "start": 14,
+                            "tag": "AntiCommunism"
+                        },
+                        {
+                            "end": 37,
+                            "start": 29,
+                            "tag": "GoTrump"
+                        },
+                        {
+                            "end": 60,
+                            "start": 38,
+                            "tag": "MakeTheSpechFreeAgain"
+                        }
+                    ]
+                }
+            },
+            "id": "2670160589",
+            "location": "Sao Paulo, Brazil",
+            "name": "Herlon P. L. Fischer",
+            "public_metrics": {
+                "followers_count": 2348,
+                "following_count": 2485,
+                "listed_count": 2,
+                "tweet_count": 87372
+            },
+            "username": "heliopoli_sp"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2019-07-03T22:05:35.000Z",
+            "description": "I \u2764 CRYPTO BABY!",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "opensea.io/CalabasasCrypto",
+                            "end": 23,
+                            "expanded_url": "https://opensea.io/CalabasasCrypto",
+                            "start": 0,
+                            "url": "https://t.co/N4WmV3EBIn"
+                        }
+                    ]
+                }
+            },
+            "id": "1146540514998513664",
+            "location": "Worldwide",
+            "name": "Calabasas Crypto",
+            "public_metrics": {
+                "followers_count": 300,
+                "following_count": 366,
+                "listed_count": 9,
+                "tweet_count": 3049
+            },
+            "username": "CalabasasCrypto"
+        }
+    ]
+}

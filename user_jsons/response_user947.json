@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "created_at": "2020-07-08T18:00:04.000Z",
+            "description": "Catholic, Conservative, Patriot. Dual-citizen American/Italian:Proud Army Brat;know USA is God\u2019s gift to the world.#MAGA #Trump2020 #KAG #PatriotsUnite",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 120,
+                            "start": 115,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 131,
+                            "start": 121,
+                            "tag": "Trump2020"
+                        },
+                        {
+                            "end": 136,
+                            "start": 132,
+                            "tag": "KAG"
+                        },
+                        {
+                            "end": 151,
+                            "start": 137,
+                            "tag": "PatriotsUnite"
+                        }
+                    ]
+                }
+            },
+            "id": "1280924590936477696",
+            "name": "WE THE PEOPLE",
+            "public_metrics": {
+                "followers_count": 1820,
+                "following_count": 3045,
+                "listed_count": 4,
+                "tweet_count": 36857
+            },
+            "username": "paxbonum33"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "created_at": "2019-11-23T08:53:05.000Z",
+            "description": "#Math",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "Math"
+                        }
+                    ]
+                }
+            },
+            "id": "1198162004243955712",
+            "name": "SkittyKitty",
+            "public_metrics": {
+                "followers_count": 53,
+                "following_count": 273,
+                "listed_count": 0,
+                "tweet_count": 19824
+            },
+            "username": "SkittKit1"
+        }
+    ]
+}

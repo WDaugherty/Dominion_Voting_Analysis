@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "created_at": "2011-04-16T02:08:23.000Z",
+            "description": "Trump #supporter since the beginning of the campaign #vote #Trump #FightForTruth #MakeAmericaGreatAgain Never ever give up!",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 16,
+                            "start": 6,
+                            "tag": "supporter"
+                        },
+                        {
+                            "end": 58,
+                            "start": 53,
+                            "tag": "vote"
+                        },
+                        {
+                            "end": 65,
+                            "start": 59,
+                            "tag": "Trump"
+                        },
+                        {
+                            "end": 80,
+                            "start": 66,
+                            "tag": "FightForTruth"
+                        },
+                        {
+                            "end": 103,
+                            "start": 81,
+                            "tag": "MakeAmericaGreatAgain"
+                        }
+                    ]
+                }
+            },
+            "id": "282848539",
+            "location": "Ohio",
+            "name": "jenny guo",
+            "public_metrics": {
+                "followers_count": 3267,
+                "following_count": 3284,
+                "listed_count": 44,
+                "tweet_count": 38192
+            },
+            "username": "jennysuolang"
+        }
+    ]
+}

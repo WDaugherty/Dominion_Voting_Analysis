@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2009-07-05T15:40:50.000Z",
+            "description": "#MAGA \ud83c\uddfa\ud83c\uddf8     MOM TO 3 \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f            Love My Country #TRUMP2020 #KAG2020",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 66,
+                            "start": 56,
+                            "tag": "TRUMP2020"
+                        },
+                        {
+                            "end": 75,
+                            "start": 67,
+                            "tag": "KAG2020"
+                        }
+                    ]
+                }
+            },
+            "id": "53933988",
+            "location": "chevitzville",
+            "name": "allena chev",
+            "public_metrics": {
+                "followers_count": 227,
+                "following_count": 512,
+                "listed_count": 0,
+                "tweet_count": 62289
+            },
+            "username": "ready4change2"
+        }
+    ]
+}

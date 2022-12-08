@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2016-03-15T19:18:57.000Z",
+            "description": "Happily Married, Retired, MEd #MAGA #KAG # Christian #Conservative, #WalkAway, No DMs. Trump Supporters Only !",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 35,
+                            "start": 30,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 40,
+                            "start": 36,
+                            "tag": "KAG"
+                        },
+                        {
+                            "end": 66,
+                            "start": 53,
+                            "tag": "Conservative"
+                        },
+                        {
+                            "end": 77,
+                            "start": 68,
+                            "tag": "WalkAway"
+                        }
+                    ]
+                }
+            },
+            "id": "709821204132143104",
+            "location": ", USA",
+            "name": "Bobby Darrell Watt",
+            "public_metrics": {
+                "followers_count": 6847,
+                "following_count": 6927,
+                "listed_count": 72,
+                "tweet_count": 88430
+            },
+            "username": "rutavala1"
+        }
+    ]
+}

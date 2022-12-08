@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "created_at": "2012-07-02T21:15:19.000Z",
+            "description": "Proud Trump Supporter.\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8 #maga #kag",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 56,
+                            "start": 51,
+                            "tag": "maga"
+                        },
+                        {
+                            "end": 61,
+                            "start": 57,
+                            "tag": "kag"
+                        }
+                    ]
+                }
+            },
+            "id": "625009786",
+            "name": "Brandon\ud83d\udc4a\ud83d\udc4a",
+            "public_metrics": {
+                "followers_count": 1419,
+                "following_count": 4486,
+                "listed_count": 1,
+                "tweet_count": 68031
+            },
+            "username": "brandon79967363"
+        }
+    ]
+}

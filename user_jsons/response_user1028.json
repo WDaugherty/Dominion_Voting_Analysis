@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "created_at": "2011-01-27T03:56:48.000Z",
+            "description": "Barrack Obama:   \"Don\u2019t underestimate Joe\u2019s ability to fuck things up\"    Also tweet in spanish for my #MAGA friends (and foes). Non followers will be UF\u2019d.",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 108,
+                            "start": 103,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "243479173",
+            "name": "FullLogicPR",
+            "public_metrics": {
+                "followers_count": 4091,
+                "following_count": 4151,
+                "listed_count": 44,
+                "tweet_count": 94025
+            },
+            "username": "FullLogicPR"
+        }
+    ]
+}

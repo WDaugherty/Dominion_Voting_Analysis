@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2010-04-28T17:28:10.000Z",
+            "description": "We need election reform. Pass #HB2289. Maricopa is corrupt. I am Pro-Constitution, Pro-Freedom, Pro-Bill of Rights, Pro-Life #AZCitizen #AmericaFirst",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 37,
+                            "start": 30,
+                            "tag": "HB2289"
+                        },
+                        {
+                            "end": 135,
+                            "start": 125,
+                            "tag": "AZCitizen"
+                        },
+                        {
+                            "end": 149,
+                            "start": 136,
+                            "tag": "AmericaFirst"
+                        }
+                    ]
+                }
+            },
+            "id": "138117174",
+            "location": "United States",
+            "name": "Patriot4theConstitution #HB2289 #FJB",
+            "public_metrics": {
+                "followers_count": 345,
+                "following_count": 2320,
+                "listed_count": 3,
+                "tweet_count": 5016
+            },
+            "username": "Patriot3223"
+        }
+    ]
+}

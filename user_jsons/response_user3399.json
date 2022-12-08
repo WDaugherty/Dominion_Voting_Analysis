@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "created_at": "2019-06-27T02:03:40.000Z",
+            "description": "#MAGA, #Trump Won, #Vets, #Constitution, #Beatles, #voterID, NeverForget9/11, BlueLivesMatter **If you don\u2019t know where you\u2019re going, any road will take u there",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 13,
+                            "start": 7,
+                            "tag": "Trump"
+                        },
+                        {
+                            "end": 24,
+                            "start": 19,
+                            "tag": "Vets"
+                        },
+                        {
+                            "end": 39,
+                            "start": 26,
+                            "tag": "Constitution"
+                        },
+                        {
+                            "end": 49,
+                            "start": 41,
+                            "tag": "Beatles"
+                        },
+                        {
+                            "end": 59,
+                            "start": 51,
+                            "tag": "voterID"
+                        }
+                    ]
+                }
+            },
+            "id": "1144063715056279552",
+            "name": "fritzy",
+            "public_metrics": {
+                "followers_count": 12510,
+                "following_count": 13737,
+                "listed_count": 1,
+                "tweet_count": 40183
+            },
+            "username": "fritzy2you"
+        }
+    ]
+}

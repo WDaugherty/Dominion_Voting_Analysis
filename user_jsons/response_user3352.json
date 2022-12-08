@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2012-10-11T01:18:27.000Z",
+            "description": "Irish/Cath. #Conservative, rescue animals; #17 FriendofBill, llamas, #MAGA ghosthunting #TaketheOath #ThePeoplesGeneral",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 25,
+                            "start": 12,
+                            "tag": "Conservative"
+                        },
+                        {
+                            "end": 74,
+                            "start": 69,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 100,
+                            "start": 88,
+                            "tag": "TaketheOath"
+                        },
+                        {
+                            "end": 119,
+                            "start": 101,
+                            "tag": "ThePeoplesGeneral"
+                        }
+                    ]
+                }
+            },
+            "id": "872786449",
+            "location": "United States",
+            "name": "Mountain17",
+            "public_metrics": {
+                "followers_count": 4302,
+                "following_count": 4890,
+                "listed_count": 118,
+                "tweet_count": 268021
+            },
+            "username": "annie_amountain"
+        }
+    ]
+}

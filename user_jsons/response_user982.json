@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "created_at": "2010-07-15T00:00:47.000Z",
+            "description": "I love my wife, kids, god and my country, I\u2019m a hard working American #maga",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 75,
+                            "start": 70,
+                            "tag": "maga"
+                        }
+                    ]
+                }
+            },
+            "id": "166776215",
+            "name": "william",
+            "public_metrics": {
+                "followers_count": 54,
+                "following_count": 0,
+                "listed_count": 0,
+                "tweet_count": 1862
+            },
+            "username": "BillyBindel"
+        }
+    ]
+}

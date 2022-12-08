@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "created_at": "2009-03-17T02:25:36.000Z",
+            "description": "Child of God, wife, mom, Mammy, daughter, friend, medic....in love with the study of life. \ud83c\uddfa\ud83c\uddf8 Patriot. #MAGA $SusieSA #cashappinbio https://t.co/fs23leOGjt",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 108,
+                            "start": 103,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 131,
+                            "start": 118,
+                            "tag": "cashappinbio"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "PayPal.Me/SusieSA",
+                            "end": 155,
+                            "expanded_url": "http://PayPal.Me/SusieSA",
+                            "start": 132,
+                            "url": "https://t.co/fs23leOGjt"
+                        }
+                    ]
+                }
+            },
+            "id": "24822721",
+            "location": "West Virginia",
+            "name": "Susie",
+            "public_metrics": {
+                "followers_count": 1698,
+                "following_count": 3486,
+                "listed_count": 13,
+                "tweet_count": 71096
+            },
+            "username": "sooseeadams"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "created_at": "2019-03-12T23:17:39.000Z",
+            "description": "40 years in the intel profession, president of non profit cat sanctuary, enjoy baking, making jam, and following Q.#MAGA #KAG Text Trump 88022",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 120,
+                            "start": 115,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 125,
+                            "start": 121,
+                            "tag": "KAG"
+                        }
+                    ]
+                }
+            },
+            "id": "1105608825242075137",
+            "name": "Maggie\ud83d\udc31\ud83c\udf84\u265f",
+            "public_metrics": {
+                "followers_count": 2035,
+                "following_count": 2495,
+                "listed_count": 3,
+                "tweet_count": 132061
+            },
+            "username": "Maggie50931562"
+        }
+    ]
+}

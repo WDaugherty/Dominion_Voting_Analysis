@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "created_at": "2018-12-24T07:45:58.000Z",
+            "description": "Father, husband, veteran, trial lawyer, conservative Republican PC. Author, https://t.co/Z5znNkky8N",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "tinyurl.com/2scs5mm2",
+                            "end": 99,
+                            "expanded_url": "http://tinyurl.com/2scs5mm2",
+                            "start": 76,
+                            "url": "https://t.co/Z5znNkky8N"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "PrecinctStrategy.com",
+                            "end": 23,
+                            "expanded_url": "http://www.PrecinctStrategy.com",
+                            "start": 0,
+                            "url": "https://t.co/R3xPOZrN39"
+                        }
+                    ]
+                }
+            },
+            "id": "1077108105144500224",
+            "name": "#OurTrumpCampaign. Get on Gettr & TruthSocial NOW",
+            "public_metrics": {
+                "followers_count": 2885,
+                "following_count": 3066,
+                "listed_count": 17,
+                "tweet_count": 73957
+            },
+            "username": "DanSchultz2"
+        }
+    ]
+}

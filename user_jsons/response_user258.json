@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2018-10-05T13:32:25.000Z",
+            "description": "Jersey type A, family man, nut up or shut up, #walkaway, wrestling is the sport of GODS",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 55,
+                            "start": 46,
+                            "tag": "walkaway"
+                        }
+                    ]
+                }
+            },
+            "id": "1048204263242027009",
+            "location": "New Jersey, USA",
+            "name": "Jersey wrestling dad",
+            "public_metrics": {
+                "followers_count": 183,
+                "following_count": 791,
+                "listed_count": 0,
+                "tweet_count": 6882
+            },
+            "username": "DirtyJerseyDad"
+        }
+    ]
+}

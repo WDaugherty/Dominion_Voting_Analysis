@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "created_at": "2016-02-17T03:34:07.000Z",
+            "description": "i'am a 37 yr old Montana girl who is fed up with the way our country is trying to be run into a 3rd world country. trump supporter all the way #neverhillary",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 156,
+                            "start": 143,
+                            "tag": "neverhillary"
+                        }
+                    ]
+                }
+            },
+            "id": "4919080518",
+            "name": "Izzy",
+            "public_metrics": {
+                "followers_count": 1128,
+                "following_count": 1961,
+                "listed_count": 17,
+                "tweet_count": 19345
+            },
+            "username": "Peterson33Izzy"
+        }
+    ]
+}

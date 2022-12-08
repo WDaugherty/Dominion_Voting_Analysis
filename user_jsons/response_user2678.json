@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "created_at": "2020-06-29T18:55:50.000Z",
+            "description": "@BobsTerLove #MAGA \ud83c\uddfa\ud83c\uddf8\u2665\ufe0f\ud83c\uddf5\ud83c\udded\ud83e\uddec #BobsTerLove If You Love Me Keep My Commandments #John15:14 (KJV) And #Genesis2:24 said the Messiah YAHAWASHI",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 18,
+                            "start": 13,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 39,
+                            "start": 27,
+                            "tag": "BobsTerLove"
+                        },
+                        {
+                            "end": 83,
+                            "start": 76,
+                            "tag": "John15"
+                        },
+                        {
+                            "end": 106,
+                            "start": 97,
+                            "tag": "Genesis2"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 12,
+                            "start": 0,
+                            "username": "BobsTerLove"
+                        }
+                    ]
+                }
+            },
+            "id": "1277676869635076097",
+            "name": "EGT1967",
+            "public_metrics": {
+                "followers_count": 40,
+                "following_count": 166,
+                "listed_count": 0,
+                "tweet_count": 9429
+            },
+            "username": "egt1967"
+        }
+    ]
+}

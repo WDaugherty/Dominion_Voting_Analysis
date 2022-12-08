@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2017-12-11T19:04:46.000Z",
+            "description": "I am here to support President Trump and fight the enemies of our way of life. I am a builder of wonderful things.  #MAGA #CAPITALISM #TRUMP2020 #DISTROYMARXISM",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 121,
+                            "start": 116,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 133,
+                            "start": 122,
+                            "tag": "CAPITALISM"
+                        },
+                        {
+                            "end": 144,
+                            "start": 134,
+                            "tag": "TRUMP2020"
+                        },
+                        {
+                            "end": 160,
+                            "start": 145,
+                            "tag": "DISTROYMARXISM"
+                        }
+                    ]
+                }
+            },
+            "id": "940296315413716994",
+            "location": "Texas, USA",
+            "name": "ToolMaker I ONLY Trust Trump",
+            "public_metrics": {
+                "followers_count": 1780,
+                "following_count": 1819,
+                "listed_count": 1,
+                "tweet_count": 50280
+            },
+            "username": "ToolMakerThinks"
+        }
+    ]
+}

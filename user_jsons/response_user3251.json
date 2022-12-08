@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "created_at": "2016-02-07T00:09:57.000Z",
+            "description": "LA author of A Promise Kept caregiver books and self-publishing guide. Promotes conservative American values. https://t.co/d5DdTlIg1n",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "amazon.com/author/bonitab\u2026",
+                            "end": 133,
+                            "expanded_url": "https://www.amazon.com/author/bonitabandaries",
+                            "start": 110,
+                            "url": "https://t.co/d5DdTlIg1n"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "authorbonitabandaries.com",
+                            "end": 23,
+                            "expanded_url": "http://www.authorbonitabandaries.com",
+                            "start": 0,
+                            "url": "https://t.co/xDI9Cp20EK"
+                        }
+                    ]
+                }
+            },
+            "id": "4870881870",
+            "location": "Shreveport, LA",
+            "name": "Bonita",
+            "public_metrics": {
+                "followers_count": 205,
+                "following_count": 323,
+                "listed_count": 17,
+                "tweet_count": 12737
+            },
+            "username": "bbandaries"
+        }
+    ]
+}

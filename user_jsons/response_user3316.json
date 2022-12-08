@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "created_at": "2016-10-12T23:38:31.000Z",
+            "description": "Observer, Historian & Author. Disclaimer: Not for the psychologically impaired. Apologies, but I\u2019m not the midwit whisperer. https://t.co/jfGAwgBcDf",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "commoncitizen.substack.com",
+                            "end": 148,
+                            "expanded_url": "http://commoncitizen.substack.com",
+                            "start": 125,
+                            "url": "https://t.co/jfGAwgBcDf"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "minds.com/common_citizen/",
+                            "end": 23,
+                            "expanded_url": "http://minds.com/common_citizen/",
+                            "start": 0,
+                            "url": "https://t.co/tJpfcmwTJ1"
+                        }
+                    ]
+                }
+            },
+            "id": "786350364844929025",
+            "location": "Rent-Free in your head.",
+            "name": "Common_Citizen",
+            "public_metrics": {
+                "followers_count": 4151,
+                "following_count": 4042,
+                "listed_count": 4,
+                "tweet_count": 191132
+            },
+            "username": "UnCommonC1t1zen"
+        }
+    ]
+}

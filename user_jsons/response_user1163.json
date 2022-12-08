@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "created_at": "2014-09-10T06:15:09.000Z",
+            "description": "Official Social Media Team for Christian for Arizona. 2022 Republican nominee for Arizona House of Representatives #AZGOP #AZLeg #Arizona",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 121,
+                            "start": 115,
+                            "tag": "AZGOP"
+                        },
+                        {
+                            "end": 128,
+                            "start": 122,
+                            "tag": "AZLeg"
+                        },
+                        {
+                            "end": 137,
+                            "start": 129,
+                            "tag": "Arizona"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ChristianforArizona.com",
+                            "end": 23,
+                            "expanded_url": "https://ChristianforArizona.com",
+                            "start": 0,
+                            "url": "https://t.co/Ox5JTW9RK4"
+                        }
+                    ]
+                }
+            },
+            "id": "2801177472",
+            "location": "United States",
+            "name": "Lamar War Room of ChristianforArizona.com",
+            "public_metrics": {
+                "followers_count": 62645,
+                "following_count": 7077,
+                "listed_count": 226,
+                "tweet_count": 134171
+            },
+            "username": "LamarWarRoom"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "created_at": "2019-04-26T17:18:44.000Z",
+            "description": "Don\u2019t be a \ud83d\udc11 but a truth seeker, The truth doesn\u2019t care about your feelings, political correctness is hate speech! #WEDONOTCONSENT #frankenfauci #itsfakefolks",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 130,
+                            "start": 115,
+                            "tag": "WEDONOTCONSENT"
+                        },
+                        {
+                            "end": 144,
+                            "start": 131,
+                            "tag": "frankenfauci"
+                        },
+                        {
+                            "end": 158,
+                            "start": 145,
+                            "tag": "itsfakefolks"
+                        }
+                    ]
+                }
+            },
+            "id": "1121825952173105152",
+            "name": "Tonya",
+            "public_metrics": {
+                "followers_count": 29,
+                "following_count": 56,
+                "listed_count": 0,
+                "tweet_count": 12975
+            },
+            "username": "Tonya42676876"
+        }
+    ]
+}

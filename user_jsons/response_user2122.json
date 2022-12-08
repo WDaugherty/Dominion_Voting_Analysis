@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "created_at": "2009-04-20T18:32:25.000Z",
+            "description": "Happily married to my very best friend.\nDems don't give a damn about your family nor your country!\n #conservative #tcot #MAGA #Trump #ProLife  #BackTheBlue #FJB",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 113,
+                            "start": 100,
+                            "tag": "conservative"
+                        },
+                        {
+                            "end": 119,
+                            "start": 114,
+                            "tag": "tcot"
+                        },
+                        {
+                            "end": 125,
+                            "start": 120,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 132,
+                            "start": 126,
+                            "tag": "Trump"
+                        },
+                        {
+                            "end": 141,
+                            "start": 133,
+                            "tag": "ProLife"
+                        },
+                        {
+                            "end": 155,
+                            "start": 143,
+                            "tag": "BackTheBlue"
+                        },
+                        {
+                            "end": 160,
+                            "start": 156,
+                            "tag": "FJB"
+                        }
+                    ]
+                }
+            },
+            "id": "33611715",
+            "location": "United States",
+            "name": "PatPeters,PhD.",
+            "public_metrics": {
+                "followers_count": 76047,
+                "following_count": 67478,
+                "listed_count": 477,
+                "tweet_count": 537522
+            },
+            "username": "PatVPeters"
+        }
+    ]
+}

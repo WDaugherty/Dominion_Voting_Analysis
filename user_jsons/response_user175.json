@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2017-01-20T05:01:58.000Z",
+            "description": "Very conservative & tired of all the PC!\n#MAGA \n#DrainTheSwamp\n#NotPoliticallyCorrect\n#BoycottHollywood \nI support President Trump",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 46,
+                            "start": 41,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 62,
+                            "start": 48,
+                            "tag": "DrainTheSwamp"
+                        },
+                        {
+                            "end": 85,
+                            "start": 63,
+                            "tag": "NotPoliticallyCorrect"
+                        },
+                        {
+                            "end": 103,
+                            "start": 86,
+                            "tag": "BoycottHollywood"
+                        }
+                    ]
+                }
+            },
+            "id": "822308160606060545",
+            "location": "Bossier City, Louisiana ",
+            "name": "Steel Magnolia-Lisa",
+            "public_metrics": {
+                "followers_count": 3348,
+                "following_count": 3570,
+                "listed_count": 8,
+                "tweet_count": 37339
+            },
+            "username": "Lisa00011122"
+        }
+    ]
+}

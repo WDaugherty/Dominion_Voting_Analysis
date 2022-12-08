@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "created_at": "2018-12-29T08:17:39.000Z",
+            "description": "PAC 12 Football page. Features all Schools! PAC 12 Fans follow here! #BackThePac",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 80,
+                            "start": 69,
+                            "tag": "BackThePac"
+                        }
+                    ]
+                }
+            },
+            "id": "1078928015394918401",
+            "name": "Pac 12 Football",
+            "public_metrics": {
+                "followers_count": 83,
+                "following_count": 246,
+                "listed_count": 1,
+                "tweet_count": 6448
+            },
+            "username": "PACFOOTBALL12"
+        }
+    ]
+}

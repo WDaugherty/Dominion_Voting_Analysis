@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "created_at": "2018-04-18T13:55:34.000Z",
+            "description": "#TBsHikingPix An American with a fierce love for God, Country, Family & Freedom! Long live this constitutional republic! #LoneStarState #2A #1A #HikeForLife",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 13,
+                            "start": 0,
+                            "tag": "TBsHikingPix"
+                        },
+                        {
+                            "end": 135,
+                            "start": 121,
+                            "tag": "LoneStarState"
+                        },
+                        {
+                            "end": 139,
+                            "start": 136,
+                            "tag": "2A"
+                        },
+                        {
+                            "end": 143,
+                            "start": 140,
+                            "tag": "1A"
+                        },
+                        {
+                            "end": 156,
+                            "start": 144,
+                            "tag": "HikeForLife"
+                        }
+                    ]
+                }
+            },
+            "id": "986604148362809345",
+            "location": "Texas, USA",
+            "name": "Trail Bum",
+            "public_metrics": {
+                "followers_count": 9475,
+                "following_count": 8261,
+                "listed_count": 14,
+                "tweet_count": 308728
+            },
+            "username": "TrailBum2"
+        }
+    ]
+}

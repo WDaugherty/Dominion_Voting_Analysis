@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "created_at": "2019-02-27T01:25:58.000Z",
+            "description": "#IMPEACH46 #46NOTLEGIT #46NOTMYPRES",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 10,
+                            "start": 0,
+                            "tag": "IMPEACH46"
+                        },
+                        {
+                            "end": 22,
+                            "start": 11,
+                            "tag": "46NOTLEGIT"
+                        },
+                        {
+                            "end": 35,
+                            "start": 23,
+                            "tag": "46NOTMYPRES"
+                        }
+                    ]
+                }
+            },
+            "id": "1100567685669273600",
+            "name": "conservativegirl1984",
+            "public_metrics": {
+                "followers_count": 68,
+                "following_count": 437,
+                "listed_count": 0,
+                "tweet_count": 14306
+            },
+            "username": "conserv54558871"
+        }
+    ]
+}

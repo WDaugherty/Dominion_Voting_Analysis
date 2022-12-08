@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "created_at": "2015-04-13T21:08:42.000Z",
+            "description": "Trump supporter and Drain the swamp supporter. .#MAGA #KAG \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8Registered Nurse. President Trump is the best President in history!",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 53,
+                            "start": 48,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 58,
+                            "start": 54,
+                            "tag": "KAG"
+                        }
+                    ]
+                }
+            },
+            "id": "3153618254",
+            "name": "sasha house",
+            "public_metrics": {
+                "followers_count": 5286,
+                "following_count": 6280,
+                "listed_count": 4,
+                "tweet_count": 291898
+            },
+            "username": "mybabyforever10"
+        }
+    ]
+}

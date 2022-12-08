@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "created_at": "2009-04-23T14:59:36.000Z",
+            "description": "@student57 on GETTR........@caregiver70 on GAB, NO DM'S,\n@NRA, TRUMP 2024, #MAGA, AMERICA FIRST, BACK THE BLUE, VETERANS FIRST",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 80,
+                            "start": 75,
+                            "tag": "MAGA"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 10,
+                            "start": 0,
+                            "username": "student57"
+                        },
+                        {
+                            "end": 39,
+                            "start": 27,
+                            "username": "caregiver70"
+                        },
+                        {
+                            "end": 61,
+                            "start": 57,
+                            "username": "NRA"
+                        }
+                    ]
+                }
+            },
+            "id": "34633253",
+            "location": "Wisconsin, USA",
+            "name": "Katherine",
+            "public_metrics": {
+                "followers_count": 4938,
+                "following_count": 4973,
+                "listed_count": 3,
+                "tweet_count": 72001
+            },
+            "username": "57student"
+        }
+    ]
+}

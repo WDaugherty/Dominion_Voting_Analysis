@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2020-11-01T01:39:24.000Z",
+            "description": "Liberalism is a mental disorder!\n#RedWave #4MoreYears #MAGA2020",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 41,
+                            "start": 33,
+                            "tag": "RedWave"
+                        },
+                        {
+                            "end": 53,
+                            "start": 42,
+                            "tag": "4MoreYears"
+                        },
+                        {
+                            "end": 63,
+                            "start": 54,
+                            "tag": "MAGA2020"
+                        }
+                    ]
+                }
+            },
+            "id": "1322714711054553088",
+            "location": "New York, NY",
+            "name": "Richard",
+            "public_metrics": {
+                "followers_count": 12,
+                "following_count": 178,
+                "listed_count": 0,
+                "tweet_count": 1586
+            },
+            "username": "Rosen_Riche"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2009-04-04T02:36:15.000Z",
+            "description": "#LetsGoBrandon! Ultra MAGA that \u2764\ufe0f TRUMP..... \u2764\ufe0f4\ufe0f\u20e35\ufe0f\u20e3\u2764\ufe0f #BringTrumpBack #Trump2024",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 14,
+                            "start": 0,
+                            "tag": "LetsGoBrandon"
+                        },
+                        {
+                            "end": 72,
+                            "start": 57,
+                            "tag": "BringTrumpBack"
+                        },
+                        {
+                            "end": 83,
+                            "start": 73,
+                            "tag": "Trump2024"
+                        }
+                    ]
+                }
+            },
+            "id": "28720668",
+            "location": "Planet Earth",
+            "name": "Mega MAGA SugarBoo \ud83d\udc8b",
+            "public_metrics": {
+                "followers_count": 3765,
+                "following_count": 3954,
+                "listed_count": 24,
+                "tweet_count": 79438
+            },
+            "username": "TimeToGoOnATrip"
+        }
+    ]
+}

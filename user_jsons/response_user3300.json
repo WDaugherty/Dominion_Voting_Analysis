@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "created_at": "2009-04-22T11:47:50.000Z",
+            "description": "Christian, wife, mother, grandmother, writer, artist, traveler.  #JesusIsKing #US. #SaveAmeica #PresidentTrump #GodBlessAmerics",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 77,
+                            "start": 65,
+                            "tag": "JesusIsKing"
+                        },
+                        {
+                            "end": 81,
+                            "start": 78,
+                            "tag": "US"
+                        },
+                        {
+                            "end": 94,
+                            "start": 83,
+                            "tag": "SaveAmeica"
+                        },
+                        {
+                            "end": 110,
+                            "start": 95,
+                            "tag": "PresidentTrump"
+                        },
+                        {
+                            "end": 127,
+                            "start": 111,
+                            "tag": "GodBlessAmerics"
+                        }
+                    ]
+                }
+            },
+            "id": "34248474",
+            "location": "United States",
+            "name": "Patriot Paulette\ud83c\udf4a",
+            "public_metrics": {
+                "followers_count": 2655,
+                "following_count": 3856,
+                "listed_count": 60,
+                "tweet_count": 52224
+            },
+            "username": "LadyEmeraldStar"
+        }
+    ]
+}

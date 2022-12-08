@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "created_at": "2013-07-04T19:20:19.000Z",
+            "description": "Dedicated to documenting why some feel an out of touch, corrupt governor needs to GO. #NY2A #CorruptCuomo #Tyrant #Bully #Grassroots #2A \u2606 \u03bc\u03bf\u03bb\u1f7c\u03bd \u03bb\u03b1\u03b2\u03ad \u2606",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 91,
+                            "start": 86,
+                            "tag": "NY2A"
+                        },
+                        {
+                            "end": 105,
+                            "start": 92,
+                            "tag": "CorruptCuomo"
+                        },
+                        {
+                            "end": 113,
+                            "start": 106,
+                            "tag": "Tyrant"
+                        },
+                        {
+                            "end": 120,
+                            "start": 114,
+                            "tag": "Bully"
+                        },
+                        {
+                            "end": 132,
+                            "start": 121,
+                            "tag": "Grassroots"
+                        },
+                        {
+                            "end": 136,
+                            "start": 133,
+                            "tag": "2A"
+                        }
+                    ]
+                }
+            },
+            "id": "1568851314",
+            "location": "New York State",
+            "name": "Cuomo Watch \ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 19850,
+                "following_count": 15513,
+                "listed_count": 142,
+                "tweet_count": 162382
+            },
+            "username": "CuomoWatch"
+        }
+    ]
+}

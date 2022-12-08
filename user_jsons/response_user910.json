@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2019-07-27T14:28:44.000Z",
+            "description": "Proud Ultra MAGA.  #UMLM",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 24,
+                            "start": 19,
+                            "tag": "UMLM"
+                        }
+                    ]
+                }
+            },
+            "id": "1155122854347886595",
+            "location": "Austin, Texas",
+            "name": "johnnyk2000",
+            "public_metrics": {
+                "followers_count": 3320,
+                "following_count": 3296,
+                "listed_count": 9,
+                "tweet_count": 100750
+            },
+            "username": "johnnyk20001"
+        }
+    ]
+}

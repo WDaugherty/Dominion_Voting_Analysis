@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "created_at": "2012-03-15T22:39:27.000Z",
+            "description": "where\u2019s Nancy",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "mysonhunter.com",
+                            "end": 23,
+                            "expanded_url": "https://mysonhunter.com/",
+                            "start": 0,
+                            "url": "https://t.co/EvyowxT27D"
+                        }
+                    ]
+                }
+            },
+            "id": "525815214",
+            "name": "mark",
+            "public_metrics": {
+                "followers_count": 1326,
+                "following_count": 1299,
+                "listed_count": 11,
+                "tweet_count": 154108
+            },
+            "username": "marktheright"
+        }
+    ]
+}

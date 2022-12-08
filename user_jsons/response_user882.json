@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2020-08-12T19:54:17.000Z",
+            "description": "\ud83c\uddfa\ud83c\uddf8#PATRIOT \ud83c\uddfa\ud83c\uddf8#KAG \ud83c\uddfa\ud83c\uddf8#MAGA \ud83c\uddfa\ud83c\uddf8#TRUMPTRAIN2020\ud83c\uddfa\ud83c\uddf8",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 10,
+                            "start": 2,
+                            "tag": "PATRIOT"
+                        },
+                        {
+                            "end": 17,
+                            "start": 13,
+                            "tag": "KAG"
+                        },
+                        {
+                            "end": 25,
+                            "start": 20,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 43,
+                            "start": 28,
+                            "tag": "TRUMPTRAIN2020"
+                        }
+                    ]
+                }
+            },
+            "id": "1293636744215175176",
+            "location": "USA",
+            "name": "@Cosmogirl58 #TrumpTrain",
+            "public_metrics": {
+                "followers_count": 488,
+                "following_count": 1044,
+                "listed_count": 0,
+                "tweet_count": 13304
+            },
+            "username": "Cosmogirl58"
+        }
+    ]
+}

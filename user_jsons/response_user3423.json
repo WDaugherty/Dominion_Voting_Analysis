@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "created_at": "2017-03-18T18:09:17.000Z",
+            "description": "Do you like #WhatILearnedToday? I do. Do you like #FridayLeftovers? Well, I do, too. Pronouns: Trump/won #MoJo50 #RIPDoc #ResistStupid",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 30,
+                            "start": 12,
+                            "tag": "WhatILearnedToday"
+                        },
+                        {
+                            "end": 66,
+                            "start": 50,
+                            "tag": "FridayLeftovers"
+                        },
+                        {
+                            "end": 112,
+                            "start": 105,
+                            "tag": "MoJo50"
+                        },
+                        {
+                            "end": 120,
+                            "start": 113,
+                            "tag": "RIPDoc"
+                        },
+                        {
+                            "end": 134,
+                            "start": 121,
+                            "tag": "ResistStupid"
+                        }
+                    ]
+                }
+            },
+            "id": "843162407224655874",
+            "location": "South Jersey",
+            "name": "Unrepentant Thought Criminal \ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 1278,
+                "following_count": 2413,
+                "listed_count": 4,
+                "tweet_count": 88507
+            },
+            "username": "Its_RINO_Season"
+        }
+    ]
+}

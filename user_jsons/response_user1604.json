@@ -1,0 +1,127 @@
+{
+    "data": [
+        {
+            "created_at": "2016-11-10T20:16:37.000Z",
+            "description": "#Trade $ES $NQ $CL $GC $SPX #BTC #ETFs #Stocks #Options #Futures #Forex #Bitcoin #Crypto #Ethereum #Algotrading #Traders #Tradingsignals Discord@ ZouZou#9345 \ud83d\udcb8",
+            "entities": {
+                "description": {
+                    "cashtags": [
+                        {
+                            "end": 10,
+                            "start": 7,
+                            "tag": "ES"
+                        },
+                        {
+                            "end": 14,
+                            "start": 11,
+                            "tag": "NQ"
+                        },
+                        {
+                            "end": 18,
+                            "start": 15,
+                            "tag": "CL"
+                        },
+                        {
+                            "end": 22,
+                            "start": 19,
+                            "tag": "GC"
+                        },
+                        {
+                            "end": 27,
+                            "start": 23,
+                            "tag": "SPX"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "end": 6,
+                            "start": 0,
+                            "tag": "Trade"
+                        },
+                        {
+                            "end": 32,
+                            "start": 28,
+                            "tag": "BTC"
+                        },
+                        {
+                            "end": 38,
+                            "start": 33,
+                            "tag": "ETFs"
+                        },
+                        {
+                            "end": 46,
+                            "start": 39,
+                            "tag": "Stocks"
+                        },
+                        {
+                            "end": 55,
+                            "start": 47,
+                            "tag": "Options"
+                        },
+                        {
+                            "end": 64,
+                            "start": 56,
+                            "tag": "Futures"
+                        },
+                        {
+                            "end": 71,
+                            "start": 65,
+                            "tag": "Forex"
+                        },
+                        {
+                            "end": 80,
+                            "start": 72,
+                            "tag": "Bitcoin"
+                        },
+                        {
+                            "end": 88,
+                            "start": 81,
+                            "tag": "Crypto"
+                        },
+                        {
+                            "end": 98,
+                            "start": 89,
+                            "tag": "Ethereum"
+                        },
+                        {
+                            "end": 111,
+                            "start": 99,
+                            "tag": "Algotrading"
+                        },
+                        {
+                            "end": 120,
+                            "start": 112,
+                            "tag": "Traders"
+                        },
+                        {
+                            "end": 136,
+                            "start": 121,
+                            "tag": "Tradingsignals"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "solsticeatr.com",
+                            "end": 23,
+                            "expanded_url": "https://www.solsticeatr.com/",
+                            "start": 0,
+                            "url": "https://t.co/7VHJs6MdAM"
+                        }
+                    ]
+                }
+            },
+            "id": "796808802448179200",
+            "location": "Irvine, CA",
+            "name": "Chrisi Farah",
+            "public_metrics": {
+                "followers_count": 885,
+                "following_count": 130,
+                "listed_count": 20,
+                "tweet_count": 9449
+            },
+            "username": "ChrisiFarah"
+        }
+    ]
+}

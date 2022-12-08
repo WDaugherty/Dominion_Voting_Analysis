@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "created_at": "2017-01-31T05:17:03.000Z",
+            "description": "Jesus Christ is Lord #Jesus #Yeshua #ProLife #Bible #Adoption #ProIsrael #ProFamily #BornAgain #Israel #SaveOurChildren",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 27,
+                            "start": 21,
+                            "tag": "Jesus"
+                        },
+                        {
+                            "end": 35,
+                            "start": 28,
+                            "tag": "Yeshua"
+                        },
+                        {
+                            "end": 44,
+                            "start": 36,
+                            "tag": "ProLife"
+                        },
+                        {
+                            "end": 51,
+                            "start": 45,
+                            "tag": "Bible"
+                        },
+                        {
+                            "end": 61,
+                            "start": 52,
+                            "tag": "Adoption"
+                        },
+                        {
+                            "end": 72,
+                            "start": 62,
+                            "tag": "ProIsrael"
+                        },
+                        {
+                            "end": 83,
+                            "start": 73,
+                            "tag": "ProFamily"
+                        },
+                        {
+                            "end": 94,
+                            "start": 84,
+                            "tag": "BornAgain"
+                        },
+                        {
+                            "end": 102,
+                            "start": 95,
+                            "tag": "Israel"
+                        },
+                        {
+                            "end": 119,
+                            "start": 103,
+                            "tag": "SaveOurChildren"
+                        }
+                    ]
+                }
+            },
+            "id": "826298226651316224",
+            "location": "United States",
+            "name": "God is Love",
+            "public_metrics": {
+                "followers_count": 3313,
+                "following_count": 3548,
+                "listed_count": 18,
+                "tweet_count": 32340
+            },
+            "username": "EarltheWarrior"
+        }
+    ]
+}

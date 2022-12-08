@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "created_at": "2009-05-02T22:25:57.000Z",
+            "description": "25-year ink-stained wretch (WSJ, Forbes), ex-CNBC/Fox. Now: content creator, crisis advisor, ghostwriter (\"Trump Century,\" \"The Fixer\"), @newsmax @wsj",
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "end": 145,
+                            "start": 137,
+                            "username": "newsmax"
+                        },
+                        {
+                            "end": 150,
+                            "start": 146,
+                            "username": "wsj"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "linkedin.com/pub/dennis-kne\u2026",
+                            "end": 23,
+                            "expanded_url": "http://www.linkedin.com/pub/dennis-kneale/26/213/241/",
+                            "start": 0,
+                            "url": "https://t.co/rzQqpW3tHn"
+                        }
+                    ]
+                }
+            },
+            "id": "37297803",
+            "location": "New York",
+            "name": "Dennis Kneale",
+            "public_metrics": {
+                "followers_count": 7999,
+                "following_count": 4142,
+                "listed_count": 342,
+                "tweet_count": 101921
+            },
+            "username": "denniskneale"
+        }
+    ]
+}

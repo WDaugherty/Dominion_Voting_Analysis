@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "created_at": "2017-12-26T15:54:40.000Z",
+            "description": "Yuge fan of the greatest president in US history #MAGA \ud83c\uddfa\ud83c\uddf8 The first duty of society is justice \ud83d\udc68\u200d\u2696\ufe0f\ud83d\udc69\u200d\u2696\ufe0f IFB\ud83d\udcaf #TRUMP",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 54,
+                            "start": 49,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 115,
+                            "start": 109,
+                            "tag": "TRUMP"
+                        }
+                    ]
+                }
+            },
+            "id": "945684293304700929",
+            "name": "\u274cPeter Servinis\u274c",
+            "public_metrics": {
+                "followers_count": 5119,
+                "following_count": 5351,
+                "listed_count": 8,
+                "tweet_count": 3661
+            },
+            "username": "peter_servinis"
+        }
+    ]
+}

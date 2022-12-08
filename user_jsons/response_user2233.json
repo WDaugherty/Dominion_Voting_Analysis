@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "created_at": "2009-02-28T04:50:29.000Z",
+            "description": "Outstanding trial lawyer fed/st usdc ma,us ct of appeals,1st 3rd Cir SCOTUS ringlawfirm ma dc ny~uslaw@comcast.net  international writer \"https://t.co/XjcA7tOHAV\"",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "jordanlewisring.com",
+                            "end": 161,
+                            "expanded_url": "http://jordanlewisring.com",
+                            "start": 138,
+                            "url": "https://t.co/XjcA7tOHAV"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ringlawfirm.com",
+                            "end": 23,
+                            "expanded_url": "http://www.ringlawfirm.com",
+                            "start": 0,
+                            "url": "https://t.co/l0ja4Uru2n"
+                        }
+                    ]
+                }
+            },
+            "id": "22229622",
+            "location": "United States DC MA  TRIAL LAW",
+            "name": "jordan lewis ring, esquire",
+            "public_metrics": {
+                "followers_count": 84,
+                "following_count": 51,
+                "listed_count": 8,
+                "tweet_count": 75226
+            },
+            "username": "uslaw1a"
+        }
+    ]
+}

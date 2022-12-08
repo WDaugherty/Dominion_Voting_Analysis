@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "created_at": "2018-08-05T17:00:53.000Z",
+            "description": "Not part of the Sheep Herd,   #DrainTheSwamp #TermLimit #VoterID #TrumpWasRight\nLow informed people allow themselves to be brainwashed by the #FakeNews #MSM,",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 44,
+                            "start": 30,
+                            "tag": "DrainTheSwamp"
+                        },
+                        {
+                            "end": 55,
+                            "start": 45,
+                            "tag": "TermLimit"
+                        },
+                        {
+                            "end": 64,
+                            "start": 56,
+                            "tag": "VoterID"
+                        },
+                        {
+                            "end": 79,
+                            "start": 65,
+                            "tag": "TrumpWasRight"
+                        },
+                        {
+                            "end": 151,
+                            "start": 142,
+                            "tag": "FakeNews"
+                        },
+                        {
+                            "end": 156,
+                            "start": 152,
+                            "tag": "MSM"
+                        }
+                    ]
+                }
+            },
+            "id": "1026151062514950144",
+            "name": "Elahg",
+            "public_metrics": {
+                "followers_count": 2489,
+                "following_count": 5001,
+                "listed_count": 0,
+                "tweet_count": 25709
+            },
+            "username": "Elahg2"
+        }
+    ]
+}

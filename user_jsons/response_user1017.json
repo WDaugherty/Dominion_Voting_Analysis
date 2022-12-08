@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "created_at": "2008-07-10T15:04:15.000Z",
+            "description": "\ud83c\uddfa\ud83c\uddf8ex Calif, ret\u2018d Firefighter\ud83d\udc68\u200d\ud83d\ude92\ud83d\udd25\ud83d\ude92(on the job injuries) on good days I try to play\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\u26f3\ufe0f#MAGA\ud83d\udc49https://t.co/3heX4oC96f",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 94,
+                            "start": 89,
+                            "tag": "MAGA"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "m.youtube.com/watch?v=nDnXcw\u2026",
+                            "end": 118,
+                            "expanded_url": "https://m.youtube.com/watch?v=nDnXcw6euIE#fauxfullscreen",
+                            "start": 95,
+                            "url": "https://t.co/3heX4oC96f"
+                        }
+                    ]
+                }
+            },
+            "id": "15378447",
+            "location": "S. Florida ",
+            "name": "sailfishgolfer",
+            "public_metrics": {
+                "followers_count": 1250,
+                "following_count": 2082,
+                "listed_count": 3,
+                "tweet_count": 82363
+            },
+            "username": "sailfishgolfer"
+        }
+    ]
+}

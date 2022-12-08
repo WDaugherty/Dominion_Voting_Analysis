@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2015-11-09T21:17:42.000Z",
+            "description": "\u266b Abolitionist \u266b Voluntaryist \u266b Guerrilla Ontologist \u266b",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/AlbertonFreeman",
+                            "end": 23,
+                            "expanded_url": "https://twitter.com/AlbertonFreeman",
+                            "start": 0,
+                            "url": "https://t.co/0g7GiGWmpQ"
+                        }
+                    ]
+                }
+            },
+            "id": "4183149012",
+            "location": "Somalia",
+            "name": "Al Freeman",
+            "public_metrics": {
+                "followers_count": 1364,
+                "following_count": 2506,
+                "listed_count": 28,
+                "tweet_count": 17853
+            },
+            "username": "AlbertonFreeman"
+        }
+    ]
+}

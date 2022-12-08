@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "created_at": "2016-03-27T16:52:19.000Z",
+            "description": "Christian \u271d\ufe0fMom\u2764\ufe0fPro-constitution conservative\ud83c\uddfa\ud83c\uddf8Pro-life #AmericaFirst #MAGA",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 70,
+                            "start": 57,
+                            "tag": "AmericaFirst"
+                        },
+                        {
+                            "end": 76,
+                            "start": 71,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "714132956869222400",
+            "name": "CandyNC\ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 2833,
+                "following_count": 3625,
+                "listed_count": 12,
+                "tweet_count": 97608
+            },
+            "username": "CandyNC608"
+        }
+    ]
+}

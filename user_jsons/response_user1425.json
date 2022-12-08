@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "created_at": "2008-12-12T17:01:46.000Z",
+            "description": "CO2 is *not* the climate control knob.\n\nYouTube: https://t.co/cZUx8q5Apy\nAbout me: https://t.co/ERuquRNOs2",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/channel/UCfZS_\u2026",
+                            "end": 72,
+                            "expanded_url": "https://www.youtube.com/channel/UCfZS_wFmJCXqPr4MYtAIN6w",
+                            "start": 49,
+                            "url": "https://t.co/cZUx8q5Apy"
+                        },
+                        {
+                            "display_url": "tinyurl.com/tan1233",
+                            "end": 106,
+                            "expanded_url": "http://tinyurl.com/tan1233",
+                            "start": 83,
+                            "url": "https://t.co/ERuquRNOs2"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "tomnelson.blogspot.com/2019/06/useful\u2026",
+                            "end": 23,
+                            "expanded_url": "https://tomnelson.blogspot.com/2019/06/useful-notes-for-climate-skeptics.html",
+                            "start": 0,
+                            "url": "https://t.co/PzAdFYPTXu"
+                        }
+                    ]
+                }
+            },
+            "id": "18080108",
+            "name": "Tom Nelson",
+            "public_metrics": {
+                "followers_count": 42236,
+                "following_count": 3858,
+                "listed_count": 602,
+                "tweet_count": 293924
+            },
+            "username": "tan123"
+        }
+    ]
+}

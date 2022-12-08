@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "created_at": "2020-05-09T23:06:08.000Z",
+            "description": "CALLING ALL PATRIOTS! AFTER A 20+ YR INVOLVEMENT IN OUR BATTLE FOR FREEDOM NOW IS OUR TIME! JOIN ME! #PATRIOTsUNITE!#TheBestIsYetToCome \ud83c\uddfa\ud83c\uddf8",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 115,
+                            "start": 101,
+                            "tag": "PATRIOTsUNITE"
+                        },
+                        {
+                            "end": 135,
+                            "start": 116,
+                            "tag": "TheBestIsYetToCome"
+                        }
+                    ]
+                }
+            },
+            "id": "1259258222428422145",
+            "name": "Patriot Rod Steel",
+            "public_metrics": {
+                "followers_count": 19690,
+                "following_count": 106,
+                "listed_count": 23,
+                "tweet_count": 3804
+            },
+            "username": "PatriotRodSteel"
+        }
+    ]
+}

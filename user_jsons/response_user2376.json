@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "created_at": "2011-03-04T22:59:23.000Z",
+            "description": "Author of 4 Christian books, Blessed To Be A Blessing Ministries Please follow our ministry on Facebook & Twitter https://t.co/SkKFHTp5QT\nNew Site",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "TheCitizenJournalist.News",
+                            "end": 137,
+                            "expanded_url": "https://www.TheCitizenJournalist.News",
+                            "start": 114,
+                            "url": "https://t.co/SkKFHTp5QT"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "rumble.com/c/c-363045",
+                            "end": 23,
+                            "expanded_url": "https://rumble.com/c/c-363045",
+                            "start": 0,
+                            "url": "https://t.co/J3WJ19td8G"
+                        }
+                    ]
+                }
+            },
+            "id": "260944087",
+            "location": "Denver, CO",
+            "name": "Gregg Huestis",
+            "public_metrics": {
+                "followers_count": 2682,
+                "following_count": 2347,
+                "listed_count": 40,
+                "tweet_count": 104744
+            },
+            "username": "GreggHuestis67"
+        }
+    ]
+}

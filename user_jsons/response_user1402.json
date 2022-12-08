@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2017-06-03T21:13:03.000Z",
+            "description": "#MAGA IFB Deep in the heart of Texas where we support President Trump and Whataburger!!",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "871112515790360576",
+            "location": "Texas, USA",
+            "name": "Texas Embassy",
+            "public_metrics": {
+                "followers_count": 3791,
+                "following_count": 4532,
+                "listed_count": 0,
+                "tweet_count": 105691
+            },
+            "username": "TX_Embassy"
+        }
+    ]
+}

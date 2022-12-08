@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2014-01-28T17:31:13.000Z",
+            "description": "\ud83d\udc97 GOD~ FAMILY ~COUNTRY\n\n\ud83d\udc97 SNOOPY\n\n\ud83c\uddfa\ud83c\uddf8\u2764MAGA\u2764\ud83c\uddfa\ud83c\uddf8\n\nGardening - Camping, grandkids - photography \n\n#JUSTDRIVE\n#WarRoomPandemic\n#WashingtonState",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 103,
+                            "start": 93,
+                            "tag": "JUSTDRIVE"
+                        },
+                        {
+                            "end": 120,
+                            "start": 104,
+                            "tag": "WarRoomPandemic"
+                        },
+                        {
+                            "end": 137,
+                            "start": 121,
+                            "tag": "WashingtonState"
+                        }
+                    ]
+                }
+            },
+            "id": "2315838763",
+            "location": "Washington, USA",
+            "name": "GRAMMAS_RIGHT",
+            "public_metrics": {
+                "followers_count": 980,
+                "following_count": 4765,
+                "listed_count": 16,
+                "tweet_count": 10189
+            },
+            "username": "RainsHalcom"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2009-05-31T16:09:09.000Z",
+            "description": "Independent ! #WAR ! #tcot #iambreitbart #NeverHillary",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 18,
+                            "start": 14,
+                            "tag": "WAR"
+                        },
+                        {
+                            "end": 26,
+                            "start": 21,
+                            "tag": "tcot"
+                        },
+                        {
+                            "end": 40,
+                            "start": 27,
+                            "tag": "iambreitbart"
+                        },
+                        {
+                            "end": 54,
+                            "start": 41,
+                            "tag": "NeverHillary"
+                        }
+                    ]
+                }
+            },
+            "id": "43708436",
+            "location": "AZ",
+            "name": "JL Manley \u2b50\ufe0f \u2b50\ufe0f \u2b50\ufe0f",
+            "public_metrics": {
+                "followers_count": 581,
+                "following_count": 1228,
+                "listed_count": 5,
+                "tweet_count": 23467
+            },
+            "username": "JlManley"
+        }
+    ]
+}

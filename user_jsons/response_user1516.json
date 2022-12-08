@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "created_at": "2009-02-12T20:42:54.000Z",
+            "description": "Follow at https://t.co/obrjpQYRWN for real-time liberty based news. Also visit https://t.co/5leXf8Kfg9 and https://t.co/CMwrU6Xmiv",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "PhilipDeCarolis.com",
+                            "end": 33,
+                            "expanded_url": "http://www.PhilipDeCarolis.com",
+                            "start": 10,
+                            "url": "https://t.co/obrjpQYRWN"
+                        },
+                        {
+                            "display_url": "gab.ai/PhilDeCarolis",
+                            "end": 102,
+                            "expanded_url": "https://gab.ai/PhilDeCarolis",
+                            "start": 79,
+                            "url": "https://t.co/5leXf8Kfg9"
+                        },
+                        {
+                            "display_url": "truthsocial.com/@PhilDeCarolis",
+                            "end": 130,
+                            "expanded_url": "https://truthsocial.com/@PhilDeCarolis",
+                            "start": 107,
+                            "url": "https://t.co/CMwrU6Xmiv"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "PhilipDeCarolis.com",
+                            "end": 23,
+                            "expanded_url": "http://www.PhilipDeCarolis.com",
+                            "start": 0,
+                            "url": "https://t.co/obrjpQYRWN"
+                        }
+                    ]
+                }
+            },
+            "id": "20715638",
+            "location": "Southern California, U.S.",
+            "name": "Phil De Carolis",
+            "public_metrics": {
+                "followers_count": 3474,
+                "following_count": 38,
+                "listed_count": 1242,
+                "tweet_count": 1700477
+            },
+            "username": "PhilDeCarolis"
+        }
+    ]
+}

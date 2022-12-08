@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "created_at": "2012-08-29T03:47:00.000Z",
+            "description": "#TrumpWon#WomenforTrump\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8#MAGA\ud83e\udd85",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 32,
+                            "start": 27,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "788462102",
+            "name": "sheila covitz\ud83e\udda9\ud83d\udc38\ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 4182,
+                "following_count": 4917,
+                "listed_count": 76,
+                "tweet_count": 227566
+            },
+            "username": "SCovitz"
+        }
+    ]
+}

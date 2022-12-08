@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "created_at": "2010-08-24T12:32:25.000Z",
+            "description": "Unapologetic Southern Conservative. #Prolife  #Pro2amendment #TrumpWon #IstandwithIsrael  #FJB  IFBAP",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 44,
+                            "start": 36,
+                            "tag": "Prolife"
+                        },
+                        {
+                            "end": 60,
+                            "start": 46,
+                            "tag": "Pro2amendment"
+                        },
+                        {
+                            "end": 70,
+                            "start": 61,
+                            "tag": "TrumpWon"
+                        },
+                        {
+                            "end": 88,
+                            "start": 71,
+                            "tag": "IstandwithIsrael"
+                        },
+                        {
+                            "end": 94,
+                            "start": 90,
+                            "tag": "FJB"
+                        }
+                    ]
+                }
+            },
+            "id": "182362719",
+            "location": "South Carolina, USA",
+            "name": "Michael Coker",
+            "public_metrics": {
+                "followers_count": 16946,
+                "following_count": 16404,
+                "listed_count": 47,
+                "tweet_count": 85843
+            },
+            "username": "ccokermn"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "created_at": "2020-07-25T00:18:22.000Z",
+            "description": "Husband. Father. Born Again Christian. Conservative. \nIFB, Pro-Life, #JESUS #MAGA  #AmericaFirst \n#GodBlessOurPolice\n#GodBlessOurMilitary",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 75,
+                            "start": 69,
+                            "tag": "JESUS"
+                        },
+                        {
+                            "end": 81,
+                            "start": 76,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 96,
+                            "start": 83,
+                            "tag": "AmericaFirst"
+                        },
+                        {
+                            "end": 116,
+                            "start": 98,
+                            "tag": "GodBlessOurPolice"
+                        },
+                        {
+                            "end": 137,
+                            "start": 117,
+                            "tag": "GodBlessOurMilitary"
+                        }
+                    ]
+                }
+            },
+            "id": "1286817818948907008",
+            "name": "\u271d\ufe0f Pittsburgh-Buz\ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 32714,
+                "following_count": 21434,
+                "listed_count": 26,
+                "tweet_count": 70052
+            },
+            "username": "Pgh_Buz"
+        }
+    ]
+}

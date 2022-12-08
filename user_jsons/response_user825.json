@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2017-06-12T13:07:00.000Z",
+            "description": "\ud83c\uddfa\ud83c\uddf8 I am not a bot \ud83c\uddfa\ud83c\uddf8 #PATRIOT \ud83c\uddfa\ud83c\uddf8#DEPLORABLE\ud83c\uddfa\ud83c\uddf8#MAGA \ud83c\uddfa\ud83c\uddf8#KAG \ud83d\udeabNO PORN",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 29,
+                            "start": 21,
+                            "tag": "PATRIOT"
+                        },
+                        {
+                            "end": 43,
+                            "start": 32,
+                            "tag": "DEPLORABLE"
+                        },
+                        {
+                            "end": 50,
+                            "start": 45,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 57,
+                            "start": 53,
+                            "tag": "KAG"
+                        }
+                    ]
+                }
+            },
+            "id": "874251688932249601",
+            "location": "North Carolina, USA",
+            "name": "NomadCovfefe",
+            "public_metrics": {
+                "followers_count": 4667,
+                "following_count": 5198,
+                "listed_count": 4,
+                "tweet_count": 261981
+            },
+            "username": "NomadCovfefe"
+        }
+    ]
+}

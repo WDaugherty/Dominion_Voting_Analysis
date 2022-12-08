@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "created_at": "2018-05-02T22:20:31.000Z",
+            "description": "Prof. of Rhetoric.\nRight-wing Op-Eds: https://t.co/dAQjHFOfMt\u2026\nPublication: https://t.co/dgn42mCOGl\nPodcast on higher ed: https://t.co/VnLgBpUoN5",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "muckrack.com/adam-ellwanger",
+                            "end": 61,
+                            "expanded_url": "http://muckrack.com/adam-ellwanger",
+                            "start": 38,
+                            "url": "https://t.co/dAQjHFOfMt"
+                        },
+                        {
+                            "display_url": "peerlessreview.org",
+                            "end": 99,
+                            "expanded_url": "http://peerlessreview.org",
+                            "start": 76,
+                            "url": "https://t.co/dgn42mCOGl"
+                        },
+                        {
+                            "display_url": "peerlessreview.org/podcast",
+                            "end": 145,
+                            "expanded_url": "http://peerlessreview.org/podcast",
+                            "start": 122,
+                            "url": "https://t.co/VnLgBpUoN5"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "uhd.academia.edu/AdamEllwanger",
+                            "end": 23,
+                            "expanded_url": "https://uhd.academia.edu/AdamEllwanger",
+                            "start": 0,
+                            "url": "https://t.co/bJDKbeqTl4"
+                        }
+                    ]
+                }
+            },
+            "id": "991804654991396864",
+            "location": "Houston, TX",
+            "name": "Adam Ellwanger",
+            "public_metrics": {
+                "followers_count": 1330,
+                "following_count": 677,
+                "listed_count": 7,
+                "tweet_count": 11119
+            },
+            "username": "1HereticalTruth"
+        }
+    ]
+}

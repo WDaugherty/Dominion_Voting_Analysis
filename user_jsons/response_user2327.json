@@ -1,0 +1,65 @@
+{
+    "data": [
+        {
+            "created_at": "2019-02-15T09:39:11.000Z",
+            "description": "\u7206\u6599\u9769\u547d\u65b0\u4e2d\u56fd\u8054\u90a6 GETTR https://t.co/awqV3zIk4y GNEWS https://t.co/Ir4OTcB96g Gfashion https://t.co/sW4fWTVjeF Gclub https://t.co/NuDf6925Mv Hdollar Hcoin\uff0chttps://t.co/FhAq8DPogV, \u58a8\u5c14\u672c\u96c5\u5178\u5a1c\u519c\u573ahttps://t.co/3vWzstdiAc",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "gettr.com",
+                            "end": 39,
+                            "expanded_url": "http://gettr.com",
+                            "start": 16,
+                            "url": "https://t.co/awqV3zIk4y"
+                        },
+                        {
+                            "display_url": "gnews.org",
+                            "end": 69,
+                            "expanded_url": "http://gnews.org",
+                            "start": 46,
+                            "url": "https://t.co/Ir4OTcB96g"
+                        },
+                        {
+                            "display_url": "gfashion.com",
+                            "end": 102,
+                            "expanded_url": "http://gfashion.com",
+                            "start": 79,
+                            "url": "https://t.co/sW4fWTVjeF"
+                        },
+                        {
+                            "display_url": "gclubs.com",
+                            "end": 132,
+                            "expanded_url": "http://gclubs.com",
+                            "start": 109,
+                            "url": "https://t.co/NuDf6925Mv"
+                        },
+                        {
+                            "display_url": "himalaya.exchange",
+                            "end": 170,
+                            "expanded_url": "http://himalaya.exchange",
+                            "start": 147,
+                            "url": "https://t.co/FhAq8DPogV"
+                        },
+                        {
+                            "display_url": "discord.gg/dKQ6vFY9Fu",
+                            "end": 203,
+                            "expanded_url": "http://discord.gg/dKQ6vFY9Fu",
+                            "start": 180,
+                            "url": "https://t.co/3vWzstdiAc"
+                        }
+                    ]
+                }
+            },
+            "id": "1096343152812642305",
+            "name": "\u6587\u6a39",
+            "public_metrics": {
+                "followers_count": 69,
+                "following_count": 200,
+                "listed_count": 0,
+                "tweet_count": 13451
+            },
+            "username": "ShashaWei3"
+        }
+    ]
+}

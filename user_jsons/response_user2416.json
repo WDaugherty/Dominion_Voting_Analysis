@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2009-06-11T15:01:15.000Z",
+            "description": "WE HOLD THESE TRUTHS...",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "facebook.com/dave.underwood\u2026",
+                            "end": 23,
+                            "expanded_url": "https://www.facebook.com/dave.underwood3?ref=bookmarks",
+                            "start": 0,
+                            "url": "https://t.co/BLT7P8RhDY"
+                        }
+                    ]
+                }
+            },
+            "id": "46404775",
+            "location": " Quad Cities, USA ",
+            "name": "Dave L Underwood",
+            "public_metrics": {
+                "followers_count": 1031,
+                "following_count": 4516,
+                "listed_count": 21,
+                "tweet_count": 71400
+            },
+            "username": "dave1963x"
+        }
+    ]
+}

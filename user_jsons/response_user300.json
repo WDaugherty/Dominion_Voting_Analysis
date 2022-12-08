@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2012-01-23T01:39:01.000Z",
+            "description": "#TrumpWon\n#FuckJoeBiden\nAMERICA FIRST.\n bring on 2000 MULES sequel, 2000 CRIMINALS.\n#RememberYouOath",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 9,
+                            "start": 0,
+                            "tag": "TrumpWon"
+                        },
+                        {
+                            "end": 23,
+                            "start": 10,
+                            "tag": "FuckJoeBiden"
+                        },
+                        {
+                            "end": 100,
+                            "start": 84,
+                            "tag": "RememberYouOath"
+                        }
+                    ]
+                }
+            },
+            "id": "471586366",
+            "location": "WORLD WIDE.",
+            "name": "Mr.Anderson.",
+            "public_metrics": {
+                "followers_count": 1937,
+                "following_count": 2584,
+                "listed_count": 3,
+                "tweet_count": 18745
+            },
+            "username": "ejander169"
+        }
+    ]
+}

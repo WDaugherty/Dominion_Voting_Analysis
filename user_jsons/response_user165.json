@@ -1,0 +1,55 @@
+{
+    "data": [
+        {
+            "created_at": "2019-02-16T00:57:14.000Z",
+            "description": "Pureblood. No \ud83d\udc89 Retired Chiropractor. Former Medic.  Carnivore. Fossil Fuel Burner. No EV for me. #1A #2A #MAGA #Trump2024",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 101,
+                            "start": 98,
+                            "tag": "1A"
+                        },
+                        {
+                            "end": 105,
+                            "start": 102,
+                            "tag": "2A"
+                        },
+                        {
+                            "end": 111,
+                            "start": 106,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 122,
+                            "start": 112,
+                            "tag": "Trump2024"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "vaxcontrolgroup.com",
+                            "end": 23,
+                            "expanded_url": "https://www.vaxcontrolgroup.com/",
+                            "start": 0,
+                            "url": "https://t.co/Zs1Zb4kjt9"
+                        }
+                    ]
+                }
+            },
+            "id": "1096574186716225536",
+            "location": "Mts of San Bernardino County",
+            "name": "GR Gus \ud83c\uddfa\ud83c\uddf2\ud83c\uddec\ud83c\uddf7",
+            "public_metrics": {
+                "followers_count": 2835,
+                "following_count": 2844,
+                "listed_count": 8,
+                "tweet_count": 105664
+            },
+            "username": "grgpetro"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "created_at": "2016-03-20T00:17:56.000Z",
+            "description": "I \u2764\ufe0f my POTUS!! #MAGA \ud83c\uddfa\ud83c\uddf8 I am ALL Trump, don't follow if you don't feel the same!  I\u2019m just up on Parler, follow me @MaryDavis",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 21,
+                            "start": 16,
+                            "tag": "MAGA"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 126,
+                            "start": 116,
+                            "username": "MaryDavis"
+                        }
+                    ]
+                }
+            },
+            "id": "711345995506778112",
+            "location": "Jackson, TN",
+            "name": "Mary Davis",
+            "public_metrics": {
+                "followers_count": 1272,
+                "following_count": 1802,
+                "listed_count": 18,
+                "tweet_count": 30712
+            },
+            "username": "maddiebutkovich"
+        }
+    ]
+}

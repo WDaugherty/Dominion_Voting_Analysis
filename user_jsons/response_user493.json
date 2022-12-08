@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "created_at": "2009-09-03T02:45:37.000Z",
+            "description": "Public Information Officer. Former TV journalist in PHX, SF, Boise, TX. #Adoption. #FosterCare. @Ch_JesusChrist. BYU football. Dad jokes.",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 81,
+                            "start": 72,
+                            "tag": "Adoption"
+                        },
+                        {
+                            "end": 94,
+                            "start": 83,
+                            "tag": "FosterCare"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 111,
+                            "start": 96,
+                            "username": "Ch_JesusChrist"
+                        }
+                    ]
+                }
+            },
+            "id": "71151969",
+            "location": "Phoenix, AZ",
+            "name": "Spencer Blake",
+            "public_metrics": {
+                "followers_count": 2597,
+                "following_count": 1814,
+                "listed_count": 94,
+                "tweet_count": 15723
+            },
+            "username": "spencerjblake"
+        }
+    ]
+}

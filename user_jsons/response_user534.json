@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "created_at": "2009-06-20T22:58:22.000Z",
+            "description": "#conservative. #Christian, #MAGA, #LetsGoBrandon Irish/Italian, NY native, GA Resident 45yrs, #Smartass. Gab handle @Reene",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 13,
+                            "start": 0,
+                            "tag": "conservative"
+                        },
+                        {
+                            "end": 25,
+                            "start": 15,
+                            "tag": "Christian"
+                        },
+                        {
+                            "end": 32,
+                            "start": 27,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 48,
+                            "start": 34,
+                            "tag": "LetsGoBrandon"
+                        },
+                        {
+                            "end": 103,
+                            "start": 94,
+                            "tag": "Smartass"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 122,
+                            "start": 116,
+                            "username": "Reene"
+                        }
+                    ]
+                }
+            },
+            "id": "49150104",
+            "location": "Georgia, USA",
+            "name": "\ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddea \ud83c\udf40Reene \ud83c\uddee\ud83c\uddf9 \ud83c\udf77\ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 9047,
+                "following_count": 9650,
+                "listed_count": 10,
+                "tweet_count": 29806
+            },
+            "username": "ReallyReene"
+        }
+    ]
+}

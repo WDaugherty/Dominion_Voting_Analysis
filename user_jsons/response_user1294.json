@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2014-05-23T01:06:19.000Z",
+            "description": "Be grateful! Be good to yourself and your family. #ProudAmerican #MAGA #LetsGoBrandon! \ud83d\udeabStay away from Liberals! They are certifiably insane.",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 64,
+                            "start": 50,
+                            "tag": "ProudAmerican"
+                        },
+                        {
+                            "end": 70,
+                            "start": 65,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 85,
+                            "start": 71,
+                            "tag": "LetsGoBrandon"
+                        }
+                    ]
+                }
+            },
+            "id": "2559647343",
+            "location": "USA",
+            "name": "JoJo",
+            "public_metrics": {
+                "followers_count": 3391,
+                "following_count": 2819,
+                "listed_count": 0,
+                "tweet_count": 169171
+            },
+            "username": "NotreDameBaby"
+        }
+    ]
+}

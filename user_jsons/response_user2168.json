@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "created_at": "2020-03-17T13:56:30.000Z",
+            "description": "Navy Seal Vet Nam, Country Western Singer. Reagan man ,mean what I say ,say what I mean. #NRA https://t.co/4TxcVQFNIU",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 93,
+                            "start": 89,
+                            "tag": "NRA"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/watch?v=5FYGot\u2026",
+                            "end": 117,
+                            "expanded_url": "https://www.youtube.com/watch?v=5FYGotFazow&feature=youtu.be",
+                            "start": 94,
+                            "url": "https://t.co/4TxcVQFNIU"
+                        }
+                    ]
+                }
+            },
+            "id": "1239913414027145220",
+            "name": "loveamerica",
+            "public_metrics": {
+                "followers_count": 99,
+                "following_count": 84,
+                "listed_count": 0,
+                "tweet_count": 5181
+            },
+            "username": "MarkEaster14"
+        }
+    ]
+}

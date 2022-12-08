@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2009-03-19T12:25:22.000Z",
+            "description": "Sometimes I just want to give it all up and become a handsome billionaire..  A man of mystery and power, whose power is exceeded only by his mystery.",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "truthsocial.com/@TheRealBuckno\u2026",
+                            "end": 23,
+                            "expanded_url": "https://truthsocial.com/@TheRealBucknorris",
+                            "start": 0,
+                            "url": "https://t.co/lRyMCo08LH"
+                        }
+                    ]
+                }
+            },
+            "id": "25278584",
+            "location": "TN",
+            "name": "Jason",
+            "public_metrics": {
+                "followers_count": 1997,
+                "following_count": 2854,
+                "listed_count": 3,
+                "tweet_count": 23953
+            },
+            "username": "bucknorris"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "created_at": "2010-12-11T03:22:09.000Z",
+            "description": "A senior who's lived a lot, seen a lot & wants America to be Great Again! Trump follower 40+ yrs. live near NYC. #MAGA #KAG Holly2360 on Truth Social",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 118,
+                            "start": 113,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 123,
+                            "start": 119,
+                            "tag": "KAG"
+                        }
+                    ]
+                }
+            },
+            "id": "225253030",
+            "name": "Holly",
+            "public_metrics": {
+                "followers_count": 5183,
+                "following_count": 4921,
+                "listed_count": 8,
+                "tweet_count": 265505
+            },
+            "username": "Holly2360"
+        }
+    ]
+}

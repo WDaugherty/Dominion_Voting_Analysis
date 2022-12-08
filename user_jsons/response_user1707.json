@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "created_at": "2009-04-09T22:16:28.000Z",
+            "description": "Scoppia che la vittoria \u00e8 nostra!!! #Palmeiras",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 46,
+                            "start": 36,
+                            "tag": "Palmeiras"
+                        }
+                    ]
+                }
+            },
+            "id": "30081953",
+            "name": "Thi \u24df",
+            "public_metrics": {
+                "followers_count": 325,
+                "following_count": 721,
+                "listed_count": 2,
+                "tweet_count": 36869
+            },
+            "username": "tmgarcia"
+        }
+    ]
+}

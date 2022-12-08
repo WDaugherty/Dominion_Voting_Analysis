@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2011-08-26T21:49:42.000Z",
+            "description": "PolicyAnalyst+Writer/Musician #Conservative #MAGA #Patriot #DeSantis2024\ud83c\udf93MA PubPolicy BS PoliSci/Econ MI PubAffairs/Eng\u2764Comedy/Bourbon/PitBulls/Data/Crypto/God",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 43,
+                            "start": 30,
+                            "tag": "Conservative"
+                        },
+                        {
+                            "end": 49,
+                            "start": 44,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 58,
+                            "start": 50,
+                            "tag": "Patriot"
+                        },
+                        {
+                            "end": 72,
+                            "start": 59,
+                            "tag": "DeSantis2024"
+                        }
+                    ]
+                }
+            },
+            "id": "362723824",
+            "location": "Chandler, AZ",
+            "name": "David Simon \ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 3978,
+                "following_count": 4533,
+                "listed_count": 3,
+                "tweet_count": 70791
+            },
+            "username": "Senator_Simon"
+        }
+    ]
+}

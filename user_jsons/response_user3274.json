@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2010-09-11T21:42:56.000Z",
+            "description": "USAF veteran\n#magaveteren",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 25,
+                            "start": 13,
+                            "tag": "magaveteren"
+                        }
+                    ]
+                }
+            },
+            "id": "189658296",
+            "location": "Oak Island, NC",
+            "name": "clint reichel",
+            "public_metrics": {
+                "followers_count": 1832,
+                "following_count": 3007,
+                "listed_count": 0,
+                "tweet_count": 41178
+            },
+            "username": "cwr67"
+        }
+    ]
+}

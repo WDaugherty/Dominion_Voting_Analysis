@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "created_at": "2020-06-03T00:18:19.000Z",
+            "description": "Documenting Antifa & the Far Left \n\nSupport (BTC) - 19ZLd4rzjE6vSJh5Z4TyPUPp6jS4QaovWS\n\nGab - https://t.co/4DmUEneWxo\nTelegram - https://t.co/KHIM832wjM",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "gab.com/AntifaWatch2",
+                            "end": 117,
+                            "expanded_url": "http://gab.com/AntifaWatch2",
+                            "start": 94,
+                            "url": "https://t.co/4DmUEneWxo"
+                        },
+                        {
+                            "display_url": "t.me/AntifaWatch2",
+                            "end": 152,
+                            "expanded_url": "http://t.me/AntifaWatch2",
+                            "start": 129,
+                            "url": "https://t.co/KHIM832wjM"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "AntifaWatch.net",
+                            "end": 23,
+                            "expanded_url": "https://AntifaWatch.net",
+                            "start": 0,
+                            "url": "https://t.co/eDiUmxVKgK"
+                        }
+                    ]
+                }
+            },
+            "id": "1267973798625775616",
+            "name": "AntifaWatch",
+            "public_metrics": {
+                "followers_count": 54788,
+                "following_count": 551,
+                "listed_count": 261,
+                "tweet_count": 5774
+            },
+            "username": "AntifaWatch2"
+        }
+    ]
+}

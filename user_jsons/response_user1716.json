@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "created_at": "2009-04-14T16:37:51.000Z",
+            "description": "Editor of The Logical Investor; \nAuthor of The Six Keys To Financial Success & Option Trading Demystified; Financial Newsletter Writer  On Parler @SeanHyman",
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "end": 156,
+                            "start": 146,
+                            "username": "SeanHyman"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "seanhyman.com",
+                            "end": 23,
+                            "expanded_url": "http://www.seanhyman.com",
+                            "start": 0,
+                            "url": "https://t.co/dL1lsHizpZ"
+                        }
+                    ]
+                }
+            },
+            "id": "31162045",
+            "location": "Dallas, TX",
+            "name": "Sean Hyman",
+            "public_metrics": {
+                "followers_count": 4516,
+                "following_count": 1409,
+                "listed_count": 83,
+                "tweet_count": 51394
+            },
+            "username": "Sean_Hyman"
+        }
+    ]
+}

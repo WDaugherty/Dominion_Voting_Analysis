@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2010-01-30T22:10:20.000Z",
+            "description": "Rebellion to tyrants is obedience to God. Love Jesus Love People Love America #MAGA #1A #2A #ProLife\ud83d\udc63\n'Our Beautiful America' artist \ud83c\uddfa\ud83c\uddf8",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 83,
+                            "start": 78,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 87,
+                            "start": 84,
+                            "tag": "1A"
+                        },
+                        {
+                            "end": 91,
+                            "start": 88,
+                            "tag": "2A"
+                        },
+                        {
+                            "end": 100,
+                            "start": 92,
+                            "tag": "ProLife"
+                        }
+                    ]
+                }
+            },
+            "id": "109970591",
+            "location": "Beautiful Missouri, America",
+            "name": "MAGA Republican Trump voter Bridget",
+            "public_metrics": {
+                "followers_count": 1766,
+                "following_count": 2066,
+                "listed_count": 0,
+                "tweet_count": 28956
+            },
+            "username": "Birdie987654321"
+        }
+    ]
+}

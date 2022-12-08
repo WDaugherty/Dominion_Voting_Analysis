@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "created_at": "2009-03-19T11:56:11.000Z",
+            "description": "#TRUMP \u260e\ufe0f  #HerschelWalker #economy #lowertaxes #americanmade #bidenflation #bidenbordercrisis",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 6,
+                            "start": 0,
+                            "tag": "TRUMP"
+                        },
+                        {
+                            "end": 26,
+                            "start": 11,
+                            "tag": "HerschelWalker"
+                        },
+                        {
+                            "end": 35,
+                            "start": 27,
+                            "tag": "economy"
+                        },
+                        {
+                            "end": 47,
+                            "start": 36,
+                            "tag": "lowertaxes"
+                        },
+                        {
+                            "end": 61,
+                            "start": 48,
+                            "tag": "americanmade"
+                        },
+                        {
+                            "end": 75,
+                            "start": 62,
+                            "tag": "bidenflation"
+                        },
+                        {
+                            "end": 94,
+                            "start": 76,
+                            "tag": "bidenbordercrisis"
+                        }
+                    ]
+                }
+            },
+            "id": "25274570",
+            "location": "United States",
+            "name": "\u2671\ud83c\uddfa\ud83c\uddf8\u260e\ufe0fGood to Hear \ud83c\udfdb\ud83c\uddfa\ud83c\uddf8\u2671",
+            "public_metrics": {
+                "followers_count": 8480,
+                "following_count": 9316,
+                "listed_count": 3,
+                "tweet_count": 26891
+            },
+            "username": "goodtohear"
+        }
+    ]
+}

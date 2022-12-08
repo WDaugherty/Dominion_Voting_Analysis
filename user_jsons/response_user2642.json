@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2017-07-25T03:26:29.000Z",
+            "description": "Born in CommieFornia, grew up in Oregon, now live in Nevada.",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "CourageToStand.com",
+                            "end": 23,
+                            "expanded_url": "http://CourageToStand.com",
+                            "start": 0,
+                            "url": "https://t.co/tALZtBsWiJ"
+                        }
+                    ]
+                }
+            },
+            "id": "889688274976907264",
+            "location": "The Biggest Little City, NV",
+            "name": "Est.1964 DitchMcCarthy!",
+            "public_metrics": {
+                "followers_count": 3368,
+                "following_count": 4126,
+                "listed_count": 7,
+                "tweet_count": 180514
+            },
+            "username": "est_1964"
+        }
+    ]
+}

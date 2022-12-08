@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2010-05-01T02:49:41.000Z",
+            "description": "The Green Ripper...  Up like Trump\n#BItcoin",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 43,
+                            "start": 35,
+                            "tag": "BItcoin"
+                        }
+                    ]
+                }
+            },
+            "id": "138943087",
+            "location": "Slip F-18, Bahia Mar",
+            "name": "Travis McGee",
+            "public_metrics": {
+                "followers_count": 4937,
+                "following_count": 3887,
+                "listed_count": 19,
+                "tweet_count": 8098
+            },
+            "username": "azarze"
+        }
+    ]
+}

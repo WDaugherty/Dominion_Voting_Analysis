@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "created_at": "2008-06-04T18:28:04.000Z",
+            "description": "Follower of Jesus Christ, husband, father of 8 (bio, foster, adopt), software engineer, web geek, runner, pianist, blogger. #BidenCheated",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 137,
+                            "start": 124,
+                            "tag": "BidenCheated"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "franzone.com",
+                            "end": 23,
+                            "expanded_url": "http://www.franzone.com",
+                            "start": 0,
+                            "url": "https://t.co/GFktdPwr4m"
+                        }
+                    ]
+                }
+            },
+            "id": "15008417",
+            "location": "Pensacola, FL (USA)",
+            "name": "Jonathan Franzone",
+            "public_metrics": {
+                "followers_count": 3640,
+                "following_count": 4760,
+                "listed_count": 54,
+                "tweet_count": 25134
+            },
+            "username": "franzone"
+        }
+    ]
+}

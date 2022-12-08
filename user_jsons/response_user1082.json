@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "created_at": "2019-02-11T12:18:02.000Z",
+            "description": "Happy,#MAGA,Older than dirt,Loves God,Follows Jesus, and President Trump 2020",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 11,
+                            "start": 6,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "1094933576334872576",
+            "name": "Claudette Crawford",
+            "public_metrics": {
+                "followers_count": 304,
+                "following_count": 147,
+                "listed_count": 0,
+                "tweet_count": 46887
+            },
+            "username": "Claudet25883916"
+        }
+    ]
+}

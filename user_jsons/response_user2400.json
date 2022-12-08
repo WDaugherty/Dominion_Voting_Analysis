@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2010-12-18T21:16:42.000Z",
+            "description": "Guitarist, songwriter, fisherman. Educating liberals and advocating the safety and security of the USA while fishing the NC Outer Banks every chance I get #MAGA",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 160,
+                            "start": 155,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "228143818",
+            "location": "North Carolina, USA",
+            "name": "Paul Mann DJT Supporter to the end! It ain't over!",
+            "public_metrics": {
+                "followers_count": 5834,
+                "following_count": 5993,
+                "listed_count": 9,
+                "tweet_count": 77909
+            },
+            "username": "FishingReelsNC"
+        }
+    ]
+}

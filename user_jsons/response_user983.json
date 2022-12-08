@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2017-01-22T02:49:48.000Z",
+            "description": "Engineer and retired legal administrator in the US Army reserve.  craft distiller followed by @catturd2  He/Hung.   busy creating entropy",
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "end": 103,
+                            "start": 94,
+                            "username": "catturd2"
+                        }
+                    ]
+                }
+            },
+            "id": "822999677448704000",
+            "location": "Prime Material Plane",
+            "name": "CW3 ret Anderson Apprentice Baiter",
+            "public_metrics": {
+                "followers_count": 2782,
+                "following_count": 4885,
+                "listed_count": 0,
+                "tweet_count": 159277
+            },
+            "username": "banjoscrambler"
+        }
+    ]
+}

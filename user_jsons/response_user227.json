@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "created_at": "2020-09-26T14:37:20.000Z",
+            "description": "\u2764\ufe0fLOVE MY PRESIDENT\ud83c\uddfa\ud83c\uddf2 @potus \ud83d\ude4f\ud83c\udf1f#VETS #2A\ud83d\udd2b #ProLife\ud83d\udc76#Constitution\ud83c\uddfa\ud83c\uddf2 #1stResponders\ud83d\ude92\ud83d\ude91\ud83d\ude93 Starting over GRR! twitter sucks\ud83d\udc4e\ud83d\udc4e",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 36,
+                            "start": 31,
+                            "tag": "VETS"
+                        },
+                        {
+                            "end": 40,
+                            "start": 37,
+                            "tag": "2A"
+                        },
+                        {
+                            "end": 50,
+                            "start": 42,
+                            "tag": "ProLife"
+                        },
+                        {
+                            "end": 64,
+                            "start": 51,
+                            "tag": "Constitution"
+                        },
+                        {
+                            "end": 81,
+                            "start": 67,
+                            "tag": "1stResponders"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 28,
+                            "start": 22,
+                            "username": "potus"
+                        }
+                    ]
+                }
+            },
+            "id": "1309864416767139853",
+            "location": "Arizona, USA \ud83c\udf35",
+            "name": "Patriot Mom\u271d\ufe0f",
+            "public_metrics": {
+                "followers_count": 477,
+                "following_count": 0,
+                "listed_count": 0,
+                "tweet_count": 6464
+            },
+            "username": "Patriot76679474"
+        }
+    ]
+}

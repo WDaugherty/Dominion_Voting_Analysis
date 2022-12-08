@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "created_at": "2018-07-01T21:55:52.000Z",
+            "description": "Wild and free happy as can be in Amerika",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "Icandecide.org",
+                            "end": 23,
+                            "expanded_url": "http://Icandecide.org",
+                            "start": 0,
+                            "url": "https://t.co/HBjaCPnQ9z"
+                        }
+                    ]
+                }
+            },
+            "id": "1013541725401255936",
+            "name": "Anna Banana Republic",
+            "public_metrics": {
+                "followers_count": 101,
+                "following_count": 189,
+                "listed_count": 1,
+                "tweet_count": 5565
+            },
+            "username": "Annairvin12"
+        }
+    ]
+}

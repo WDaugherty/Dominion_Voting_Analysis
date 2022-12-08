@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2008-11-22T21:55:29.000Z",
+            "description": "Keeping you up to date with insider politics from the Lone Star State.",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "TexasInsider.org",
+                            "end": 23,
+                            "expanded_url": "http://www.TexasInsider.org",
+                            "start": 0,
+                            "url": "https://t.co/W92Xen6nqP"
+                        }
+                    ]
+                }
+            },
+            "id": "17563655",
+            "location": "Austin, Texas",
+            "name": "Texas Insider",
+            "public_metrics": {
+                "followers_count": 16285,
+                "following_count": 9631,
+                "listed_count": 486,
+                "tweet_count": 60687
+            },
+            "username": "texasinsider"
+        }
+    ]
+}

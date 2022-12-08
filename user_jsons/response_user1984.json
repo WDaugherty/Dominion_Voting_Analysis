@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "created_at": "2013-06-28T19:23:45.000Z",
+            "description": "Dancin' as fast as I can!! , https://t.co/vVKfqCAGhu #careerpublicservants",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 74,
+                            "start": 53,
+                            "tag": "careerpublicservants"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "facebook.com/phurteau",
+                            "end": 52,
+                            "expanded_url": "http://facebook.com/phurteau",
+                            "start": 29,
+                            "url": "https://t.co/vVKfqCAGhu"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "MassCentral.com",
+                            "end": 23,
+                            "expanded_url": "http://www.MassCentral.com",
+                            "start": 0,
+                            "url": "https://t.co/Fxr4Qj8Wy3"
+                        }
+                    ]
+                }
+            },
+            "id": "1553843870",
+            "location": "Winter Haven FLA",
+            "name": "MassCentralMedia",
+            "public_metrics": {
+                "followers_count": 1608,
+                "following_count": 4557,
+                "listed_count": 7,
+                "tweet_count": 78807
+            },
+            "username": "NewsMassCentral"
+        }
+    ]
+}

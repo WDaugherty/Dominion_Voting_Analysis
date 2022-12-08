@@ -1,0 +1,51 @@
+{
+    "data": [
+        {
+            "created_at": "2020-11-12T01:47:08.000Z",
+            "description": "#MAGA #AmericaFirst #DrainTheSwamp Proud dad and papaw. Devoted husband to @Bottymcbotbitch.\n#Trump2020",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 19,
+                            "start": 6,
+                            "tag": "AmericaFirst"
+                        },
+                        {
+                            "end": 34,
+                            "start": 20,
+                            "tag": "DrainTheSwamp"
+                        },
+                        {
+                            "end": 103,
+                            "start": 93,
+                            "tag": "Trump2020"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 91,
+                            "start": 75,
+                            "username": "Bottymcbotbitch"
+                        }
+                    ]
+                }
+            },
+            "id": "1326702923611574272",
+            "location": "Gulf Coast ",
+            "name": "Tim The Patriot",
+            "public_metrics": {
+                "followers_count": 441,
+                "following_count": 584,
+                "listed_count": 0,
+                "tweet_count": 6813
+            },
+            "username": "Tim_12_18_69"
+        }
+    ]
+}

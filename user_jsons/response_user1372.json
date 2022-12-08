@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2017-12-10T20:23:28.000Z",
+            "description": "Freedom. Small government. Fine dining. Intellectual curiosity. Travel. Perpetual education. Animal welfare. #shallow_thoughts",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 126,
+                            "start": 109,
+                            "tag": "shallow_thoughts"
+                        }
+                    ]
+                }
+            },
+            "id": "939953734242598912",
+            "location": "Pittsburgh, PA",
+            "name": "Austere President Elect Eric",
+            "public_metrics": {
+                "followers_count": 712,
+                "following_count": 441,
+                "listed_count": 0,
+                "tweet_count": 26163
+            },
+            "username": "Eccoscott"
+        }
+    ]
+}

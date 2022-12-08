@@ -1,0 +1,65 @@
+{
+    "data": [
+        {
+            "created_at": "2012-01-28T00:10:43.000Z",
+            "description": "#UTRAMAGA NRAlife member,Pro Israel #FairTax ,Politically Incorrect, Va/FL #SpringfieldArmory #DPMS #Smith&Wesson #PugLife @newsmax #AMAC \u271d\ufe0f\ud83c\uddfa\ud83c\uddf8\u2721\ufe0f",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 9,
+                            "start": 0,
+                            "tag": "UTRAMAGA"
+                        },
+                        {
+                            "end": 44,
+                            "start": 36,
+                            "tag": "FairTax"
+                        },
+                        {
+                            "end": 93,
+                            "start": 75,
+                            "tag": "SpringfieldArmory"
+                        },
+                        {
+                            "end": 99,
+                            "start": 94,
+                            "tag": "DPMS"
+                        },
+                        {
+                            "end": 106,
+                            "start": 100,
+                            "tag": "Smith"
+                        },
+                        {
+                            "end": 122,
+                            "start": 114,
+                            "tag": "PugLife"
+                        },
+                        {
+                            "end": 137,
+                            "start": 132,
+                            "tag": "AMAC"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 131,
+                            "start": 123,
+                            "username": "newsmax"
+                        }
+                    ]
+                }
+            },
+            "id": "476296425",
+            "name": "E Minor",
+            "public_metrics": {
+                "followers_count": 1018,
+                "following_count": 1078,
+                "listed_count": 36,
+                "tweet_count": 160251
+            },
+            "username": "flatsgene"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "created_at": "2012-08-13T21:50:25.000Z",
+            "description": "Proud Army Vet...Sports Card Collector Seller .Conservative American. Pro TRUMP...#MAGA #TrumpTrain #BackTheBlue Shop My EBAY Store For Great Finds",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 87,
+                            "start": 82,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 99,
+                            "start": 88,
+                            "tag": "TrumpTrain"
+                        },
+                        {
+                            "end": 112,
+                            "start": 100,
+                            "tag": "BackTheBlue"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "thepickersbarn.com",
+                            "end": 23,
+                            "expanded_url": "http://thepickersbarn.com",
+                            "start": 0,
+                            "url": "https://t.co/4qiz7IgMp1"
+                        }
+                    ]
+                }
+            },
+            "id": "755897108",
+            "location": "Michigan, USA",
+            "name": "\ud83c\uddfa\ud83c\uddf8Proud Vet\ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 1901,
+                "following_count": 2525,
+                "listed_count": 29,
+                "tweet_count": 53472
+            },
+            "username": "BBCARKING"
+        }
+    ]
+}

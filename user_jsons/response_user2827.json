@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "created_at": "2012-02-03T22:14:50.000Z",
+            "description": "Follow patriots who dare to fight liberal lunatics; father, Christian, Silicon Valley, Yale Ph.D., #MAGA #Trump2024",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 104,
+                            "start": 99,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 115,
+                            "start": 105,
+                            "tag": "Trump2024"
+                        }
+                    ]
+                }
+            },
+            "id": "482430558",
+            "location": "California, USA",
+            "name": "SV Conservative",
+            "public_metrics": {
+                "followers_count": 778,
+                "following_count": 1591,
+                "listed_count": 12,
+                "tweet_count": 117777
+            },
+            "username": "game_changer1"
+        }
+    ]
+}

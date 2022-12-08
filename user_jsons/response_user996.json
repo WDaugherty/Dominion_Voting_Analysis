@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2016-12-09T01:50:01.000Z",
+            "description": "#SuperElite follower of Jesus Christ.  Momx3, REP, Cons, pro-life.  Here to support Pres. Trump. Followed by many who believe in God, #MAGA & #KAG! No DMs!",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 11,
+                            "start": 0,
+                            "tag": "SuperElite"
+                        },
+                        {
+                            "end": 139,
+                            "start": 134,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 146,
+                            "start": 142,
+                            "tag": "KAG"
+                        }
+                    ]
+                }
+            },
+            "id": "807039567832449024",
+            "location": "Ave Maria, FL",
+            "name": "ForeverFloridaTrumpSupporter",
+            "public_metrics": {
+                "followers_count": 5646,
+                "following_count": 6565,
+                "listed_count": 6,
+                "tweet_count": 132100
+            },
+            "username": "cyndi_obrion"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2017-03-19T00:16:20.000Z",
+            "description": "Trained and practised as an Architect in Bristol. Later a Gallery proprietor, 4 Christmas Steps, and Jeweller. Then a website designer.",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "AskTheRightQuestion.uk",
+                            "end": 23,
+                            "expanded_url": "http://www.AskTheRightQuestion.uk",
+                            "start": 0,
+                            "url": "https://t.co/Qo5WZPyAmR"
+                        }
+                    ]
+                }
+            },
+            "id": "843254775990829056",
+            "location": "Bristol, England",
+            "name": "Alastair Gill",
+            "public_metrics": {
+                "followers_count": 618,
+                "following_count": 336,
+                "listed_count": 5,
+                "tweet_count": 36798
+            },
+            "username": "AlastairGill3"
+        }
+    ]
+}

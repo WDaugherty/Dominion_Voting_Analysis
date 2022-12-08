@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "created_at": "2019-07-09T20:21:05.000Z",
+            "description": "Mom, wife, sister, daughter, liberty loving American, and Trump supporter. I love freedom and my country! #MAGA  @blueyedlvrgirl on Parler and Gab",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 111,
+                            "start": 106,
+                            "tag": "MAGA"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 128,
+                            "start": 113,
+                            "username": "blueyedlvrgirl"
+                        }
+                    ]
+                }
+            },
+            "id": "1148688546129219586",
+            "location": "Ohio, USA",
+            "name": "Misty",
+            "public_metrics": {
+                "followers_count": 4230,
+                "following_count": 4767,
+                "listed_count": 1,
+                "tweet_count": 127784
+            },
+            "username": "blueyedlvrgirl"
+        }
+    ]
+}

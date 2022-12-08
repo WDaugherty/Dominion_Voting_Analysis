@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2014-01-07T02:31:55.000Z",
+            "description": "Christian\ud83d\ude4fArizonan K.A.G.\ud83c\uddfa\ud83c\uddf8\n#U.S. Marines \n#MAGA  #Blue Lives \ud83d\udc6e #U. S. Navy. \ud83c\udfe5 Nurses",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 30,
+                            "start": 28,
+                            "tag": "U"
+                        },
+                        {
+                            "end": 48,
+                            "start": 43,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 55,
+                            "start": 50,
+                            "tag": "Blue"
+                        },
+                        {
+                            "end": 66,
+                            "start": 64,
+                            "tag": "U"
+                        }
+                    ]
+                }
+            },
+            "id": "2279890250",
+            "location": "Phoenix, AZ",
+            "name": "Shirley_friday \ud83c\uddfa\ud83c\uddf8\ud83d\udcaf",
+            "public_metrics": {
+                "followers_count": 2273,
+                "following_count": 2713,
+                "listed_count": 2,
+                "tweet_count": 78109
+            },
+            "username": "shirley_friday"
+        }
+    ]
+}

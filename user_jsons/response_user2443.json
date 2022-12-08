@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2011-12-24T10:12:17.000Z",
+            "description": "Ph.D. graduate,Economist,Author of many books, executive and ex-executive in big corporations..Born on July 15th.",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "sheonlydancedonce.tateauthor.com",
+                            "end": 22,
+                            "expanded_url": "http://www.sheonlydancedonce.tateauthor.com",
+                            "start": 0,
+                            "url": "http://t.co/qPfZigidOc"
+                        }
+                    ]
+                }
+            },
+            "id": "445382482",
+            "location": "Los Angeles County, California",
+            "name": "Dr.Adel Moufarrej",
+            "public_metrics": {
+                "followers_count": 913,
+                "following_count": 3426,
+                "listed_count": 14,
+                "tweet_count": 13696
+            },
+            "username": "AdelBMoufarrej"
+        }
+    ]
+}

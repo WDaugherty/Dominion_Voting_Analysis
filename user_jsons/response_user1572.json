@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "created_at": "2016-11-29T16:55:09.000Z",
+            "description": "on gettr @bmaat",
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "end": 15,
+                            "start": 9,
+                            "username": "bmaat"
+                        }
+                    ]
+                }
+            },
+            "id": "803643472590868480",
+            "name": "b. maat",
+            "public_metrics": {
+                "followers_count": 940,
+                "following_count": 983,
+                "listed_count": 5,
+                "tweet_count": 137026
+            },
+            "username": "bmaat99"
+        }
+    ]
+}

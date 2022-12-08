@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2017-01-26T03:51:26.000Z",
+            "description": "Mexican by birth, American by the Grace of God. #GuildWars2 fan that loves loud rock music. #DemonHunter #TDWP",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 59,
+                            "start": 48,
+                            "tag": "GuildWars2"
+                        },
+                        {
+                            "end": 104,
+                            "start": 92,
+                            "tag": "DemonHunter"
+                        },
+                        {
+                            "end": 110,
+                            "start": 105,
+                            "tag": "TDWP"
+                        }
+                    ]
+                }
+            },
+            "id": "824464739942203392",
+            "location": "Montana",
+            "name": "President-Elect Carlos a.k.a. ChiCh\u00ed \ud83c\udf2e",
+            "public_metrics": {
+                "followers_count": 1042,
+                "following_count": 1447,
+                "listed_count": 9,
+                "tweet_count": 58897
+            },
+            "username": "PatriotGamer77"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2011-03-01T14:11:01.000Z",
+            "description": "Investment analyst, artist and civil Engineer",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/channel/UCniLh\u2026",
+                            "end": 23,
+                            "expanded_url": "http://youtube.com/channel/UCniLhiQdbLgE4b2vGTI7iSw",
+                            "start": 0,
+                            "url": "https://t.co/iAb612lDlX"
+                        }
+                    ]
+                }
+            },
+            "id": "259265413",
+            "location": "Abuja, Nigeria",
+            "name": "Daniels",
+            "public_metrics": {
+                "followers_count": 1413,
+                "following_count": 0,
+                "listed_count": 1,
+                "tweet_count": 94696
+            },
+            "username": "ChubbyDaniels"
+        }
+    ]
+}

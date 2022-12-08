@@ -1,0 +1,75 @@
+{
+    "data": [
+        {
+            "created_at": "2009-05-28T18:03:34.000Z",
+            "description": "#maga #buildthewall #DeportThemAll #TaxReform  #2ndAmendment  #Conservatives  #TrumpTrain  @realDonaldTrump @NRA #dragonenergy\nYeah I swear..  sorry",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "maga"
+                        },
+                        {
+                            "end": 19,
+                            "start": 6,
+                            "tag": "buildthewall"
+                        },
+                        {
+                            "end": 34,
+                            "start": 20,
+                            "tag": "DeportThemAll"
+                        },
+                        {
+                            "end": 45,
+                            "start": 35,
+                            "tag": "TaxReform"
+                        },
+                        {
+                            "end": 60,
+                            "start": 47,
+                            "tag": "2ndAmendment"
+                        },
+                        {
+                            "end": 76,
+                            "start": 62,
+                            "tag": "Conservatives"
+                        },
+                        {
+                            "end": 89,
+                            "start": 78,
+                            "tag": "TrumpTrain"
+                        },
+                        {
+                            "end": 126,
+                            "start": 113,
+                            "tag": "dragonenergy"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 107,
+                            "start": 91,
+                            "username": "realDonaldTrump"
+                        },
+                        {
+                            "end": 112,
+                            "start": 108,
+                            "username": "NRA"
+                        }
+                    ]
+                }
+            },
+            "id": "43160757",
+            "name": "GAB- @watchinyounow / NUCLEAR MAGA!",
+            "public_metrics": {
+                "followers_count": 8980,
+                "following_count": 9700,
+                "listed_count": 3,
+                "tweet_count": 223095
+            },
+            "username": "wachinunow"
+        }
+    ]
+}

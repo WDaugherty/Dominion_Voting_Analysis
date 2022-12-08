@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "created_at": "2013-09-05T02:24:31.000Z",
+            "description": "#MAGA #Trump #conservative #POTUS #Lockherup#LetsGoBrandon#IFBAP#LetsGoBrandon##FJB",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 12,
+                            "start": 6,
+                            "tag": "Trump"
+                        },
+                        {
+                            "end": 26,
+                            "start": 13,
+                            "tag": "conservative"
+                        },
+                        {
+                            "end": 33,
+                            "start": 27,
+                            "tag": "POTUS"
+                        },
+                        {
+                            "end": 83,
+                            "start": 79,
+                            "tag": "FJB"
+                        }
+                    ]
+                }
+            },
+            "id": "1730577577",
+            "location": "USA",
+            "name": "Lucy Lou",
+            "public_metrics": {
+                "followers_count": 2289,
+                "following_count": 2610,
+                "listed_count": 0,
+                "tweet_count": 25954
+            },
+            "username": "ivy_lucy"
+        }
+    ]
+}

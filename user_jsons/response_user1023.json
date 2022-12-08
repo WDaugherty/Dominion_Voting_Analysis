@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2012-03-18T15:10:40.000Z",
+            "description": "Conservatarian, God, Country, #KAG, NRA. Animal lover. Options Trader. Drummer. Political Junky. Scorpio. Liberals need not apply.",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 34,
+                            "start": 30,
+                            "tag": "KAG"
+                        }
+                    ]
+                }
+            },
+            "id": "528589192",
+            "location": "United States",
+            "name": "John Spano",
+            "public_metrics": {
+                "followers_count": 1300,
+                "following_count": 1254,
+                "listed_count": 3,
+                "tweet_count": 40748
+            },
+            "username": "johnjspano"
+        }
+    ]
+}

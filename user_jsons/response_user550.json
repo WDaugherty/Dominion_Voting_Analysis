@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "created_at": "2015-10-31T23:20:52.000Z",
+            "description": "Stop hatred. Law and order #MAGA Every vote counts- regardless of party affiliation. No voter fraud allowed. Voter ID required. No voting if you are dead.",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 32,
+                            "start": 27,
+                            "tag": "MAGA"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "cmbreen4SOE.com",
+                            "end": 23,
+                            "expanded_url": "http://www.cmbreen4SOE.com",
+                            "start": 0,
+                            "url": "https://t.co/38EHnlfWsj"
+                        }
+                    ]
+                }
+            },
+            "id": "4085864957",
+            "location": "United States",
+            "name": "Republican Dream Team",
+            "public_metrics": {
+                "followers_count": 6608,
+                "following_count": 6960,
+                "listed_count": 44,
+                "tweet_count": 397367
+            },
+            "username": "RDTBook"
+        }
+    ]
+}

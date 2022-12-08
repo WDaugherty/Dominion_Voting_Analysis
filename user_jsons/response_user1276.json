@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "created_at": "2019-12-19T21:58:20.000Z",
+            "description": "I mind my own business, you should try it sometime.#MAGA #cue-anon\ud83c\uddfa\ud83c\uddf8 Parler: @Alleyluyah *No DMs*",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 56,
+                            "start": 51,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 61,
+                            "start": 57,
+                            "tag": "cue"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 88,
+                            "start": 77,
+                            "username": "Alleyluyah"
+                        }
+                    ]
+                }
+            },
+            "id": "1207782202215260161",
+            "location": "Arizona and L.A, USA",
+            "name": "AlleyQuah\ud83e\uddd0",
+            "public_metrics": {
+                "followers_count": 493,
+                "following_count": 772,
+                "listed_count": 0,
+                "tweet_count": 36184
+            },
+            "username": "Alley82555578"
+        }
+    ]
+}

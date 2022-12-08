@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "created_at": "2017-05-31T17:59:27.000Z",
+            "description": "#conservative #MAGA #ProLifeProTrump #patriot #loveRush #NRA SUPPORT OUR MILITARY 100 PERCENT. BORN IN THE REPUBLIC OF CA",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 13,
+                            "start": 0,
+                            "tag": "conservative"
+                        },
+                        {
+                            "end": 19,
+                            "start": 14,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 36,
+                            "start": 20,
+                            "tag": "ProLifeProTrump"
+                        },
+                        {
+                            "end": 45,
+                            "start": 37,
+                            "tag": "patriot"
+                        },
+                        {
+                            "end": 55,
+                            "start": 46,
+                            "tag": "loveRush"
+                        },
+                        {
+                            "end": 60,
+                            "start": 56,
+                            "tag": "NRA"
+                        }
+                    ]
+                }
+            },
+            "id": "869976631280099329",
+            "location": "Michigan, USA",
+            "name": "Paul Witkowski",
+            "public_metrics": {
+                "followers_count": 38178,
+                "following_count": 38939,
+                "listed_count": 2,
+                "tweet_count": 251109
+            },
+            "username": "PauWitkowski"
+        }
+    ]
+}

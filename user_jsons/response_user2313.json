@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "created_at": "2010-11-27T02:11:23.000Z",
+            "description": "Christian, grandmother (birdie), artist, fiscal conservative. Perception is 'Reality'. WE ARE THE MEDIA! https://t.co/xOXURXmksx @sloanranger777 parler @sdixiecotton",
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "end": 144,
+                            "start": 129,
+                            "username": "sloanranger777"
+                        },
+                        {
+                            "end": 165,
+                            "start": 152,
+                            "username": "sdixiecotton"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "gab.com",
+                            "end": 128,
+                            "expanded_url": "http://gab.com",
+                            "start": 105,
+                            "url": "https://t.co/xOXURXmksx"
+                        }
+                    ]
+                }
+            },
+            "id": "220198982",
+            "location": "Louisiana, USA",
+            "name": "Birdie Sloan",
+            "public_metrics": {
+                "followers_count": 455,
+                "following_count": 779,
+                "listed_count": 11,
+                "tweet_count": 8002
+            },
+            "username": "sdixiecotton"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "created_at": "2016-03-07T19:03:14.000Z",
+            "description": "EX-Republican because the establishment is worthless. #conservative #populist #PROLIFE #2A *followed by @shem_infinite \ud83d\ude0d #GoBills CA SUCKS",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 67,
+                            "start": 54,
+                            "tag": "conservative"
+                        },
+                        {
+                            "end": 77,
+                            "start": 68,
+                            "tag": "populist"
+                        },
+                        {
+                            "end": 86,
+                            "start": 78,
+                            "tag": "PROLIFE"
+                        },
+                        {
+                            "end": 90,
+                            "start": 87,
+                            "tag": "2A"
+                        },
+                        {
+                            "end": 129,
+                            "start": 121,
+                            "tag": "GoBills"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 118,
+                            "start": 104,
+                            "username": "shem_infinite"
+                        }
+                    ]
+                }
+            },
+            "id": "706918145215234048",
+            "location": "USA",
+            "name": "Lego REDACTED",
+            "public_metrics": {
+                "followers_count": 3154,
+                "following_count": 2031,
+                "listed_count": 12,
+                "tweet_count": 282985
+            },
+            "username": "BigRfaze"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "created_at": "2017-01-21T04:55:19.000Z",
+            "description": "U.S. Combat Veteran, Proud American, Project Manager, and Freelance Writer. #AmericaFirst #2A #1A \ud83c\uddfa\ud83c\uddf8",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 89,
+                            "start": 76,
+                            "tag": "AmericaFirst"
+                        },
+                        {
+                            "end": 93,
+                            "start": 90,
+                            "tag": "2A"
+                        },
+                        {
+                            "end": 97,
+                            "start": 94,
+                            "tag": "1A"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "jmcgeever.home.blog",
+                            "end": 23,
+                            "expanded_url": "http://jmcgeever.home.blog",
+                            "start": 0,
+                            "url": "https://t.co/ajr0mvUJKq"
+                        }
+                    ]
+                }
+            },
+            "id": "822668876785782789",
+            "location": "Florida, USA",
+            "name": "John McGeever",
+            "public_metrics": {
+                "followers_count": 31072,
+                "following_count": 26998,
+                "listed_count": 13,
+                "tweet_count": 46025
+            },
+            "username": "JohnMcGeever70"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "created_at": "2012-05-20T01:50:09.000Z",
+            "description": "#GodFearing #GODComesFirst #LoveMyFamily  #ILovePresidentTrump #MAGA #TRUMP2020",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 11,
+                            "start": 0,
+                            "tag": "GodFearing"
+                        },
+                        {
+                            "end": 26,
+                            "start": 12,
+                            "tag": "GODComesFirst"
+                        },
+                        {
+                            "end": 40,
+                            "start": 27,
+                            "tag": "LoveMyFamily"
+                        },
+                        {
+                            "end": 62,
+                            "start": 42,
+                            "tag": "ILovePresidentTrump"
+                        },
+                        {
+                            "end": 68,
+                            "start": 63,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 79,
+                            "start": 69,
+                            "tag": "TRUMP2020"
+                        }
+                    ]
+                }
+            },
+            "id": "585270808",
+            "name": "Priscilla Gray",
+            "public_metrics": {
+                "followers_count": 1609,
+                "following_count": 1787,
+                "listed_count": 43,
+                "tweet_count": 88789
+            },
+            "username": "sevenbowls"
+        }
+    ]
+}

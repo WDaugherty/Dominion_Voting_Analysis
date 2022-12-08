@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "created_at": "2012-03-03T17:27:13.000Z",
+            "description": "#NavyVet #UNLVAlum #BroncosCountry #Vegasborn  #Breitbart",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 8,
+                            "start": 0,
+                            "tag": "NavyVet"
+                        },
+                        {
+                            "end": 18,
+                            "start": 9,
+                            "tag": "UNLVAlum"
+                        },
+                        {
+                            "end": 34,
+                            "start": 19,
+                            "tag": "BroncosCountry"
+                        },
+                        {
+                            "end": 45,
+                            "start": 35,
+                            "tag": "Vegasborn"
+                        },
+                        {
+                            "end": 57,
+                            "start": 47,
+                            "tag": "Breitbart"
+                        }
+                    ]
+                }
+            },
+            "id": "513396024",
+            "name": "Rebel in PHX \ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 2028,
+                "following_count": 5005,
+                "listed_count": 15,
+                "tweet_count": 92583
+            },
+            "username": "Rebel_Mike"
+        }
+    ]
+}

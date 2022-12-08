@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2009-02-19T02:05:52.000Z",
+            "description": "Christian, wife, mother, former Field Organizer for Trump 2020 Campaign, and Field Organizer for Kari Lake.",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "donaldjtrump.com",
+                            "end": 23,
+                            "expanded_url": "http://donaldjtrump.com",
+                            "start": 0,
+                            "url": "https://t.co/PwCZWhKRgo"
+                        }
+                    ]
+                }
+            },
+            "id": "21266535",
+            "location": "Phoenix, Arizona",
+            "name": "\u271d\ufe0fGod, Country \ud83c\uddfa\ud83c\uddf8 and Freedom \u2764\ufe0f",
+            "public_metrics": {
+                "followers_count": 377,
+                "following_count": 796,
+                "listed_count": 3,
+                "tweet_count": 7900
+            },
+            "username": "AZTrumpGirl2020"
+        }
+    ]
+}

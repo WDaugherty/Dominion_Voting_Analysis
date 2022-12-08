@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2015-07-25T14:03:03.000Z",
+            "description": "Christian with a potty mouth. JESUS died for our sins. LSU and Bengals fan. A Trucker. MAGA and Patriot. \ud83c\uddfa\ud83c\uddf8 Thanks @elonmusk",
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "end": 124,
+                            "start": 115,
+                            "username": "elonmusk"
+                        }
+                    ]
+                }
+            },
+            "id": "3292807238",
+            "location": "United States",
+            "name": "Steve Smith1776 \ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 5504,
+                "following_count": 5976,
+                "listed_count": 2,
+                "tweet_count": 133628
+            },
+            "username": "Stevesmithereen"
+        }
+    ]
+}

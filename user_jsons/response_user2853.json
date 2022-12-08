@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "created_at": "2011-03-22T17:25:49.000Z",
+            "description": "\ud83c\udf43\ud83c\udf3fMujer de campo \ud83c\udde8\ud83c\uddf1 Patriota y Republicana \ud83c\udf3f\ud83c\udf43 Anticomunista \nPartido Republicano https://t.co/csTfe6YPba\n\n#TEAMSIL",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 114,
+                            "start": 106,
+                            "tag": "TEAMSIL"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/PLRchile",
+                            "end": 104,
+                            "expanded_url": "https://twitter.com/PLRchile",
+                            "start": 81,
+                            "url": "https://t.co/csTfe6YPba"
+                        }
+                    ]
+                }
+            },
+            "id": "270462918",
+            "location": "La Araucan\u00eda, Chile",
+            "name": "Anne la del Sur \ud83c\udde8\ud83c\uddf1",
+            "public_metrics": {
+                "followers_count": 21992,
+                "following_count": 18778,
+                "listed_count": 25,
+                "tweet_count": 152599
+            },
+            "username": "amarielgg"
+        }
+    ]
+}

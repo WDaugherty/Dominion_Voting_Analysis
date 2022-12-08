@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2012-01-21T07:34:42.000Z",
+            "description": "Vintage home goods, scarves, purses, ties & more! Shop Sweetie2Sweetie online Etsy & eBay. Love to find treasures & create~S2S",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "sweetie2sweetie.etsy.com",
+                            "end": 23,
+                            "expanded_url": "http://sweetie2sweetie.etsy.com",
+                            "start": 0,
+                            "url": "https://t.co/9DsvXtglt0"
+                        }
+                    ]
+                }
+            },
+            "id": "470022906",
+            "location": "San Antonio",
+            "name": "Sweetie2Sweetie",
+            "public_metrics": {
+                "followers_count": 539,
+                "following_count": 2330,
+                "listed_count": 13,
+                "tweet_count": 47293
+            },
+            "username": "Sweetie2Sweetie"
+        }
+    ]
+}

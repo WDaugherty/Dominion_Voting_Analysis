@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "created_at": "2020-09-29T02:18:56.000Z",
+            "description": "Your favorite Conservative political commentator. Working to keep you sane on an insane planet. Podcast link below.",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "anchor.fm/lcp",
+                            "end": 23,
+                            "expanded_url": "http://anchor.fm/lcp",
+                            "start": 0,
+                            "url": "https://t.co/PlvH4m9qJt"
+                        }
+                    ]
+                }
+            },
+            "id": "1310765893388046337",
+            "name": "Loose Cannon Politics",
+            "public_metrics": {
+                "followers_count": 21,
+                "following_count": 133,
+                "listed_count": 0,
+                "tweet_count": 4684
+            },
+            "username": "LooseCannonUSA"
+        }
+    ]
+}

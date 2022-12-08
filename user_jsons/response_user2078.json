@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "created_at": "2019-10-29T15:10:02.000Z",
+            "description": "Proud black man. Lift weights and program at @Square. Vancouver, BC is my second home. \ud83c\udfd4 He/Him. Fully vaxxed.",
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "end": 52,
+                            "start": 45,
+                            "username": "Square"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "squareup.com",
+                            "end": 23,
+                            "expanded_url": "http://squareup.com",
+                            "start": 0,
+                            "url": "https://t.co/BcphikCBhI"
+                        }
+                    ]
+                }
+            },
+            "id": "1189197657018945537",
+            "location": "San Francisco, CA",
+            "name": "Denzel Williams",
+            "public_metrics": {
+                "followers_count": 147,
+                "following_count": 100,
+                "listed_count": 1,
+                "tweet_count": 3778
+            },
+            "username": "Denz_Williams02"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2009-03-29T17:47:44.000Z",
+            "description": "Proud American, Believes in the Constitution; America: Land of the Free because of the Brave #Don\u2019tTreadOnMe",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 97,
+                            "start": 93,
+                            "tag": "Don"
+                        }
+                    ]
+                }
+            },
+            "id": "27467088",
+            "location": "Arizona",
+            "name": "mommax5",
+            "public_metrics": {
+                "followers_count": 153,
+                "following_count": 288,
+                "listed_count": 4,
+                "tweet_count": 10200
+            },
+            "username": "Kariandri"
+        }
+    ]
+}

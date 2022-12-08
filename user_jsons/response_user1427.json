@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2020-07-20T22:00:04.000Z",
+            "description": "Work, Gym, Day trade, eat, sleep, repeat. #FAMILY FIRST #TRUMP #USA #In GOD I TRUST",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 49,
+                            "start": 42,
+                            "tag": "FAMILY"
+                        },
+                        {
+                            "end": 62,
+                            "start": 56,
+                            "tag": "TRUMP"
+                        },
+                        {
+                            "end": 67,
+                            "start": 63,
+                            "tag": "USA"
+                        },
+                        {
+                            "end": 71,
+                            "start": 68,
+                            "tag": "In"
+                        }
+                    ]
+                }
+            },
+            "id": "1285333613677088772",
+            "location": "New Jersey, USA",
+            "name": "Chezzz",
+            "public_metrics": {
+                "followers_count": 215,
+                "following_count": 131,
+                "listed_count": 1,
+                "tweet_count": 10439
+            },
+            "username": "Chez617"
+        }
+    ]
+}

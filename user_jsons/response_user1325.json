@@ -1,0 +1,80 @@
+{
+    "data": [
+        {
+            "created_at": "2014-05-19T02:07:52.000Z",
+            "description": "#MAGA #Trump2020 #WalkAway #ArmyForTrump #KAG @realdonaldtrump #DraintheSwamp #BuildTheWall #AmericaFirst #voteBlueoutFOREVER #chinaBIDENrussia #",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 16,
+                            "start": 6,
+                            "tag": "Trump2020"
+                        },
+                        {
+                            "end": 26,
+                            "start": 17,
+                            "tag": "WalkAway"
+                        },
+                        {
+                            "end": 40,
+                            "start": 27,
+                            "tag": "ArmyForTrump"
+                        },
+                        {
+                            "end": 45,
+                            "start": 41,
+                            "tag": "KAG"
+                        },
+                        {
+                            "end": 77,
+                            "start": 63,
+                            "tag": "DraintheSwamp"
+                        },
+                        {
+                            "end": 91,
+                            "start": 78,
+                            "tag": "BuildTheWall"
+                        },
+                        {
+                            "end": 105,
+                            "start": 92,
+                            "tag": "AmericaFirst"
+                        },
+                        {
+                            "end": 125,
+                            "start": 106,
+                            "tag": "voteBlueoutFOREVER"
+                        },
+                        {
+                            "end": 143,
+                            "start": 126,
+                            "tag": "chinaBIDENrussia"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 62,
+                            "start": 46,
+                            "username": "realdonaldtrump"
+                        }
+                    ]
+                }
+            },
+            "id": "2506093578",
+            "name": "VenusRose",
+            "public_metrics": {
+                "followers_count": 1656,
+                "following_count": 2165,
+                "listed_count": 0,
+                "tweet_count": 10457
+            },
+            "username": "venusrose_tx"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2009-03-10T04:24:06.000Z",
+            "description": "L.A. native..Lets do this",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "thereitis.net",
+                            "end": 23,
+                            "expanded_url": "http://www.thereitis.net",
+                            "start": 0,
+                            "url": "https://t.co/RJ0Tx3P4MN"
+                        }
+                    ]
+                }
+            },
+            "id": "23556222",
+            "location": "\u00dcT: 34.03294,-117.924856",
+            "name": "Sonny 1",
+            "public_metrics": {
+                "followers_count": 237,
+                "following_count": 452,
+                "listed_count": 2,
+                "tweet_count": 5197
+            },
+            "username": "toppromoter"
+        }
+    ]
+}

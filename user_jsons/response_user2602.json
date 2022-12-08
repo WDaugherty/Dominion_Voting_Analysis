@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "created_at": "2008-04-27T02:57:59.000Z",
+            "description": "Husband, Daddy of 2 beautiful girls, Christ Follower, Triathlete, Computer Geek, Photographer, Synthetic Photography Enthusiast, www. https://t.co/jsHnqd5KAl",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "viz-it.com",
+                            "end": 157,
+                            "expanded_url": "http://viz-it.com",
+                            "start": 134,
+                            "url": "https://t.co/jsHnqd5KAl"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "end": 21,
+                            "start": 0,
+                            "url": "http://www.viz-it.com"
+                        }
+                    ]
+                }
+            },
+            "id": "14554595",
+            "location": "39.652129,-86.048209",
+            "name": "Scott Davis",
+            "public_metrics": {
+                "followers_count": 521,
+                "following_count": 1591,
+                "listed_count": 16,
+                "tweet_count": 21155
+            },
+            "username": "scotdavis"
+        }
+    ]
+}

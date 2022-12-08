@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "created_at": "2019-01-29T02:34:13.000Z",
+            "description": "#MAGA\nTruth Social: @2000_4Runner",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "MAGA"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 33,
+                            "start": 20,
+                            "username": "2000_4Runner"
+                        }
+                    ]
+                }
+            },
+            "id": "1090075611521941509",
+            "location": "Calgary AB\\Peoria AZ",
+            "name": "Ultra MAGA Jim Lee \ud83c\uddec\ud83c\udde7\ud83c\udde8\ud83c\udde6\ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 4604,
+                "following_count": 5011,
+                "listed_count": 2,
+                "tweet_count": 216708
+            },
+            "username": "2000_4Runner"
+        }
+    ]
+}

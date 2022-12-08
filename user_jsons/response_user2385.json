@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "created_at": "2012-10-24T15:29:55.000Z",
+            "description": "Republic/Freedom/Constitution. Conservative.  #MAGA #CriticalThinking #Discernment #FactsMatter #Truth FindMeOnTruthSocial: MiBellaPJ",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 51,
+                            "start": 46,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 69,
+                            "start": 52,
+                            "tag": "CriticalThinking"
+                        },
+                        {
+                            "end": 82,
+                            "start": 70,
+                            "tag": "Discernment"
+                        },
+                        {
+                            "end": 95,
+                            "start": 83,
+                            "tag": "FactsMatter"
+                        },
+                        {
+                            "end": 102,
+                            "start": 96,
+                            "tag": "Truth"
+                        }
+                    ]
+                }
+            },
+            "id": "902040648",
+            "location": "Texas",
+            "name": "MiBellaPJ",
+            "public_metrics": {
+                "followers_count": 2262,
+                "following_count": 2665,
+                "listed_count": 3,
+                "tweet_count": 37976
+            },
+            "username": "ArtistJohns"
+        }
+    ]
+}

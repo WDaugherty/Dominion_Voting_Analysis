@@ -1,0 +1,87 @@
+{
+    "data": [
+        {
+            "created_at": "2016-09-12T01:00:42.000Z",
+            "description": "Investigative journo, Mg. Ed @redstate. @bualumni #BoyMom #girlgramie #RamsHouse #AlwaysLA #TarHeels #UCLA #GKG #keeppounding RT's aren't endorsements",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 57,
+                            "start": 50,
+                            "tag": "BoyMom"
+                        },
+                        {
+                            "end": 69,
+                            "start": 58,
+                            "tag": "girlgramie"
+                        },
+                        {
+                            "end": 80,
+                            "start": 70,
+                            "tag": "RamsHouse"
+                        },
+                        {
+                            "end": 90,
+                            "start": 81,
+                            "tag": "AlwaysLA"
+                        },
+                        {
+                            "end": 100,
+                            "start": 91,
+                            "tag": "TarHeels"
+                        },
+                        {
+                            "end": 106,
+                            "start": 101,
+                            "tag": "UCLA"
+                        },
+                        {
+                            "end": 111,
+                            "start": 107,
+                            "tag": "GKG"
+                        },
+                        {
+                            "end": 125,
+                            "start": 112,
+                            "tag": "keeppounding"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 38,
+                            "start": 29,
+                            "username": "redstate"
+                        },
+                        {
+                            "end": 49,
+                            "start": 40,
+                            "username": "bualumni"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "Redstate.com/jenvanlaar",
+                            "end": 23,
+                            "expanded_url": "http://Redstate.com/jenvanlaar",
+                            "start": 0,
+                            "url": "https://t.co/tLKgnPhmtS"
+                        }
+                    ]
+                }
+            },
+            "id": "775137023979958272",
+            "location": "Making CA Golden Again",
+            "name": "Jennifer Van Laar",
+            "public_metrics": {
+                "followers_count": 44833,
+                "following_count": 4190,
+                "listed_count": 201,
+                "tweet_count": 89475
+            },
+            "username": "jenvanlaar"
+        }
+    ]
+}

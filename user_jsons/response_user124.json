@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "created_at": "2011-11-23T22:41:37.000Z",
+            "description": "Conservative political junkie. Bitter clinger and proud deplorable. #MAGA",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 73,
+                            "start": 68,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "419890579",
+            "name": "Chad Edwards",
+            "public_metrics": {
+                "followers_count": 408,
+                "following_count": 978,
+                "listed_count": 2,
+                "tweet_count": 16904
+            },
+            "username": "EaglesTTT"
+        }
+    ]
+}

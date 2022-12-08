@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2009-06-12T18:29:34.000Z",
+            "description": "The Austin, Texas News Capital",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "austin-network.com",
+                            "end": 22,
+                            "expanded_url": "http://www.austin-network.com",
+                            "start": 0,
+                            "url": "http://t.co/8yvpYBkOi6"
+                        }
+                    ]
+                }
+            },
+            "id": "46714205",
+            "location": "Austin, Texas",
+            "name": "Austin Network",
+            "public_metrics": {
+                "followers_count": 6904,
+                "following_count": 6835,
+                "listed_count": 203,
+                "tweet_count": 22010
+            },
+            "username": "Austin_Network"
+        }
+    ]
+}

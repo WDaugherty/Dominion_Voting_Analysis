@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2007-07-09T15:22:17.000Z",
+            "description": "#FreeMarkets \n\n#SmallState\n\n#LowTaxation\n\n#FreedomOfTheIndividual",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 12,
+                            "start": 0,
+                            "tag": "FreeMarkets"
+                        },
+                        {
+                            "end": 26,
+                            "start": 15,
+                            "tag": "SmallState"
+                        },
+                        {
+                            "end": 40,
+                            "start": 28,
+                            "tag": "LowTaxation"
+                        },
+                        {
+                            "end": 65,
+                            "start": 42,
+                            "tag": "FreedomOfTheIndividual"
+                        }
+                    ]
+                }
+            },
+            "id": "7349062",
+            "location": "England ",
+            "name": "Richard Calhoun",
+            "public_metrics": {
+                "followers_count": 22318,
+                "following_count": 12077,
+                "listed_count": 0,
+                "tweet_count": 421636
+            },
+            "username": "richardcalhoun"
+        }
+    ]
+}

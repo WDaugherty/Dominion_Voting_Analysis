@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "created_at": "2016-02-15T00:11:25.000Z",
+            "description": "#Gratitude #AllLivesMatter #UltraMAGA \u2665\ufe0f\ud83e\udd0d\ud83d\udda4\ud83c\uddfa\ud83c\uddf8\ud83d\udc99",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 10,
+                            "start": 0,
+                            "tag": "Gratitude"
+                        },
+                        {
+                            "end": 26,
+                            "start": 11,
+                            "tag": "AllLivesMatter"
+                        },
+                        {
+                            "end": 37,
+                            "start": 27,
+                            "tag": "UltraMAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "699023166761336833",
+            "name": "DEMOCRATS ARE CRUSHING MIDDLECLASS ON PURPOSE",
+            "public_metrics": {
+                "followers_count": 1078,
+                "following_count": 5008,
+                "listed_count": 35,
+                "tweet_count": 77596
+            },
+            "username": "rubyshooz8"
+        }
+    ]
+}

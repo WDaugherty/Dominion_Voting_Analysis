@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2007-08-20T13:27:40.000Z",
+            "description": "\u270d\ufe0fAuthor \u2018Stories And Recipes From The Soup Kitchen\u00ae\ufe0f\n\ud83d\ude4fDirector - Gospel Mission\n\ud83e\udef6There is Hope, DM me\n\ud83d\udc47Learn Survival Skills And Get Intel At My Site Below",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "salars.net",
+                            "end": 23,
+                            "expanded_url": "Https://salars.net",
+                            "start": 0,
+                            "url": "https://t.co/4gxjsoDFAx"
+                        }
+                    ]
+                }
+            },
+            "id": "8305632",
+            "location": "Silver City, New Mexico",
+            "name": "Randy Salars",
+            "public_metrics": {
+                "followers_count": 1114,
+                "following_count": 3773,
+                "listed_count": 44,
+                "tweet_count": 9082
+            },
+            "username": "randysalars"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "created_at": "2017-01-04T11:35:57.000Z",
+            "description": "Editor-in-Chief @ValiantNewsLive | Stand firm, and you will win life. Luke 21:19 | Views are correct.",
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "end": 32,
+                            "start": 16,
+                            "username": "ValiantNewsLive"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "valiantnews.com",
+                            "end": 23,
+                            "expanded_url": "http://valiantnews.com",
+                            "start": 0,
+                            "url": "https://t.co/AsbzH9fAT9"
+                        }
+                    ]
+                }
+            },
+            "id": "816609107943845888",
+            "location": "MAGA Country",
+            "name": "Tom Pappert",
+            "public_metrics": {
+                "followers_count": 8272,
+                "following_count": 952,
+                "listed_count": 41,
+                "tweet_count": 19950
+            },
+            "username": "realTomPappert"
+        }
+    ]
+}

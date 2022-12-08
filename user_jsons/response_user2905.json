@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "created_at": "2009-11-19T17:53:44.000Z",
+            "description": "Dad, husband, journalist at @axios Phoenix, veteran Arizona politics reporter, author, history buff, Simpsons fanatic. Send tips to jeremy.duda@axios.com.",
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "end": 34,
+                            "start": 28,
+                            "username": "axios"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "axios.com/local/phoenix",
+                            "end": 23,
+                            "expanded_url": "https://www.axios.com/local/phoenix",
+                            "start": 0,
+                            "url": "https://t.co/ZWflHyCg6J"
+                        }
+                    ]
+                }
+            },
+            "id": "91153898",
+            "location": "Phoenix, AZ",
+            "name": "Jeremy Duda",
+            "public_metrics": {
+                "followers_count": 24448,
+                "following_count": 2896,
+                "listed_count": 537,
+                "tweet_count": 26243
+            },
+            "username": "jeremyduda"
+        }
+    ]
+}

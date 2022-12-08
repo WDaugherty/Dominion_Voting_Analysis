@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "created_at": "2010-12-03T04:44:09.000Z",
+            "description": "Vietnam Vet. Trump supporter fm Day 1. Nationalist/Deplorable.  I follow all patriots. NO DM. IF YOU DON'T SUPPORT TRUMP, DON'T FOLLOW ME. #MAGA/#KAG",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 144,
+                            "start": 139,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 149,
+                            "start": 145,
+                            "tag": "KAG"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/elconejotoo",
+                            "end": 23,
+                            "expanded_url": "https://twitter.com/elconejotoo",
+                            "start": 0,
+                            "url": "https://t.co/INwByf4YKG"
+                        }
+                    ]
+                }
+            },
+            "id": "222352057",
+            "location": "San Bernardino, CA",
+            "name": "conejo coreacotto",
+            "public_metrics": {
+                "followers_count": 2818,
+                "following_count": 2769,
+                "listed_count": 3,
+                "tweet_count": 58157
+            },
+            "username": "elconejotoo"
+        }
+    ]
+}

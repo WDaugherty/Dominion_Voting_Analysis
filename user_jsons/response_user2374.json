@@ -1,0 +1,62 @@
+{
+    "data": [
+        {
+            "created_at": "2017-06-18T17:23:36.000Z",
+            "description": "Holy Spirit filled Christian \ud83c\udf39\ud83c\udf39\ud83c\udf39 #MAGA \u2764\u2764\u2764 LOVE MY GOD \u2764 LOVE MY COUNTRY \ud83c\uddfa\ud83c\uddf8 KDO\ud83d\udc94 #RedPill #Every\ud83d\udc8bbeginsWithQ \u2606\u2606\u2606Quazy\u2606\u2606\u2606 @KaeA1234 parler @KaeA Gab",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 38,
+                            "start": 33,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 89,
+                            "start": 81,
+                            "tag": "RedPill"
+                        },
+                        {
+                            "end": 96,
+                            "start": 90,
+                            "tag": "Every"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 130,
+                            "start": 121,
+                            "username": "KaeA1234"
+                        },
+                        {
+                            "end": 143,
+                            "start": 138,
+                            "username": "KaeA"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "truthsocial.com/@KaeA",
+                            "end": 23,
+                            "expanded_url": "https://truthsocial.com/@KaeA",
+                            "start": 0,
+                            "url": "https://t.co/jl3BZcpQxK"
+                        }
+                    ]
+                }
+            },
+            "id": "876490591101517824",
+            "location": "Arizona ",
+            "name": "TRUMP WON\ud83c\udf4a \ud83d\udc96\ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 4239,
+                "following_count": 4750,
+                "listed_count": 9,
+                "tweet_count": 100433
+            },
+            "username": "KaeAndersen"
+        }
+    ]
+}

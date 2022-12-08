@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "created_at": "2011-02-10T13:53:50.000Z",
+            "description": "\"Leadership and learning are indispensable to each other.\" --John F. Kennedy #KAG #LeadRight #Trump2024 https://t.co/BpwIQCjVYp #MAGAAmerican",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 81,
+                            "start": 77,
+                            "tag": "KAG"
+                        },
+                        {
+                            "end": 92,
+                            "start": 82,
+                            "tag": "LeadRight"
+                        },
+                        {
+                            "end": 103,
+                            "start": 93,
+                            "tag": "Trump2024"
+                        },
+                        {
+                            "end": 141,
+                            "start": 128,
+                            "tag": "MAGAAmerican"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "donaldjtrump.com",
+                            "end": 127,
+                            "expanded_url": "http://donaldjtrump.com",
+                            "start": 104,
+                            "url": "https://t.co/BpwIQCjVYp"
+                        }
+                    ]
+                }
+            },
+            "id": "250131859",
+            "location": "NY ",
+            "name": "Timekeeper",
+            "public_metrics": {
+                "followers_count": 1444,
+                "following_count": 2526,
+                "listed_count": 28,
+                "tweet_count": 52963
+            },
+            "username": "Timekeeper_1776"
+        }
+    ]
+}

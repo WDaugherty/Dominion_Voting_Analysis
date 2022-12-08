@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "created_at": "2014-10-20T22:57:17.000Z",
+            "description": "#FakeNews is real. Was around a lot longer than Trump. Proud Conservative. Reagan Conservative. #MAGA    I Absolutely FBAP",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 9,
+                            "start": 0,
+                            "tag": "FakeNews"
+                        },
+                        {
+                            "end": 101,
+                            "start": 96,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "2868310327",
+            "name": "Ed",
+            "public_metrics": {
+                "followers_count": 2596,
+                "following_count": 2887,
+                "listed_count": 3,
+                "tweet_count": 6715
+            },
+            "username": "edmiller40"
+        }
+    ]
+}

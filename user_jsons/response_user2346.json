@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "created_at": "2015-07-22T23:00:26.000Z",
+            "description": "Wife, Mother, Child of God. Thankful for His calling. Choosing joy amidst the droughts of my desert life. Spending my time on Gab Social @desert_rain_gleniece",
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "end": 158,
+                            "start": 137,
+                            "username": "desert_rain_gleniece"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "desertraingleniece.com",
+                            "end": 23,
+                            "expanded_url": "https://desertraingleniece.com",
+                            "start": 0,
+                            "url": "https://t.co/LFm3Y6WkzO"
+                        }
+                    ]
+                }
+            },
+            "id": "3287982566",
+            "location": "Arizona",
+            "name": "desert.rain.gleniece",
+            "public_metrics": {
+                "followers_count": 706,
+                "following_count": 494,
+                "listed_count": 9,
+                "tweet_count": 8566
+            },
+            "username": "GlenieceL"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "created_at": "2009-06-23T00:24:46.000Z",
+            "description": "Venezolana. Antichavista. La oposici\u00f3n venezolana no me enga\u00f1a m\u00e1s! #VenezuelaLibre",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 83,
+                            "start": 68,
+                            "tag": "VenezuelaLibre"
+                        }
+                    ]
+                }
+            },
+            "id": "49824203",
+            "name": "Chela",
+            "public_metrics": {
+                "followers_count": 2128,
+                "following_count": 4891,
+                "listed_count": 14,
+                "tweet_count": 114525
+            },
+            "username": "chelita12"
+        }
+    ]
+}

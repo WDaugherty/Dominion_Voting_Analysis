@@ -1,0 +1,79 @@
+{
+    "data": [
+        {
+            "created_at": "2009-03-08T18:08:23.000Z",
+            "description": "#MAGA #TRUMP #Christian #USA #AmericaFirst #LoveOurVets #VoterID #DrainTheSwamp #BuildTheWall #KatesWall #EndChainMigration",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 12,
+                            "start": 6,
+                            "tag": "TRUMP"
+                        },
+                        {
+                            "end": 23,
+                            "start": 13,
+                            "tag": "Christian"
+                        },
+                        {
+                            "end": 28,
+                            "start": 24,
+                            "tag": "USA"
+                        },
+                        {
+                            "end": 42,
+                            "start": 29,
+                            "tag": "AmericaFirst"
+                        },
+                        {
+                            "end": 55,
+                            "start": 43,
+                            "tag": "LoveOurVets"
+                        },
+                        {
+                            "end": 64,
+                            "start": 56,
+                            "tag": "VoterID"
+                        },
+                        {
+                            "end": 79,
+                            "start": 65,
+                            "tag": "DrainTheSwamp"
+                        },
+                        {
+                            "end": 93,
+                            "start": 80,
+                            "tag": "BuildTheWall"
+                        },
+                        {
+                            "end": 104,
+                            "start": 94,
+                            "tag": "KatesWall"
+                        },
+                        {
+                            "end": 123,
+                            "start": 105,
+                            "tag": "EndChainMigration"
+                        }
+                    ]
+                }
+            },
+            "id": "23334019",
+            "location": "Ocala FLORIDA USA",
+            "name": "Ocala200",
+            "public_metrics": {
+                "followers_count": 2422,
+                "following_count": 2634,
+                "listed_count": 4,
+                "tweet_count": 23014
+            },
+            "username": "Ocala200"
+        }
+    ]
+}

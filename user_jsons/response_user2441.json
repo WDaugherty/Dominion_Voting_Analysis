@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "created_at": "2010-12-23T01:27:46.000Z",
+            "description": "#Constitutionalist #EagleScout #BlindAthlete #Hamradio Head Researcher for https://t.co/3gXqY73TH6",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 18,
+                            "start": 0,
+                            "tag": "Constitutionalist"
+                        },
+                        {
+                            "end": 30,
+                            "start": 19,
+                            "tag": "EagleScout"
+                        },
+                        {
+                            "end": 44,
+                            "start": 31,
+                            "tag": "BlindAthlete"
+                        },
+                        {
+                            "end": 54,
+                            "start": 45,
+                            "tag": "Hamradio"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "twolifepaths.com",
+                            "end": 98,
+                            "expanded_url": "http://www.twolifepaths.com",
+                            "start": 75,
+                            "url": "https://t.co/3gXqY73TH6"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "facebook.com/BlindAthletesC\u2026",
+                            "end": 23,
+                            "expanded_url": "https://www.facebook.com/BlindAthletesCorner",
+                            "start": 0,
+                            "url": "https://t.co/epWuEGWiKd"
+                        }
+                    ]
+                }
+            },
+            "id": "229675967",
+            "location": "Phoenix Arizona",
+            "name": "Eric Oyen",
+            "public_metrics": {
+                "followers_count": 6269,
+                "following_count": 6615,
+                "listed_count": 23,
+                "tweet_count": 69425
+            },
+            "username": "n7zzt"
+        }
+    ]
+}

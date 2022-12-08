@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2014-02-04T04:25:01.000Z",
+            "description": "Accurate with a 1911 \u24d8Official Sources Dispute This Claim; Blue eyes; Proper manicure; @GeorgiaTech engineer; Univ. of Denver Law; Dad to 2, Husband to 1. \u2629",
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "end": 99,
+                            "start": 87,
+                            "username": "GeorgiaTech"
+                        }
+                    ]
+                }
+            },
+            "id": "2326486153",
+            "location": "Colorado, USA",
+            "name": "D.B. Taylor, now with 16% more Hottentot!",
+            "public_metrics": {
+                "followers_count": 4052,
+                "following_count": 4646,
+                "listed_count": 17,
+                "tweet_count": 294624
+            },
+            "username": "DBTayor"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2017-08-11T01:11:39.000Z",
+            "description": "I'm a \ud83e\udd16 to help you read threads more easily. Reply to any tweet of a thread and mention me with the \"unroll\" keyword and I'll give you a link back \ud83d\ude00",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ThreadReaderApp.com",
+                            "end": 23,
+                            "expanded_url": "https://ThreadReaderApp.com",
+                            "start": 0,
+                            "url": "https://t.co/7Ct2VXMx64"
+                        }
+                    ]
+                }
+            },
+            "id": "895814938995957760",
+            "location": "Wherever threads are written..",
+            "name": "Thread Reader App",
+            "public_metrics": {
+                "followers_count": 614756,
+                "following_count": 1268,
+                "listed_count": 2607,
+                "tweet_count": 3239083
+            },
+            "username": "threadreaderapp"
+        }
+    ]
+}

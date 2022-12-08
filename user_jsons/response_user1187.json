@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "created_at": "2013-12-01T18:47:49.000Z",
+            "description": "Shop owner, opinionated old fart, e-cigarette user,  married 43y #MAGAUSMCVeteran #Vietnam #AlwaysRemember #Landslide2020 #AllLivesMatter",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 81,
+                            "start": 65,
+                            "tag": "MAGAUSMCVeteran"
+                        },
+                        {
+                            "end": 90,
+                            "start": 82,
+                            "tag": "Vietnam"
+                        },
+                        {
+                            "end": 106,
+                            "start": 91,
+                            "tag": "AlwaysRemember"
+                        },
+                        {
+                            "end": 121,
+                            "start": 107,
+                            "tag": "Landslide2020"
+                        },
+                        {
+                            "end": 137,
+                            "start": 122,
+                            "tag": "AllLivesMatter"
+                        }
+                    ]
+                }
+            },
+            "id": "2225415348",
+            "name": "Jack Baxter",
+            "public_metrics": {
+                "followers_count": 2456,
+                "following_count": 2836,
+                "listed_count": 0,
+                "tweet_count": 154056
+            },
+            "username": "NorthOfAtlanta1"
+        }
+    ]
+}

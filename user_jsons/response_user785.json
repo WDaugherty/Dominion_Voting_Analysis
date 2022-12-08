@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "created_at": "2014-03-27T13:09:17.000Z",
+            "description": "Former Dem who saw the light in 2007, conservative who loves the country, #neverademocratagain, #MAGA, Praying for a return to normalcy",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 94,
+                            "start": 74,
+                            "tag": "neverademocratagain"
+                        },
+                        {
+                            "end": 101,
+                            "start": 96,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "2439923991",
+            "name": "Praying for our beloved REPUBLIC",
+            "public_metrics": {
+                "followers_count": 3004,
+                "following_count": 3341,
+                "listed_count": 0,
+                "tweet_count": 26261
+            },
+            "username": "karma41047"
+        }
+    ]
+}

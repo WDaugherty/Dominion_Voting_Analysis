@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "created_at": "2011-01-22T17:06:03.000Z",
+            "description": "~ ProudAmerican! ULTRAMAGA\ud83c\uddfa\ud83c\uddf8#TrumpDay1 \ud83c\uddfa\ud83c\uddf8ProLife \ud83d\ude4f\ud83c\udffbProIsrael \ud83c\uddee\ud83c\uddf1\u271d\ufe0fCreative~Romantic~Writer~EleganceLover ~GodFamilyCountry-First! MamaBear\ud83d\udc95",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 38,
+                            "start": 28,
+                            "tag": "TrumpDay1"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "jacqueline-manos.pixels.com",
+                            "end": 23,
+                            "expanded_url": "http://jacqueline-manos.pixels.com",
+                            "start": 0,
+                            "url": "https://t.co/viNEGLY3R8"
+                        }
+                    ]
+                }
+            },
+            "id": "241592876",
+            "location": "Final approach: Heaven",
+            "name": "Jacqueline Manos - Trump Defender-in-Chief FOREVER",
+            "public_metrics": {
+                "followers_count": 10965,
+                "following_count": 9827,
+                "listed_count": 228,
+                "tweet_count": 262649
+            },
+            "username": "JacquelineManos"
+        }
+    ]
+}

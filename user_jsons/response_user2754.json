@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "created_at": "2019-07-02T15:39:38.000Z",
+            "description": "American Exploration and Mining, LLC. Many of God's gifts are right under our feet, we just have to dig down and within to find them.",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "aemglobalco.com",
+                            "end": 23,
+                            "expanded_url": "https://www.aemglobalco.com",
+                            "start": 0,
+                            "url": "https://t.co/1saygZTPVO"
+                        }
+                    ]
+                }
+            },
+            "id": "1146081000381911041",
+            "name": "aem",
+            "public_metrics": {
+                "followers_count": 32,
+                "following_count": 374,
+                "listed_count": 1,
+                "tweet_count": 10302
+            },
+            "username": "aemglobalco"
+        }
+    ]
+}

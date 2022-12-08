@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "created_at": "2017-01-22T16:37:48.000Z",
+            "description": "#MAGA, Latina, RN, #BackTheBlue,",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 31,
+                            "start": 19,
+                            "tag": "BackTheBlue"
+                        }
+                    ]
+                }
+            },
+            "id": "823208050601267200",
+            "name": "Myopinion",
+            "public_metrics": {
+                "followers_count": 1729,
+                "following_count": 1418,
+                "listed_count": 2,
+                "tweet_count": 115468
+            },
+            "username": "myopinion6810"
+        }
+    ]
+}

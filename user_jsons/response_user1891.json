@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2008-12-12T19:16:37.000Z",
+            "description": "",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "conventionofstates.com",
+                            "end": 23,
+                            "expanded_url": "https://conventionofstates.com/",
+                            "start": 0,
+                            "url": "https://t.co/hwN18cKH7t"
+                        }
+                    ]
+                }
+            },
+            "id": "18083233",
+            "location": "NYC",
+            "name": "NYCnative \ud83d\udc38",
+            "public_metrics": {
+                "followers_count": 194,
+                "following_count": 805,
+                "listed_count": 4,
+                "tweet_count": 17350
+            },
+            "username": "NYCnative"
+        }
+    ]
+}

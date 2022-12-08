@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2008-08-26T18:08:04.000Z",
+            "description": "I read faster than you do. Deal with it.\nMyrmidon, not minion.\nI disavow all spelling/grammar errors. Chubby fingers are my curse.\nEndorsements are not retweets",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "nationalreview.com/2014/07/christ\u2026",
+                            "end": 23,
+                            "expanded_url": "https://www.nationalreview.com/2014/07/christian-genocide-symbolized-one-letter-christine-sis",
+                            "start": 0,
+                            "url": "https://t.co/M1J5dcx4w3"
+                        }
+                    ]
+                }
+            },
+            "id": "16000199",
+            "location": "Teegeeack",
+            "name": "Gerald Dearing \u0646",
+            "public_metrics": {
+                "followers_count": 515,
+                "following_count": 469,
+                "listed_count": 93,
+                "tweet_count": 381670
+            },
+            "username": "nofixedabode"
+        }
+    ]
+}

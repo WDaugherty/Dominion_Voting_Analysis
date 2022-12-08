@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "created_at": "2012-10-05T15:58:35.000Z",
+            "description": "Parents are from South Texas \ud83c\udde8\ud83c\uddf1. #Trump2024 #Trumpwon",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 43,
+                            "start": 33,
+                            "tag": "Trump2024"
+                        },
+                        {
+                            "end": 53,
+                            "start": 44,
+                            "tag": "Trumpwon"
+                        }
+                    ]
+                }
+            },
+            "id": "863268762",
+            "location": "California, USA",
+            "name": "P Trevi\u00f1o. \ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 1474,
+                "following_count": 1976,
+                "listed_count": 6,
+                "tweet_count": 42834
+            },
+            "username": "Pete11211121"
+        }
+    ]
+}

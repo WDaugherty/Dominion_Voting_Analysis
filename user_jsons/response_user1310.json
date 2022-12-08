@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "created_at": "2020-03-17T19:54:42.000Z",
+            "description": "NYT-bestselling author, journalist | My ancestors were Russian Jews, Mexican conversos, indigenous Mexicans and Koreans.  I am them, and they are me.",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "richardpoe.com",
+                            "end": 23,
+                            "expanded_url": "http://www.richardpoe.com",
+                            "start": 0,
+                            "url": "https://t.co/XVUIieWALw"
+                        }
+                    ]
+                }
+            },
+            "id": "1240003184220876801",
+            "name": "Richard Poe \ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 4474,
+                "following_count": 288,
+                "listed_count": 28,
+                "tweet_count": 7625
+            },
+            "username": "RealRichardPoe"
+        }
+    ]
+}

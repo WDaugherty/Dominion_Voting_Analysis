@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "created_at": "2018-03-03T03:18:21.000Z",
+            "description": "conservative #Christian mom, \u2764the USA + our Constitution!  Happily married, proud deplorable, #MAGA, #walkaway, #NRA, #2A4Life, #POTUS45, NO PMs or PORN, thx!",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 23,
+                            "start": 13,
+                            "tag": "Christian"
+                        },
+                        {
+                            "end": 99,
+                            "start": 94,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 110,
+                            "start": 101,
+                            "tag": "walkaway"
+                        },
+                        {
+                            "end": 116,
+                            "start": 112,
+                            "tag": "NRA"
+                        },
+                        {
+                            "end": 126,
+                            "start": 118,
+                            "tag": "2A4Life"
+                        },
+                        {
+                            "end": 136,
+                            "start": 128,
+                            "tag": "POTUS45"
+                        }
+                    ]
+                }
+            },
+            "id": "969773947058376704",
+            "location": "Florida, USA",
+            "name": "Adriane Tinsley",
+            "public_metrics": {
+                "followers_count": 1100,
+                "following_count": 1983,
+                "listed_count": 1,
+                "tweet_count": 25401
+            },
+            "username": "adyt1234"
+        }
+    ]
+}

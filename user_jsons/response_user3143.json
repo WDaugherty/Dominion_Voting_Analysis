@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2010-01-05T00:38:27.000Z",
+            "description": "#MAGA \ud83c\uddfa\ud83c\uddf8Trump Supporter! CA Conservative!God 1ST! Grandma, mother & wife. Love family & friends. PROUD American! God Bless America, my family & friends! 88022",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "101907997",
+            "location": "California, USA",
+            "name": "Judi S",
+            "public_metrics": {
+                "followers_count": 1230,
+                "following_count": 916,
+                "listed_count": 5,
+                "tweet_count": 73311
+            },
+            "username": "Sweetjudii"
+        }
+    ]
+}

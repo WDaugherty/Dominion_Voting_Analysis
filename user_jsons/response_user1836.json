@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2016-10-13T00:46:03.000Z",
+            "description": "",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "factishtruthish.com",
+                            "end": 23,
+                            "expanded_url": "http://factishtruthish.com",
+                            "start": 0,
+                            "url": "https://t.co/RBTpchMCAJ"
+                        }
+                    ]
+                }
+            },
+            "id": "786367359296561152",
+            "location": "United States",
+            "name": "FactishTruthish",
+            "public_metrics": {
+                "followers_count": 75,
+                "following_count": 390,
+                "listed_count": 17,
+                "tweet_count": 37798
+            },
+            "username": "factishtruthish"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2020-04-13T09:01:52.000Z",
+            "description": "Canadian living in the US since 2018. NO DMs",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "tinyurl.com/5b42se67",
+                            "end": 23,
+                            "expanded_url": "https://tinyurl.com/5b42se67",
+                            "start": 0,
+                            "url": "https://t.co/jWFj9ay8wU"
+                        }
+                    ]
+                }
+            },
+            "id": "1249623782651834373",
+            "location": "Indiana, USA",
+            "name": "Krista Terry",
+            "public_metrics": {
+                "followers_count": 2574,
+                "following_count": 2377,
+                "listed_count": 0,
+                "tweet_count": 52582
+            },
+            "username": "kristalynnterry"
+        }
+    ]
+}

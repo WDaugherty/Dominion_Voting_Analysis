@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "created_at": "2012-02-14T22:25:41.000Z",
+            "description": "Jesus is Lord, Conservative, Pro 2nd Amendment, Pro-life, #PresidentTrumpReturn, #MAGA",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 79,
+                            "start": 58,
+                            "tag": "PresidentTrumpReturn"
+                        },
+                        {
+                            "end": 86,
+                            "start": 81,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "492602213",
+            "name": "charlenewells",
+            "public_metrics": {
+                "followers_count": 3730,
+                "following_count": 3268,
+                "listed_count": 32,
+                "tweet_count": 240648
+            },
+            "username": "WellsCharlene"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2015-04-10T21:26:51.000Z",
+            "description": "The day is what you make it! #MAGA #StolenElection #ThePatriotParty",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 34,
+                            "start": 29,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 50,
+                            "start": 35,
+                            "tag": "StolenElection"
+                        },
+                        {
+                            "end": 67,
+                            "start": 51,
+                            "tag": "ThePatriotParty"
+                        }
+                    ]
+                }
+            },
+            "id": "3148606574",
+            "location": "Phoenix",
+            "name": "Michael",
+            "public_metrics": {
+                "followers_count": 636,
+                "following_count": 513,
+                "listed_count": 1,
+                "tweet_count": 9681
+            },
+            "username": "Michael_PhxAZ"
+        }
+    ]
+}

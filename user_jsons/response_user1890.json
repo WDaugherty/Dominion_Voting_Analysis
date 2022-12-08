@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "created_at": "2014-12-04T23:56:19.000Z",
+            "description": "Retired mech. engineer, Christian, conservative, pro-life, constitutional originalist, #NRA, Mopar muscle car lover. #GraveyardCarz fan, #MAGA",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 91,
+                            "start": 87,
+                            "tag": "NRA"
+                        },
+                        {
+                            "end": 131,
+                            "start": 117,
+                            "tag": "GraveyardCarz"
+                        },
+                        {
+                            "end": 142,
+                            "start": 137,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "2919099337",
+            "name": "Roy Parret",
+            "public_metrics": {
+                "followers_count": 378,
+                "following_count": 802,
+                "listed_count": 4,
+                "tweet_count": 29227
+            },
+            "username": "RoyParret"
+        }
+    ]
+}

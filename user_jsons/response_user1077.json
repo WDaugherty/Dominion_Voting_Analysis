@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2012-01-16T05:16:08.000Z",
+            "description": "Life hacker. Cognitive scientist.",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "facebook.com/tommymindtrick",
+                            "end": 23,
+                            "expanded_url": "https://www.facebook.com/tommymindtrick",
+                            "start": 0,
+                            "url": "https://t.co/MuheSfbuSW"
+                        }
+                    ]
+                }
+            },
+            "id": "465278219",
+            "location": "In the Cloud",
+            "name": "Tommy",
+            "public_metrics": {
+                "followers_count": 8022,
+                "following_count": 164,
+                "listed_count": 15,
+                "tweet_count": 1130
+            },
+            "username": "tommymindtrick"
+        }
+    ]
+}

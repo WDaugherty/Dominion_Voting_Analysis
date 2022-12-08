@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2013-06-06T22:05:18.000Z",
+            "description": "conservative, Striving to bring you the finest in Conservative satire and Irony. #GBO #VFL #WAAR #TCOT",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 85,
+                            "start": 81,
+                            "tag": "GBO"
+                        },
+                        {
+                            "end": 90,
+                            "start": 86,
+                            "tag": "VFL"
+                        },
+                        {
+                            "end": 96,
+                            "start": 91,
+                            "tag": "WAAR"
+                        },
+                        {
+                            "end": 102,
+                            "start": 97,
+                            "tag": "TCOT"
+                        }
+                    ]
+                }
+            },
+            "id": "1488864481",
+            "location": "Beijing, People's Republic of China",
+            "name": "Kim Jong Justin",
+            "public_metrics": {
+                "followers_count": 5319,
+                "following_count": 5803,
+                "listed_count": 103,
+                "tweet_count": 411562
+            },
+            "username": "GoVols37872"
+        }
+    ]
+}

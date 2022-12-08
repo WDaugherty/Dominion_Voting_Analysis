@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2009-02-28T16:47:29.000Z",
+            "description": "Proud,Passionate Conservative and Retired Financial Services Exec., married to my best friend, dog lover(Bearded Collies) #TrumpTrain #Deplorable #NRA #MAGA",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 133,
+                            "start": 122,
+                            "tag": "TrumpTrain"
+                        },
+                        {
+                            "end": 145,
+                            "start": 134,
+                            "tag": "Deplorable"
+                        },
+                        {
+                            "end": 150,
+                            "start": 146,
+                            "tag": "NRA"
+                        },
+                        {
+                            "end": 156,
+                            "start": 151,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "22272027",
+            "location": "South Carolina",
+            "name": "Joe McGuinness",
+            "public_metrics": {
+                "followers_count": 1803,
+                "following_count": 2231,
+                "listed_count": 41,
+                "tweet_count": 130892
+            },
+            "username": "joemhhi"
+        }
+    ]
+}

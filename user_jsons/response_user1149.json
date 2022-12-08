@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "created_at": "2013-05-04T11:48:43.000Z",
+            "description": "Conservative Trump-Loving American Woman #MAGA #Trump2024 Gettr-@brittenymichele",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 46,
+                            "start": 41,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 57,
+                            "start": 47,
+                            "tag": "Trump2024"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 80,
+                            "start": 64,
+                            "username": "brittenymichele"
+                        }
+                    ]
+                }
+            },
+            "id": "1402120393",
+            "name": "ULTRA MAGA REPUBLICAN B\ud83c\uddfa\ud83c\uddf2",
+            "public_metrics": {
+                "followers_count": 1715,
+                "following_count": 3405,
+                "listed_count": 3,
+                "tweet_count": 9941
+            },
+            "username": "Britteny3333"
+        }
+    ]
+}

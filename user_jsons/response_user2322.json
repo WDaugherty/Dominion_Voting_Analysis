@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2009-04-01T13:32:10.000Z",
+            "description": "Publisher and creator of senior newspapers and lifestyle publications for over 25 years. Part time trader! MBA. #CONSERVATIVE #PRAY \u2666\ufe0f#GodBlessAmerica \ud83c\uddfa\ud83c\uddf8#KAG",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 125,
+                            "start": 112,
+                            "tag": "CONSERVATIVE"
+                        },
+                        {
+                            "end": 131,
+                            "start": 126,
+                            "tag": "PRAY"
+                        },
+                        {
+                            "end": 150,
+                            "start": 134,
+                            "tag": "GodBlessAmerica"
+                        },
+                        {
+                            "end": 157,
+                            "start": 153,
+                            "tag": "KAG"
+                        }
+                    ]
+                }
+            },
+            "id": "28105461",
+            "location": "Victoria, B.C.",
+            "name": "Lorne Victor\ud83c\udf34\ud83c\udf34\u271d\ufe0f\u2666\ufe0f",
+            "public_metrics": {
+                "followers_count": 4209,
+                "following_count": 4697,
+                "listed_count": 17,
+                "tweet_count": 20299
+            },
+            "username": "lornevic"
+        }
+    ]
+}

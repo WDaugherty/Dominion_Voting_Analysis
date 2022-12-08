@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2018-10-04T04:45:15.000Z",
+            "description": "Love This Country, @MAGA, USN, Oh, well...",
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "end": 24,
+                            "start": 19,
+                            "username": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "1047709208903385088",
+            "location": "Montana, USA",
+            "name": "Grass Range",
+            "public_metrics": {
+                "followers_count": 1344,
+                "following_count": 2409,
+                "listed_count": 3,
+                "tweet_count": 32597
+            },
+            "username": "range_grass"
+        }
+    ]
+}

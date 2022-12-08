@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2009-09-23T03:12:59.000Z",
+            "description": "Donald J. Trump for President 2024 Senior Advisor, Special Assistant to POTUS 45, @newsweek Columnist",
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "end": 91,
+                            "start": 82,
+                            "username": "newsweek"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "BorisEp.com",
+                            "end": 23,
+                            "expanded_url": "https://www.BorisEp.com",
+                            "start": 0,
+                            "url": "https://t.co/llZdMS3rRt"
+                        }
+                    ]
+                }
+            },
+            "id": "76543481",
+            "name": "Boris Epshteyn",
+            "public_metrics": {
+                "followers_count": 131097,
+                "following_count": 1988,
+                "listed_count": 798,
+                "tweet_count": 20702
+            },
+            "username": "BorisEP"
+        }
+    ]
+}

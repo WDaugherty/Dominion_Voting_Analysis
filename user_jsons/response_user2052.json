@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2009-02-01T01:50:40.000Z",
+            "description": "Jesus is King ... love my family and all America loving patriots. #NewCalifornia #FightForTrump #FightLikeAFlynn",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 80,
+                            "start": 66,
+                            "tag": "NewCalifornia"
+                        },
+                        {
+                            "end": 95,
+                            "start": 81,
+                            "tag": "FightForTrump"
+                        },
+                        {
+                            "end": 112,
+                            "start": 96,
+                            "tag": "FightLikeAFlynn"
+                        }
+                    ]
+                }
+            },
+            "id": "19842238",
+            "location": "USA",
+            "name": "ira n hodges :) MAGA",
+            "public_metrics": {
+                "followers_count": 254,
+                "following_count": 1330,
+                "listed_count": 0,
+                "tweet_count": 5048
+            },
+            "username": "ir0ckk"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "created_at": "2010-09-30T23:23:27.000Z",
+            "description": "Proud American #FJB",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 19,
+                            "start": 15,
+                            "tag": "FJB"
+                        }
+                    ]
+                }
+            },
+            "id": "197223732",
+            "name": "Ryan Trotti",
+            "public_metrics": {
+                "followers_count": 953,
+                "following_count": 1023,
+                "listed_count": 18,
+                "tweet_count": 12925
+            },
+            "username": "RyanTrotti"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2011-05-25T15:31:28.000Z",
+            "description": "El miedo es el arma invisible que utiliza el poder para que no te rebeles -Arturo Hern\u00e1ndez. Periodista - IID- La Rep\u00fablica Ec #FreedomForum",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 140,
+                            "start": 127,
+                            "tag": "FreedomForum"
+                        }
+                    ]
+                }
+            },
+            "id": "305058336",
+            "location": "Miami, FL",
+            "name": "Maferegas\ud83d\udc9e\u2694\ufe0f\ud83d\udc8e",
+            "public_metrics": {
+                "followers_count": 10889,
+                "following_count": 4444,
+                "listed_count": 87,
+                "tweet_count": 161557
+            },
+            "username": "maferegas"
+        }
+    ]
+}

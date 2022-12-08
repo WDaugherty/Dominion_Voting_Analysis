@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2017-07-04T05:22:45.000Z",
+            "description": "Put on the full armor of God, so that you can take your stand against the devil\u2019s schemes. Ephesians 6:11 #USMC #Marines #Veterans \ud83d\udc9c",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 111,
+                            "start": 106,
+                            "tag": "USMC"
+                        },
+                        {
+                            "end": 120,
+                            "start": 112,
+                            "tag": "Marines"
+                        },
+                        {
+                            "end": 130,
+                            "start": 121,
+                            "tag": "Veterans"
+                        }
+                    ]
+                }
+            },
+            "id": "882107389998055424",
+            "location": "California, USA",
+            "name": "Spartan 4/1",
+            "public_metrics": {
+                "followers_count": 327,
+                "following_count": 2266,
+                "listed_count": 6,
+                "tweet_count": 34643
+            },
+            "username": "DonaldLutz03"
+        }
+    ]
+}

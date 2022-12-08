@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "created_at": "2016-11-28T19:21:42.000Z",
+            "description": "The Beauties of Social Media are the gorgeous and sexy features of https://t.co/IItkt9KogL in exciting 24/7 music videos and spectacular photo galleries.",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "BikiniStarz.TV",
+                            "end": 90,
+                            "expanded_url": "http://BikiniStarz.TV",
+                            "start": 67,
+                            "url": "https://t.co/IItkt9KogL"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "BikiniStarz.TV",
+                            "end": 23,
+                            "expanded_url": "http://BikiniStarz.TV",
+                            "start": 0,
+                            "url": "https://t.co/IItkt9KogL"
+                        }
+                    ]
+                }
+            },
+            "id": "803317963004645377",
+            "location": "Scottsdale, Arizona",
+            "name": "BikiniStarz TV",
+            "public_metrics": {
+                "followers_count": 257,
+                "following_count": 429,
+                "listed_count": 0,
+                "tweet_count": 2045
+            },
+            "username": "TruthChats"
+        }
+    ]
+}

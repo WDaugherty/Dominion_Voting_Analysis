@@ -1,0 +1,86 @@
+{
+    "data": [
+        {
+            "created_at": "2014-01-07T02:02:15.000Z",
+            "description": "#Army #Veteran #MAGA #2A #TCOT #MolonLabe #Conservative fb @jessiejaneduff @charliekirk11 @natshupe @thedamanifelder @scottpresler",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "Army"
+                        },
+                        {
+                            "end": 14,
+                            "start": 6,
+                            "tag": "Veteran"
+                        },
+                        {
+                            "end": 20,
+                            "start": 15,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 24,
+                            "start": 21,
+                            "tag": "2A"
+                        },
+                        {
+                            "end": 30,
+                            "start": 25,
+                            "tag": "TCOT"
+                        },
+                        {
+                            "end": 41,
+                            "start": 31,
+                            "tag": "MolonLabe"
+                        },
+                        {
+                            "end": 55,
+                            "start": 42,
+                            "tag": "Conservative"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 74,
+                            "start": 59,
+                            "username": "jessiejaneduff"
+                        },
+                        {
+                            "end": 89,
+                            "start": 75,
+                            "username": "charliekirk11"
+                        },
+                        {
+                            "end": 99,
+                            "start": 90,
+                            "username": "natshupe"
+                        },
+                        {
+                            "end": 116,
+                            "start": 100,
+                            "username": "thedamanifelder"
+                        },
+                        {
+                            "end": 130,
+                            "start": 117,
+                            "username": "scottpresler"
+                        }
+                    ]
+                }
+            },
+            "id": "2266168763",
+            "location": "Georgia, USA",
+            "name": "\ud83d\udc60TheConservativePeach\ud83d\udc60",
+            "public_metrics": {
+                "followers_count": 12147,
+                "following_count": 13570,
+                "listed_count": 11,
+                "tweet_count": 109973
+            },
+            "username": "ConservaPeach"
+        }
+    ]
+}

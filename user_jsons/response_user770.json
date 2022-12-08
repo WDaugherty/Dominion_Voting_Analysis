@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2009-07-31T00:31:27.000Z",
+            "description": "California refugee \ud83e\udd74 Florida Free \ud83e\udd17 Pray for America \ud83d\ude4f #MAGA #KAG #Trump2024 #TrumpTheEstablishment All in MAGA",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 60,
+                            "start": 55,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 65,
+                            "start": 61,
+                            "tag": "KAG"
+                        },
+                        {
+                            "end": 76,
+                            "start": 66,
+                            "tag": "Trump2024"
+                        },
+                        {
+                            "end": 99,
+                            "start": 77,
+                            "tag": "TrumpTheEstablishment"
+                        }
+                    ]
+                }
+            },
+            "id": "61643690",
+            "location": "Florida, USA\ud83c\udf34\ud83c\udf0a\u2600\ufe0f",
+            "name": "#1 Election Denier",
+            "public_metrics": {
+                "followers_count": 8262,
+                "following_count": 8458,
+                "listed_count": 10,
+                "tweet_count": 167651
+            },
+            "username": "jamesldewitt"
+        }
+    ]
+}

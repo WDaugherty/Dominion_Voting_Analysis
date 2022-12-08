@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "created_at": "2009-05-05T00:45:52.000Z",
+            "description": "#Don't Lie To Me\nJoin Me On FB https://t.co/NL19zPFrQD\n#StandWithTrump 2024",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 4,
+                            "start": 0,
+                            "tag": "Don"
+                        },
+                        {
+                            "end": 70,
+                            "start": 55,
+                            "tag": "StandWithTrump"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "facebook.com/tony.derose.sr",
+                            "end": 54,
+                            "expanded_url": "http://facebook.com/tony.derose.sr",
+                            "start": 31,
+                            "url": "https://t.co/NL19zPFrQD"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "facebook.com/tony.derose.sr",
+                            "end": 23,
+                            "expanded_url": "http://facebook.com/tony.derose.sr",
+                            "start": 0,
+                            "url": "https://t.co/NL19zPFrQD"
+                        }
+                    ]
+                }
+            },
+            "id": "37810626",
+            "location": "New Richmond, Ohio 45157",
+            "name": "Join Me On FB http://facebook.com/tony.derose.sr",
+            "public_metrics": {
+                "followers_count": 341,
+                "following_count": 840,
+                "listed_count": 3,
+                "tweet_count": 10034
+            },
+            "username": "TonyDeRose928"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2013-01-12T07:47:51.000Z",
+            "description": "Official Twitter Account for Trump-Endorsed Candidate for Arizona Governor. Text KARI to 70789. Find me on TRUTH Social at karilake & FB at TheKariLake.",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "KariLake.com",
+                            "end": 23,
+                            "expanded_url": "http://KariLake.com",
+                            "start": 0,
+                            "url": "https://t.co/EmzgORJKeQ"
+                        }
+                    ]
+                }
+            },
+            "id": "1082197856",
+            "location": "Iowa & Arizona",
+            "name": "Kari Lake",
+            "public_metrics": {
+                "followers_count": 788599,
+                "following_count": 989,
+                "listed_count": 1486,
+                "tweet_count": 24685
+            },
+            "username": "KariLake"
+        }
+    ]
+}

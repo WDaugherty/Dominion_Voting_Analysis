@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2013-01-12T20:58:10.000Z",
+            "description": "Leaving due to lack of free-speech.  I\u2019m going to https://t.co/QRhDrqiH4O I don\u2019t believe the US will be able to have another free election after what has happened. \ud83c\uddfa\ud83c\uddf8",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "gab.com",
+                            "end": 73,
+                            "expanded_url": "http://www.gab.com",
+                            "start": 50,
+                            "url": "https://t.co/QRhDrqiH4O"
+                        }
+                    ]
+                }
+            },
+            "id": "1084114142",
+            "location": "Tennessee, USA",
+            "name": "Brian Johnson",
+            "public_metrics": {
+                "followers_count": 69,
+                "following_count": 101,
+                "listed_count": 3,
+                "tweet_count": 8437
+            },
+            "username": "twolves1"
+        }
+    ]
+}

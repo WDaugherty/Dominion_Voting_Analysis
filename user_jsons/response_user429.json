@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "created_at": "2009-07-17T17:44:54.000Z",
+            "description": "Entrepreneur, Engineer, & Reporter\nHost of the Censorship Report\nBeing Offended \u2260 Moral High Ground \nhttps://t.co/hZMrWgsGXu - https://t.co/MQTbWLqnp7",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "cfsmmedia.com",
+                            "end": 124,
+                            "expanded_url": "http://cfsmmedia.com",
+                            "start": 101,
+                            "url": "https://t.co/hZMrWgsGXu"
+                        },
+                        {
+                            "display_url": "civicplanner.com",
+                            "end": 150,
+                            "expanded_url": "http://civicplanner.com",
+                            "start": 127,
+                            "url": "https://t.co/MQTbWLqnp7"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/c/CFSMmedia",
+                            "end": 23,
+                            "expanded_url": "https://www.youtube.com/c/CFSMmedia",
+                            "start": 0,
+                            "url": "https://t.co/yVnJrMtNnG"
+                        }
+                    ]
+                }
+            },
+            "id": "57705787",
+            "location": "San Diego / Phoenix",
+            "name": "Spencer Mosher",
+            "public_metrics": {
+                "followers_count": 465,
+                "following_count": 2453,
+                "listed_count": 5,
+                "tweet_count": 10898
+            },
+            "username": "SDsmosher"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2015-07-11T06:19:26.000Z",
+            "description": "#ULTRAMAGA  #SaveAmerica #BuildtheWall Love Labs! \u2764\ufe0f #TRUMP2020  Conservative Grandma Ex-Californian",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 10,
+                            "start": 0,
+                            "tag": "ULTRAMAGA"
+                        },
+                        {
+                            "end": 24,
+                            "start": 12,
+                            "tag": "SaveAmerica"
+                        },
+                        {
+                            "end": 38,
+                            "start": 25,
+                            "tag": "BuildtheWall"
+                        },
+                        {
+                            "end": 63,
+                            "start": 53,
+                            "tag": "TRUMP2020"
+                        }
+                    ]
+                }
+            },
+            "id": "3275300660",
+            "location": "Arizona",
+            "name": "\ud83c\uddfa\ud83c\uddf8 Nicole",
+            "public_metrics": {
+                "followers_count": 3685,
+                "following_count": 4220,
+                "listed_count": 3,
+                "tweet_count": 79568
+            },
+            "username": "iloveparis__"
+        }
+    ]
+}

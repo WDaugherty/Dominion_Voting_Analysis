@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2016-09-30T14:04:44.000Z",
+            "description": "Brewery mechanic, husband, dad, outdoor enthusiast, and all around great guy. #freedombeforesafety",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 98,
+                            "start": 78,
+                            "tag": "freedombeforesafety"
+                        }
+                    ]
+                }
+            },
+            "id": "781857313741209600",
+            "location": "Virginia, USA",
+            "name": "Steve Fannin",
+            "public_metrics": {
+                "followers_count": 1438,
+                "following_count": 5004,
+                "listed_count": 3,
+                "tweet_count": 19889
+            },
+            "username": "gfannin70_steve"
+        }
+    ]
+}

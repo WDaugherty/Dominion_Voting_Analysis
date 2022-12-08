@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2012-12-01T23:25:15.000Z",
+            "description": "Made by traders for traders",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "fxbook.org",
+                            "end": 22,
+                            "expanded_url": "http://www.fxbook.org",
+                            "start": 0,
+                            "url": "http://t.co/7j2LhZCIEi"
+                        }
+                    ]
+                }
+            },
+            "id": "983527219",
+            "location": "Estonia",
+            "name": "FxBook",
+            "public_metrics": {
+                "followers_count": 1054,
+                "following_count": 90,
+                "listed_count": 100,
+                "tweet_count": 790349
+            },
+            "username": "FxBookLTTG"
+        }
+    ]
+}

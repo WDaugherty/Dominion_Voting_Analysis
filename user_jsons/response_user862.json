@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2017-06-28T02:52:40.000Z",
+            "description": "Make AMERICA great again!#TRUMP2020 #Free General Flynn #hold the line",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 35,
+                            "start": 25,
+                            "tag": "TRUMP2020"
+                        },
+                        {
+                            "end": 41,
+                            "start": 36,
+                            "tag": "Free"
+                        },
+                        {
+                            "end": 61,
+                            "start": 56,
+                            "tag": "hold"
+                        }
+                    ]
+                }
+            },
+            "id": "879895292132208640",
+            "location": "California, USA",
+            "name": "carl \ud83c\udf4a\ud83c\udf4a\ud83c\udf4a\ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 2977,
+                "following_count": 3070,
+                "listed_count": 0,
+                "tweet_count": 44917
+            },
+            "username": "MDynette"
+        }
+    ]
+}

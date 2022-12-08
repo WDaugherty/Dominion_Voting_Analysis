@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2017-07-03T00:13:57.000Z",
+            "description": "An adorable deplorable. #MAGA I love Jesus my husband my grandbabies and my beautiful daughters. Avid Trump supporter.",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 29,
+                            "start": 24,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "881667292634816512",
+            "location": "Idaho, USA",
+            "name": "Cyndi Shippy",
+            "public_metrics": {
+                "followers_count": 736,
+                "following_count": 1598,
+                "listed_count": 1,
+                "tweet_count": 25270
+            },
+            "username": "CyndiShippy"
+        }
+    ]
+}

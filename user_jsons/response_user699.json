@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "created_at": "2020-09-22T02:43:55.000Z",
+            "description": "https://t.co/27sYFDbATj 1/1 Artist Musician Culture Curator & Creator #Bofa https://t.co/sQNj1hZPTb",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 75,
+                            "start": 70,
+                            "tag": "Bofa"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "bio-pixel.art/digi-pieces-v1\u2026",
+                            "end": 23,
+                            "expanded_url": "https://bio-pixel.art/digi-pieces-v1-by-donnifresher/",
+                            "start": 0,
+                            "url": "https://t.co/27sYFDbATj"
+                        },
+                        {
+                            "display_url": "opensea.io/accounts/Donni\u2026",
+                            "end": 99,
+                            "expanded_url": "https://opensea.io/accounts/Donniefresher",
+                            "start": 76,
+                            "url": "https://t.co/sQNj1hZPTb"
+                        }
+                    ]
+                }
+            },
+            "id": "1308235495923683329",
+            "location": "Texas, USA",
+            "name": "Donnie Fresher",
+            "public_metrics": {
+                "followers_count": 4487,
+                "following_count": 4493,
+                "listed_count": 39,
+                "tweet_count": 39554
+            },
+            "username": "gang_xrp"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "created_at": "2008-09-03T01:20:56.000Z",
+            "description": "Spiritual Pioneer. Director of Mental Health Ministry @KeyMinistry. Author & MBA.",
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "end": 66,
+                            "start": 54,
+                            "username": "KeyMinistry"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "catherineboyle.com",
+                            "end": 23,
+                            "expanded_url": "http://www.catherineboyle.com",
+                            "start": 0,
+                            "url": "https://t.co/2e3u8q37Pr"
+                        }
+                    ]
+                }
+            },
+            "id": "16106210",
+            "location": "Richmond, VA USA",
+            "name": "Catherine Boyle",
+            "public_metrics": {
+                "followers_count": 578,
+                "following_count": 350,
+                "listed_count": 26,
+                "tweet_count": 14889
+            },
+            "username": "CatherineSBoyle"
+        }
+    ]
+}

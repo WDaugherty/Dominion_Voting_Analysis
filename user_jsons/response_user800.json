@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2009-03-13T18:42:06.000Z",
+            "description": "",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "linkedin.com/in/mahendran",
+                            "end": 23,
+                            "expanded_url": "http://www.linkedin.com/in/mahendran",
+                            "start": 0,
+                            "url": "https://t.co/ZdsSwLlgQs"
+                        }
+                    ]
+                }
+            },
+            "id": "24224728",
+            "location": "Dallas, TX",
+            "name": "President Elect - Mahendran Duraisamy",
+            "public_metrics": {
+                "followers_count": 17,
+                "following_count": 173,
+                "listed_count": 0,
+                "tweet_count": 3516
+            },
+            "username": "dmahendran"
+        }
+    ]
+}

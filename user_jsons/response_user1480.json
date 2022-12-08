@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "created_at": "2018-10-20T02:08:52.000Z",
+            "description": "Socrates is a licensed architect, author, public speaker, relationship blogger, partner and father having never anticipated becoming any of these...",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "manningupsmart.com",
+                            "end": 23,
+                            "expanded_url": "http://manningupsmart.com",
+                            "start": 0,
+                            "url": "https://t.co/pIKB8QSHEJ"
+                        }
+                    ]
+                }
+            },
+            "id": "1053468060911370241",
+            "name": "Socrates",
+            "public_metrics": {
+                "followers_count": 1600,
+                "following_count": 265,
+                "listed_count": 8,
+                "tweet_count": 18581
+            },
+            "username": "Manningupsmart"
+        }
+    ]
+}

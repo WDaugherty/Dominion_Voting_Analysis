@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "created_at": "2019-10-18T02:06:37.000Z",
+            "description": "\u201cSearch Warrant\u201d #Crime, #Corruption, #MediaBias on KGRA w/ Veteran Buffalo City Detective, Veteran Canadian-Pacific Police Captain & Veteran NCIS Special Agent",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 23,
+                            "start": 17,
+                            "tag": "Crime"
+                        },
+                        {
+                            "end": 36,
+                            "start": 25,
+                            "tag": "Corruption"
+                        },
+                        {
+                            "end": 48,
+                            "start": 38,
+                            "tag": "MediaBias"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "SearchWarrantPodcast.com",
+                            "end": 23,
+                            "expanded_url": "http://www.SearchWarrantPodcast.com",
+                            "start": 0,
+                            "url": "https://t.co/nIuYC0Qlx3"
+                        }
+                    ]
+                }
+            },
+            "id": "1185014181331951616",
+            "name": "\u201cSearch Warrant\u201d on KGRA",
+            "public_metrics": {
+                "followers_count": 2843,
+                "following_count": 3512,
+                "listed_count": 9,
+                "tweet_count": 96872
+            },
+            "username": "SearchWarrant1"
+        }
+    ]
+}

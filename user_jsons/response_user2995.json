@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2020-06-16T01:00:21.000Z",
+            "description": "I pledge allegiance to the flag of The United Sates of America #MAGA, \ud83c\uddfa\ud83c\uddf8 Defend Police.. Love: my family, friends, animals, nature, yoga.",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 68,
+                            "start": 63,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "1272695316941344770",
+            "location": "New York, NY",
+            "name": "Falcon",
+            "public_metrics": {
+                "followers_count": 1077,
+                "following_count": 1343,
+                "listed_count": 2,
+                "tweet_count": 45056
+            },
+            "username": "24Falcon_"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "created_at": "2012-11-27T15:32:43.000Z",
+            "description": "#Yankees #Lakers #ND #BBN #Conservative. Military Supporter #Deadhead. \u201cMan is not free unless government is limited.\u201d - Ronald Reagan #FreeZeroHedge",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 8,
+                            "start": 0,
+                            "tag": "Yankees"
+                        },
+                        {
+                            "end": 16,
+                            "start": 9,
+                            "tag": "Lakers"
+                        },
+                        {
+                            "end": 20,
+                            "start": 17,
+                            "tag": "ND"
+                        },
+                        {
+                            "end": 25,
+                            "start": 21,
+                            "tag": "BBN"
+                        },
+                        {
+                            "end": 39,
+                            "start": 26,
+                            "tag": "Conservative"
+                        },
+                        {
+                            "end": 69,
+                            "start": 60,
+                            "tag": "Deadhead"
+                        },
+                        {
+                            "end": 149,
+                            "start": 135,
+                            "tag": "FreeZeroHedge"
+                        }
+                    ]
+                }
+            },
+            "id": "974097816",
+            "location": "New Jersey",
+            "name": "Rob G",
+            "public_metrics": {
+                "followers_count": 1794,
+                "following_count": 4993,
+                "listed_count": 47,
+                "tweet_count": 91076
+            },
+            "username": "NYYFan63"
+        }
+    ]
+}

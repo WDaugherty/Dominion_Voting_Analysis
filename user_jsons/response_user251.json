@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2010-01-14T16:01:39.000Z",
+            "description": "National talk show host. Download wherever podcasts are available.",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "docwashburn.com",
+                            "end": 23,
+                            "expanded_url": "http://www.docwashburn.com",
+                            "start": 0,
+                            "url": "https://t.co/cF1pnN0N7w"
+                        }
+                    ]
+                }
+            },
+            "id": "104850722",
+            "location": "United States",
+            "name": "DocWashburn",
+            "public_metrics": {
+                "followers_count": 18612,
+                "following_count": 12620,
+                "listed_count": 307,
+                "tweet_count": 904517
+            },
+            "username": "DocWashburn"
+        }
+    ]
+}

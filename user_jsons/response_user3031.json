@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "created_at": "2012-06-29T01:17:18.000Z",
+            "description": "Author of #NoLoopholes by #tjmason - restoring the Constitution; \nAuthor of Essays@ https://t.co/HGaqE5bpga",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 22,
+                            "start": 10,
+                            "tag": "NoLoopholes"
+                        },
+                        {
+                            "end": 34,
+                            "start": 26,
+                            "tag": "tjmason"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "ncc-1776.org",
+                            "end": 107,
+                            "expanded_url": "http://ncc-1776.org",
+                            "start": 84,
+                            "url": "https://t.co/HGaqE5bpga"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "oneamericanvoice.me",
+                            "end": 22,
+                            "expanded_url": "http://www.oneamericanvoice.me",
+                            "start": 0,
+                            "url": "http://t.co/zQuJoxhrH1"
+                        }
+                    ]
+                }
+            },
+            "id": "621536241",
+            "name": "OneAmericanVoice",
+            "public_metrics": {
+                "followers_count": 452,
+                "following_count": 1158,
+                "listed_count": 10,
+                "tweet_count": 92416
+            },
+            "username": "OneAmericanVoic"
+        }
+    ]
+}

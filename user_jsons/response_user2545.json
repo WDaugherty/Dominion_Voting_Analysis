@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "created_at": "2017-08-30T14:35:16.000Z",
+            "description": "Author - The 7th Property: #Bitcoin and the Monetary Revolution: https://t.co/cFYUl5mHJM CFA | Formerly Private Equity | Real takes on fake markets",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 35,
+                            "start": 27,
+                            "tag": "Bitcoin"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "yakes.io/book/",
+                            "end": 88,
+                            "expanded_url": "http://yakes.io/book/",
+                            "start": 65,
+                            "url": "https://t.co/cFYUl5mHJM"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "yakes.io",
+                            "end": 23,
+                            "expanded_url": "http://yakes.io",
+                            "start": 0,
+                            "url": "https://t.co/moWKuT45WD"
+                        }
+                    ]
+                }
+            },
+            "id": "902902542857854977",
+            "location": "Denver, CO",
+            "name": "Eric Yakes",
+            "public_metrics": {
+                "followers_count": 9951,
+                "following_count": 815,
+                "listed_count": 148,
+                "tweet_count": 7125
+            },
+            "username": "ericyakes"
+        }
+    ]
+}

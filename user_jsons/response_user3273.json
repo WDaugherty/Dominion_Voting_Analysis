@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2011-04-07T14:59:44.000Z",
+            "description": "Pointing out hypocrisy daily.",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "facebook.com/djlegacy2k5",
+                            "end": 23,
+                            "expanded_url": "http://www.facebook.com/djlegacy2k5",
+                            "start": 0,
+                            "url": "https://t.co/DiiUxAjBAn"
+                        }
+                    ]
+                }
+            },
+            "id": "278574818",
+            "location": "Maryland",
+            "name": "Mr. D to the J",
+            "public_metrics": {
+                "followers_count": 19,
+                "following_count": 89,
+                "listed_count": 1,
+                "tweet_count": 1629
+            },
+            "username": "DJLegacy2k11"
+        }
+    ]
+}

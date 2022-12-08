@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2009-03-16T06:15:41.000Z",
+            "description": "Because Democrats can\u2019t even pretend to be normal. Ps 94 #KeepTexasRed #BackTheBlue #DeSantis2024 Virescit Vulnere Virtus",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 70,
+                            "start": 57,
+                            "tag": "KeepTexasRed"
+                        },
+                        {
+                            "end": 83,
+                            "start": 71,
+                            "tag": "BackTheBlue"
+                        },
+                        {
+                            "end": 97,
+                            "start": 84,
+                            "tag": "DeSantis2024"
+                        }
+                    ]
+                }
+            },
+            "id": "24658978",
+            "location": "Texas",
+            "name": "\u201cFortified\u201d not rigged TexasRed",
+            "public_metrics": {
+                "followers_count": 3763,
+                "following_count": 3363,
+                "listed_count": 30,
+                "tweet_count": 175839
+            },
+            "username": "alycialeah"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "created_at": "2015-11-14T02:29:44.000Z",
+            "description": "Proud wife. Mom and Mimi. #MAGAMASSACHUSETTS #NOAMNESTY #TRUMPTRAIN #USA #DRAINTHESWAMP I AM TRUMP ARMY #End DACA\ud83d\udc60 TEXT TRUMP to 88022",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 44,
+                            "start": 26,
+                            "tag": "MAGAMASSACHUSETTS"
+                        },
+                        {
+                            "end": 55,
+                            "start": 45,
+                            "tag": "NOAMNESTY"
+                        },
+                        {
+                            "end": 67,
+                            "start": 56,
+                            "tag": "TRUMPTRAIN"
+                        },
+                        {
+                            "end": 72,
+                            "start": 68,
+                            "tag": "USA"
+                        },
+                        {
+                            "end": 87,
+                            "start": 73,
+                            "tag": "DRAINTHESWAMP"
+                        },
+                        {
+                            "end": 108,
+                            "start": 104,
+                            "tag": "End"
+                        }
+                    ]
+                }
+            },
+            "id": "4183046769",
+            "name": "Mamasmurf1965",
+            "public_metrics": {
+                "followers_count": 2418,
+                "following_count": 3282,
+                "listed_count": 0,
+                "tweet_count": 181972
+            },
+            "username": "mimismurf965"
+        }
+    ]
+}

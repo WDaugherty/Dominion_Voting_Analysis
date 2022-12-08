@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "created_at": "2015-12-09T13:52:58.000Z",
+            "description": "Joined Twitter to Support President Trump #1A #AmericaFirst #MAGA #FakeMedia #TrumpTrain #2A #Israel #Patriots",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 45,
+                            "start": 42,
+                            "tag": "1A"
+                        },
+                        {
+                            "end": 59,
+                            "start": 46,
+                            "tag": "AmericaFirst"
+                        },
+                        {
+                            "end": 65,
+                            "start": 60,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 76,
+                            "start": 66,
+                            "tag": "FakeMedia"
+                        },
+                        {
+                            "end": 88,
+                            "start": 77,
+                            "tag": "TrumpTrain"
+                        },
+                        {
+                            "end": 92,
+                            "start": 89,
+                            "tag": "2A"
+                        },
+                        {
+                            "end": 100,
+                            "start": 93,
+                            "tag": "Israel"
+                        },
+                        {
+                            "end": 110,
+                            "start": 101,
+                            "tag": "Patriots"
+                        }
+                    ]
+                }
+            },
+            "id": "4427177261",
+            "name": "Cynka",
+            "public_metrics": {
+                "followers_count": 3336,
+                "following_count": 4688,
+                "listed_count": 0,
+                "tweet_count": 69623
+            },
+            "username": "cynkading"
+        }
+    ]
+}

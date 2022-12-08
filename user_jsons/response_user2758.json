@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "created_at": "2017-02-19T17:34:00.000Z",
+            "description": "KEEP AMERICA GREAT #MAGA #Trump2020",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 24,
+                            "start": 19,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 35,
+                            "start": 25,
+                            "tag": "Trump2020"
+                        }
+                    ]
+                }
+            },
+            "id": "833369053154521089",
+            "name": "#MAGA",
+            "public_metrics": {
+                "followers_count": 528,
+                "following_count": 697,
+                "listed_count": 0,
+                "tweet_count": 32499
+            },
+            "username": "usarepublicann"
+        }
+    ]
+}

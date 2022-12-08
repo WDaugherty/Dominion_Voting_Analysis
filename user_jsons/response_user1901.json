@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2009-03-17T23:33:36.000Z",
+            "description": "#MAGA, #TRUMP2020, #PROLIFE, #MILWAUKEE TRUMP SUPPORTER! 2 sons, 2 daughters, 3 grandsons, 3 cats \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8 \u2764\ufe0f\u2764\ufe0f",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 17,
+                            "start": 7,
+                            "tag": "TRUMP2020"
+                        },
+                        {
+                            "end": 27,
+                            "start": 19,
+                            "tag": "PROLIFE"
+                        },
+                        {
+                            "end": 39,
+                            "start": 29,
+                            "tag": "MILWAUKEE"
+                        }
+                    ]
+                }
+            },
+            "id": "24981061",
+            "location": "Milwaukee",
+            "name": "beresfsd",
+            "public_metrics": {
+                "followers_count": 2879,
+                "following_count": 3546,
+                "listed_count": 4,
+                "tweet_count": 195046
+            },
+            "username": "beresfsd"
+        }
+    ]
+}

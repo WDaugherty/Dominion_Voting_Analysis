@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2015-06-21T15:18:07.000Z",
+            "description": "Impertinent amoureux de la #France \u00e9ternelle. All tweets my own. RT not endorsement.",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 34,
+                            "start": 27,
+                            "tag": "France"
+                        }
+                    ]
+                }
+            },
+            "id": "3339172629",
+            "location": "France",
+            "name": "Cassandre de France \ud83c\uddeb\ud83c\uddf7\u271d\ufe0f",
+            "public_metrics": {
+                "followers_count": 645,
+                "following_count": 899,
+                "listed_count": 15,
+                "tweet_count": 51531
+            },
+            "username": "Cassandre_de_FR"
+        }
+    ]
+}

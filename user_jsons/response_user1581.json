@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "created_at": "2011-11-21T17:28:57.000Z",
+            "description": "https://t.co/98nZ0axAsJ\n\n\"Some people get rich studying artificial intelligence. Me, I make money studying natural stupidity.\" - Carl Icahn",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "Buildalpha.com",
+                            "end": 23,
+                            "expanded_url": "http://Buildalpha.com",
+                            "start": 0,
+                            "url": "https://t.co/98nZ0axAsJ"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "buildalpha.com",
+                            "end": 23,
+                            "expanded_url": "http://buildalpha.com",
+                            "start": 0,
+                            "url": "https://t.co/IUs1tE7hqz"
+                        }
+                    ]
+                }
+            },
+            "id": "418036639",
+            "location": "Summerland, CA",
+            "name": "Brrrrr Capital",
+            "public_metrics": {
+                "followers_count": 10593,
+                "following_count": 6139,
+                "listed_count": 412,
+                "tweet_count": 35116
+            },
+            "username": "InterestRateArb"
+        }
+    ]
+}

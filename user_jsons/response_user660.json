@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "created_at": "2020-07-31T23:05:06.000Z",
+            "description": "Married, 7 kids, Texas Grown, Colorado Home. FB @scottbaio @waynedupreeshow @catturd2 @jessiejaneduff @monicaonairtalk @kevincorke @ritacosby",
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "end": 58,
+                            "start": 48,
+                            "username": "scottbaio"
+                        },
+                        {
+                            "end": 75,
+                            "start": 59,
+                            "username": "waynedupreeshow"
+                        },
+                        {
+                            "end": 85,
+                            "start": 76,
+                            "username": "catturd2"
+                        },
+                        {
+                            "end": 101,
+                            "start": 86,
+                            "username": "jessiejaneduff"
+                        },
+                        {
+                            "end": 118,
+                            "start": 102,
+                            "username": "monicaonairtalk"
+                        },
+                        {
+                            "end": 130,
+                            "start": 119,
+                            "username": "kevincorke"
+                        },
+                        {
+                            "end": 141,
+                            "start": 131,
+                            "username": "ritacosby"
+                        }
+                    ]
+                }
+            },
+            "id": "1289336257110315009",
+            "name": "Bearded Disciple",
+            "public_metrics": {
+                "followers_count": 38608,
+                "following_count": 33790,
+                "listed_count": 15,
+                "tweet_count": 57831
+            },
+            "username": "DiscipleBearded"
+        }
+    ]
+}

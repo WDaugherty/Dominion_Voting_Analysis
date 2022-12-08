@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2019-06-17T07:33:50.000Z",
+            "description": "\ud83c\udf6fHoney Badger\ud83c\udf6f Human Watching",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtu.be/7FIL75Wjol4",
+                            "end": 23,
+                            "expanded_url": "https://youtu.be/7FIL75Wjol4",
+                            "start": 0,
+                            "url": "https://t.co/q8rF1AZQSO"
+                        }
+                    ]
+                }
+            },
+            "id": "1140522925126279168",
+            "location": "The Burrow",
+            "name": "HoneyBadger\ud83c\udf6f",
+            "public_metrics": {
+                "followers_count": 240,
+                "following_count": 672,
+                "listed_count": 0,
+                "tweet_count": 35265
+            },
+            "username": "NewsCreature"
+        }
+    ]
+}

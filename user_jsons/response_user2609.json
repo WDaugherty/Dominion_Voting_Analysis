@@ -1,0 +1,47 @@
+{
+    "data": [
+        {
+            "created_at": "2013-07-30T21:38:02.000Z",
+            "description": "Executive Director @LibertyIranian, Newsmax Contributor, ZOA Florida Advisory Board Member, Former Republican Congressional Candidate (PA-03) #FloridaMan",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 153,
+                            "start": 142,
+                            "tag": "FloridaMan"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 34,
+                            "start": 19,
+                            "username": "LibertyIranian"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bryaneleib.com",
+                            "end": 23,
+                            "expanded_url": "http://www.bryaneleib.com",
+                            "start": 0,
+                            "url": "https://t.co/dTlBzP07V3"
+                        }
+                    ]
+                }
+            },
+            "id": "1633853574",
+            "location": "Florida \ud83c\uddfa\ud83c\uddf8\ud83c\udf34\ud83d\udc0a",
+            "name": "Bryan E. Leib",
+            "public_metrics": {
+                "followers_count": 6481,
+                "following_count": 3987,
+                "listed_count": 68,
+                "tweet_count": 44825
+            },
+            "username": "BryanLeibFL"
+        }
+    ]
+}

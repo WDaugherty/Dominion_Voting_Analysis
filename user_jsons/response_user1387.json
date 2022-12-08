@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "created_at": "2016-10-10T00:31:13.000Z",
+            "description": "PATRIOT. PROUD AMERICAN. I LOVE CHRIST JESUS! SUPPORT & LOVE @POTUS.  BLESSED TO HAVE BEEN BORN IN THE SOUTH. #MAGA! #KAG!",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 115,
+                            "start": 110,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 121,
+                            "start": 117,
+                            "tag": "KAG"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 67,
+                            "start": 61,
+                            "username": "POTUS"
+                        }
+                    ]
+                }
+            },
+            "id": "785276462173712384",
+            "name": "Cindy Powell",
+            "public_metrics": {
+                "followers_count": 338,
+                "following_count": 390,
+                "listed_count": 1,
+                "tweet_count": 63277
+            },
+            "username": "TDChance1"
+        }
+    ]
+}

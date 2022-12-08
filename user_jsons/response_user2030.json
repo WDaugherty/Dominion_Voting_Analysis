@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2017-03-11T03:49:12.000Z",
+            "description": "ENR was est. to analyze current events, and use historical context so our readership can understand the meaning behind current events & see fact from fiction.",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "evansnewsreport.com",
+                            "end": 23,
+                            "expanded_url": "http://www.evansnewsreport.com",
+                            "start": 0,
+                            "url": "https://t.co/RoQirAl6cK"
+                        }
+                    ]
+                }
+            },
+            "id": "840409243375271936",
+            "location": "Joplin, MO",
+            "name": "breakingnews",
+            "public_metrics": {
+                "followers_count": 3742,
+                "following_count": 4592,
+                "listed_count": 6,
+                "tweet_count": 16018
+            },
+            "username": "evansnewsreport"
+        }
+    ]
+}

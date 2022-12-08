@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "created_at": "2018-11-29T23:07:37.000Z",
+            "description": "#MAGA #KAG2020 #USMC #WalkAway",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 14,
+                            "start": 6,
+                            "tag": "KAG2020"
+                        },
+                        {
+                            "end": 20,
+                            "start": 15,
+                            "tag": "USMC"
+                        },
+                        {
+                            "end": 30,
+                            "start": 21,
+                            "tag": "WalkAway"
+                        }
+                    ]
+                }
+            },
+            "id": "1068280348620939264",
+            "name": "MOS5811",
+            "public_metrics": {
+                "followers_count": 4808,
+                "following_count": 4895,
+                "listed_count": 4,
+                "tweet_count": 70642
+            },
+            "username": "MOS58111"
+        }
+    ]
+}

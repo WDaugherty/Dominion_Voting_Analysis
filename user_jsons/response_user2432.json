@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "created_at": "2018-09-17T05:25:07.000Z",
+            "description": "",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "wjassembly.net",
+                            "end": 23,
+                            "expanded_url": "http://www.wjassembly.net",
+                            "start": 0,
+                            "url": "https://t.co/AtzYfTuCxx"
+                        }
+                    ]
+                }
+            },
+            "id": "1041558645358514176",
+            "name": "wjassembly",
+            "public_metrics": {
+                "followers_count": 45,
+                "following_count": 39,
+                "listed_count": 1,
+                "tweet_count": 2370
+            },
+            "username": "wjassembly"
+        }
+    ]
+}

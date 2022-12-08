@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "created_at": "2013-02-22T22:21:45.000Z",
+            "description": "Engineer, Lawyer & Publisher of @IllinoisReview",
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "end": 47,
+                            "start": 32,
+                            "username": "IllinoisReview"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "linktr.ee/freefairvote",
+                            "end": 23,
+                            "expanded_url": "https://linktr.ee/freefairvote",
+                            "start": 0,
+                            "url": "https://t.co/2gUW9J1P5h"
+                        }
+                    ]
+                }
+            },
+            "id": "1209946634",
+            "location": "Chicago, IL",
+            "name": "Scott Kaspar \ud83d\udd39",
+            "public_metrics": {
+                "followers_count": 2149,
+                "following_count": 1098,
+                "listed_count": 2,
+                "tweet_count": 91058
+            },
+            "username": "ScottKaspar"
+        }
+    ]
+}

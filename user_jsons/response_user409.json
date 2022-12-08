@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2009-04-05T21:25:16.000Z",
+            "description": "Conservative - want the ol' days back\n#AmericaFirst\n#NeverBiden #NotMyPresident\n#DemocommiesAreKillingAmerica",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 51,
+                            "start": 38,
+                            "tag": "AmericaFirst"
+                        },
+                        {
+                            "end": 63,
+                            "start": 52,
+                            "tag": "NeverBiden"
+                        },
+                        {
+                            "end": 79,
+                            "start": 64,
+                            "tag": "NotMyPresident"
+                        },
+                        {
+                            "end": 109,
+                            "start": 80,
+                            "tag": "DemocommiesAreKillingAmerica"
+                        }
+                    ]
+                }
+            },
+            "id": "29068389",
+            "location": "Tulsa, OK",
+            "name": "#NeverBiden/Harris",
+            "public_metrics": {
+                "followers_count": 3563,
+                "following_count": 4816,
+                "listed_count": 15,
+                "tweet_count": 230624
+            },
+            "username": "OkieStateFan12"
+        }
+    ]
+}

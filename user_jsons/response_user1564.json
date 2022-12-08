@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "created_at": "2020-06-01T04:34:35.000Z",
+            "description": "#Bitcoin",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 8,
+                            "start": 0,
+                            "tag": "Bitcoin"
+                        }
+                    ]
+                }
+            },
+            "id": "1267313474784432129",
+            "name": "J",
+            "public_metrics": {
+                "followers_count": 16,
+                "following_count": 289,
+                "listed_count": 1,
+                "tweet_count": 10355
+            },
+            "username": "J72045166"
+        }
+    ]
+}

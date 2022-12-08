@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "created_at": "2012-02-06T18:11:39.000Z",
+            "description": "Independent, Christian, conservative, #NRA, Army vet, armed and semi-dangerous. I stand with #Israel #backtheblue",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 42,
+                            "start": 38,
+                            "tag": "NRA"
+                        },
+                        {
+                            "end": 100,
+                            "start": 93,
+                            "tag": "Israel"
+                        },
+                        {
+                            "end": 113,
+                            "start": 101,
+                            "tag": "backtheblue"
+                        }
+                    ]
+                }
+            },
+            "id": "484980949",
+            "name": "Dillon",
+            "public_metrics": {
+                "followers_count": 3418,
+                "following_count": 3497,
+                "listed_count": 40,
+                "tweet_count": 75041
+            },
+            "username": "000Dillon000"
+        }
+    ]
+}

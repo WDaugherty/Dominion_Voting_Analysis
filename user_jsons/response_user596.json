@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "created_at": "2015-06-29T23:08:40.000Z",
+            "description": "#KAG #AmericaFirst #Deplorable #DrainTheSwamp #Treeper \nFollowed by @ThePersistence @sebgorka  @carpedonktum @GlamTheVote",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 4,
+                            "start": 0,
+                            "tag": "KAG"
+                        },
+                        {
+                            "end": 18,
+                            "start": 5,
+                            "tag": "AmericaFirst"
+                        },
+                        {
+                            "end": 30,
+                            "start": 19,
+                            "tag": "Deplorable"
+                        },
+                        {
+                            "end": 45,
+                            "start": 31,
+                            "tag": "DrainTheSwamp"
+                        },
+                        {
+                            "end": 54,
+                            "start": 46,
+                            "tag": "Treeper"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 83,
+                            "start": 68,
+                            "username": "ThePersistence"
+                        },
+                        {
+                            "end": 93,
+                            "start": 84,
+                            "username": "sebgorka"
+                        },
+                        {
+                            "end": 108,
+                            "start": 95,
+                            "username": "carpedonktum"
+                        },
+                        {
+                            "end": 121,
+                            "start": 109,
+                            "username": "GlamTheVote"
+                        }
+                    ]
+                }
+            },
+            "id": "3260501408",
+            "name": "\ud83c\uddfa\ud83c\uddf8MEGA MAGA Blog Bee\ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 2167,
+                "following_count": 3639,
+                "listed_count": 0,
+                "tweet_count": 150105
+            },
+            "username": "BlognificentB"
+        }
+    ]
+}

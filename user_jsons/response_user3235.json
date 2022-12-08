@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "created_at": "2013-06-19T01:25:35.000Z",
+            "description": "Molon Labe #MAGA #KAG @POTUS #PromisesKept @NRA #2ndAmendment \ud83c\uddfa\ud83c\uddf8",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 16,
+                            "start": 11,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 21,
+                            "start": 17,
+                            "tag": "KAG"
+                        },
+                        {
+                            "end": 42,
+                            "start": 29,
+                            "tag": "PromisesKept"
+                        },
+                        {
+                            "end": 61,
+                            "start": 48,
+                            "tag": "2ndAmendment"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 28,
+                            "start": 22,
+                            "username": "POTUS"
+                        },
+                        {
+                            "end": 47,
+                            "start": 43,
+                            "username": "NRA"
+                        }
+                    ]
+                }
+            },
+            "id": "1529340344",
+            "location": "Ameritopia",
+            "name": "JB\u274c",
+            "public_metrics": {
+                "followers_count": 2909,
+                "following_count": 3306,
+                "listed_count": 79,
+                "tweet_count": 316328
+            },
+            "username": "wildmaresnw_b"
+        }
+    ]
+}

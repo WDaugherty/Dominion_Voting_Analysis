@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2019-02-13T21:04:38.000Z",
+            "description": "I have my moments. Known for boomer rants and unsolicited hot takes. The best part of my life is being a foster mom for #RescueDogs.",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 131,
+                            "start": 120,
+                            "tag": "RescueDogs"
+                        }
+                    ]
+                }
+            },
+            "id": "1095790874947141632",
+            "location": "Rhode Island",
+            "name": "Meara",
+            "public_metrics": {
+                "followers_count": 8255,
+                "following_count": 6053,
+                "listed_count": 30,
+                "tweet_count": 67358
+            },
+            "username": "MillennialOther"
+        }
+    ]
+}

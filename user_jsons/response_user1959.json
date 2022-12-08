@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2016-01-27T21:00:49.000Z",
+            "description": "Conservative Christian wife, mother of 7, one in Heaven,grandma of 18, Husband retired USAF, Sons USAF USN. Diabetes doesn\u2019t define me! #MAGA #TRUMP #RED WAVE",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 141,
+                            "start": 136,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 148,
+                            "start": 142,
+                            "tag": "TRUMP"
+                        },
+                        {
+                            "end": 153,
+                            "start": 149,
+                            "tag": "RED"
+                        }
+                    ]
+                }
+            },
+            "id": "4854886427",
+            "location": "Illinois, USA",
+            "name": "Susan",
+            "public_metrics": {
+                "followers_count": 1520,
+                "following_count": 1654,
+                "listed_count": 1,
+                "tweet_count": 17337
+            },
+            "username": "GmaSue14"
+        }
+    ]
+}

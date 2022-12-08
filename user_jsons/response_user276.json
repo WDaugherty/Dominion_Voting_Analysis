@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2009-03-07T14:02:40.000Z",
+            "description": "An American by birth, a Texan by choice, a horseman, a writer, network engineer. Same username(markamerica) on Truth-Social, GETTR, Parler, Gab.",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "markamerica.com",
+                            "end": 23,
+                            "expanded_url": "http://www.markamerica.com",
+                            "start": 0,
+                            "url": "https://t.co/W5z7MuHEFw"
+                        }
+                    ]
+                }
+            },
+            "id": "23194229",
+            "location": "Heidenheimer, TX",
+            "name": "\ud83c\uddfa\ud83c\uddf8Mark America\ud83c\uddfa\ud83c\uddf8 (@markamerica TruthSocial)\ud83c\udf4a",
+            "public_metrics": {
+                "followers_count": 6184,
+                "following_count": 6604,
+                "listed_count": 43,
+                "tweet_count": 65486
+            },
+            "username": "markamerica"
+        }
+    ]
+}

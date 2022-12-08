@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "created_at": "2009-02-08T13:05:18.000Z",
+            "description": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8 #Deplorable Patriot/Retired/#MAGA / #KAG2020 / #BuildTheWall/#Parler #NRA/...We finally have a real President now!",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 32,
+                            "start": 21,
+                            "tag": "Deplorable"
+                        },
+                        {
+                            "end": 54,
+                            "start": 49,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 65,
+                            "start": 57,
+                            "tag": "KAG2020"
+                        },
+                        {
+                            "end": 81,
+                            "start": 68,
+                            "tag": "BuildTheWall"
+                        },
+                        {
+                            "end": 89,
+                            "start": 82,
+                            "tag": "Parler"
+                        },
+                        {
+                            "end": 94,
+                            "start": 90,
+                            "tag": "NRA"
+                        }
+                    ]
+                }
+            },
+            "id": "20365254",
+            "location": "Bunker, USA",
+            "name": "Salted Popcorn",
+            "public_metrics": {
+                "followers_count": 1968,
+                "following_count": 2291,
+                "listed_count": 36,
+                "tweet_count": 42698
+            },
+            "username": "captainanglin"
+        }
+    ]
+}

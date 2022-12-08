@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2011-10-13T17:16:48.000Z",
+            "description": "Q++ Patriot \u2661 TRUMP \ud83c\uddfa\ud83c\uddf2 #MAGA\ud83d\udc4a\ud83c\udffb Save the Children \ud83c\uddfa\ud83c\uddf2 #God Wins #Never Give Up \ud83d\udc9a Raise Love Vibes \ud83d\udc9a #Dark to Light",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 28,
+                            "start": 23,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 56,
+                            "start": 52,
+                            "tag": "God"
+                        },
+                        {
+                            "end": 68,
+                            "start": 62,
+                            "tag": "Never"
+                        },
+                        {
+                            "end": 103,
+                            "start": 98,
+                            "tag": "Dark"
+                        }
+                    ]
+                }
+            },
+            "id": "390226226",
+            "location": "Florida, USA",
+            "name": "Guiding.Light.Patriot",
+            "public_metrics": {
+                "followers_count": 1154,
+                "following_count": 3804,
+                "listed_count": 6,
+                "tweet_count": 4470
+            },
+            "username": "RhodesTT"
+        }
+    ]
+}

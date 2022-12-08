@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2020-06-26T23:09:25.000Z",
+            "description": "#SicEm \ud83d\udc3b",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 6,
+                            "start": 0,
+                            "tag": "SicEm"
+                        }
+                    ]
+                }
+            },
+            "id": "1276653776137531392",
+            "location": "Chicago",
+            "name": "D.C.M",
+            "public_metrics": {
+                "followers_count": 718,
+                "following_count": 3568,
+                "listed_count": 6,
+                "tweet_count": 37437
+            },
+            "username": "dc_roark"
+        }
+    ]
+}

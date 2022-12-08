@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "created_at": "2011-07-24T05:54:49.000Z",
+            "description": "#FuckAroundAndFindOut \u2022 #FAAFO \u2022 #GoonSquad \u2022 #1776 \u2022 Opinions are mine, but if you\u2019re smart, they\u2019ll become yours, too",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 21,
+                            "start": 0,
+                            "tag": "FuckAroundAndFindOut"
+                        },
+                        {
+                            "end": 30,
+                            "start": 24,
+                            "tag": "FAAFO"
+                        },
+                        {
+                            "end": 43,
+                            "start": 33,
+                            "tag": "GoonSquad"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "StopTheRINOs.com",
+                            "end": 23,
+                            "expanded_url": "http://StopTheRINOs.com",
+                            "start": 0,
+                            "url": "https://t.co/DlarvSjYAQ"
+                        }
+                    ]
+                }
+            },
+            "id": "341330995",
+            "location": "Rooftop Korean",
+            "name": "\u2022 Michelle \u2022",
+            "public_metrics": {
+                "followers_count": 8250,
+                "following_count": 0,
+                "listed_count": 50,
+                "tweet_count": 64151
+            },
+            "username": "ThatParentP4P"
+        }
+    ]
+}

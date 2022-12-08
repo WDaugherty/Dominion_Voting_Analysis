@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "created_at": "2011-02-24T03:01:23.000Z",
+            "description": "Conservative/libertarian activist and fundraiser. Proud dad of 3; and fan of the Hoyas, Nats, Bengals. Pronouns NOT welcome.\n\n https://t.co/G0OEV5JuKT\u2026",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "favstar.fm/users/SpotsyHo",
+                            "end": 150,
+                            "expanded_url": "http://favstar.fm/users/SpotsyHo",
+                            "start": 127,
+                            "url": "https://t.co/G0OEV5JuKT"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "libertyguard.org",
+                            "end": 23,
+                            "expanded_url": "http://www.libertyguard.org",
+                            "start": 0,
+                            "url": "https://t.co/tJDxlOfXUf"
+                        }
+                    ]
+                }
+            },
+            "id": "256799206",
+            "location": "Fairfax, VA",
+            "name": "Steven Thomas",
+            "public_metrics": {
+                "followers_count": 3008,
+                "following_count": 5001,
+                "listed_count": 17,
+                "tweet_count": 71278
+            },
+            "username": "SpotsyHoya"
+        }
+    ]
+}

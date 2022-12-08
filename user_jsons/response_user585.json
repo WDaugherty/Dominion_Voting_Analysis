@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2012-10-12T02:02:18.000Z",
+            "description": "I am a veteran. A tax accountant now retired. Love my country. I am a republican. I am for freedom and liberty. #megamaga",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 121,
+                            "start": 112,
+                            "tag": "megamaga"
+                        }
+                    ]
+                }
+            },
+            "id": "874740812",
+            "location": "Texas, USA",
+            "name": "American Veteran",
+            "public_metrics": {
+                "followers_count": 2467,
+                "following_count": 3906,
+                "listed_count": 41,
+                "tweet_count": 100983
+            },
+            "username": "hgarbow"
+        }
+    ]
+}

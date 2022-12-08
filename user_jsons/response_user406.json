@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "created_at": "2015-10-02T14:32:46.000Z",
+            "description": "GO Trump Go he's OUR Man #ULTRA #MAGA another 2024\u274c \u274c build the wall and crimes will fall \u274c https://t.co/yB6gJ1mpmN. truth social jadefav\ud83c\udde8\ud83c\udde6\ud83c\uddec\ud83c\udde7\ud83c\uddfa\ud83c\uddf8",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 31,
+                            "start": 25,
+                            "tag": "ULTRA"
+                        },
+                        {
+                            "end": 37,
+                            "start": 32,
+                            "tag": "MAGA"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "parler.com/profile/Jadefav",
+                            "end": 115,
+                            "expanded_url": "http://parler.com/profile/Jadefav",
+                            "start": 92,
+                            "url": "https://t.co/yB6gJ1mpmN"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "parler.com/profile/Jadefav",
+                            "end": 23,
+                            "expanded_url": "http://parler.com/profile/Jadefav",
+                            "start": 0,
+                            "url": "https://t.co/yB6gJ1mpmN"
+                        }
+                    ]
+                }
+            },
+            "id": "3843640245",
+            "location": "Canada/USA",
+            "name": "Kathlin Hawleys",
+            "public_metrics": {
+                "followers_count": 11786,
+                "following_count": 12906,
+                "listed_count": 99,
+                "tweet_count": 622810
+            },
+            "username": "HawleysJadefav"
+        }
+    ]
+}

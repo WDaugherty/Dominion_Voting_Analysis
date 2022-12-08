@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2012-05-01T04:06:37.000Z",
+            "description": "Retired English teacher(37yrs), 1961-62 WAC, \ud83c\uddfa\ud83c\uddf8 Patriotic, 80 years young. #MAGA...please capitalize P when referring to our President!",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 80,
+                            "start": 75,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "567917574",
+            "location": "Charlotte, NC",
+            "name": "Diane \ud83c\uddfa\ud83c\uddf8 Johnson \ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 2044,
+                "following_count": 179,
+                "listed_count": 5,
+                "tweet_count": 253173
+            },
+            "username": "Diane_1024"
+        }
+    ]
+}

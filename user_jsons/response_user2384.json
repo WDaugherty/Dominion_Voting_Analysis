@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2016-02-26T03:29:27.000Z",
+            "description": "Political junkie, Sports, God-Family-Country, America first, common sense government and non PC. Get the government out of our healthcare. Former dem #walkaway",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 159,
+                            "start": 150,
+                            "tag": "walkaway"
+                        }
+                    ]
+                }
+            },
+            "id": "703059273022963713",
+            "location": "Nebraska, USA",
+            "name": "Tim Karmazin",
+            "public_metrics": {
+                "followers_count": 1600,
+                "following_count": 2059,
+                "listed_count": 1,
+                "tweet_count": 13900
+            },
+            "username": "tkarmazin73"
+        }
+    ]
+}

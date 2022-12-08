@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2018-02-16T17:13:50.000Z",
+            "description": "I can tell you the future",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bitcoin.org",
+                            "end": 23,
+                            "expanded_url": "http://bitcoin.org",
+                            "start": 0,
+                            "url": "https://t.co/hYEbjphbuC"
+                        }
+                    ]
+                }
+            },
+            "id": "964548384714567681",
+            "location": "Antarctica",
+            "name": "Salvadorian Bulcano \ud83c\uddfa\ud83c\udde6\ud83c\udf3b",
+            "public_metrics": {
+                "followers_count": 348,
+                "following_count": 1220,
+                "listed_count": 11,
+                "tweet_count": 96066
+            },
+            "username": "dekentro"
+        }
+    ]
+}

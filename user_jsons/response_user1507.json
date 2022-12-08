@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2009-09-27T06:43:03.000Z",
+            "description": "I always try do the right thing whether anyone\u2019s looking or not. I support my President 100% #TRUMP2020 #BLUELIVESMATTER #EVERYLIFEMATTERS    PRO LIFE",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 103,
+                            "start": 93,
+                            "tag": "TRUMP2020"
+                        },
+                        {
+                            "end": 120,
+                            "start": 104,
+                            "tag": "BLUELIVESMATTER"
+                        },
+                        {
+                            "end": 138,
+                            "start": 121,
+                            "tag": "EVERYLIFEMATTERS"
+                        }
+                    ]
+                }
+            },
+            "id": "77679836",
+            "location": "Norman, OK",
+            "name": "CG_Bomb#Maga2020",
+            "public_metrics": {
+                "followers_count": 762,
+                "following_count": 1589,
+                "listed_count": 5,
+                "tweet_count": 69301
+            },
+            "username": "cgbomb"
+        }
+    ]
+}

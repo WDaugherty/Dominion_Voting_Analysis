@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2011-02-13T04:51:56.000Z",
+            "description": "I love God and my Catholic faith.\u271d\ufe0f\ud83d\udcff\ud83c\uddfb\ud83c\udde6 #PROLife #MAGA #KAG",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 47,
+                            "start": 39,
+                            "tag": "PROLife"
+                        },
+                        {
+                            "end": 53,
+                            "start": 48,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 58,
+                            "start": 54,
+                            "tag": "KAG"
+                        }
+                    ]
+                }
+            },
+            "id": "251453399",
+            "location": "USA",
+            "name": "SandraLorenaFM\u271d\ufe0f\ud83d\udcff",
+            "public_metrics": {
+                "followers_count": 2019,
+                "following_count": 4249,
+                "listed_count": 42,
+                "tweet_count": 267360
+            },
+            "username": "Sanlofe"
+        }
+    ]
+}

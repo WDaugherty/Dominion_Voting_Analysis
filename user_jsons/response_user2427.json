@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2012-03-15T20:41:21.000Z",
+            "description": "Tragedy & Hope: Atlantis Rising! (Be Aware)",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "NewOrderSameAsTheOld.com",
+                            "end": 23,
+                            "expanded_url": "http://NewOrderSameAsTheOld.com",
+                            "start": 0,
+                            "url": "https://t.co/bbpGI0PNUa"
+                        }
+                    ]
+                }
+            },
+            "id": "525732418",
+            "location": "Amaru",
+            "name": "OBEY the REPUBLiC",
+            "public_metrics": {
+                "followers_count": 236,
+                "following_count": 1272,
+                "listed_count": 16,
+                "tweet_count": 60145
+            },
+            "username": "ObeyUrRepublic"
+        }
+    ]
+}

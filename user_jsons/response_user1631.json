@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2009-04-27T22:26:10.000Z",
+            "description": "Artist; vision-keeper believing in the good.",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "greenqueen.com",
+                            "end": 22,
+                            "expanded_url": "http://greenqueen.com",
+                            "start": 0,
+                            "url": "http://t.co/10a82ba9EZ"
+                        }
+                    ]
+                }
+            },
+            "id": "35884419",
+            "location": "California",
+            "name": "Mary Altmann",
+            "public_metrics": {
+                "followers_count": 2115,
+                "following_count": 1756,
+                "listed_count": 71,
+                "tweet_count": 40587
+            },
+            "username": "5pointedstar"
+        }
+    ]
+}

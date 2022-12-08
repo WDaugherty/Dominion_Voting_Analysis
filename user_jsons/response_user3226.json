@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "created_at": "2016-03-31T01:46:14.000Z",
+            "description": "Happily Married, Downsized Exec, Mom, Patriot, History/Law Student, #MAGA #DrainTheSwamp #BuildTheWall #VoterID #ReconnectJulian #StopTheBias",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 73,
+                            "start": 68,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 88,
+                            "start": 74,
+                            "tag": "DrainTheSwamp"
+                        },
+                        {
+                            "end": 102,
+                            "start": 89,
+                            "tag": "BuildTheWall"
+                        },
+                        {
+                            "end": 111,
+                            "start": 103,
+                            "tag": "VoterID"
+                        },
+                        {
+                            "end": 128,
+                            "start": 112,
+                            "tag": "ReconnectJulian"
+                        },
+                        {
+                            "end": 141,
+                            "start": 129,
+                            "tag": "StopTheBias"
+                        }
+                    ]
+                }
+            },
+            "id": "715354484403253248",
+            "location": "NJ",
+            "name": "Alpha Fluffy",
+            "public_metrics": {
+                "followers_count": 1878,
+                "following_count": 3062,
+                "listed_count": 2,
+                "tweet_count": 96185
+            },
+            "username": "alphafluffy01"
+        }
+    ]
+}

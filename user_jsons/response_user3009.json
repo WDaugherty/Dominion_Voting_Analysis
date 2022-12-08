@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "created_at": "2010-02-06T21:53:00.000Z",
+            "description": "Former Adjunct Professor. Proud Republican and a committed Trump supporter. #MAGA #AmericaFirst",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 81,
+                            "start": 76,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 95,
+                            "start": 82,
+                            "tag": "AmericaFirst"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "pr.linkedin.com/pub/jose-m-dey\u2026",
+                            "end": 23,
+                            "expanded_url": "http://pr.linkedin.com/pub/jose-m-deynes-acevedo/3a/635/536",
+                            "start": 0,
+                            "url": "https://t.co/XWRDHF1Lcp"
+                        }
+                    ]
+                }
+            },
+            "id": "111991658",
+            "location": "Puerto Rico, USA",
+            "name": "Jose Deynes",
+            "public_metrics": {
+                "followers_count": 2512,
+                "following_count": 4957,
+                "listed_count": 20,
+                "tweet_count": 51081
+            },
+            "username": "josedeynes"
+        }
+    ]
+}

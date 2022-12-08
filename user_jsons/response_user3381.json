@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2020-03-18T15:12:46.000Z",
+            "description": "#American #Brasileiro #jesusKing",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 9,
+                            "start": 0,
+                            "tag": "American"
+                        },
+                        {
+                            "end": 21,
+                            "start": 10,
+                            "tag": "Brasileiro"
+                        },
+                        {
+                            "end": 32,
+                            "start": 22,
+                            "tag": "jesusKing"
+                        }
+                    ]
+                }
+            },
+            "id": "1240295020827213824",
+            "location": "Terra/Earth/west/Oeste",
+            "name": "Joule Penna",
+            "public_metrics": {
+                "followers_count": 205,
+                "following_count": 201,
+                "listed_count": 0,
+                "tweet_count": 42108
+            },
+            "username": "joule_penna"
+        }
+    ]
+}

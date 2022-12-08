@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "created_at": "2016-12-24T02:27:43.000Z",
+            "description": "#TrumpWonTheElection #MAGA #KAG #BUILDTHEWALL #VETERAN #DrainTheDamnSwamp #USAFPilot #LockHerUp #RollTide #TheBigLie",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 20,
+                            "start": 0,
+                            "tag": "TrumpWonTheElection"
+                        },
+                        {
+                            "end": 26,
+                            "start": 21,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 31,
+                            "start": 27,
+                            "tag": "KAG"
+                        },
+                        {
+                            "end": 45,
+                            "start": 32,
+                            "tag": "BUILDTHEWALL"
+                        },
+                        {
+                            "end": 54,
+                            "start": 46,
+                            "tag": "VETERAN"
+                        },
+                        {
+                            "end": 73,
+                            "start": 55,
+                            "tag": "DrainTheDamnSwamp"
+                        },
+                        {
+                            "end": 84,
+                            "start": 74,
+                            "tag": "USAFPilot"
+                        },
+                        {
+                            "end": 95,
+                            "start": 85,
+                            "tag": "LockHerUp"
+                        },
+                        {
+                            "end": 105,
+                            "start": 96,
+                            "tag": "RollTide"
+                        },
+                        {
+                            "end": 116,
+                            "start": 106,
+                            "tag": "TheBigLie"
+                        }
+                    ]
+                }
+            },
+            "id": "812484871033655296",
+            "location": "TN United States",
+            "name": "Deplorable GG",
+            "public_metrics": {
+                "followers_count": 13716,
+                "following_count": 13598,
+                "listed_count": 3,
+                "tweet_count": 32530
+            },
+            "username": "gegifford44"
+        }
+    ]
+}

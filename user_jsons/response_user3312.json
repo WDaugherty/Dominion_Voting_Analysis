@@ -1,0 +1,13 @@
+{
+    "errors": [
+        {
+            "detail": "User has been suspended: [20647617].",
+            "parameter": "ids",
+            "resource_id": "20647617",
+            "resource_type": "user",
+            "title": "Forbidden",
+            "type": "https://api.twitter.com/2/problems/resource-not-found",
+            "value": "20647617"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2018-10-23T14:16:04.000Z",
+            "description": "Proud member and leader of antibad, if you disagree it's because you support bad things and hate good things, antibad means AGAINST BAD",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "smartsmart.smart",
+                            "end": 23,
+                            "expanded_url": "http://www.smartsmart.smart",
+                            "start": 0,
+                            "url": "https://t.co/nd288b8da0"
+                        }
+                    ]
+                }
+            },
+            "id": "1054738227284844545",
+            "location": "I be do home at",
+            "name": "Twit",
+            "public_metrics": {
+                "followers_count": 189,
+                "following_count": 552,
+                "listed_count": 1,
+                "tweet_count": 15407
+            },
+            "username": "TwitwitTwit"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "created_at": "2013-02-11T19:58:26.000Z",
+            "description": "Stop oggling my credentials. It's unbecoming.\n\nhttps://t.co/CgtYrz2q9K\n\nhttps://t.co/3Xr21C77K7 (promo for Nov): https://t.co/fk76iPTJeG",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "roundingtheearth.substack.com",
+                            "end": 70,
+                            "expanded_url": "http://roundingtheearth.substack.com",
+                            "start": 47,
+                            "url": "https://t.co/CgtYrz2q9K"
+                        },
+                        {
+                            "display_url": "Locals.com",
+                            "end": 95,
+                            "expanded_url": "http://Locals.com",
+                            "start": 72,
+                            "url": "https://t.co/3Xr21C77K7"
+                        },
+                        {
+                            "display_url": "roundingtheearth.locals.com/support/promo/\u2026",
+                            "end": 136,
+                            "expanded_url": "https://roundingtheearth.locals.com/support/promo/ROUN",
+                            "start": 113,
+                            "url": "https://t.co/fk76iPTJeG"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "roundingtheearth.substack.com",
+                            "end": 23,
+                            "expanded_url": "https://roundingtheearth.substack.com/",
+                            "start": 0,
+                            "url": "https://t.co/HV2VUIVU4f"
+                        }
+                    ]
+                }
+            },
+            "id": "1169892745",
+            "location": "Rounding the Earth",
+            "name": "Mathew Crawford",
+            "public_metrics": {
+                "followers_count": 16782,
+                "following_count": 3763,
+                "listed_count": 195,
+                "tweet_count": 30609
+            },
+            "username": "EduEngineer"
+        }
+    ]
+}

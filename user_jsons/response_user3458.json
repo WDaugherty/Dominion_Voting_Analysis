@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "created_at": "2016-05-03T15:41:58.000Z",
+            "description": "#Trump2024 DEFEND Western Civilization! Halal slaughter TORTURES  animals!! https://t.co/GlYjBd5dTY\nPURE EVIL!#BANhalal\nhttps://t.co/l0MK8lMeJ3",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 10,
+                            "start": 0,
+                            "tag": "Trump2024"
+                        },
+                        {
+                            "end": 119,
+                            "start": 110,
+                            "tag": "BANhalal"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "youtu.be/ZE2svQFH_q0",
+                            "end": 99,
+                            "expanded_url": "https://youtu.be/ZE2svQFH_q0",
+                            "start": 76,
+                            "url": "https://t.co/GlYjBd5dTY"
+                        },
+                        {
+                            "display_url": "thereligionofpeace.com",
+                            "end": 143,
+                            "expanded_url": "http://www.thereligionofpeace.com",
+                            "start": 120,
+                            "url": "https://t.co/l0MK8lMeJ3"
+                        }
+                    ]
+                }
+            },
+            "id": "727523600912130048",
+            "name": "StopIslamNOW",
+            "public_metrics": {
+                "followers_count": 1113,
+                "following_count": 3227,
+                "listed_count": 8,
+                "tweet_count": 20316
+            },
+            "username": "STOPIslam4ever"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "created_at": "2011-02-01T02:16:15.000Z",
+            "description": "#Patriot and #Defender of #Liberty \nA #Retweet is not an #Endorsement.",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 8,
+                            "start": 0,
+                            "tag": "Patriot"
+                        },
+                        {
+                            "end": 22,
+                            "start": 13,
+                            "tag": "Defender"
+                        },
+                        {
+                            "end": 34,
+                            "start": 26,
+                            "tag": "Liberty"
+                        },
+                        {
+                            "end": 46,
+                            "start": 38,
+                            "tag": "Retweet"
+                        },
+                        {
+                            "end": 69,
+                            "start": 57,
+                            "tag": "Endorsement"
+                        }
+                    ]
+                }
+            },
+            "id": "245605402",
+            "name": "ObozoLies",
+            "public_metrics": {
+                "followers_count": 3244,
+                "following_count": 3829,
+                "listed_count": 100,
+                "tweet_count": 135215
+            },
+            "username": "ObozoLies"
+        }
+    ]
+}

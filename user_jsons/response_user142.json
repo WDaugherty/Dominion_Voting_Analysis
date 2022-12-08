@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "created_at": "2009-09-10T00:22:53.000Z",
+            "description": "Conservative Christian. \u271d\ufe0fPro 2A, defender of the constitution. I stand with Israel \ud83c\uddee\ud83c\uddf1. Proud patriot \ud83c\uddfa\ud83c\uddf8#backtheblue \ud83d\udc99\ud83d\udc6e\ud83c\udffc#Desantis2024",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 116,
+                            "start": 104,
+                            "tag": "backtheblue"
+                        },
+                        {
+                            "end": 133,
+                            "start": 120,
+                            "tag": "Desantis2024"
+                        }
+                    ]
+                }
+            },
+            "id": "72994171",
+            "name": "Purple Dalmation",
+            "public_metrics": {
+                "followers_count": 524,
+                "following_count": 3728,
+                "listed_count": 2,
+                "tweet_count": 652723
+            },
+            "username": "purpledalmation"
+        }
+    ]
+}

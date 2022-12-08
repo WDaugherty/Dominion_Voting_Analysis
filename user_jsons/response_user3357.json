@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "created_at": "2017-05-22T01:31:10.000Z",
+            "description": "Independent Financial Advisor. Securities offered through IFP Securities LLC, member FINRA/SIPC, https://t.co/Ewb0ZEwlcR https://t.co/0ZqgzC0sI8 . \ud83d\ude42",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "finra.org",
+                            "end": 120,
+                            "expanded_url": "http://www.finra.org",
+                            "start": 97,
+                            "url": "https://t.co/Ewb0ZEwlcR"
+                        },
+                        {
+                            "display_url": "sipc.org",
+                            "end": 144,
+                            "expanded_url": "http://www.sipc.org",
+                            "start": 121,
+                            "url": "https://t.co/0ZqgzC0sI8"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "symefs.com",
+                            "end": 23,
+                            "expanded_url": "http://www.symefs.com",
+                            "start": 0,
+                            "url": "https://t.co/PdysFLAZrB"
+                        }
+                    ]
+                }
+            },
+            "id": "866466433676578816",
+            "location": "Orlando, FL",
+            "name": "George Syme",
+            "public_metrics": {
+                "followers_count": 296,
+                "following_count": 145,
+                "listed_count": 1,
+                "tweet_count": 40191
+            },
+            "username": "SymeFinancial"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "created_at": "2013-08-06T20:42:41.000Z",
+            "description": "Now: Freelancer. Past: Editor @dcexaminer and FIND/Washington Daybook. Casual runner/weight lifter. Star Wars, LOTR enthusiast. Will talk politics if provoked.",
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "end": 41,
+                            "start": 30,
+                            "username": "dcexaminer"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "washingtonexaminer.com/author/daniel-\u2026",
+                            "end": 23,
+                            "expanded_url": "http://www.washingtonexaminer.com/author/daniel-chaitin",
+                            "start": 0,
+                            "url": "https://t.co/s9x4JoGi6M"
+                        }
+                    ]
+                }
+            },
+            "id": "1651225333",
+            "location": "Washington, D.C.-Metro Area",
+            "name": "Daniel Chaitin",
+            "public_metrics": {
+                "followers_count": 11782,
+                "following_count": 6846,
+                "listed_count": 170,
+                "tweet_count": 26373
+            },
+            "username": "danielchaitin7"
+        }
+    ]
+}

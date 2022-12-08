@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "created_at": "2013-01-18T15:11:36.000Z",
+            "description": "Tattoo collector, gun slinger, coffee and cigar snob. Dad to twins. Extraction Lab/cultivation Owner #Hemp #Cannabis #based #redpilled $LINK $AVAX ICO Buyer.",
+            "entities": {
+                "description": {
+                    "cashtags": [
+                        {
+                            "end": 140,
+                            "start": 135,
+                            "tag": "LINK"
+                        },
+                        {
+                            "end": 146,
+                            "start": 141,
+                            "tag": "AVAX"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "end": 106,
+                            "start": 101,
+                            "tag": "Hemp"
+                        },
+                        {
+                            "end": 116,
+                            "start": 107,
+                            "tag": "Cannabis"
+                        },
+                        {
+                            "end": 123,
+                            "start": 117,
+                            "tag": "based"
+                        },
+                        {
+                            "end": 134,
+                            "start": 124,
+                            "tag": "redpilled"
+                        }
+                    ]
+                }
+            },
+            "id": "1101216644",
+            "location": "Nashville,TN",
+            "name": "Jaymz \ud83d\udd3a",
+            "public_metrics": {
+                "followers_count": 316,
+                "following_count": 272,
+                "listed_count": 35,
+                "tweet_count": 29160
+            },
+            "username": "Adding_Alpha"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "created_at": "2009-09-16T03:25:23.000Z",
+            "description": "#Trump2024 #conservative #redwave #letsgobrandon #walkaway #FJB #BareShelvesBiden  #TrumpBestPresident",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 10,
+                            "start": 0,
+                            "tag": "Trump2024"
+                        },
+                        {
+                            "end": 24,
+                            "start": 11,
+                            "tag": "conservative"
+                        },
+                        {
+                            "end": 33,
+                            "start": 25,
+                            "tag": "redwave"
+                        },
+                        {
+                            "end": 48,
+                            "start": 34,
+                            "tag": "letsgobrandon"
+                        },
+                        {
+                            "end": 58,
+                            "start": 49,
+                            "tag": "walkaway"
+                        },
+                        {
+                            "end": 63,
+                            "start": 59,
+                            "tag": "FJB"
+                        },
+                        {
+                            "end": 81,
+                            "start": 64,
+                            "tag": "BareShelvesBiden"
+                        },
+                        {
+                            "end": 102,
+                            "start": 83,
+                            "tag": "TrumpBestPresident"
+                        }
+                    ]
+                }
+            },
+            "id": "74641039",
+            "location": "Georgia",
+            "name": "Char",
+            "public_metrics": {
+                "followers_count": 1250,
+                "following_count": 5002,
+                "listed_count": 45,
+                "tweet_count": 30674
+            },
+            "username": "charonly1"
+        }
+    ]
+}

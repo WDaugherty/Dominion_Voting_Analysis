@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "created_at": "2017-01-09T21:57:41.000Z",
+            "description": "join our channel on Telegram! https://t.co/4UqG8tf0S7",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "t.me/finanz_dk",
+                            "end": 53,
+                            "expanded_url": "https://t.me/finanz_dk",
+                            "start": 30,
+                            "url": "https://t.co/4UqG8tf0S7"
+                        }
+                    ]
+                }
+            },
+            "id": "818577509365100547",
+            "name": "Finanz",
+            "public_metrics": {
+                "followers_count": 125,
+                "following_count": 108,
+                "listed_count": 5,
+                "tweet_count": 93294
+            },
+            "username": "FinanzDK"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "created_at": "2011-01-14T17:47:24.000Z",
+            "description": "Weekday afternoons 3 to 4 on TalkRadio 98.5 WRTA Altoona PA - https://t.co/7rsiFvHbqI",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "facebook.com/WRTADoug",
+                            "end": 85,
+                            "expanded_url": "http://facebook.com/WRTADoug",
+                            "start": 62,
+                            "url": "https://t.co/7rsiFvHbqI"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "wrta.com",
+                            "end": 23,
+                            "expanded_url": "http://wrta.com/",
+                            "start": 0,
+                            "url": "https://t.co/iyP8OuBLNW"
+                        }
+                    ]
+                }
+            },
+            "id": "238233474",
+            "location": "Altoona, PA",
+            "name": "WRTA@3 with Doug Herendeen",
+            "public_metrics": {
+                "followers_count": 614,
+                "following_count": 4096,
+                "listed_count": 13,
+                "tweet_count": 65060
+            },
+            "username": "WRTAat3"
+        }
+    ]
+}

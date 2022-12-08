@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "created_at": "2016-08-28T19:35:53.000Z",
+            "description": "Shared #MAGA backup account @realdonaldtrump @charliekirk11 @POTUS @VP Retweets are not endorsements tweets=opinion. \ud83d\udeabNo porn or DM\u2019s",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 12,
+                            "start": 7,
+                            "tag": "MAGA"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 44,
+                            "start": 28,
+                            "username": "realdonaldtrump"
+                        },
+                        {
+                            "end": 59,
+                            "start": 45,
+                            "username": "charliekirk11"
+                        },
+                        {
+                            "end": 66,
+                            "start": 60,
+                            "username": "POTUS"
+                        },
+                        {
+                            "end": 70,
+                            "start": 67,
+                            "username": "VP"
+                        }
+                    ]
+                }
+            },
+            "id": "769981852211879938",
+            "name": "America First \ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 1300,
+                "following_count": 1686,
+                "listed_count": 5,
+                "tweet_count": 66214
+            },
+            "username": "americafirstduo"
+        }
+    ]
+}

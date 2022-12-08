@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "created_at": "2016-01-02T20:29:02.000Z",
+            "description": "Strive to be informed and free",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "PlanetFreeWill.news",
+                            "end": 23,
+                            "expanded_url": "http://PlanetFreeWill.news",
+                            "start": 0,
+                            "url": "https://t.co/L9WY2rn7da"
+                        }
+                    ]
+                }
+            },
+            "id": "4698427297",
+            "name": "Planet Free Will",
+            "public_metrics": {
+                "followers_count": 4658,
+                "following_count": 594,
+                "listed_count": 29,
+                "tweet_count": 4362
+            },
+            "username": "PlanetFreeWill"
+        }
+    ]
+}

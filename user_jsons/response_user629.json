@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "created_at": "2014-01-01T03:15:59.000Z",
+            "description": "God and America lovin' mom. #MAGA for my children and yours!",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 33,
+                            "start": 28,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "2271098004",
+            "name": "PatriotMom",
+            "public_metrics": {
+                "followers_count": 1874,
+                "following_count": 2608,
+                "listed_count": 3,
+                "tweet_count": 50976
+            },
+            "username": "gracejohnmom"
+        }
+    ]
+}

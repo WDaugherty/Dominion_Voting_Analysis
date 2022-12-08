@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2014-01-06T23:25:17.000Z",
+            "description": "Mom of 2 beautiful girls; loves family, friends and the country life. Who also believes everything happens for a reason #MAGA #MCGA #AmericaFirst #2A",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 125,
+                            "start": 120,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 131,
+                            "start": 126,
+                            "tag": "MCGA"
+                        },
+                        {
+                            "end": 145,
+                            "start": 132,
+                            "tag": "AmericaFirst"
+                        },
+                        {
+                            "end": 149,
+                            "start": 146,
+                            "tag": "2A"
+                        }
+                    ]
+                }
+            },
+            "id": "2279717750",
+            "location": "Santee Ca",
+            "name": "Angela Damon\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8USA 1st",
+            "public_metrics": {
+                "followers_count": 806,
+                "following_count": 811,
+                "listed_count": 4,
+                "tweet_count": 27195
+            },
+            "username": "usagirlaa01"
+        }
+    ]
+}

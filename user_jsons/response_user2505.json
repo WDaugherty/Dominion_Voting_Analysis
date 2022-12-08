@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "created_at": "2016-02-10T01:52:20.000Z",
+            "description": "#OPLIVE,MAGA , Adopt don\u2019t shop. \ud83d\udc36\ud83d\udc31On TruthSocial @Debra8469",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 7,
+                            "start": 0,
+                            "tag": "OPLIVE"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 60,
+                            "start": 50,
+                            "username": "Debra8469"
+                        }
+                    ]
+                }
+            },
+            "id": "4893755585",
+            "location": " USA",
+            "name": "Debra",
+            "public_metrics": {
+                "followers_count": 1223,
+                "following_count": 668,
+                "listed_count": 7,
+                "tweet_count": 306585
+            },
+            "username": "fred7722"
+        }
+    ]
+}

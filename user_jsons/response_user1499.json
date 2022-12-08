@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2009-01-01T19:16:29.000Z",
+            "description": "Born in http://Chicago  , no children no drama. a good guy. a President Trump supporter ULTRA MAGA! if you voted for biden. Do NOT contact me!#MAGA.",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 147,
+                            "start": 142,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "18533549",
+            "location": "Savannah, GA",
+            "name": "ArthurAndrew",
+            "public_metrics": {
+                "followers_count": 2690,
+                "following_count": 3406,
+                "listed_count": 1,
+                "tweet_count": 55532
+            },
+            "username": "ArthurAndrew"
+        }
+    ]
+}

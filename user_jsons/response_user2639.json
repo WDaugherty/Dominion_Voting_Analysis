@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2013-07-01T15:47:47.000Z",
+            "description": "LOYAL TO A FAULT in this order: moi,  my husband, who/what I consider family and/or friends, USA, TEXAS,  Conservatism. #MAGA #KAG #Trump 'Til Death Do Us Part'",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 125,
+                            "start": 120,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 130,
+                            "start": 126,
+                            "tag": "KAG"
+                        },
+                        {
+                            "end": 137,
+                            "start": 131,
+                            "tag": "Trump"
+                        }
+                    ]
+                }
+            },
+            "id": "1560813024",
+            "location": "Texas, USA",
+            "name": "I Am BULLISTIK\u00ae \ud83c\uddfa\ud83c\uddf2",
+            "public_metrics": {
+                "followers_count": 930,
+                "following_count": 708,
+                "listed_count": 4,
+                "tweet_count": 104014
+            },
+            "username": "Bullistik"
+        }
+    ]
+}

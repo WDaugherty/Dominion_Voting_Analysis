@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2013-08-13T20:28:47.000Z",
+            "description": "Litigant in Person acting against DB and others for precious metal price manipulation. Conspiracy theorist.",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "shyreman.com",
+                            "end": 23,
+                            "expanded_url": "http://www.shyreman.com",
+                            "start": 0,
+                            "url": "https://t.co/C4VSJheAqB"
+                        }
+                    ]
+                }
+            },
+            "id": "1668691658",
+            "location": "Staffordshire, UK",
+            "name": "Mark Anthony Taylor",
+            "public_metrics": {
+                "followers_count": 1240,
+                "following_count": 1514,
+                "listed_count": 8,
+                "tweet_count": 17846
+            },
+            "username": "Shyreman"
+        }
+    ]
+}

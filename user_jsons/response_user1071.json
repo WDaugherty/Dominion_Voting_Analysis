@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2019-02-09T00:57:50.000Z",
+            "description": "Doug Bebb BApSc (Mech Eng), MBA;  People's Party candidate for West Vancouver-Sunshine Coast-Sea to Sky Country for 43rd & 44th general elections.",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bebbppc.ca",
+                            "end": 23,
+                            "expanded_url": "http://www.bebbppc.ca",
+                            "start": 0,
+                            "url": "https://t.co/nSAmAG7cAp"
+                        }
+                    ]
+                }
+            },
+            "id": "1094037623646019584",
+            "location": "Whistler, British Columbia",
+            "name": "Doug Bebb",
+            "public_metrics": {
+                "followers_count": 1305,
+                "following_count": 169,
+                "listed_count": 0,
+                "tweet_count": 14027
+            },
+            "username": "DougBebb"
+        }
+    ]
+}

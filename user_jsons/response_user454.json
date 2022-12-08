@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2017-06-09T19:37:48.000Z",
+            "description": "Hard working Grandmother. I have been on the Trump Train since day one. No DM's. #MAGA \ud83c\uddfa\ud83c\uddf8",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 86,
+                            "start": 81,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "873262873140748288",
+            "location": "Aurora MO ",
+            "name": "\u274cPatriot64\u274c",
+            "public_metrics": {
+                "followers_count": 5793,
+                "following_count": 6318,
+                "listed_count": 1,
+                "tweet_count": 57140
+            },
+            "username": "Pgunn64"
+        }
+    ]
+}

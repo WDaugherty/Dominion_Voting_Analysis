@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "created_at": "2010-08-12T14:41:59.000Z",
+            "description": "THINK AMERICA GREAT! Conservatism. Patriotism. Optimism. Don't Take My Lemonade Stand, Uncommon Sense,0 Slogans. God. Country. Family. #4sUp https://t.co/j92pcSDwQV",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 140,
+                            "start": 135,
+                            "tag": "4sUp"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "amz.run/3Ulm",
+                            "end": 164,
+                            "expanded_url": "http://amz.run/3Ulm",
+                            "start": 141,
+                            "url": "https://t.co/j92pcSDwQV"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "jjauthor.com",
+                            "end": 23,
+                            "expanded_url": "http://www.jjauthor.com",
+                            "start": 0,
+                            "url": "https://t.co/T5sejA9K9p"
+                        }
+                    ]
+                }
+            },
+            "id": "177584156",
+            "location": "Nevada, USA",
+            "name": "Janie Johnson - America is Exceptional",
+            "public_metrics": {
+                "followers_count": 191535,
+                "following_count": 66598,
+                "listed_count": 2188,
+                "tweet_count": 1098184
+            },
+            "username": "jjauthor"
+        }
+    ]
+}

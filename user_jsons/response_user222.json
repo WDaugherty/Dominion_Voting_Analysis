@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2016-04-14T01:50:54.000Z",
+            "description": "Conservative Republican. A widow of a Vet. Retired from American Airlines/Sabre. Don\u2019t ask me for money. #MAGA I follow back. Cherokee nation citizen",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 110,
+                            "start": 105,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "720429087483760640",
+            "location": "Tulsa, OK",
+            "name": "Rita",
+            "public_metrics": {
+                "followers_count": 619,
+                "following_count": 769,
+                "listed_count": 2,
+                "tweet_count": 42964
+            },
+            "username": "lavenderRita"
+        }
+    ]
+}

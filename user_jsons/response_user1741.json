@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2008-06-26T21:37:21.000Z",
+            "description": "Health Care IT Consultant and Blogger,Discussing PHR, EHR, Health Technology, And Ducks",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.me/Barbara.Duck",
+                            "end": 22,
+                            "expanded_url": "http://about.me/Barbara.Duck",
+                            "start": 0,
+                            "url": "http://t.co/QAPz8gvAXa"
+                        }
+                    ]
+                }
+            },
+            "id": "15248550",
+            "location": "Orange County, CA",
+            "name": "MedicalQuack",
+            "public_metrics": {
+                "followers_count": 9324,
+                "following_count": 1697,
+                "listed_count": 0,
+                "tweet_count": 276111
+            },
+            "username": "MedicalQuack"
+        }
+    ]
+}

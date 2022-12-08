@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "created_at": "2017-02-07T23:06:41.000Z",
+            "description": "#PeterObi #OBIDATTI #2023 #LABOUR",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 9,
+                            "start": 0,
+                            "tag": "PeterObi"
+                        },
+                        {
+                            "end": 19,
+                            "start": 10,
+                            "tag": "OBIDATTI"
+                        },
+                        {
+                            "end": 33,
+                            "start": 26,
+                            "tag": "LABOUR"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "sillygist.com",
+                            "end": 23,
+                            "expanded_url": "http://sillygist.com",
+                            "start": 0,
+                            "url": "https://t.co/HtarCGHvuS"
+                        }
+                    ]
+                }
+            },
+            "id": "829104120657223681",
+            "location": "Silly Vill",
+            "name": "Silly Gist\u2122\u00ae\ufe0f\uea00",
+            "public_metrics": {
+                "followers_count": 647,
+                "following_count": 3543,
+                "listed_count": 6,
+                "tweet_count": 47902
+            },
+            "username": "SillyGist"
+        }
+    ]
+}

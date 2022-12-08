@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2011-01-11T21:02:32.000Z",
+            "description": "#2A \ud83c\uddfa\ud83c\uddf8 Steeler Nation\ud83c\udfc8 412 Sports IUP Hawks \ud83e\udd85 Gig 'em Ags\ud83d\udc4dMMA\ud83e\udd4aFighting the Good Fight\ud83d\ude4f",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 3,
+                            "start": 0,
+                            "tag": "2A"
+                        }
+                    ]
+                }
+            },
+            "id": "236995682",
+            "location": "Austin, Texas USA",
+            "name": "PointeeBoots",
+            "public_metrics": {
+                "followers_count": 355,
+                "following_count": 3573,
+                "listed_count": 5,
+                "tweet_count": 6512
+            },
+            "username": "tradlvalu"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2009-06-14T14:19:07.000Z",
+            "description": "https://t.co/pIyqiqPp49  My book about gun smuggling (Crime, Drama: Inspired by true events),  Seeking a publisher, script to be made into a movie",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "addictedtodanger.com",
+                            "end": 23,
+                            "expanded_url": "http://addictedtodanger.com",
+                            "start": 0,
+                            "url": "https://t.co/pIyqiqPp49"
+                        }
+                    ]
+                }
+            },
+            "id": "47098533",
+            "location": "Medellin, Colombia",
+            "name": "A. Serna",
+            "public_metrics": {
+                "followers_count": 304,
+                "following_count": 120,
+                "listed_count": 7,
+                "tweet_count": 30811
+            },
+            "username": "Cumbia321"
+        }
+    ]
+}

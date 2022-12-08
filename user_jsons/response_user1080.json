@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "created_at": "2019-07-16T22:43:33.000Z",
+            "description": "America's new choice for real news. https://t.co/RLNCLWLxeX\n\nrt =/= endorsement",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "NationalFile.com",
+                            "end": 59,
+                            "expanded_url": "http://NationalFile.com",
+                            "start": 36,
+                            "url": "https://t.co/RLNCLWLxeX"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "nationalfile.com",
+                            "end": 23,
+                            "expanded_url": "http://nationalfile.com",
+                            "start": 0,
+                            "url": "https://t.co/E59L2Z2CSf"
+                        }
+                    ]
+                }
+            },
+            "id": "1151261114384171008",
+            "location": "United States of America",
+            "name": "National File",
+            "public_metrics": {
+                "followers_count": 31110,
+                "following_count": 558,
+                "listed_count": 208,
+                "tweet_count": 10173
+            },
+            "username": "NationalFile"
+        }
+    ]
+}

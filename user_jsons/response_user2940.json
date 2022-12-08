@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "created_at": "2017-03-09T02:57:43.000Z",
+            "description": "\u201c#love everyone even if you disagree with them and please be kind\u201d",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 6,
+                            "start": 1,
+                            "tag": "love"
+                        }
+                    ]
+                }
+            },
+            "id": "839671512978309120",
+            "name": "Dondi Raider",
+            "public_metrics": {
+                "followers_count": 277,
+                "following_count": 210,
+                "listed_count": 1,
+                "tweet_count": 27131
+            },
+            "username": "DondiRaider"
+        }
+    ]
+}

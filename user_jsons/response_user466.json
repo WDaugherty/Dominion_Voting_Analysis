@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "created_at": "2011-07-29T22:37:05.000Z",
+            "description": "\ud83c\uddfa\ud83c\uddf8 #Freedom #USA #Patriot #Constitution Applaud the ones that fight back against those that are destroying America #Cruz #Trump #DeSantis #Lake #Noem #MAGA",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 11,
+                            "start": 3,
+                            "tag": "Freedom"
+                        },
+                        {
+                            "end": 16,
+                            "start": 12,
+                            "tag": "USA"
+                        },
+                        {
+                            "end": 25,
+                            "start": 17,
+                            "tag": "Patriot"
+                        },
+                        {
+                            "end": 39,
+                            "start": 26,
+                            "tag": "Constitution"
+                        },
+                        {
+                            "end": 120,
+                            "start": 115,
+                            "tag": "Cruz"
+                        },
+                        {
+                            "end": 127,
+                            "start": 121,
+                            "tag": "Trump"
+                        },
+                        {
+                            "end": 137,
+                            "start": 128,
+                            "tag": "DeSantis"
+                        },
+                        {
+                            "end": 143,
+                            "start": 138,
+                            "tag": "Lake"
+                        },
+                        {
+                            "end": 149,
+                            "start": 144,
+                            "tag": "Noem"
+                        },
+                        {
+                            "end": 155,
+                            "start": 150,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "345001664",
+            "location": "Louisiana, USA",
+            "name": "M Helm",
+            "public_metrics": {
+                "followers_count": 5180,
+                "following_count": 5596,
+                "listed_count": 45,
+                "tweet_count": 216883
+            },
+            "username": "1Bunny4T"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "created_at": "2014-01-22T23:50:43.000Z",
+            "description": "Proud to live in the USA and will always #BackTheBlue \ud83d\udc99 #MAGA \ud83c\uddfa\ud83c\uddf8",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 53,
+                            "start": 41,
+                            "tag": "BackTheBlue"
+                        },
+                        {
+                            "end": 61,
+                            "start": 56,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "2305636374",
+            "name": "jmb_USA",
+            "public_metrics": {
+                "followers_count": 423,
+                "following_count": 878,
+                "listed_count": 0,
+                "tweet_count": 29992
+            },
+            "username": "jmb_USA"
+        }
+    ]
+}

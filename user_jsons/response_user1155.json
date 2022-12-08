@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "created_at": "2012-10-26T04:40:27.000Z",
+            "description": "Catholic, Proud American, Conservative. Lifelong NY Met fan\n#MAGA #arrestSoros #DrainTheSwamp. #BuildThatWall\n#Pro-life. #NRA #GodBlessTheUSA\nI block leftists",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 65,
+                            "start": 60,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 78,
+                            "start": 66,
+                            "tag": "arrestSoros"
+                        },
+                        {
+                            "end": 93,
+                            "start": 79,
+                            "tag": "DrainTheSwamp"
+                        },
+                        {
+                            "end": 109,
+                            "start": 95,
+                            "tag": "BuildThatWall"
+                        },
+                        {
+                            "end": 114,
+                            "start": 110,
+                            "tag": "Pro"
+                        },
+                        {
+                            "end": 125,
+                            "start": 121,
+                            "tag": "NRA"
+                        },
+                        {
+                            "end": 141,
+                            "start": 126,
+                            "tag": "GodBlessTheUSA"
+                        }
+                    ]
+                }
+            },
+            "id": "905290200",
+            "location": " USA",
+            "name": "Patti",
+            "public_metrics": {
+                "followers_count": 927,
+                "following_count": 1982,
+                "listed_count": 4,
+                "tweet_count": 31899
+            },
+            "username": "nypattif"
+        }
+    ]
+}

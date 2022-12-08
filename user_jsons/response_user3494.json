@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "created_at": "2011-01-10T20:43:46.000Z",
+            "description": "First female MD to serve full term as Member of Congress. Trump 2020 Advisory Board. @IWF. Mom of 2 2-legged, 4 4-legged kids :-) Native Hoosier. Love #Freedom",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 159,
+                            "start": 151,
+                            "tag": "Freedom"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 89,
+                            "start": 85,
+                            "username": "IWF"
+                        }
+                    ]
+                }
+            },
+            "id": "236541422",
+            "location": "Bedford, NY",
+            "name": "Nan Hayworth, M.D.",
+            "public_metrics": {
+                "followers_count": 47711,
+                "following_count": 8578,
+                "listed_count": 432,
+                "tweet_count": 139825
+            },
+            "username": "NanHayworth"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2016-04-01T15:53:36.000Z",
+            "description": "It ain't dying I'm talking about, it's the living. I doubt it matters where you die, but it matters where you live. Capt. Gus McCrae. \n\n#PATRIOT.#NRA.#2A.#III%",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 144,
+                            "start": 136,
+                            "tag": "PATRIOT"
+                        },
+                        {
+                            "end": 149,
+                            "start": 145,
+                            "tag": "NRA"
+                        },
+                        {
+                            "end": 153,
+                            "start": 150,
+                            "tag": "2A"
+                        },
+                        {
+                            "end": 158,
+                            "start": 154,
+                            "tag": "III"
+                        }
+                    ]
+                }
+            },
+            "id": "715930119626301440",
+            "location": "Impeach Biden/Harris ",
+            "name": "Gunslinger",
+            "public_metrics": {
+                "followers_count": 3202,
+                "following_count": 4825,
+                "listed_count": 31,
+                "tweet_count": 46663
+            },
+            "username": "AlkireMike"
+        }
+    ]
+}

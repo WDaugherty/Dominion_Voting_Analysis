@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2009-02-11T15:36:50.000Z",
+            "description": "Jesus is my Savior and my family rocks. My teams are the Cowboys, Mavs, Rangers and Aggies #Conservative #MAGA #constitutionalist, #Texan through and through.",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 104,
+                            "start": 91,
+                            "tag": "Conservative"
+                        },
+                        {
+                            "end": 110,
+                            "start": 105,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 129,
+                            "start": 111,
+                            "tag": "constitutionalist"
+                        },
+                        {
+                            "end": 137,
+                            "start": 131,
+                            "tag": "Texan"
+                        }
+                    ]
+                }
+            },
+            "id": "20596948",
+            "location": "Amarillo, TX",
+            "name": "Dana Young",
+            "public_metrics": {
+                "followers_count": 589,
+                "following_count": 3460,
+                "listed_count": 4,
+                "tweet_count": 20266
+            },
+            "username": "Danabott"
+        }
+    ]
+}

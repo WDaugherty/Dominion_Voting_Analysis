@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2010-03-09T05:13:49.000Z",
+            "description": "",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "dnewsviper.site123.me",
+                            "end": 23,
+                            "expanded_url": "https://dnewsviper.site123.me/",
+                            "start": 0,
+                            "url": "https://t.co/VpwwKYLio3"
+                        }
+                    ]
+                }
+            },
+            "id": "121333842",
+            "location": "Aztec NM",
+            "name": "Jerry Dean Bowers",
+            "public_metrics": {
+                "followers_count": 241,
+                "following_count": 34,
+                "listed_count": 39,
+                "tweet_count": 308240
+            },
+            "username": "vipertoxin"
+        }
+    ]
+}

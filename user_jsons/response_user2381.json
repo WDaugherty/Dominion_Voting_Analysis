@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "created_at": "2010-04-15T13:04:13.000Z",
+            "description": "Believe in freedom, the Bill of Rights, and the Constitution. MOLON LABE. All tweets represent my opinion only. #Deplorable and damn proud of it. #NRA",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 123,
+                            "start": 112,
+                            "tag": "Deplorable"
+                        },
+                        {
+                            "end": 150,
+                            "start": 146,
+                            "tag": "NRA"
+                        }
+                    ]
+                }
+            },
+            "id": "133277230",
+            "name": "Buddy3880309 \u274c on Parler, Gab, Clouthub",
+            "public_metrics": {
+                "followers_count": 2031,
+                "following_count": 3764,
+                "listed_count": 31,
+                "tweet_count": 261008
+            },
+            "username": "Buddy3880309"
+        }
+    ]
+}

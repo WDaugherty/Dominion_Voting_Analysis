@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2014-11-22T02:46:51.000Z",
+            "description": "NCSU \u201884, UCLA \u201886 & \u201888",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "nasa.gov/centers/langley",
+                            "end": 23,
+                            "expanded_url": "http://www.nasa.gov/centers/langley",
+                            "start": 0,
+                            "url": "https://t.co/tDiAW22gLw"
+                        }
+                    ]
+                }
+            },
+            "id": "2887610657",
+            "location": "Hampton, VA",
+            "name": "Brandon Sherrill",
+            "public_metrics": {
+                "followers_count": 241,
+                "following_count": 237,
+                "listed_count": 8,
+                "tweet_count": 72527
+            },
+            "username": "markyOmatic"
+        }
+    ]
+}

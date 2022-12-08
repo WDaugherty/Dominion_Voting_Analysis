@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "created_at": "2016-09-28T13:47:46.000Z",
+            "description": "#Election2016 #Election2016",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 13,
+                            "start": 0,
+                            "tag": "Election2016"
+                        },
+                        {
+                            "end": 27,
+                            "start": 14,
+                            "tag": "Election2016"
+                        }
+                    ]
+                }
+            },
+            "id": "781128266702790656",
+            "name": "Judith Verrastro",
+            "public_metrics": {
+                "followers_count": 510,
+                "following_count": 177,
+                "listed_count": 15,
+                "tweet_count": 86151
+            },
+            "username": "dunn1960"
+        }
+    ]
+}

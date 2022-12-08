@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "created_at": "2017-11-18T00:31:44.000Z",
+            "description": "RT/Follow does not imply endorsement",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "culturalhusbandry.substack.com",
+                            "end": 23,
+                            "expanded_url": "https://culturalhusbandry.substack.com/",
+                            "start": 0,
+                            "url": "https://t.co/i8sQwG3NJk"
+                        }
+                    ]
+                }
+            },
+            "id": "931681289614385158",
+            "name": "CulturalHusbandry",
+            "public_metrics": {
+                "followers_count": 46086,
+                "following_count": 1847,
+                "listed_count": 364,
+                "tweet_count": 35670
+            },
+            "username": "APhilosophae"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "created_at": "2017-04-03T16:12:58.000Z",
+            "description": "#MAGA, USAF Vet, RED Pill Awake American! Our GOD, Family, Country, & Patriots Prevail! Family 1st! Same on Parler: https://t.co/pA8k4Xvjap",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "MAGA"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "par.pw/download/",
+                            "end": 139,
+                            "expanded_url": "http://par.pw/download/",
+                            "start": 116,
+                            "url": "https://t.co/pA8k4Xvjap"
+                        }
+                    ]
+                }
+            },
+            "id": "848931337910145025",
+            "name": "Madd_Patriot",
+            "public_metrics": {
+                "followers_count": 787,
+                "following_count": 934,
+                "listed_count": 0,
+                "tweet_count": 7371
+            },
+            "username": "EricMaddan"
+        }
+    ]
+}

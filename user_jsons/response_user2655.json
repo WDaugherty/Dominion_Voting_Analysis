@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "created_at": "2012-10-05T21:18:40.000Z",
+            "description": "\ud83d\ude0d #UniqueJewlryMaker #gemhunter #rockhound  #Arizons4Trump #MAGA #NoLists\u26a0",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 20,
+                            "start": 2,
+                            "tag": "UniqueJewlryMaker"
+                        },
+                        {
+                            "end": 31,
+                            "start": 21,
+                            "tag": "gemhunter"
+                        },
+                        {
+                            "end": 42,
+                            "start": 32,
+                            "tag": "rockhound"
+                        },
+                        {
+                            "end": 58,
+                            "start": 44,
+                            "tag": "Arizons4Trump"
+                        },
+                        {
+                            "end": 64,
+                            "start": 59,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 73,
+                            "start": 65,
+                            "tag": "NoLists"
+                        }
+                    ]
+                }
+            },
+            "id": "863693749",
+            "name": "Greeneyeshj \ud83c\uddfa\ud83c\uddf8\ud83c\udf35",
+            "public_metrics": {
+                "followers_count": 816,
+                "following_count": 1514,
+                "listed_count": 85,
+                "tweet_count": 150136
+            },
+            "username": "greeneyeshj"
+        }
+    ]
+}

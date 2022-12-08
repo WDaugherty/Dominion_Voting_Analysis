@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "created_at": "2012-09-11T23:55:14.000Z",
+            "description": "Happy conservative. #MAGA #Trump2024 Judge people for their character and nothing else! Love animals. Love WoW \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8 Parler: @freespeechnow",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 25,
+                            "start": 20,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 36,
+                            "start": 26,
+                            "tag": "Trump2024"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 144,
+                            "start": 130,
+                            "username": "freespeechnow"
+                        }
+                    ]
+                }
+            },
+            "id": "818451103",
+            "location": "Maryland, USA",
+            "name": "USA Freedom \ud83c\uddfa\ud83c\uddf8 \u2764\ufe0f\ud83d\ude4f\ud83c\udffb",
+            "public_metrics": {
+                "followers_count": 3637,
+                "following_count": 4302,
+                "listed_count": 6,
+                "tweet_count": 40931
+            },
+            "username": "USA_Rises"
+        }
+    ]
+}

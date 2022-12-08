@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "created_at": "2017-07-01T21:06:05.000Z",
+            "description": "Entrepreneur, bring manufacturing back to US. American first \ud83c\uddfa\ud83c\uddf8 \nNo tolerance to communists. \n#standwithHongKong, #standwithTaiWan.",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 112,
+                            "start": 94,
+                            "tag": "standwithHongKong"
+                        },
+                        {
+                            "end": 130,
+                            "start": 114,
+                            "tag": "standwithTaiWan"
+                        }
+                    ]
+                }
+            },
+            "id": "881257625878319105",
+            "location": "US",
+            "name": "\u5e73\u51e1\u4e4b\u8def\ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 318,
+                "following_count": 106,
+                "listed_count": 3,
+                "tweet_count": 4077
+            },
+            "username": "rj70679"
+        }
+    ]
+}

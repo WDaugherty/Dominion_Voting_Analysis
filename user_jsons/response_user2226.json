@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "created_at": "2020-09-30T15:54:08.000Z",
+            "description": "Brazilian. Love BRAZIL, USA, UK & Israel.\nBrasileiro, Patriota\n\n#BolsonaroPresidente22 \n\n#BrazilianSpring \n#BrazilWasStolen\n\n#ForaLulaLadrao",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 86,
+                            "start": 64,
+                            "tag": "BolsonaroPresidente22"
+                        },
+                        {
+                            "end": 105,
+                            "start": 89,
+                            "tag": "BrazilianSpring"
+                        },
+                        {
+                            "end": 123,
+                            "start": 107,
+                            "tag": "BrazilWasStolen"
+                        },
+                        {
+                            "end": 140,
+                            "start": 125,
+                            "tag": "ForaLulaLadrao"
+                        }
+                    ]
+                }
+            },
+            "id": "1311333442257379331",
+            "name": "Theo Neto",
+            "public_metrics": {
+                "followers_count": 5724,
+                "following_count": 5451,
+                "listed_count": 1,
+                "tweet_count": 115977
+            },
+            "username": "TheoNeto18"
+        }
+    ]
+}

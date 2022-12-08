@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2019-12-07T01:44:21.000Z",
+            "description": "It's time to #Resist Creepy Sleepy Beijing Joe Biden. He is illegitimate and should never be allowed in the oval office.",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 20,
+                            "start": 13,
+                            "tag": "Resist"
+                        }
+                    ]
+                }
+            },
+            "id": "1203127298431606784",
+            "location": "medfield MA",
+            "name": "Kevin higgins",
+            "public_metrics": {
+                "followers_count": 60,
+                "following_count": 337,
+                "listed_count": 0,
+                "tweet_count": 10573
+            },
+            "username": "Kevinhi23618957"
+        }
+    ]
+}

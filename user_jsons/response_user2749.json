@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2013-08-22T11:35:20.000Z",
+            "description": "On our website it is always winter and snow. Visit our website to play free snow games. Play Snow Games, Skiing Games, Snowboard Games, & more.",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "freesnowgames.com",
+                            "end": 23,
+                            "expanded_url": "http://www.freesnowgames.com/",
+                            "start": 0,
+                            "url": "https://t.co/9JZHY23kKK"
+                        }
+                    ]
+                }
+            },
+            "id": "1690834207",
+            "location": "United States",
+            "name": "Free Snow Games",
+            "public_metrics": {
+                "followers_count": 543,
+                "following_count": 844,
+                "listed_count": 1,
+                "tweet_count": 2686
+            },
+            "username": "freesnowgames"
+        }
+    ]
+}

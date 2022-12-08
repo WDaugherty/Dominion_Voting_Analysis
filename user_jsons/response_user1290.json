@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "created_at": "2020-04-19T20:29:42.000Z",
+            "description": "Christian,mother,grandmother,ProudAmerican,Patriot,Trump supporter. #Trump2020",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 78,
+                            "start": 68,
+                            "tag": "Trump2020"
+                        }
+                    ]
+                }
+            },
+            "id": "1251971146238615552",
+            "name": "Grammie",
+            "public_metrics": {
+                "followers_count": 68,
+                "following_count": 217,
+                "listed_count": 0,
+                "tweet_count": 5616
+            },
+            "username": "Grammie09736730"
+        }
+    ]
+}

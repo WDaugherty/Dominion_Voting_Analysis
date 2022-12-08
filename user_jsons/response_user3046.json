@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "created_at": "2009-05-08T00:29:24.000Z",
+            "description": "#Health #Fitness #Science #Authors #Business #Speakers #PresidentTrump #News #MAGA #Music #Entertainment #Events",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 7,
+                            "start": 0,
+                            "tag": "Health"
+                        },
+                        {
+                            "end": 16,
+                            "start": 8,
+                            "tag": "Fitness"
+                        },
+                        {
+                            "end": 25,
+                            "start": 17,
+                            "tag": "Science"
+                        },
+                        {
+                            "end": 34,
+                            "start": 26,
+                            "tag": "Authors"
+                        },
+                        {
+                            "end": 44,
+                            "start": 35,
+                            "tag": "Business"
+                        },
+                        {
+                            "end": 54,
+                            "start": 45,
+                            "tag": "Speakers"
+                        },
+                        {
+                            "end": 70,
+                            "start": 55,
+                            "tag": "PresidentTrump"
+                        },
+                        {
+                            "end": 76,
+                            "start": 71,
+                            "tag": "News"
+                        },
+                        {
+                            "end": 82,
+                            "start": 77,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 89,
+                            "start": 83,
+                            "tag": "Music"
+                        },
+                        {
+                            "end": 104,
+                            "start": 90,
+                            "tag": "Entertainment"
+                        },
+                        {
+                            "end": 112,
+                            "start": 105,
+                            "tag": "Events"
+                        }
+                    ]
+                }
+            },
+            "id": "38560234",
+            "location": "LasVegas - Global",
+            "name": "Masters of",
+            "public_metrics": {
+                "followers_count": 23179,
+                "following_count": 25763,
+                "listed_count": 939,
+                "tweet_count": 82062
+            },
+            "username": "_Mastersof"
+        }
+    ]
+}

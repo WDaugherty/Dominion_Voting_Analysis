@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2019-01-29T04:29:20.000Z",
+            "description": "Remember: Opinions are like assholes. Everybody\u2019s got one... but this asshole has The Right Opinion. Blocked by Nancy Sinatra / Followed by Kurt Schlichter",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "rightopinionpod.substack.com",
+                            "end": 23,
+                            "expanded_url": "https://rightopinionpod.substack.com/",
+                            "start": 0,
+                            "url": "https://t.co/2hgiSoWPZC"
+                        }
+                    ]
+                }
+            },
+            "id": "1090104583656034304",
+            "location": "What-Used-To-Be-America",
+            "name": "Team DeSantis",
+            "public_metrics": {
+                "followers_count": 652,
+                "following_count": 1773,
+                "listed_count": 3,
+                "tweet_count": 29578
+            },
+            "username": "RightOpinionPod"
+        }
+    ]
+}

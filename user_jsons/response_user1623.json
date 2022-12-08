@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "created_at": "2008-09-23T17:52:31.000Z",
+            "description": "Myrna King\nCoach, Consultant, Cofounder\nMom, Meditator, Maven  *Science proves grateful people are happier - join them!* https://t.co/UFKFQt8ivr",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "Gumroad.com/MyrnaKing",
+                            "end": 144,
+                            "expanded_url": "http://www.Gumroad.com/MyrnaKing",
+                            "start": 121,
+                            "url": "https://t.co/UFKFQt8ivr"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "myrnacoaching.com",
+                            "end": 23,
+                            "expanded_url": "https://myrnacoaching.com/",
+                            "start": 0,
+                            "url": "https://t.co/SRuz7oWhH3"
+                        }
+                    ]
+                }
+            },
+            "id": "16422445",
+            "location": "Texas",
+            "name": "MKTexas",
+            "public_metrics": {
+                "followers_count": 2703,
+                "following_count": 4095,
+                "listed_count": 12,
+                "tweet_count": 31521
+            },
+            "username": "MKTexas"
+        }
+    ]
+}

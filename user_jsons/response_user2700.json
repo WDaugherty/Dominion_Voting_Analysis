@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "created_at": "2016-07-21T06:06:36.000Z",
+            "description": "#MAGA, #WALKAWAY, #KAG, #KAG2020, #TRUMP, #BidenDementia",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 16,
+                            "start": 7,
+                            "tag": "WALKAWAY"
+                        },
+                        {
+                            "end": 22,
+                            "start": 18,
+                            "tag": "KAG"
+                        },
+                        {
+                            "end": 32,
+                            "start": 24,
+                            "tag": "KAG2020"
+                        },
+                        {
+                            "end": 40,
+                            "start": 34,
+                            "tag": "TRUMP"
+                        },
+                        {
+                            "end": 56,
+                            "start": 42,
+                            "tag": "BidenDementia"
+                        }
+                    ]
+                }
+            },
+            "id": "756007446859001856",
+            "location": "Donald Trump\u2019s America",
+            "name": "XPose Election Fraud 2020",
+            "public_metrics": {
+                "followers_count": 7152,
+                "following_count": 7502,
+                "listed_count": 6,
+                "tweet_count": 98481
+            },
+            "username": "ricepaul2010"
+        }
+    ]
+}

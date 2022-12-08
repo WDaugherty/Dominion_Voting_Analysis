@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "created_at": "2017-10-29T00:49:40.000Z",
+            "description": "MAY GOD BLESS AND PROTECT POTUS TRUMP!! #AmericaFIRST #DRAINTHESWAMP #PATRIOT #ProLife Trump is on track to #MAGA!! STAND FOR TRUMP 2020! NO DIRECT MESSAGING",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 53,
+                            "start": 40,
+                            "tag": "AmericaFIRST"
+                        },
+                        {
+                            "end": 68,
+                            "start": 54,
+                            "tag": "DRAINTHESWAMP"
+                        },
+                        {
+                            "end": 77,
+                            "start": 69,
+                            "tag": "PATRIOT"
+                        },
+                        {
+                            "end": 86,
+                            "start": 78,
+                            "tag": "ProLife"
+                        },
+                        {
+                            "end": 113,
+                            "start": 108,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "924438048993136641",
+            "location": "Edgewood, MD",
+            "name": "#MAGA BabyDoll",
+            "public_metrics": {
+                "followers_count": 2441,
+                "following_count": 2486,
+                "listed_count": 1,
+                "tweet_count": 10598
+            },
+            "username": "liberto_donna"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "created_at": "2012-06-18T07:29:22.000Z",
+            "description": "\u2606Haters are my motivators!\n\u2606If you've got one foot in the past, and one in the future, you're sh\u00bftting on today!\u2664\nhttps://t.co/RRInkMg6Jn",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "parler.com/TimJ",
+                            "end": 137,
+                            "expanded_url": "http://parler.com/TimJ",
+                            "start": 114,
+                            "url": "https://t.co/RRInkMg6Jn"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "gab.ai/Tim_M_Johnson",
+                            "end": 23,
+                            "expanded_url": "http://gab.ai/Tim_M_Johnson",
+                            "start": 0,
+                            "url": "https://t.co/QkgKAwzLWW"
+                        }
+                    ]
+                }
+            },
+            "id": "611481343",
+            "location": "Palm Harbor, FL",
+            "name": "Tim Johnson",
+            "public_metrics": {
+                "followers_count": 668,
+                "following_count": 916,
+                "listed_count": 22,
+                "tweet_count": 127128
+            },
+            "username": "Tim_m_johnson"
+        }
+    ]
+}

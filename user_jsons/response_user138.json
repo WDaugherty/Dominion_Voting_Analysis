@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2012-03-12T04:59:57.000Z",
+            "description": "4th generation Marine family. Married 35 yrs to Ret. @USMC KC-130J Pilot. Vintage book collector. Patron of The Citadel. Support Our Troops\ud83c\uddfa\ud83c\uddf8 Psalm 91",
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "end": 58,
+                            "start": 53,
+                            "username": "USMC"
+                        }
+                    ]
+                }
+            },
+            "id": "521966673",
+            "location": "TEXAS",
+            "name": "JamieRJN",
+            "public_metrics": {
+                "followers_count": 10253,
+                "following_count": 9002,
+                "listed_count": 171,
+                "tweet_count": 442562
+            },
+            "username": "JamieRJN"
+        }
+    ]
+}

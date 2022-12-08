@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2015-03-05T20:56:59.000Z",
+            "description": "Die hard Colts fan \u2022 Psalm 28:7 \u2022 Subscribe to Football Capitol Podcast \u2022 RMC Esports \u201823 \u2022 Barstool Athlete \u2022 #ForTheShoe \u2022 #GeauxTigers \ud83d\udc2f",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 122,
+                            "start": 111,
+                            "tag": "ForTheShoe"
+                        },
+                        {
+                            "end": 137,
+                            "start": 125,
+                            "tag": "GeauxTigers"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/channel/UCbFL3\u2026",
+                            "end": 23,
+                            "expanded_url": "https://www.youtube.com/channel/UCbFL3TxfHXGpFe6x5BqBzxA",
+                            "start": 0,
+                            "url": "https://t.co/qxmdTzKbPl"
+                        }
+                    ]
+                }
+            },
+            "id": "3073437754",
+            "name": "Austin Dugas",
+            "public_metrics": {
+                "followers_count": 277,
+                "following_count": 712,
+                "listed_count": 0,
+                "tweet_count": 39913
+            },
+            "username": "AustinDugas1228"
+        }
+    ]
+}

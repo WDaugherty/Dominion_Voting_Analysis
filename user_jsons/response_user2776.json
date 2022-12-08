@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "created_at": "2008-08-01T18:37:52.000Z",
+            "description": "conservative guy always open to new friends;#1A, #2A ; enjoy sports and outdoors; patriot; #MAGA; #KAG; no lists",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 47,
+                            "start": 44,
+                            "tag": "1A"
+                        },
+                        {
+                            "end": 52,
+                            "start": 49,
+                            "tag": "2A"
+                        },
+                        {
+                            "end": 96,
+                            "start": 91,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 102,
+                            "start": 98,
+                            "tag": "KAG"
+                        }
+                    ]
+                }
+            },
+            "id": "15692642",
+            "location": "USA - northern RI",
+            "name": "Tom_Larry2u",
+            "public_metrics": {
+                "followers_count": 4392,
+                "following_count": 4296,
+                "listed_count": 2,
+                "tweet_count": 187596
+            },
+            "username": "Tom_Larry2u"
+        }
+    ]
+}

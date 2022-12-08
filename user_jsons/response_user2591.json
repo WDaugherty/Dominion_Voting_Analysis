@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "created_at": "2012-10-30T16:44:52.000Z",
+            "description": "\ud83c\uddfa\ud83c\uddf8 Patriot and Freedom Health Fighter\nhttps://t.co/irF5xEtY4c\nhttps://t.co/NDRfUfx3Ig\nhttps://t.co/1KMKW9zQk3",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "5SmallStones.com",
+                            "end": 61,
+                            "expanded_url": "http://5SmallStones.com",
+                            "start": 38,
+                            "url": "https://t.co/irF5xEtY4c"
+                        },
+                        {
+                            "display_url": "HandsforHealthandFreedom.org",
+                            "end": 85,
+                            "expanded_url": "http://HandsforHealthandFreedom.org",
+                            "start": 62,
+                            "url": "https://t.co/NDRfUfx3Ig"
+                        },
+                        {
+                            "display_url": "RebeccaWeaver.substack.com",
+                            "end": 109,
+                            "expanded_url": "http://RebeccaWeaver.substack.com",
+                            "start": 86,
+                            "url": "https://t.co/1KMKW9zQk3"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "5SmallStones.com",
+                            "end": 23,
+                            "expanded_url": "http://5SmallStones.com",
+                            "start": 0,
+                            "url": "https://t.co/irF5xEtY4c"
+                        }
+                    ]
+                }
+            },
+            "id": "915021194",
+            "location": "California, USA",
+            "name": "Rebecca Weaver",
+            "public_metrics": {
+                "followers_count": 1232,
+                "following_count": 1457,
+                "listed_count": 11,
+                "tweet_count": 34301
+            },
+            "username": "RWeave717"
+        }
+    ]
+}

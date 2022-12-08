@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "created_at": "2016-08-03T19:01:31.000Z",
+            "description": "Direct Descendant Dr. Joseph Warren, Cousin of Dr. Vannevar Bush, DAR Freedom Medal Recipient , Duty Bound to Defend America, Live Free or Die #Trump #KAG #2A",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 149,
+                            "start": 143,
+                            "tag": "Trump"
+                        },
+                        {
+                            "end": 154,
+                            "start": 150,
+                            "tag": "KAG"
+                        },
+                        {
+                            "end": 158,
+                            "start": 155,
+                            "tag": "2A"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "resurrectyourvote.org",
+                            "end": 23,
+                            "expanded_url": "http://www.resurrectyourvote.org",
+                            "start": 0,
+                            "url": "https://t.co/i0KKN5DJ8E"
+                        }
+                    ]
+                }
+            },
+            "id": "760913503850856448",
+            "location": "Phoenix, AZ",
+            "name": "A Man From Nantucket @attACKbACK on GAB",
+            "public_metrics": {
+                "followers_count": 1271,
+                "following_count": 3821,
+                "listed_count": 7,
+                "tweet_count": 12978
+            },
+            "username": "atACKbACK"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "data": [
+        {
+            "created_at": "2017-01-14T18:03:41.000Z",
+            "description": "#JesusSaves #Married Dad of 4 gifted & beautiful children! \u2764\ufe0f Fordham Univetsity \ud83e\udd4e #PatriotsUnite #USA #MAGA #VETS #AmericaFirst #IFBAP",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 11,
+                            "start": 0,
+                            "tag": "JesusSaves"
+                        },
+                        {
+                            "end": 20,
+                            "start": 12,
+                            "tag": "Married"
+                        },
+                        {
+                            "end": 97,
+                            "start": 83,
+                            "tag": "PatriotsUnite"
+                        },
+                        {
+                            "end": 102,
+                            "start": 98,
+                            "tag": "USA"
+                        },
+                        {
+                            "end": 108,
+                            "start": 103,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 114,
+                            "start": 109,
+                            "tag": "VETS"
+                        },
+                        {
+                            "end": 128,
+                            "start": 115,
+                            "tag": "AmericaFirst"
+                        },
+                        {
+                            "end": 135,
+                            "start": 129,
+                            "tag": "IFBAP"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "linkedin.com/in/thomasebrig\u2026",
+                            "end": 23,
+                            "expanded_url": "https://www.linkedin.com/in/thomasebright/",
+                            "start": 0,
+                            "url": "https://t.co/YUw5k2KDJe"
+                        }
+                    ]
+                }
+            },
+            "id": "820330558760816644",
+            "location": "North Carolina, USA",
+            "name": "Tommy Bright",
+            "public_metrics": {
+                "followers_count": 4677,
+                "following_count": 4635,
+                "listed_count": 3,
+                "tweet_count": 36700
+            },
+            "username": "_TomBright"
+        }
+    ]
+}

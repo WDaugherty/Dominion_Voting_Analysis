@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "created_at": "2020-06-05T02:57:14.000Z",
+            "description": "#MAGA #KAG #TRUMP2020 #TRUMP #PATRIOT #CONSERVATIVE\u00a0",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 10,
+                            "start": 6,
+                            "tag": "KAG"
+                        },
+                        {
+                            "end": 21,
+                            "start": 11,
+                            "tag": "TRUMP2020"
+                        },
+                        {
+                            "end": 28,
+                            "start": 22,
+                            "tag": "TRUMP"
+                        },
+                        {
+                            "end": 37,
+                            "start": 29,
+                            "tag": "PATRIOT"
+                        },
+                        {
+                            "end": 51,
+                            "start": 38,
+                            "tag": "CONSERVATIVE"
+                        }
+                    ]
+                }
+            },
+            "id": "1268738492353392640",
+            "location": "USA",
+            "name": "TxMoonFlower",
+            "public_metrics": {
+                "followers_count": 384,
+                "following_count": 1915,
+                "listed_count": 0,
+                "tweet_count": 10844
+            },
+            "username": "TxMoonFlower1"
+        }
+    ]
+}

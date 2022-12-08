@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2016-07-08T02:32:22.000Z",
+            "description": "\"The only thing necessary for the triumph of evil is for good men to do nothing\" - Edmund Burke #MAGA #Trump2020 #GOPLandslide2018",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 101,
+                            "start": 96,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 112,
+                            "start": 102,
+                            "tag": "Trump2020"
+                        },
+                        {
+                            "end": 130,
+                            "start": 113,
+                            "tag": "GOPLandslide2018"
+                        }
+                    ]
+                }
+            },
+            "id": "751242491387531264",
+            "location": "League City, TX",
+            "name": "Agent355",
+            "public_metrics": {
+                "followers_count": 146,
+                "following_count": 282,
+                "listed_count": 9,
+                "tweet_count": 20886
+            },
+            "username": "hmraymondo1"
+        }
+    ]
+}

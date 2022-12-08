@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "created_at": "2011-02-14T21:57:37.000Z",
+            "description": "Dittos! Political wanderer @andyngo and @chadwick_moore fan. #LGB",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 65,
+                            "start": 61,
+                            "tag": "LGB"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 35,
+                            "start": 27,
+                            "username": "andyngo"
+                        },
+                        {
+                            "end": 55,
+                            "start": 40,
+                            "username": "chadwick_moore"
+                        }
+                    ]
+                }
+            },
+            "id": "252286126",
+            "location": "Warwick, NY",
+            "name": "DittoPost",
+            "public_metrics": {
+                "followers_count": 614,
+                "following_count": 1614,
+                "listed_count": 17,
+                "tweet_count": 53746
+            },
+            "username": "DittoPost"
+        }
+    ]
+}

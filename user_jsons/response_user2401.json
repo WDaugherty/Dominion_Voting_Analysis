@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "created_at": "2020-08-20T15:54:42.000Z",
+            "description": "@realdonaldtrump my #BestPresidentEver45  Catholic, Latina, Free Speech & God's gift of life! Married w Count F. von Perhacs #Trump2024  FollowMe=I FOLLOW BACK",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 40,
+                            "start": 20,
+                            "tag": "BestPresidentEver45"
+                        },
+                        {
+                            "end": 135,
+                            "start": 125,
+                            "tag": "Trump2024"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 16,
+                            "start": 0,
+                            "username": "realdonaldtrump"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "numbersusa.org/end-chain-migr\u2026",
+                            "end": 23,
+                            "expanded_url": "https://www.numbersusa.org/end-chain-migration",
+                            "start": 0,
+                            "url": "https://t.co/msGO7iWUzU"
+                        }
+                    ]
+                }
+            },
+            "id": "1296475689382604800",
+            "location": "Honolulu Part of the Year",
+            "name": "Countess Norika",
+            "public_metrics": {
+                "followers_count": 1459,
+                "following_count": 2447,
+                "listed_count": 0,
+                "tweet_count": 12985
+            },
+            "username": "CountessNorika"
+        }
+    ]
+}

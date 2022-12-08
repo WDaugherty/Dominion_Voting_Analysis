@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "created_at": "2010-04-07T04:29:29.000Z",
+            "description": "Cubano exiliado, no al castro comunismo. @danilodcu @ddelgadocu",
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "end": 51,
+                            "start": 41,
+                            "username": "danilodcu"
+                        },
+                        {
+                            "end": 63,
+                            "start": 52,
+                            "username": "ddelgadocu"
+                        }
+                    ]
+                }
+            },
+            "id": "130389439",
+            "location": "Miami",
+            "name": "Danilo Delgado",
+            "public_metrics": {
+                "followers_count": 980,
+                "following_count": 172,
+                "listed_count": 26,
+                "tweet_count": 44110
+            },
+            "username": "danilodelgadocu"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "created_at": "2013-05-04T20:26:43.000Z",
+            "description": "#AmericaFirst #MAGA #Trump2024 #LetsGoBrandon Opinions are my own. Let\u2019s go, Brandon!",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 13,
+                            "start": 0,
+                            "tag": "AmericaFirst"
+                        },
+                        {
+                            "end": 19,
+                            "start": 14,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 30,
+                            "start": 20,
+                            "tag": "Trump2024"
+                        },
+                        {
+                            "end": 45,
+                            "start": 31,
+                            "tag": "LetsGoBrandon"
+                        }
+                    ]
+                }
+            },
+            "id": "1403325440",
+            "name": "\ud83c\uddfa\ud83c\uddf8 State48 Patriot #MakeAmericaFlorida #MAGA",
+            "public_metrics": {
+                "followers_count": 708,
+                "following_count": 567,
+                "listed_count": 20,
+                "tweet_count": 89088
+            },
+            "username": "state48patriot"
+        }
+    ]
+}

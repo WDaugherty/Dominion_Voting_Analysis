@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "created_at": "2014-06-12T19:12:55.000Z",
+            "description": "I hear fiddles & smell smoke. Columnist at @PJMedia_com & Cohost to @RowdyRick73 for \u201cWhatever\u201d Tuesday at 7PM EST on https://t.co/MhrVUdh9ny",
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "end": 55,
+                            "start": 43,
+                            "username": "PJMedia_com"
+                        },
+                        {
+                            "end": 80,
+                            "start": 68,
+                            "username": "RowdyRick73"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "klrnradio.com/chat",
+                            "end": 141,
+                            "expanded_url": "http://klrnradio.com/chat",
+                            "start": 118,
+                            "url": "https://t.co/MhrVUdh9ny"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "pjmedia.com/columnist/stac\u2026",
+                            "end": 23,
+                            "expanded_url": "https://pjmedia.com/columnist/stacey-lennox/",
+                            "start": 0,
+                            "url": "https://t.co/z1AwAwKyUg"
+                        }
+                    ]
+                }
+            },
+            "id": "2604459826",
+            "location": "Georgia",
+            "name": "Stacey - Restorationist",
+            "public_metrics": {
+                "followers_count": 34565,
+                "following_count": 7010,
+                "listed_count": 252,
+                "tweet_count": 268611
+            },
+            "username": "ScotsFyre"
+        }
+    ]
+}

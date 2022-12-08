@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2009-12-13T03:36:39.000Z",
+            "description": "No more censorship. Donald Trump is my President! Old Glory is my flag. #FJB #MAGA #ULTRAMAGA\n\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 76,
+                            "start": 72,
+                            "tag": "FJB"
+                        },
+                        {
+                            "end": 82,
+                            "start": 77,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 93,
+                            "start": 83,
+                            "tag": "ULTRAMAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "96476726",
+            "location": "Oregon, USA",
+            "name": "AmericanAF",
+            "public_metrics": {
+                "followers_count": 21120,
+                "following_count": 20472,
+                "listed_count": 176,
+                "tweet_count": 189776
+            },
+            "username": "Sanddragger"
+        }
+    ]
+}

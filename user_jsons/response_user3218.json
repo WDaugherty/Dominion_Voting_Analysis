@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2011-02-18T22:18:32.000Z",
+            "description": "Wife,Mom of 2.Trump supporter.Scentsy Consultant",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "smithpamela.scentsy.us",
+                            "end": 23,
+                            "expanded_url": "http://smithpamela.scentsy.us",
+                            "start": 0,
+                            "url": "https://t.co/ble8LKRUmr"
+                        }
+                    ]
+                }
+            },
+            "id": "254238979",
+            "location": "Michigan, USA",
+            "name": "Pamela Smith",
+            "public_metrics": {
+                "followers_count": 118,
+                "following_count": 132,
+                "listed_count": 0,
+                "tweet_count": 54465
+            },
+            "username": "pammike2000"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "created_at": "2011-02-13T13:50:13.000Z",
+            "description": "lernen und belehren lassen von den Wissenden und K\u00f6nnern, \r\nbelehren der Ahnungslosen und Unbeholfenen, \r\ndiskutieren um richtig und falsch",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "PausErich.de",
+                            "end": 22,
+                            "expanded_url": "http://www.PausErich.de/",
+                            "start": 0,
+                            "url": "http://t.co/mpG17ishKr"
+                        }
+                    ]
+                }
+            },
+            "id": "251606996",
+            "name": "Erich Paus",
+            "public_metrics": {
+                "followers_count": 1196,
+                "following_count": 2482,
+                "listed_count": 33,
+                "tweet_count": 150626
+            },
+            "username": "Erich_Paus"
+        }
+    ]
+}

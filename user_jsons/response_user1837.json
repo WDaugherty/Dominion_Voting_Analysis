@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "created_at": "2012-02-21T23:22:46.000Z",
+            "description": "Hashtag Lieutenant of the #NewRight. A traveler with a wry and dry sense of humor and style.",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 35,
+                            "start": 26,
+                            "tag": "NewRight"
+                        }
+                    ]
+                }
+            },
+            "id": "499267113",
+            "location": "Nowheresville",
+            "name": "\ud83c\uddfa\ud83c\uddf8Jacob Dillon\ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 1739,
+                "following_count": 1386,
+                "listed_count": 21,
+                "tweet_count": 482186
+            },
+            "username": "ADudeFromNowere"
+        }
+    ]
+}

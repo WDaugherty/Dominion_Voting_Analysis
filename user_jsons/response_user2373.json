@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "created_at": "2009-03-29T17:00:42.000Z",
+            "description": "Producer, 1986: The Act, CEO, 7th Chakra Films, https://t.co/LWlRnBjBVL Proud Boston University Alum",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "1986TheAct.com",
+                            "end": 71,
+                            "expanded_url": "http://1986TheAct.com",
+                            "start": 48,
+                            "url": "https://t.co/LWlRnBjBVL"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "1986theact.com",
+                            "end": 23,
+                            "expanded_url": "http://www.1986theact.com",
+                            "start": 0,
+                            "url": "https://t.co/0IyZrnDNUz"
+                        }
+                    ]
+                }
+            },
+            "id": "27458731",
+            "location": "United States",
+            "name": "Lori Martin Gregory",
+            "public_metrics": {
+                "followers_count": 562,
+                "following_count": 842,
+                "listed_count": 21,
+                "tweet_count": 23858
+            },
+            "username": "MaStreetJournal"
+        }
+    ]
+}

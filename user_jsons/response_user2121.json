@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "created_at": "2011-08-14T20:15:10.000Z",
+            "description": "Official page of Mr.L and Mr.L's Tavern. Social Assassin. Podcaster. Writer. Sage. Harassed & BANNED by YouTube.",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "mrltavern.net",
+                            "end": 23,
+                            "expanded_url": "http://mrltavern.net",
+                            "start": 0,
+                            "url": "https://t.co/IHpRcXbP9m"
+                        }
+                    ]
+                }
+            },
+            "id": "355085595",
+            "location": "New York State",
+            "name": "Mr.L (mrltavern.net)",
+            "public_metrics": {
+                "followers_count": 1031,
+                "following_count": 312,
+                "listed_count": 43,
+                "tweet_count": 35020
+            },
+            "username": "MrLTavern"
+        }
+    ]
+}

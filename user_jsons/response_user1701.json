@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "created_at": "2009-06-10T00:27:09.000Z",
+            "description": "On Truth Social @sethjlevy Mitch McConnell\u2019s tyranny must end!",
+            "entities": {
+                "description": {
+                    "mentions": [
+                        {
+                            "end": 26,
+                            "start": 16,
+                            "username": "sethjlevy"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "politicalspeculation.com",
+                            "end": 23,
+                            "expanded_url": "http://politicalspeculation.com",
+                            "start": 0,
+                            "url": "https://t.co/EZo5UuayS7"
+                        }
+                    ]
+                }
+            },
+            "id": "45989687",
+            "name": "The Reckoning \ud83d\udca5",
+            "public_metrics": {
+                "followers_count": 43075,
+                "following_count": 1434,
+                "listed_count": 200,
+                "tweet_count": 204357
+            },
+            "username": "sethjlevy"
+        }
+    ]
+}

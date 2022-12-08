@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "created_at": "2018-10-26T21:15:18.000Z",
+            "description": "#MAGA \ud83c\uddfa\ud83c\uddf8, Patriot, #Iwalkedaway, support our troops\ud83c\uddfa\ud83c\uddf8",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 31,
+                            "start": 19,
+                            "tag": "Iwalkedaway"
+                        }
+                    ]
+                }
+            },
+            "id": "1055930895125938177",
+            "name": "Concerned Patriot",
+            "public_metrics": {
+                "followers_count": 317,
+                "following_count": 221,
+                "listed_count": 0,
+                "tweet_count": 110531
+            },
+            "username": "patriot7842"
+        }
+    ]
+}

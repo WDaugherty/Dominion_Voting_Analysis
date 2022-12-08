@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "created_at": "2010-07-06T22:18:36.000Z",
+            "description": "Welder. Writer. Catholic. Reactionary Shaman. Pronouns: Optimus Princeps. Find my work at https://t.co/StmkIcJqqE \n\nJob 38:1-7, Isaiah 3:12",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "freeditorial.com",
+                            "end": 113,
+                            "expanded_url": "http://freeditorial.com",
+                            "start": 90,
+                            "url": "https://t.co/StmkIcJqqE"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "strangelyfiction.wordpress.com",
+                            "end": 23,
+                            "expanded_url": "https://strangelyfiction.wordpress.com/",
+                            "start": 0,
+                            "url": "https://t.co/z4C9NHD3G6"
+                        }
+                    ]
+                }
+            },
+            "id": "163626482",
+            "location": "Los Angeles",
+            "name": "Lou Zano",
+            "public_metrics": {
+                "followers_count": 3009,
+                "following_count": 3248,
+                "listed_count": 125,
+                "tweet_count": 461826
+            },
+            "username": "WeldtoWrite"
+        }
+    ]
+}

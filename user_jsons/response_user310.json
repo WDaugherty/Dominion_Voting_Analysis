@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "created_at": "2020-09-25T10:32:47.000Z",
+            "description": "\ud83d\udc96I LOVE WILD DOGS.\ud83d\udc3e\ud83d\udc3e#Trumplican\ud83d\udc96I LOVE TRUMP\ud83d\udc96#KAG WILD DOGS ARE AWESOME.\ud83d\udc3e\ud83d\udc3eI LOVE ANIMALS SO MUCH.\ud83d\udc3e#MAGA #TRUMP #JFK\n\ud83c\uddfa\ud83c\uddf8 USA \ud83c\uddfa\ud83c\uddf8\ud83d\udc19\ud83d\udc19",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 31,
+                            "start": 20,
+                            "tag": "Trumplican"
+                        },
+                        {
+                            "end": 49,
+                            "start": 45,
+                            "tag": "KAG"
+                        },
+                        {
+                            "end": 103,
+                            "start": 98,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 110,
+                            "start": 104,
+                            "tag": "TRUMP"
+                        },
+                        {
+                            "end": 115,
+                            "start": 111,
+                            "tag": "JFK"
+                        }
+                    ]
+                }
+            },
+            "id": "1309440393604485120",
+            "name": "\ud83d\udc3eWILD DOGS\ud83d\udc3e\ud83d\udc3e\ud83c\uddfa\ud83c\uddf8TRUMP\ud83c\uddfa\ud83c\uddf8 \ud83d\udc96JFK JR\ud83d\udc96",
+            "public_metrics": {
+                "followers_count": 352,
+                "following_count": 443,
+                "listed_count": 1,
+                "tweet_count": 29063
+            },
+            "username": "WILDDOGSRULE1"
+        }
+    ]
+}

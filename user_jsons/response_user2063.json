@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "created_at": "2016-08-21T18:12:34.000Z",
+            "description": "Political Blogger \u2022 Constitutional Conservative \u2022 NRA Member \u2022 US Navy Veteran \u2022 Texan \u2022 Proud Supporter Of Trump \u2022 I Love My Country To. The. Bone. \ud83c\uddfa\ud83c\uddf8 #MAGA",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 157,
+                            "start": 152,
+                            "tag": "MAGA"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "votingfemale.wordpress.com",
+                            "end": 23,
+                            "expanded_url": "https://votingfemale.wordpress.com/",
+                            "start": 0,
+                            "url": "https://t.co/25M0CtCEhS"
+                        }
+                    ]
+                }
+            },
+            "id": "767424168669229057",
+            "location": "San Angelo, Texas",
+            "name": "VotingFemale \ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 68420,
+                "following_count": 65215,
+                "listed_count": 18,
+                "tweet_count": 70842
+            },
+            "username": "VotingFemaIe"
+        }
+    ]
+}

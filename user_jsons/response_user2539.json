@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "created_at": "2009-03-22T18:07:39.000Z",
+            "description": "I stand between you and them because of 2A. \"We the People\" = US Government. #FJB #UltraMAGA #DontMessWithTexas",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 81,
+                            "start": 77,
+                            "tag": "FJB"
+                        },
+                        {
+                            "end": 92,
+                            "start": 82,
+                            "tag": "UltraMAGA"
+                        },
+                        {
+                            "end": 111,
+                            "start": 93,
+                            "tag": "DontMessWithTexas"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "gettr.com/user/hfmbears",
+                            "end": 23,
+                            "expanded_url": "https://www.gettr.com/user/hfmbears",
+                            "start": 0,
+                            "url": "https://t.co/I9HEoK2eFq"
+                        }
+                    ]
+                }
+            },
+            "id": "25852045",
+            "location": "Texas, USA",
+            "name": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8hfmbears\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 7926,
+                "following_count": 8091,
+                "listed_count": 9,
+                "tweet_count": 78163
+            },
+            "username": "Hfmbears"
+        }
+    ]
+}

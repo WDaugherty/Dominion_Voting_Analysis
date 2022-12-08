@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "created_at": "2016-03-02T03:06:01.000Z",
+            "description": "conservative, protect constitution & borders, #2A, #NRA member  #voter ID, #MAGA, #build the WALL",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 49,
+                            "start": 46,
+                            "tag": "2A"
+                        },
+                        {
+                            "end": 55,
+                            "start": 51,
+                            "tag": "NRA"
+                        },
+                        {
+                            "end": 70,
+                            "start": 64,
+                            "tag": "voter"
+                        },
+                        {
+                            "end": 80,
+                            "start": 75,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 88,
+                            "start": 82,
+                            "tag": "build"
+                        }
+                    ]
+                }
+            },
+            "id": "704865315335892992",
+            "location": "Southampton, NY",
+            "name": "Sari Clymas",
+            "public_metrics": {
+                "followers_count": 2262,
+                "following_count": 3389,
+                "listed_count": 58,
+                "tweet_count": 117672
+            },
+            "username": "sclymas1"
+        }
+    ]
+}

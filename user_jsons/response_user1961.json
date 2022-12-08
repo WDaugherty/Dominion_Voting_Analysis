@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "created_at": "2009-04-02T21:54:13.000Z",
+            "description": "Congressanon@protonmail.com C-SPAN every day \u2022WSU BA IN BUSINESS ADMIN MIS \u201811 \u2022ONLINE MIT CERT IN NEGOTIATION/INFLUENCE \u201818 #ChooseGreatness #TRUMP24",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 141,
+                            "start": 125,
+                            "tag": "ChooseGreatness"
+                        },
+                        {
+                            "end": 150,
+                            "start": 142,
+                            "tag": "TRUMP24"
+                        }
+                    ]
+                }
+            },
+            "id": "28429310",
+            "location": "WA, USA",
+            "name": "Chris Hanrahan \ud83c\uddfa\ud83c\uddf8",
+            "public_metrics": {
+                "followers_count": 428,
+                "following_count": 1734,
+                "listed_count": 5,
+                "tweet_count": 18377
+            },
+            "username": "wsuchris"
+        }
+    ]
+}

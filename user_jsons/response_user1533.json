@@ -1,0 +1,109 @@
+{
+    "data": [
+        {
+            "created_at": "2020-08-13T02:09:13.000Z",
+            "description": "#MAGA #KAG #KAG2020 #TRUMP #PATRIOT #CONSERVATIVE #FBTS #BuildTheWall #NRA #2A #DEPLORABLE #CAPITALISM #CHRISTIAN #WalkAway #MILITARY #JEFFERSONIAN #LIBERTY",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "MAGA"
+                        },
+                        {
+                            "end": 10,
+                            "start": 6,
+                            "tag": "KAG"
+                        },
+                        {
+                            "end": 19,
+                            "start": 11,
+                            "tag": "KAG2020"
+                        },
+                        {
+                            "end": 26,
+                            "start": 20,
+                            "tag": "TRUMP"
+                        },
+                        {
+                            "end": 35,
+                            "start": 27,
+                            "tag": "PATRIOT"
+                        },
+                        {
+                            "end": 49,
+                            "start": 36,
+                            "tag": "CONSERVATIVE"
+                        },
+                        {
+                            "end": 55,
+                            "start": 50,
+                            "tag": "FBTS"
+                        },
+                        {
+                            "end": 69,
+                            "start": 56,
+                            "tag": "BuildTheWall"
+                        },
+                        {
+                            "end": 74,
+                            "start": 70,
+                            "tag": "NRA"
+                        },
+                        {
+                            "end": 78,
+                            "start": 75,
+                            "tag": "2A"
+                        },
+                        {
+                            "end": 90,
+                            "start": 79,
+                            "tag": "DEPLORABLE"
+                        },
+                        {
+                            "end": 102,
+                            "start": 91,
+                            "tag": "CAPITALISM"
+                        },
+                        {
+                            "end": 113,
+                            "start": 103,
+                            "tag": "CHRISTIAN"
+                        },
+                        {
+                            "end": 123,
+                            "start": 114,
+                            "tag": "WalkAway"
+                        },
+                        {
+                            "end": 133,
+                            "start": 124,
+                            "tag": "MILITARY"
+                        },
+                        {
+                            "end": 147,
+                            "start": 134,
+                            "tag": "JEFFERSONIAN"
+                        },
+                        {
+                            "end": 156,
+                            "start": 148,
+                            "tag": "LIBERTY"
+                        }
+                    ]
+                }
+            },
+            "id": "1293731257768120322",
+            "location": "Tombstone",
+            "name": "DQC HQLLIDAY",
+            "public_metrics": {
+                "followers_count": 29,
+                "following_count": 142,
+                "listed_count": 0,
+                "tweet_count": 786
+            },
+            "username": "DQCHQLLIDAY"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "created_at": "2015-10-18T19:47:39.000Z",
+            "description": "Proud wife, mother, Asian-American                                                                                #Trump2020 #Trump2020Landslide",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 124,
+                            "start": 114,
+                            "tag": "Trump2020"
+                        },
+                        {
+                            "end": 144,
+                            "start": 125,
+                            "tag": "Trump2020Landslide"
+                        }
+                    ]
+                }
+            },
+            "id": "3989262431",
+            "name": "10-15% Tulip",
+            "public_metrics": {
+                "followers_count": 534,
+                "following_count": 814,
+                "listed_count": 25,
+                "tweet_count": 32852
+            },
+            "username": "tulip1688"
+        }
+    ]
+}

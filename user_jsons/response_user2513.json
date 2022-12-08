@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "created_at": "2018-08-30T11:40:59.000Z",
+            "description": "#MAGA!!! I love President Trump and I hope every American enjoys this Presidency because it belongs to all of us. Liberals wake up!!!!!",
+            "entities": {
+                "description": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "MAGA"
+                        }
+                    ]
+                }
+            },
+            "id": "1035130256443826176",
+            "name": "Francixco Squee",
+            "public_metrics": {
+                "followers_count": 255,
+                "following_count": 1208,
+                "listed_count": 2,
+                "tweet_count": 18441
+            },
+            "username": "Francixco9"
+        }
+    ]
+}
