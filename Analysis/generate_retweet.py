@@ -15,6 +15,7 @@ df = df.drop(columns=['edit_history_tweet_ids'])
 
 
 df= df[df.retweeted.notnull()]
+df= df[df.sentiment.notnull()]
 
 df.to_csv('data/twitter_graph_retweet.csv')
 
