@@ -1,5 +1,7 @@
 # ECE 5260 Final
-A repository for the Graph-Based Data Science course at Cornell Tech (Fall 2022)
+## Goals:
+We aim to explore the dynamics across Twitter users regarding the 2016 Dominion Voting Scandal. 
+
 
 
 # Research Links
