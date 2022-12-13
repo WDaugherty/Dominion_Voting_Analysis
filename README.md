@@ -1,8 +1,14 @@
 # ECE 5260 Final
 ## Goals:
-We aim to explore the dynamics across Twitter users regarding the 2016 Dominion Voting Scandal. 
+To analyze the Dominion VOting Scandal in 2016 using Twitter API data and network analyses. 
 
 
+## Methods:
+Given that the data involves users, their tweets and interactions on the Twitter social media platform, we will explore this social network through four main methods:
+- Hegselmann-Krause model of Opinion Dynamics
+- Centrality Measures 
+- Community Exploration 
+- Sentiment Analysis 
 
 # Research Links
 
