@@ -1,6 +1,6 @@
 # ECE 5260 Final
 ## Goals:
-To analyze the Dominion VOting Scandal in 2016 using Twitter API data and network analyses. 
+To analyze the Dominion Voting Scandal in 2016 using Twitter API data and network analyses. 
 
 
 ## Methods:
